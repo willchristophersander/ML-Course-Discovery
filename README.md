@@ -1,6 +1,6 @@
 # AppleAppSander - ML Course Catalog Finder
 
-A machine learning system for discovering course search pages from college catalog pages using genetic algorithms and multi-modal classification.
+A machine learning system for discovering course search pages from college catalog pages using multi-model classification and Playwright-powered navigation.
 
 ##  Project Structure
 
@@ -85,17 +85,11 @@ python discover_pages.py
 - **EnhancedCourseSearchFinder**: Course search page discovery
 - **CollegeTransferSearch**: Course validation via CollegeTransfer.net
 
-### **Multi-Modal Classification**
-- **Text Features**: Course-related keywords, search terms
-- **Structural Features**: Form elements, navigation patterns
-- **URL Features**: Domain patterns, path analysis
-- **Classifier**: Random Forest (robust, interpretable)
-
-### **Genetic Algorithm**
-- **NavigationAgent**: Represents navigation strategies
-- **Fitness Function**: Success rate + time efficiency
-- **Selection**: Tournament selection with elitism
-- **Mutation/Crossover**: Genetic operators for evolution
+### **Multi-Model Classification & Navigation**
+- **SERP Scoring**: RandomForest ranks search results before navigation
+- **Link Prioritisation**: RandomForest classifiers score internal links during crawling
+- **Page Classification**: RandomForest/GradientBoosting models evaluate course search interfaces
+- **Navigation Engine**: Playwright automates traversal with heuristic fallbacks and rate limiting
 
 ##  Training Data
 
@@ -182,8 +176,8 @@ python test_google_finder.py
 ##  Key Features
 
 - **Multi-Modal ML**: Combines text, structure, and URL features
-- **Genetic Evolution**: Evolves navigation strategies
+- **Automated Navigation**: Playwright-based crawling guided by trained classifiers
 - **Parallel Processing**: Optimized for multi-core systems
 - **From-Scratch Training**: No pre-trained models, custom-built
 - **Scalable Architecture**: Easy to extend and modify
-- **Organized Structure**: Clean, maintainable codebase 
+- **Organized Structure**: Clean, maintainable codebase
