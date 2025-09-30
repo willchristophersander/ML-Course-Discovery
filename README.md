@@ -49,12 +49,10 @@ AppleAppSander/
 
 ### **Setup Environment**
 ```bash
-# Create virtual environment
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-
-# Install dependencies
-pip install -r requirements.txt
+# Create virtual environment and install dependencies
+python setup_environment.py
+# Activate virtual environment
+python source .venv/bin/activate
 ```
 
 ### **Run Course Discovery System**
