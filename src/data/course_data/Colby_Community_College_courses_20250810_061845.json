@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Colby Community College",
+    "successful_variation": "Colby Community College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Colby+Community+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "AC 050",
+      "course_title": "Principles of Accounting Lab",
+      "credits": "3.00",
+      "description": "Principles of Accounting Lab",
+      "institution": "Colby Community College"
+    },
+    {
+      "course_id": "AC 101",
+      "course_title": "Accounting Fundamentals",
+      "credits": "3.00",
+      "description": "This course is intended for students who have no previous accounting background and is designed to provide an understanding of the basic principles of accounting. Topics covered include accounting cycles of service and merchandising businesses, accounting for cash and payroll, special journals, worksheets and financial statements. (Offered both semesters)",
+      "institution": "Colby Community College"
+    },
+    {
+      "course_id": "AC 177",
+      "course_title": "Accounting I",
+      "credits": "3.00",
+      "description": "Prerequisite: High school accounting or AC 101 (Accounting Fundamentals). This is a beginning course designed to equip students with a thorough knowledge of the fundamental accounting principles and basic accounting procedures applicable to the sole proprietorship form of business enterprise. The course includes basic principles and assumptions, cash receipts, cash payments, purchases, sales, receivables, payables, accruals and deferrals, fixed assets, intellectual property, depreciation, inventory and payroll. (Offered both semesters)",
+      "institution": "Colby Community College"
+    },
+    {
+      "course_id": "AC 178",
+      "course_title": "Accounting II",
+      "credits": "3.00",
+      "description": "Prerequisite: AC 177 (Accounting I). Accounting II concentrates on partnerships, limited liability companies, corporations and an introduction into management accounting. Further emphasis is placed on accounting for partnerships, limited liability companies, corporations, stocks, earnings per share, dividends, bonds, statement of cash flows, financial statement analysis, responsibility accounting, job order cost systems and process cost systems. (Offered both semesters)",
+      "institution": "Colby Community College"
+    },
+    {
+      "course_id": "AC 208",
+      "course_title": "Computerized Accounting Applications",
+      "credits": "3.00",
+      "description": "Prerequisite: CO 176 (Introduction to Computer Concepts and Applications) and AC 101 (Accounting Fundamentals) or AC 177 (Accounting I). This course provides exposure to specific accounting computer applications including payroll, tax planning, budgeting, cash flow projections, bank reconciliations, financial statements, financial ratios, inventory planning and controls. Students are exposed to skills necessary for problem solving and analysis in a computer applications environment. (Offered fall semester)",
+      "institution": "Colby Community College"
+    },
+    {
+      "course_id": "AC 209",
+      "course_title": "Computer Accounting",
+      "credits": "3.00",
+      "description": "Prerequisite: AC177 (Accounting I) and prior knowledge of keyboarding. This accounting course uses Peachtree Complete Accounting\u00ae software to further prepare accounting majors to utilize microcomputer accounting procedures and technology found in the workplace. Hands-on experience allows students to gather, verify, and analyze financial information; record the data; and generate reports that analyze and summarize the information. In linked-module format, the course covers: company setup, general ledger; sales and accounts receivable; purchasing and accounts payable; cash receipts and cash disbursements; job costing; financial statements; payroll setup and processing; budgets; and business analysis procedures for sole proprietorships, partnerships, and corporations. (Offered fall semester)",
+      "institution": "Colby Community College"
+    },
+    {
+      "course_id": "AC 219",
+      "course_title": "QuickBooks",
+      "credits": "3.00",
+      "description": "This course is designed to prepare students to utilize microcomputer accounting procedures and technology found in the workplace. Using QuickBooks Pro, the course offers hands-on experience to gather, verify, and analyze financial information; record the data; and generate reports that analyze and summarize the information. This course covers the general journal, the general ledger, invoices, financial reports, payroll, inventory and business analysis. (Offered fall semester)",
+      "institution": "Colby Community College"
+    },
+    {
+      "course_id": "AC 247",
+      "course_title": "Income Tax I",
+      "credits": "3.00",
+      "description": "This course is an introduction to Federal Individual Taxation. It will expose students to the Federal Tax Code as well as individual income tax preparation using current income tax software. (Offered spring semester)",
+      "institution": "Colby Community College"
+    },
+    {
+      "course_id": "AC 257",
+      "course_title": "Managerial Accounting",
+      "credits": "3.00",
+      "description": "Prerequisite: AC 177 (Accounting I). Managerial Accounting furnishes students with a sound understanding of the accounting data necessary to manage a business and make sound business decisions. This course introduces the student to managerial accounting and includes product and job costing, job-order costing, process costing, cost behavior, cost-volume-profit relationships, variable costing, activity-based costing, budgeting and variance analysis, relevant costs, and capital budgeting. (Offered spring semester)",
+      "institution": "Colby Community College"
+    },
+    {
+      "course_id": "AC 266",
+      "course_title": "Cost Accounting",
+      "credits": "3.00",
+      "description": "Cost Accounting",
+      "institution": "Colby Community College"
+    }
+  ],
+  "timestamp": "2025-08-10T06:18:45.746085"
+}

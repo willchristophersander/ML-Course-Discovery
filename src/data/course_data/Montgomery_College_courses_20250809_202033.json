@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Montgomery College",
+    "successful_variation": "Montgomery College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Montgomery+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "AB 101",
+      "course_title": "Elementary Arabic I",
+      "credits": "5.00",
+      "description": "A beginning language course focusing on the study of Modern Standard Arabic (MSA) language. Students begin to develop the ability to communicate in Arabic through the consideration of cultural themes, language functions, and authentic situations as they acquire the structures and lexicon to work with written language, conversation, and composition. No prior knowledge of Arabic is required. In-class work is supplemented by 20 hours in the language learning laboratory. Five hours lecture each week. 5 semester hours",
+      "institution": "Montgomery College"
+    },
+    {
+      "course_id": "AB 102",
+      "course_title": "Elementary Arabic II",
+      "credits": "5.00",
+      "description": "A continuation of AB 101. Students continue their study of written language, conversation, and composition in Modern Standard Arabic (MSA) as they consider cultural themes, language functions, and authentic situations. In-class work is supplemented by 20 hours in the language learning laboratory. PREREQUISITE: AB 101 or equivalent proficiency. Five hours lecture each week. 5 semester hours",
+      "institution": "Montgomery College"
+    },
+    {
+      "course_id": "AC 201",
+      "course_title": "Accounting I CE-R",
+      "credits": "4.00",
+      "description": "An introduction to the principles and procedures related to accounting theory and practice from the perspective of users of financial information. Topics include the accounting cycle, the preparation and analysis of financial statements, and accounting information. PREREQUISITES: Two units of high school mathematics or appropriate score on the College's assessment test. Assessment levels: EN 101/101A, MA 100/101/103, and RD 120. Four hours each week. 4 semester hours",
+      "institution": "Montgomery College"
+    },
+    {
+      "course_id": "AC 202",
+      "course_title": "Accounting II CE-R",
+      "credits": "4.00",
+      "description": "The study and analysis of managerial accounting. Topics include cost accumulation, evaluation, and analysis for decision making, as well as coverage of the statement of cash flows and financial statement analysis. PREREQUISITE: AC 201. Four hours each week. 4 semester hours",
+      "institution": "Montgomery College"
+    },
+    {
+      "course_id": "AC 207",
+      "course_title": "Intermediate Accounting I CE-R",
+      "credits": "4.00",
+      "description": "An overview of the financial accounting process with an in-depth study of cash, receivables, inventory costing, property, plant and equipment, intangible assets, and current liabilities. The course also includes an introduction to financial accounting research analysis. PREREQUISITE: AC 202. Four hours each week. 4 semester hours",
+      "institution": "Montgomery College"
+    },
+    {
+      "course_id": "AC 208",
+      "course_title": "Intermediate Accounting II CE-R",
+      "credits": "4.00",
+      "description": "Major topics include accounting for long-term liabilities, stockholders equity, earnings per share, investments, accounting for income taxes, pensions, leases, and statement of cash flows. The course also includes financial accounting research analysis. PREREQUISITE: AC 207. Four hours each week. 4 semester hours",
+      "institution": "Montgomery College"
+    },
+    {
+      "course_id": "AC 209",
+      "course_title": "Advanced Accounting CE-R",
+      "credits": "3.00",
+      "description": "The study and analysis of accounting for business combinations. This course also includes accounting for partnerships, bankruptcy as well as the assembly, design, and interpretation of consolidated statements currently required by the SEC and the AICPAas well as other relevant bodies. Acontinuation of financial accounting research analysis is included. Other possible areas examined are the study of accounting for home and branch operations, foreign currency, and estates and trusts. PREREQUISITE: AC 208 or consent of the department. Three hours lecture each week. 3 semester hours",
+      "institution": "Montgomery College"
+    },
+    {
+      "course_id": "AC 213",
+      "course_title": "Federal Income Taxation I CE-R",
+      "credits": "3.00",
+      "description": "Federal income taxation of individuals, exclusions, gain or loss, dividends, and deductions. Preparation of returns and forms. PREREQUISITE: AC 201 or consent of department. Three hours each week. 3 semester hours",
+      "institution": "Montgomery College"
+    },
+    {
+      "course_id": "AC 214",
+      "course_title": "Federal Income Taxation II CE-R",
+      "credits": "3.00",
+      "description": "Tax treatment of inventories, installment and deferred payment sales, partnerships, estates and trusts, corporations, social security, and gifts. Review of returns, declarations, paying taxes, and obtaining refunds. Student preparation of all major forms and returns. PREREQUISITE: AC 213. Three hours each week. 3 semester hours",
+      "institution": "Montgomery College"
+    },
+    {
+      "course_id": "AC 215",
+      "course_title": "Auditing Theory and Practice CE-R",
+      "credits": "3.00",
+      "description": "The study and analysis of fundamental components of auditing theory and risk, including inherent risk, control risk, and detection risk. Emphasis is placed on internal control procedures. Additionally, the role of regulatory organizations and professional standards such as Generally Accepted Auditing Standards and Procedures are discussed. PRE- or COREQUISITE: AC 207 or consent of the department. Three hours each week. 3 semester hours",
+      "institution": "Montgomery College"
+    }
+  ],
+  "timestamp": "2025-08-09T20:20:33.829779"
+}

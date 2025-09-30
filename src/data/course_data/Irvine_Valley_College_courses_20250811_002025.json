@@ -1,0 +1,32 @@
+{
+  "search_query": {
+    "institution": "Irvine Valley College",
+    "successful_variation": "Irvine Valley College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Irvine+Valley+College&distance=5"
+  },
+  "total_results": 3,
+  "courses": [
+    {
+      "course_id": "ACCT 114",
+      "course_title": "Busines Mat hematics",
+      "credits": "3.00",
+      "description": "3 Units 3 hours lecture Transfers: CSU This course provides an overview of basic mathematical concepts and their application in such areas as discount, interest, depreciation, insurance, taxes, payrolls, and business problems. NR",
+      "institution": "Irvine Valley College"
+    },
+    {
+      "course_id": "ACCT 204",
+      "course_title": "Accounting Applications:Quic kBoo ks",
+      "credits": "3.00",
+      "description": "3.5 Units 3 hours lecture, 1.5 hours lab Prerequisite: ACCT 1A Recommended Preparation: Prior computer and accounting knowledge or experience. This course focuses on converting from a manual to a computerized accounting system. Students learn to assess system requirements and software using current industry-standard accounting applications. They learn how to perform accounting transactions in the areas of general ledger, accounts receivable, and accounts payable; generate reports and financial statements; solve a variety of accounting problems; and develop an audit trail. This course provides background and training in the use of QuickBooks software in the Windows environment. NR",
+      "institution": "Irvine Valley College"
+    },
+    {
+      "course_id": "ACCT 215",
+      "course_title": "General Accounting",
+      "credits": "3.00",
+      "description": "3 Units 3 hours lecture This course presents the basic principles and theory of elementary accounting pertinent to a single proprietorship and partnership. Students learn how to apply accounting theory to the accounting cycles of service and merchandising business enterprises. This course is recommended for students seeking a bookkeeping foundation and for business majors. NR",
+      "institution": "Irvine Valley College"
+    }
+  ],
+  "timestamp": "2025-08-11T00:20:25.942156"
+}

@@ -1,0 +1,73 @@
+{
+  "timestamp": "2025-08-08T17:45:28.907732",
+  "analysis": {
+    "total_universities": 3,
+    "discovery_success_rate": 0.3333333333333333,
+    "avg_discovery_confidence": 0.89,
+    "validation_success_rate": 0.0,
+    "avg_validation_confidence": 0,
+    "course_finding_rate": 0,
+    "avg_discovery_time": 0.7351400057474772,
+    "avg_validation_time": 1.7696109612782795,
+    "successful_discoveries": [
+      {
+        "university": "State University of New York College at New Paltz",
+        "url": "https://classes.berkeley.edu/",
+        "discovery_confidence": 0.89,
+        "validation_confidence": 0.0,
+        "courses_found": "0/0"
+      }
+    ],
+    "failed_discoveries": [
+      {
+        "university": "Southwest Wisconsin Technical College",
+        "error": "No search results found with any strategy"
+      },
+      {
+        "university": "Virginia Military Institute",
+        "error": "No search results found with any strategy"
+      }
+    ]
+  },
+  "detailed_results": [
+    {
+      "university_name": "Southwest Wisconsin Technical College",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No search results found with any strategy",
+      "discovery_time": 8.487701416015625e-05,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "Virginia Military Institute",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No search results found with any strategy",
+      "discovery_time": 0.0006101131439208984,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "State University of New York College at New Paltz",
+      "discovered_url": "https://classes.berkeley.edu/",
+      "discovery_success": true,
+      "discovery_confidence": 0.89,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No test courses found in CollegeTransfer.net",
+      "discovery_time": 2.2047250270843506,
+      "validation_time": 5.308832883834839
+    }
+  ]
+}

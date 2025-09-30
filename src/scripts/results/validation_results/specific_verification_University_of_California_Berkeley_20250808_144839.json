@@ -1,0 +1,15 @@
+{
+  "timestamp": "2025-08-08T14:48:39.370768",
+  "verification_results": {
+    "university_name": "University of California Berkeley",
+    "course_search_url": "https://classes.berkeley.edu/",
+    "verification_success": false,
+    "verification_confidence": 0.0,
+    "collegetransfer_courses_found": 0,
+    "total_collegetransfer_courses": 0,
+    "error_message": "No courses found on CollegeTransfer.net",
+    "verification_time": 10.072728157043457,
+    "collegetransfer_courses": [],
+    "found_courses": []
+  }
+}

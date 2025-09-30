@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Iowa Central Community College",
+    "successful_variation": "Iowa Central Community College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Iowa+Central+Community+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACC 111",
+      "course_title": "Introduction to Accounting",
+      "credits": "3.00",
+      "description": "Students will receive instruction in analyzing and recording various business transactions and in completing the accounting cycle by journalizing, posting, preparing worksheets, making adjusting and closing entries, and preparing financial statements for service and merchandising businesses. Instruction will be provided for accounting for cash by using a petty cash fund, reconciling a bank statement, and utilizing the cash short and over account; calculating and journalizing employees' payroll; and calculating and journalizing employer payroll taxes. No previous accounting instruction is necessary.",
+      "institution": "Iowa Central Community College"
+    },
+    {
+      "course_id": "ACC 142",
+      "course_title": "Financial Accounting",
+      "credits": "3.00",
+      "description": "This course emphasizes fundamental bookkeeping procedures, including the handling of typical business and corporate transactions, adjusting, closing, and reversing entries, the use of controlling accounts, and subsidiary ledgers, and the voucher system, preparation of financial statements, and financial statement analysis. Computers are used.",
+      "institution": "Iowa Central Community College"
+    },
+    {
+      "course_id": "ACC 146",
+      "course_title": "Managerial Accounting",
+      "credits": "3.00",
+      "description": "This course gives attention to partnership and corporation accounting, the use of departmental branch and manufacturing accounts, and an overview of job order and process cost accounting. Computers are used. Prerequisite: ACC-142 Financial Accounting",
+      "institution": "Iowa Central Community College"
+    },
+    {
+      "course_id": "ACC 200",
+      "course_title": "Payroll Applications",
+      "credits": "3.00",
+      "description": "This course examines the recordkeeping and reporting requirements pertaining to payroll of an organization. Emphasis is placed upon federal payroll requirements. Prerequisites: take ACC 111 or ACC 142.",
+      "institution": "Iowa Central Community College"
+    },
+    {
+      "course_id": "ACC 211",
+      "course_title": "Intermediate Accounting I",
+      "credits": "3.00",
+      "description": "This course includes an in-depth study of the worksheet, balance sheet, income statement, other supplementary statements and corporation procedures. Prerequisite: ACC-146 Managerial Accounting",
+      "institution": "Iowa Central Community College"
+    },
+    {
+      "course_id": "ACC 221",
+      "course_title": "Cost Accounting",
+      "credits": "3.00",
+      "description": "This course provides a study of the methods of cost accumulation for inventory valuation and income determination for manufacturing concerns including utilization and evaluation of cost data for planning and controlling operations. Knowledge of Microsoft Excel will benefit the student. Prerequisite: ACC-146 Managerial Accounting",
+      "institution": "Iowa Central Community College"
+    },
+    {
+      "course_id": "ACC 266",
+      "course_title": "Tax Accounting",
+      "credits": "3.00",
+      "description": "This course provides an introduction to the federal tax structure, the federal revenue system, business and non-business income and deductions, tax credits, capital gains and losses and tax return preparation utilizing tax software. Prerequisite: ACC-142 Financial Accounting",
+      "institution": "Iowa Central Community College"
+    },
+    {
+      "course_id": "ACC 311",
+      "course_title": "Computer Accounting",
+      "credits": "3.00",
+      "description": "The course is designed to provide the student experience in handling automated accounting in a number of areas. These include General Ledger, Accounts Receivable, Accounts Payable, Payroll, Depreciation, Inventory and Accounting Statement Analysis. Simulation of business and its activities are processed through the entire accounting cycle culminating in the various accounting reports. The applications will be done on a computer. Prerequisites: ACC-111 Introduction to Accounting or ACC-142 Financial Accounting",
+      "institution": "Iowa Central Community College"
+    },
+    {
+      "course_id": "ACC 330",
+      "course_title": "Computer Accounting-Peachtree",
+      "credits": "1.50",
+      "description": "This course is designed to provide the student experience in handling automated accounting in a number of areas. These include General Ledger, Accounts Receivable, Accounts Payable, Payroll, Depreciation, Inventory and Accounting Statement Analysis. Simulation of business and its activities are processed through the entire accounting cycle culminating in the various accounting reports. The applications will be done on a computer utilizing the software program Peachtree.",
+      "institution": "Iowa Central Community College"
+    },
+    {
+      "course_id": "ACC 331",
+      "course_title": "Computer Accounting-Quickbooks",
+      "credits": "1.50",
+      "description": "This course is designed to provide the student experience in handling automated accounting in a number of areas. These include General Ledger, Accounts Receivable, Accounts Payable, Payroll, Depreciation, Inventory and Accounting Statement Analysis. Simulation of business and its activities are processed through the entire accounting cycle culminating in the various accounting reports. The applications will be done on a computer utilizing the software program QuickBooks.",
+      "institution": "Iowa Central Community College"
+    }
+  ],
+  "timestamp": "2025-08-10T22:34:33.388651"
+}

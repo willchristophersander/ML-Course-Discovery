@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Neumann University",
+    "successful_variation": "Neumann University",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Neumann+University&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACT 103",
+      "course_title": "Prin.of Accounting I",
+      "credits": "3.00",
+      "description": "This course introduces financial accounting as a system of recording, classifying, summarizing, and interpreting economic transactions for service and merchandising concerns. Accounts and financial statements for the proprietorship, partnership, and corporation are examined. Students enrolled in ENG 094 and/or MATH 092 may not register for this course.",
+      "institution": "Neumann University"
+    },
+    {
+      "course_id": "ACT 104",
+      "course_title": "Prin.of Accounting II",
+      "credits": "3.00",
+      "description": "As a continuation of training in the fundamental principles of accounting, this course emphasizes the preparation of financial statements, the methods of accumulating data for these statements, and how the particular accounting methods which are used influence business decisions. Areas of study include depreciation methods, inventory valuation, alternative methods of obtaining capital and cash flow analyses, and the fundamental measurement and control of costs within the corporate entity. Prerequisite: ACT 103 (with a minimum grade of C). Prerequisite: ACT-104",
+      "institution": "Neumann University"
+    },
+    {
+      "course_id": "ACT 126",
+      "course_title": "Special Topics: Accounting",
+      "credits": "3.00",
+      "description": "Neumann University periodically offers Special Topics courses in Accounting [ACT] that reflect specific topics of study which are not part of the standard University curriculum. Special Topics courses in Accounting that are numbered at the 126/226 level are generally open to all students. Courses at the 326 level are specifically designed for students at either the junior or senior level, while courses at the 426 level are only open to students with senior standing. For any given semester, course title(s) and content area(s), as well as any specified prerequisites, are published during the preceding semester. Permission of the instructor may also be required before a student can register for any Special Topics course.",
+      "institution": "Neumann University"
+    },
+    {
+      "course_id": "ACT 210",
+      "course_title": "Intermediate Accounting I",
+      "credits": "3.00",
+      "description": "This course offers an in-depth examination of accounting theory as it relates to income measurement and asset valuation. Special emphasis is placed upon measurement, asset valuation, and promulgating generally accepted accounting principles. The impact of those principles on external reporting requirements is also studied. Prerequisite: ACT 104 (with a minimum grade of C). Prerequisite: ACT-210",
+      "institution": "Neumann University"
+    },
+    {
+      "course_id": "ACT 211",
+      "course_title": "Intermediate Accounting II",
+      "credits": "3.00",
+      "description": "This continuation of Intermediate Accounting I focuses on the concepts related to liabilities, stockholders' equity, investments, and further consideration of income determination and financial reporting, in accordance with generally accepted accounting principles. Prerequisite: ACT 210 (with a minimum grade of C). Prerequisite: ACT-211",
+      "institution": "Neumann University"
+    },
+    {
+      "course_id": "ACT 226",
+      "course_title": "Special Topics: Accounting",
+      "credits": "3.00",
+      "description": "Neumann University periodically offers Special Topics courses in Accounting [ACT] that reflect specific topics of study which are not part of the standard University curriculum. Special Topics courses in Accounting that are numbered at the 126/226 level are generally open to all students. Courses at the 326 level are specifically designed for students at either the junior or senior level, while courses at the 426 level are only open to students with senior standing. For any given semester, course title(s) and content area(s), as well as any specified prerequisites, are published during the preceding semester. Permission of the instructor may also be required before a student can register for any Special Topics course.",
+      "institution": "Neumann University"
+    },
+    {
+      "course_id": "ACT 315",
+      "course_title": "Advanced Accounting",
+      "credits": "3.00",
+      "description": "Business combinations and consolidations, fund accounting, accounting for partnerships, and other specialized areas of accounting are studied in this course. Prerequisite: ACT 211 (with a minimum grade of C). Prerequisite: ACT-315",
+      "institution": "Neumann University"
+    },
+    {
+      "course_id": "ACT 320",
+      "course_title": "Cost Accounting",
+      "credits": "3.00",
+      "description": "Topics include: (1) the study of cost accounting principles, systems, and models; (2) the development and application of job order costs, process costs, and cost burdens; (3) the comparison of projected and actual cost data and analysis of variances; and (4) the understanding of cost data for managerial planning and control of operations. Prerequisite: ACT 104 (with a minimum grade of C). Prerequisite: ACT-320",
+      "institution": "Neumann University"
+    },
+    {
+      "course_id": "ACT 321",
+      "course_title": "Intern.Acct/Fin. Stmt.Analyses",
+      "credits": "3.00",
+      "description": "This course focuses on policy issues of foreign currency transactions; global inflation; transnational reporting and disclosure; international accounting (and auditing) standards; and financial statement analysis of multinational and foreign firms.  Additional topics include the harmonization of  accounting standards, exchange risk analysis, comparative practices, accounting for inflation, hedging, and managerial accounting appropriate for international operations. Prerequisite: ACT-321",
+      "institution": "Neumann University"
+    },
+    {
+      "course_id": "ACT 326",
+      "course_title": "Special Topics: Accounting",
+      "credits": "3.00",
+      "description": "Neumann University periodically offers Special Topics courses in Accounting [ACT] that reflect specific topics of study which are not part of the standard University curriculum. Special Topics courses in Accounting that are numbered at the 126/226 level are generally open to all students. Courses at the 326 level are specifically designed for students at either the junior or senior level, while courses at the 426 level are only open to students with senior standing. For any given semester, course title(s) and content area(s), as well as any specified prerequisites, are published during the preceding semester. Permission of the instructor may also be required before a student can register for any Special Topics course. Prerequisite: ACT-326",
+      "institution": "Neumann University"
+    }
+  ],
+  "timestamp": "2025-08-10T06:14:33.943294"
+}

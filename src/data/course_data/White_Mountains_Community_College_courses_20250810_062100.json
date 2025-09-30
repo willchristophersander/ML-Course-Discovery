@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "White Mountains Community College",
+    "successful_variation": "White Mountains Community College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=White+Mountains+Community+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACC 111",
+      "course_title": "Accounting I",
+      "credits": "3.00",
+      "description": "(3 Credits) Students will learn basic double-entry accounting and produce a worksheet, income statement and balance sheet. A computer tutorial will enhance the students' mastery of the subject.",
+      "institution": "White Mountains Community College"
+    },
+    {
+      "course_id": "ACC 114",
+      "course_title": "Financial Accounting",
+      "credits": "3.00",
+      "description": "(3 Credits) This course builds on the basics of Accounting I with an expanded emphasis on accounting for corporations. Subjects covered include, but are not limited to, inventories, long-term assets and liabilities, reporting and analyzing equity, reporting and analyzing cash flows, and analyzing financial statements. (Prerequisite: BACC111)",
+      "institution": "White Mountains Community College"
+    },
+    {
+      "course_id": "ACC 213",
+      "course_title": "Taxation",
+      "credits": "3.00",
+      "description": "(3 Credits) A comprehensive explanation of individual tax laws and principles. Gross income, adjustments to income, itemized deductions and credits will be examined.",
+      "institution": "White Mountains Community College"
+    },
+    {
+      "course_id": "ACC 214",
+      "course_title": "Managerial Finance and Accounting",
+      "credits": "3.00",
+      "description": "(3 Credits) This course provides an introduction to accounting and finance in the context of business and business decisions. The student will explore the role of accounting information and finance in the decision-making process, and learn how to use accounting information in a variety of management decision-making situations. (Prerequisites: BACC111; BCOM120)",
+      "institution": "White Mountains Community College"
+    },
+    {
+      "course_id": "ACC 220",
+      "course_title": "Accounting Practicum",
+      "credits": "2.00",
+      "description": "(2 Credits) Students will be responsible for obtaining a position for a period of 45 hours of work involving accounting, data entry work, taxation, and recordkeeping or report generation. Students will be reporting back to class their experiences and work on improving resumes, interview techniques, and their ability to obtain an accounting position.",
+      "institution": "White Mountains Community College"
+    },
+    {
+      "course_id": "ACC 222",
+      "course_title": "Intermediate Accounting",
+      "credits": "3.00",
+      "description": "(3 Credits) Intermediate Accounting is built on a \"learning system\" designed to prepare students for the business world by emphasizing decision making. This course acknowledges the diversity of both student learning styles and career goals. Students will obtain a very strong background in the balance sheet, income statement, cash and receivables, contingent liabilities and accounting for income taxes. (Prerequisite: BACC114)",
+      "institution": "White Mountains Community College"
+    },
+    {
+      "course_id": "ANT 101",
+      "course_title": "Cultural Anthropology:Faces of Culture",
+      "credits": "3.00",
+      "description": "(3 Credits) An introduction to cultural anthropology, emphasis will be on the study of structure and process of culture. Major features include subsistence patterns, organizing devices, patterns for transmission of culture, economics, socio-political organization and culture change. Methods of anthropological research and theoretical orientations will also be examined.",
+      "institution": "White Mountains Community College"
+    },
+    {
+      "course_id": "ART 128",
+      "course_title": "A World of Art:Works in Progress",
+      "credits": "3.00",
+      "description": "(3 Credits) This course is designed to give students deeper insight into the personality of the artist, the artist's working process, as well as the works of art themselves. The course will follow various contemporary artists through the process of creating one or more works of art from start to finish, offering insight into the creative process. Effective communication, problem solving, and critical thinking will be emphasized as projects are seen through completion.",
+      "institution": "White Mountains Community College"
+    },
+    {
+      "course_id": "AUT 101",
+      "course_title": "Introduction to Automotive Service",
+      "credits": "3.00",
+      "description": "(3 Credits) This course provides a comprehensive study of the basics in automotive technology including safety, precision measuring, and the proper use of tools and equipment. Students will also learn how to use computerized information systems and lab procedures and policies. (Corequisites: PRE013, 015 or demonstrated competencies on college placement exam)",
+      "institution": "White Mountains Community College"
+    },
+    {
+      "course_id": "AUT 112",
+      "course_title": "Automotive Electricity I",
+      "credits": "4.00",
+      "description": "(4 Credits) A study of electricity as it is applied to today's automobile. This course will include the theory of electricity, the study of magnetism and electrical circuits, and the theory and service of batteries, starters and charging systems. (Corequisite: AUT101 or POI)",
+      "institution": "White Mountains Community College"
+    }
+  ],
+  "timestamp": "2025-08-10T06:21:00.973910"
+}

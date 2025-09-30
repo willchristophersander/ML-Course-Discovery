@@ -1,0 +1,74 @@
+{
+  "search_query": {
+    "institution": "Bishop State Community College",
+    "successful_variation": "Bishop State Community College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Bishop+State+Community+College&distance=5"
+  },
+  "total_results": 9,
+  "courses": [
+    {
+      "course_id": "ABR 111",
+      "course_title": "Non- Structural Repair",
+      "credits": "3.00",
+      "description": "3 credits, 6 hours (1-2-3) Students are introduced to basic principles of non-structural repairs. Topics include shop safety, identification and use of hand/power tools, panel preparation, sheetmetal repairs, and materials. CORE",
+      "institution": "Bishop State Community College"
+    },
+    {
+      "course_id": "ABR 114",
+      "course_title": "Non- Structural Panel Replacement",
+      "credits": "3.00",
+      "description": "3 credits, 6 hours (1-2-3) Students are introduced to basic principles of non-structural panel replacement. Topics include replacement and alignment of bolt-on panels, full and partial panel replacement procedures, and attachment methods. CORE",
+      "institution": "Bishop State Community College"
+    },
+    {
+      "course_id": "ABR 122",
+      "course_title": "Surface Preparation",
+      "credits": "3.00",
+      "description": "3 credits, 6 hours (1-2-3) This course introduces students to methods of surface preparation for vehicular refinishing. Topics include sanding techniques, metal treatment, selection of undercoats, and proper masking procedures. CORE",
+      "institution": "Bishop State Community College"
+    },
+    {
+      "course_id": "ABR 123",
+      "course_title": "Paint Application & Equipment",
+      "credits": "3.00",
+      "description": "3 credits, 6 hours (1-2-3) This course introduces students to methods of paint application and equipment used for vehicular refinishing. Topics include spray gun and related equipment use, paint mixing, matching, and applying the final topcoat. CORE",
+      "institution": "Bishop State Community College"
+    },
+    {
+      "course_id": "ABR 151",
+      "course_title": "Safety &environmental Practices",
+      "credits": "3.00",
+      "description": "3 credits, 6 hours (1-2-3) This course is designed to instruct the student in safe work practices. Topics include OSHA requirements, right-to-know laws, EPA regulations, and state and local laws. CORE",
+      "institution": "Bishop State Community College"
+    },
+    {
+      "course_id": "ABR 154",
+      "course_title": "Automotive Glass & Trim",
+      "credits": "3.00",
+      "description": "3 credits, 6 hours (1-2-3) This course is a study of automotive glass and trim. Emphasis is placed on removal and replacement of structural glass and nonstructural glass and auto trim. Upon completion, students should be able to remove and replace automotive trim and glass. CORE",
+      "institution": "Bishop State Community College"
+    },
+    {
+      "course_id": "ABR 156",
+      "course_title": "Automotive Cutting & Welding",
+      "credits": "3.00",
+      "description": "3 credits, 6 hours (1-2-3) Students are introduced to the various automotive cutting and welding processes. Emphasis is placed on safety, plasma arc, oxyacetylene cutting, resistance type spot welding, and Metal Inert Gas (MIG) welding. Upon completion, students should be able to safely perform automotive cutting and welding procedures. CORE",
+      "institution": "Bishop State Community College"
+    },
+    {
+      "course_id": "ABR 157",
+      "course_title": "Automotive Plastic Repairs",
+      "credits": "3.00",
+      "description": "3 credits, 6 hours (1-2-3) This course provides instruction in automotive plastic repairs. Topics include plastic welding (both hot and chemical), use of flexible repair fillers, primers and paint additives, identification of types of plastics, and determining the correct repair procedures for each. Upon completion, students should be able to identify and repair correctly the different types of automotive plastics.",
+      "institution": "Bishop State Community College"
+    },
+    {
+      "course_id": "ABR 213",
+      "course_title": "Automotive Structural Analysis",
+      "credits": "3.00",
+      "description": "3 credits, 6 hours (1-2-3) Students learn methods of determining structural misalignment. Topics include methods of inspection, types of measuring equipment, data sheets, and identifying types of structural damages. CORE",
+      "institution": "Bishop State Community College"
+    }
+  ],
+  "timestamp": "2025-08-10T22:05:16.696093"
+}

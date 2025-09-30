@@ -1,0 +1,74 @@
+{
+  "search_query": {
+    "institution": "Cankdeska Cikana Community College",
+    "successful_variation": "Cankdeska Cikana Community College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Cankdeska+Cikana+Community+College&distance=5"
+  },
+  "total_results": 9,
+  "courses": [
+    {
+      "course_id": "ACCT 201",
+      "course_title": "Elements of Accounting II",
+      "credits": "3.00",
+      "description": "- Continuation of Accounting 200. Topics included are partnerships and corporations with special emphasis on managerial accounting. Prerequisite: ACCT 200.",
+      "institution": "Cankdeska Cikana Community College"
+    },
+    {
+      "course_id": "ACCT 207",
+      "course_title": "Managerial Accounting",
+      "credits": "3.00",
+      "description": "- Course is designed for non-accounting majors. Coverage includes the application of accounting concepts and techniques to managerial problems of planning, control land decision-making. Prerequisite: ACCT 200.",
+      "institution": "Cankdeska Cikana Community College"
+    },
+    {
+      "course_id": "ACCT 212",
+      "course_title": "Payroll Accounting",
+      "credits": "2.00",
+      "description": "- Introduction to the study of payroll, property, and sales tax. Prerequisite: ACCT 200.",
+      "institution": "Cankdeska Cikana Community College"
+    },
+    {
+      "course_id": "ACCT 231",
+      "course_title": "Income Tax Procedures",
+      "credits": "2.00",
+      "description": "- Federal income tax relating to individuals and partnerships. Prerequisite: ACCT 200.",
+      "institution": "Cankdeska Cikana Community College"
+    },
+    {
+      "course_id": "AGEC 141",
+      "course_title": "Introduction to Agribusiness Management",
+      "credits": "3.00",
+      "description": "- This is an introductory course dealing with the economic importance of the agribusiness community and the potential for employment with the agribusiness industry.",
+      "institution": "Cankdeska Cikana Community College"
+    },
+    {
+      "course_id": "AGRI 299",
+      "course_title": "Special Topics in Agriculture",
+      "credits": "3.00",
+      "description": "- Variable instructional topics in the field of agriculture. Repeatable with varied content.",
+      "institution": "Cankdeska Cikana Community College"
+    },
+    {
+      "course_id": "ARSC 114",
+      "course_title": "Introduction to Animal Science",
+      "credits": "3.00",
+      "description": "General principles of the livestock industry and their relationship to mankind.",
+      "institution": "Cankdeska Cikana Community College"
+    },
+    {
+      "course_id": "ARSC 123",
+      "course_title": "Feeds And Feeding",
+      "credits": "3.00",
+      "description": "Principles of feeding livestock including the functions of the digestive system, nutrient requirements, nutrient characteristics, and sources utilized in the formulation of balanced rations.",
+      "institution": "Cankdeska Cikana Community College"
+    },
+    {
+      "course_id": "ARSC 236",
+      "course_title": "Introduction to Range Management",
+      "credits": "3.00",
+      "description": "- (3 credits) Principles of range management which include plant identifications, range evaluation, and range improvement.",
+      "institution": "Cankdeska Cikana Community College"
+    }
+  ],
+  "timestamp": "2025-08-10T01:51:22.443363"
+}

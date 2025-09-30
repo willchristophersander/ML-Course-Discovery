@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Brookdale Community College",
+    "successful_variation": "Brookdale Community College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Brookdale+Community+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACCT 101",
+      "course_title": "Principles of Accounting I;3 credits",
+      "credits": "3.00",
+      "description": "An introduction to basic concepts and principles of recording and posting financial information, preparation of trial balance, worksheet and financial statements. Current assets and liabilities are emphasized. (Prerequisites: MATH 012, MATH 015 or passing score in computation on Basic Skills Test; and READ 092, READ 095 or passing score in reading on Basic Skills Test)",
+      "institution": "Brookdale Community College"
+    },
+    {
+      "course_id": "ACCT 102",
+      "course_title": "Principles of Accounting II;3 credits",
+      "credits": "3.00",
+      "description": "This course is a continuation of ACCT 101. It introduces partnership and corporate accounting. Long-term assets and liabilities, cash flow and analysis of financial statements are emphasized. (Prerequisite: ACCT 101)",
+      "institution": "Brookdale Community College"
+    },
+    {
+      "course_id": "ACCT 105",
+      "course_title": "Introduction to QuickBooks;3 credits",
+      "credits": "3.00",
+      "description": "This course is designed to introduce students to a widely used software program used to record, track and calculate finances that simplifies financial tasks. By using QuickBooks the students will analyze and record a business entity's transactions in a computerized environment rather than using a manual system. (Prerequisite: Computer experience desirable; ACCT 101 is recommended, but not required)",
+      "institution": "Brookdale Community College"
+    },
+    {
+      "course_id": "ACCT 112",
+      "course_title": "Managerial Accounting;3 credits",
+      "credits": "3.00",
+      "description": "A study of financial information as presented for internal management purposes, with a focus on cost determination, cost control, performance evaluation and techniques for analyzing information for planning and decision making. NOTE: This course is offered in the Spring term only. (Prerequisite: ACCT 101)",
+      "institution": "Brookdale Community College"
+    },
+    {
+      "course_id": "ACCT 115",
+      "course_title": "Federal Income Tax;3 credits",
+      "credits": "3.00",
+      "description": "A study of income tax laws as they apply to individuals. Emphasis is placed on tax laws as they apply to income and deductions and the ability to prepare an accurate Federal Income Tax Return. NOTE: This course is offered in the Fall term only.",
+      "institution": "Brookdale Community College"
+    },
+    {
+      "course_id": "ACCT 203",
+      "course_title": "Intermediate Accounting I;3 credits",
+      "credits": "3.00",
+      "description": "The student will be able to apply generally accepted accounting principles to the preparation of general purpose financial statements with particular emphasis on current assets and current liabilities. The student will become familiar with the opinions of the Accounting Principles Board of the American Institute of Certified Public Accountants and the statements of the Financial Accounting Standards Board. (Prerequisite: A grade of \"C\" or higher inACCT 102) NOTE: This course is offered only in the Fall term in the evening.",
+      "institution": "Brookdale Community College"
+    },
+    {
+      "course_id": "ACCT 204",
+      "course_title": "Intermediate Accounting II;3 credits",
+      "credits": "3.00",
+      "description": "The student will be able to apply generally accepted accounting principles to the preparation of general purpose financial statements with particular emphasis on non-current assets, non-current liabilities and shareholders equity. The student will become familiar with the opinions of the Accounting Principles Board of the American Institute of Certified Public Accountants and the statements of the Financial Accounting Standards Board. NOTE: This course is offered in the Spring term in the evening only. ( Prerequisite: A grade of \"C\" or higherin ACCT 203)",
+      "institution": "Brookdale Community College"
+    },
+    {
+      "course_id": "ACCT 295",
+      "course_title": "Special Project- Accounting;1 to",
+      "credits": "3.00",
+      "description": "Students will work independently on an accounting project not suitable to one of the other Accounting courses. A written report will be submitted, with the extent and quality of the project and report to be previously agreed upon by the instructor and student. (Prerequisites: 15 credits of Accounting course work and instructor approval)",
+      "institution": "Brookdale Community College"
+    },
+    {
+      "course_id": "ACCT 299",
+      "course_title": "Accounting Internship;3 credits",
+      "credits": "3.00",
+      "description": "Students will work in a job related to their program, participate in programs on campus and complete an internship workbook based on work experience gained. (Prerequisites: 30 credits to include ACCT 101 and ACCT 102 and permission of instructor and Career Services Representative)",
+      "institution": "Brookdale Community College"
+    },
+    {
+      "course_id": "ADEC 110",
+      "course_title": "Introduction to the Dental Profession;4 credits",
+      "credits": "4.00",
+      "description": "This course is designed to introduce the student to the profession of dentistry and allied dental education. Current topics relevant to the practice of dentistry and concepts of general and speciality practice are addressed. (Prerequisite: Acceptance into the Dental Assisting or Dental Hygiene program)",
+      "institution": "Brookdale Community College"
+    }
+  ],
+  "timestamp": "2025-08-10T17:38:20.287342"
+}

@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Volunteer State Community College",
+    "successful_variation": "Volunteer State Community College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Volunteer+State+Community+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACT 115",
+      "course_title": "Payroll and Small Business Accounting",
+      "credits": "3.00",
+      "description": "This course teaches preparation of payroll and small business accounting records. Topics include payroll tax law, payroll systems, sales tax, state and local business taxes, and analysis of small business accounting records. The use of the microcomputer in preparation and analysis of payroll records is included. PREREQUISITE: ACT 201",
+      "institution": "Volunteer State Community College"
+    },
+    {
+      "course_id": "ACT 205",
+      "course_title": "Income Tax",
+      "credits": "3.00",
+      "description": "This course provides the student with a comprehensive explanation of the federal tax structure and training in the application of tax principles as they apply to individual tax returns and supportive schedules. It also furthers the student's understanding and knowledge of the federal tax structure as it applies to sole proprietorship and partnership.",
+      "institution": "Volunteer State Community College"
+    },
+    {
+      "course_id": "ACT 210",
+      "course_title": "Microcomputer Accounting",
+      "credits": "3.00",
+      "description": "This course demonstrates basic accounting procedures using computerized accounting software. Students create company files; maintain journals and ledgers; manage accounts receivable, accounts payable, inventory, and payroll systems. PREREQUISITE: ACT 201 with a grade of C or better; CIS 100.",
+      "institution": "Volunteer State Community College"
+    },
+    {
+      "course_id": "ACT 211",
+      "course_title": "Accounting for Government and Notfor-Profit Organizations",
+      "credits": "3.00",
+      "description": "This course covers the accounting practices and procedures for government organizations and not-for-profit entities in accordance with GASB pronouncements. PRE REQUISITE: ACT 201.",
+      "institution": "Volunteer State Community College"
+    },
+    {
+      "course_id": "ACT 215",
+      "course_title": "Managerial Cost Accounting",
+      "credits": "3.00",
+      "description": "This course provides an analysis of cost data for external reporting and internal planning and control. Topics include product costing, budgeting, performance evaluation, and decision making. PREREQUISITE: ACT 202 with a C or better.",
+      "institution": "Volunteer State Community College"
+    },
+    {
+      "course_id": "ACT 221",
+      "course_title": "Intermediate Accounting I",
+      "credits": "3.00",
+      "description": "This course covers accounting theory, preparation of basic financial statements, future and present value concepts, receivables, inventory valuation, acquisition, disposal and depreciation of plant assets, intangible assets. PREREQUISITE: ACT 202 with a C or better.",
+      "institution": "Volunteer State Community College"
+    },
+    {
+      "course_id": "ACT 276T",
+      "course_title": "Selected Topics in Accounting",
+      "credits": "4.00",
+      "description": "Specialized accounting topics such as Intermediate Accounting II or Corporate Taxation are studied in depth. Fifteen classroom contact hours with faculty required per credit hour. May be repeated for credit with a maximum of four hours to apply toward graduation. PREREQUISITE: Permission of the program coordinator.",
+      "institution": "Volunteer State Community College"
+    },
+    {
+      "course_id": "AGR 130",
+      "course_title": "Animal Science",
+      "credits": "3.00",
+      "description": "A basic study of the anatomy and physiology of animals in agriculture. Animal genetics, feeding, marketing, sanitation and products will be included. PREREQUISITE: Acceptable placement scores or DSPM 0800, DSPR 0800, and DSPW 0800. Three lecture hours per week. (Same as RODP AGR 130)",
+      "institution": "Volunteer State Community College"
+    },
+    {
+      "course_id": "AGR 140",
+      "course_title": "Plant Science",
+      "credits": "3.00",
+      "description": "Plant structure, physiology, heredity and environment in relation to growth, development, adaptation and management of crops. PREREQUISITE: Acceptable placement scores or DSPM 0800, DSPR 0800, and DSPW 0800 Three lecture hours per week.",
+      "institution": "Volunteer State Community College"
+    },
+    {
+      "course_id": "AHC 100",
+      "course_title": "Introduction to Healthcare Systems",
+      "credits": "3.00",
+      "description": "This course is designed to introduce a core of healthcare employment competencies and personal responsibilities in being a healthcare professional. Interpersonal skills, communication, recognition and response to emergency situations, infection control, legal and ethical issues, healthcare career awareness, and patient assessment are just a few topics to be covered. Three lecture hours per week.",
+      "institution": "Volunteer State Community College"
+    }
+  ],
+  "timestamp": "2025-08-09T22:58:51.066943"
+}

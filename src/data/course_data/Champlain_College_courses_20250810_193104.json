@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Champlain College",
+    "successful_variation": "Champlain College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Champlain+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACC 110",
+      "course_title": "Budgeting and Finance",
+      "credits": "3.00",
+      "description": "Credits: 3 Prerequisite(s): Must have a program of Marketing with a specialization of Advertising in order to enroll in this course. Currently offered: Spring 2008: Day/Evening (1) Description: Learn the essential budgeting and finance skills needed to make wise business decisions. Hands-on exploration,learning and practice will reinforce how to use financial information as a crucial component of business planning and daily operations. Students will be exposed to a wide variety of business scenarios and cases and develop hands-on solutions, making extensive use of spreadsheetsoftware to develop costing models, budgets, proforma financial statements, cash flow analysis, revenue projections, and operationsthat they will encounter in their careers. This course is only open to Marketing majors with a specialization in Advertising.",
+      "institution": "Champlain College"
+    },
+    {
+      "course_id": "ACC 130",
+      "course_title": "Financial Accounting",
+      "credits": "3.00",
+      "description": "Credits: 3 Prerequisite(s): None Currently offered: Spring 2008: Day/Evening (3), Online (2) Summer 2008: Day/Evening (1), Online (2) Fall 2008: Day/Evening (6), Online (2) Description: Accounting is the language of business. This course introduces the student to accounting from the point of view of the user of financial reports and is appropriate for personal as well as business applications. Students explore the impact of transactions on the financial position and profitability of a business, and analyze financial reports of real-world corporations.",
+      "institution": "Champlain College"
+    },
+    {
+      "course_id": "ACC 140",
+      "course_title": "Managerial Accounting",
+      "credits": "3.00",
+      "description": "Credits: 3 Prerequisite(s): ACC-130 Currently offered: Spring 2008: Day/Evening (4), Online (1) Summer 2008: Online (1) Fall 2008: Day/Evening (3), Online (1) Description: Managerial accounting focuses on the needs of management for accounting information to make informed decisions in the internal operations of a company. Topics include decision-making, accounting for planning and control, cost-volume-profit relationships, and budgeting. A computerized general ledger simulation project is required for accounting majors and available as an enrichment option for other students.",
+      "institution": "Champlain College"
+    },
+    {
+      "course_id": "ACC 231",
+      "course_title": "Intermediate Accounting II",
+      "credits": "4.00",
+      "description": "Credits: 4 Prerequisite(s): ACC-230 Currently offered: Spring 2008: Day/Evening (2), Online (1) Description: The study of generally accepted accounting concepts and principles continues. Topics include equity financing; property, plant and equipment; intangible assets; investments in debt and equity securities; employee compensation; special revenue recognition methods, lease accounting, statement of cash flow, and financial statement analysis. (Spring only)",
+      "institution": "Champlain College"
+    },
+    {
+      "course_id": "ACC 280",
+      "course_title": "Forensic Accounting",
+      "credits": "3.00",
+      "description": "Credits: 3 Prerequisite(s): ACC-130 Currently offered: Spring 2008: Online (1) Fall 2008: Day/Evening (1) Description: This course serves as an introduction to forensic (fraud) accounting. Topics include fraud examination techniques, interview techniques, rules of evidence relating to fraud, internal control methodology, asset misappropriation and financial statement misrepresentation. Students cover various fraud examination techniques. Students also learn rules of evidence as they relate to several different fraudulent activities including illegal activities such as wagering, money laundering, cash skimming and embezzelment. Course presentation assumes basic accounting knowledge and guides the student into specialized applied settings, indicative of forensic accounting.",
+      "institution": "Champlain College"
+    },
+    {
+      "course_id": "ACC 310",
+      "course_title": "Federal Taxes I",
+      "credits": "3.00",
+      "description": "Credits: 3 Prerequisite(s): ACC-130 Currently offered: Spring 2008: Day/Evening (2) Summer 2008: Day/Evening (1) Fall 2008: Online (1) Description: Students learn the basic skills of tax planning and tax research for individuals. Topics covered include tax determination and payments, gross income inclusions and exclusions, and itemized deductions. Many actual federal tax forms for individuals are studied. In addition to their textbooks, students use the computerized federal tax code and the Internal Revenue Service web site. (Spring only)",
+      "institution": "Champlain College"
+    },
+    {
+      "course_id": "ACC 341",
+      "course_title": "Cost Accounting II",
+      "credits": "4.00",
+      "description": "Credits: 4 Prerequisite(s): ACC-340 Currently offered: Spring 2008: Day/Evening (2), Online (1) Description: This continuation of cost accounting fundamentals emphasizes direct and absorption costing, capital budgeting, and inventory-control techniques. (Spring only)",
+      "institution": "Champlain College"
+    },
+    {
+      "course_id": "ACC 370",
+      "course_title": "Volunteer Income Tax Assistanc",
+      "credits": "1.00",
+      "description": "Credits: 1 Prerequisite(s): ACC-310 Currently offered: Spring 2008: Day/Evening (1) Description: Students will complete classroom instruction in tax law and engage in field experience preparing tax returns for elderly and low-income citizens. Graded on a pass/fail basis. Note: This course satisfies the community service requirement at the baccalaureate level. (Spring only)",
+      "institution": "Champlain College"
+    },
+    {
+      "course_id": "ACC 420",
+      "course_title": "Auditing",
+      "credits": "4.00",
+      "description": "Credits: 4 Prerequisite(s): MTH-200 ACC-231 is the corequisite course. Currently offered: Spring 2008: Day/Evening (2), Online (1) Description: An introduction to auditing theory and practice as governed by generally accepted auditing standards and accounting principles. Topical coverage includes the American Institute of Certified Public Accountants Code of Professional Conduct, auditors' legal liability, planning an audit with emphasis on the study and evaluation of the internal control structure, audit evidence (what kind and how much), working papers, the various types of audit reports and a practical audit case. Class discussions delve into problems from recent CPA examinations, case problems and actual work experiences. (Spring only)",
+      "institution": "Champlain College"
+    },
+    {
+      "course_id": "ACC 430",
+      "course_title": "CPA Problem Review",
+      "credits": "3.00",
+      "description": "Credits: 3 Prerequisite(s): ACC-341 ACC-400 Currently offered: Spring 2008: Day/Evening (1) Description: An intensive review of selected topics in the Financial Accounting and Reporting; Business Environment and Concepts; and Regulation sections of the computer-based Uniform CPA Examination. This course is graded on a pass-fail basis. (Spring only).",
+      "institution": "Champlain College"
+    }
+  ],
+  "timestamp": "2025-08-10T19:31:04.498865"
+}

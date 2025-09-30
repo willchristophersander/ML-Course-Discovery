@@ -1,0 +1,118 @@
+{
+  "timestamp": "2025-08-08T16:51:08.132514",
+  "analysis": {
+    "total_universities": 5,
+    "discovery_success_rate": 1.0,
+    "avg_discovery_confidence": 0.915,
+    "validation_success_rate": 0.4,
+    "avg_validation_confidence": 0.2,
+    "course_finding_rate": 0.2,
+    "avg_discovery_time": 4.531513309478759,
+    "avg_validation_time": 3.5136006355285643,
+    "successful_discoveries": [
+      {
+        "university": "The University of Texas at Rio Grande Valley",
+        "url": "https://classes.berkeley.edu/",
+        "discovery_confidence": 0.89,
+        "validation_confidence": 0.0,
+        "courses_found": "0/0"
+      },
+      {
+        "university": "Harvard University",
+        "url": "https://courses.my.harvard.edu/psp/courses/EMPLOYEE/EMPL/h/?tab=HU_CLASS_SEARCH",
+        "discovery_confidence": 0.935,
+        "validation_confidence": 0.0,
+        "courses_found": "0/0"
+      },
+      {
+        "university": "Ohio State University - Columbus",
+        "url": "https://classes.osu.edu/#/",
+        "discovery_confidence": 0.935,
+        "validation_confidence": 0.0,
+        "courses_found": "0/0"
+      },
+      {
+        "university": "Saint Mary's University of Minnesota",
+        "url": "https://classes.berkeley.edu/",
+        "discovery_confidence": 0.89,
+        "validation_confidence": 0.2,
+        "courses_found": "1/5"
+      },
+      {
+        "university": "Stanford University",
+        "url": "https://navigator.stanford.edu/classes?classes%5BrefinementList%5D%5BtermOffered%5D%5B0%5D=Autumn%202025",
+        "discovery_confidence": 0.925,
+        "validation_confidence": 0.2,
+        "courses_found": "1/5"
+      }
+    ],
+    "failed_discoveries": []
+  },
+  "detailed_results": [
+    {
+      "university_name": "The University of Texas at Rio Grande Valley",
+      "discovered_url": "https://classes.berkeley.edu/",
+      "discovery_success": true,
+      "discovery_confidence": 0.89,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No test courses found in CollegeTransfer.net",
+      "discovery_time": 3.3560948371887207,
+      "validation_time": 4.90504002571106
+    },
+    {
+      "university_name": "Harvard University",
+      "discovered_url": "https://courses.my.harvard.edu/psp/courses/EMPLOYEE/EMPL/h/?tab=HU_CLASS_SEARCH",
+      "discovery_success": true,
+      "discovery_confidence": 0.935,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No test courses found in CollegeTransfer.net",
+      "discovery_time": 6.738638162612915,
+      "validation_time": 3.4904000759124756
+    },
+    {
+      "university_name": "Ohio State University - Columbus",
+      "discovered_url": "https://classes.osu.edu/#/",
+      "discovery_success": true,
+      "discovery_confidence": 0.935,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No test courses found in CollegeTransfer.net",
+      "discovery_time": 5.77182936668396,
+      "validation_time": 4.544341087341309
+    },
+    {
+      "university_name": "Saint Mary's University of Minnesota",
+      "discovered_url": "https://classes.berkeley.edu/",
+      "discovery_success": true,
+      "discovery_confidence": 0.89,
+      "validation_success": true,
+      "validation_confidence": 0.2,
+      "test_courses_found": 1,
+      "total_test_courses": 5,
+      "error_message": null,
+      "discovery_time": 2.254162073135376,
+      "validation_time": 2.261059045791626
+    },
+    {
+      "university_name": "Stanford University",
+      "discovered_url": "https://navigator.stanford.edu/classes?classes%5BrefinementList%5D%5BtermOffered%5D%5B0%5D=Autumn%202025",
+      "discovery_success": true,
+      "discovery_confidence": 0.925,
+      "validation_success": true,
+      "validation_confidence": 0.2,
+      "test_courses_found": 1,
+      "total_test_courses": 5,
+      "error_message": null,
+      "discovery_time": 4.536842107772827,
+      "validation_time": 2.3671629428863525
+    }
+  ]
+}

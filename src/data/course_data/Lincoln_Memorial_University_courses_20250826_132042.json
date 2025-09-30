@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Lincoln Memorial University",
+    "successful_variation": "Lincoln Memorial University",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Lincoln+Memorial+University&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACCT 200",
+      "course_title": "Foundations of Accounting",
+      "credits": "3.00",
+      "description": "The course is the introduction of financial and managerial accounting theory and practice with an emphasis on accounting information processes for decision making. Co-requisite: A 200 Lab, 1 credit hour.",
+      "institution": "Lincoln Memorial University"
+    },
+    {
+      "course_id": "ACCT 211",
+      "course_title": "Principles of Accounting I",
+      "credits": "3.00",
+      "description": "This course examines financial reporting, transaction analysis, adjusting entries, information processing, revenues and cost, inventory systems, depreciation, depletion, and intangibles. Prerequisite: MATH 111",
+      "institution": "Lincoln Memorial University"
+    },
+    {
+      "course_id": "ACCT 212",
+      "course_title": "Princicples of Accounting II",
+      "credits": "3.00",
+      "description": "This course examines liabilities, present and future value, bonds payable, capital stock, dividends, long term debt and equity securities, consolidated statements, and financial starement analysis. Prerequisite: ACCT 211",
+      "institution": "Lincoln Memorial University"
+    },
+    {
+      "course_id": "ACCT 305",
+      "course_title": "Accounting for Managers",
+      "credits": "3.00",
+      "description": "This course examines issues relating to the use of managerial reports for decision making associated with day-to-day operations and long range planning. The role of accounting in planning and controlling operations will be addressed. (Accounting majors cannot receive credit for this course.) Prerequisite: ACCT 200.",
+      "institution": "Lincoln Memorial University"
+    },
+    {
+      "course_id": "ACCT 310",
+      "course_title": "Financial Accounting Theory",
+      "credits": "3.00",
+      "description": "This course addresses the accounting environment, accounting model, income statement, retained earnings, balance sheet, statement of changes in financial position, future and present values, annuities, cash marketable securities, and receivables. Prerequisite: grade of \"C\" or better in ACCT 200. Fall",
+      "institution": "Lincoln Memorial University"
+    },
+    {
+      "course_id": "ACCT 311",
+      "course_title": "Intermediate Accounting I",
+      "credits": "3.00",
+      "description": "This course will discuss the accounting for inventories, current liabilities, accounting for income taxes, and operational assets. Prerequisite: ACCT 200; Fall",
+      "institution": "Lincoln Memorial University"
+    },
+    {
+      "course_id": "ACCT 312",
+      "course_title": "Intermediate Accounting II",
+      "credits": "3.00",
+      "description": "This course will discuss contributed capital, changes in capital, stock rights and options, consolidated financial statements, longterm debt securities, debt extinguishing/restricture, and pensions. Prerequisite: 311; Spring",
+      "institution": "Lincoln Memorial University"
+    },
+    {
+      "course_id": "ACCT 320",
+      "course_title": "Cost Management I",
+      "credits": "3.00",
+      "description": "This course provides an in-depth coverage of cost and management accounting issues and builds upon the foundation that was established in ACCT 200. The course addresses issues relating to the proper costing of products and services, the behavior of costs, and the utilization and management of an organization's resources. Pre-requisites: ACCT 200, BUSN 270.",
+      "institution": "Lincoln Memorial University"
+    },
+    {
+      "course_id": "ACCT 321",
+      "course_title": "Cost Management II",
+      "credits": "3.00",
+      "description": "This course focuses on topics related to the evaluation of performance and business processes (e.g., cost variance analysis, revenue variance analysis, just-in-time inventory systems and computer-integrated manufacturing.) Pre-requisite: ACCT 320.",
+      "institution": "Lincoln Memorial University"
+    },
+    {
+      "course_id": "ACCT 330",
+      "course_title": "Income Tax",
+      "credits": "3.00",
+      "description": "This course addresses the identification of income; income inclusion, exclusions, and deductions; tax calculation; property transaction; business tax accounting; accounting periods; asset acquisition, use and disposition; and partnerships. Spring alternate years",
+      "institution": "Lincoln Memorial University"
+    }
+  ],
+  "timestamp": "2025-08-26T13:20:42.523425"
+}

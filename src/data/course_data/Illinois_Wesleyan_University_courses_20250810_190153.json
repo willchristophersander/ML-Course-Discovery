@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Illinois Wesleyan University",
+    "successful_variation": "Illinois Wesleyan University",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Illinois+Wesleyan+University&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "AD 112",
+      "course_title": "Accounting for DecisionMaking I",
+      "credits": "3.00",
+      "description": "An introduction to business through the lens of financial and managerial accounting-an information processing system that communicates relevant data regarding business entities to internal and external decision makers. Emphasizes the basic concepts, principles, and techniques for decision makers to interpret and use accounting system information within all functional areas of business and the use of information systems generally within organizations. Offered each semester.",
+      "institution": "Illinois Wesleyan University"
+    },
+    {
+      "course_id": "AD 212",
+      "course_title": "Accounting for DecisionMaking II",
+      "credits": "3.00",
+      "description": "Continuation of an introduction to business through the lens of financial and managerial accounting-an information processing system that communicates relevant data regarding business entities to internal and external decision makers. Emphasizes the basic concepts, principles, and techniques for decision makers to interpret and use accounting system information within all functional area of business, and the use of information systems generally within organizations. Prerequisite: AD112. Offered each semester.",
+      "institution": "Illinois Wesleyan University"
+    },
+    {
+      "course_id": "AD 218",
+      "course_title": "Accounting Information Systems",
+      "credits": "3.00",
+      "description": "An introduction to the design, development, and implementation of manual and computer-based accounting information systems, with an internal control emphasis. Prerequisite: AD112. Offered each spring.",
+      "institution": "Illinois Wesleyan University"
+    },
+    {
+      "course_id": "AD 270",
+      "course_title": "Special Topics",
+      "credits": "3.00",
+      "description": "Courses treating specialized topics in accounting, business, or risk management. Two or more may be taken concurrently or repeated for credit if the topic matter is different. Offered occasionally. Note: Successful completion of all foundation course requirements or consent of department chair is a prerequisite to all 300-400 level AD and I courses unless the student is minoring in a business field or is required to take one of these courses in a major outside the department.",
+      "institution": "Illinois Wesleyan University"
+    },
+    {
+      "course_id": "AD 280",
+      "course_title": "Business and Society",
+      "credits": "3.00",
+      "description": "A study of the business organization as part of a complex socio-economic system. Emphasis on major problem areas associated with relations between the firm and multiple publics, e.g., consumers, employees, government, owners. Focus on strategically managing competing interests within constraints of social responsiveness. Open to junior and senior business and nonbusiness majors. Offered occasionally.",
+      "institution": "Illinois Wesleyan University"
+    },
+    {
+      "course_id": "AD 315",
+      "course_title": "Tax Accounting",
+      "credits": "3.00",
+      "description": "Individual tax procedures and an introduction to corporation and partnership taxation. Prerequisite: AD212. Offered each fall.",
+      "institution": "Illinois Wesleyan University"
+    },
+    {
+      "course_id": "AD 316",
+      "course_title": "Accounting and Auditing Concepts and Theory",
+      "credits": "3.00",
+      "description": "The presentation of the traditional framework of financial accounting, including such topics as principles of revenue recognition and asset valuation; surveys the role of audits in market economies, including such topics as legal liability and materiality; contrasts the uses of financial and internal accounting, discussing such topics as the use of current cost information and the analysis of the overall value-chain. Prerequisite: AD 212 and concurrent enrollment in AD319. Offered each fall.",
+      "institution": "Illinois Wesleyan University"
+    },
+    {
+      "course_id": "AD 317",
+      "course_title": "Specialized Topics in Financial Reporting",
+      "credits": "3.00",
+      "description": "Theory and problems related to stockholders' equity, dilutive securities, investments income determination, preparation and analysis of financial statements and other selected topics. Prerequisite: grade of C- or higher in AD316. Offered each spring.",
+      "institution": "Illinois Wesleyan University"
+    },
+    {
+      "course_id": "AD 318",
+      "course_title": "Accounting and Auditing Processes",
+      "credits": "3.00",
+      "description": "The presentation of a number of systems and auditing topics, structured primarily around transaction cycles; offers an over-view of information systems from an accounting perspective and covers such auditing subjects as internal controls and statistical sampling. Prerequisite: AD316. Offered each spring.",
+      "institution": "Illinois Wesleyan University"
+    },
+    {
+      "course_id": "AD 319",
+      "course_title": "CostManagement",
+      "credits": "3.00",
+      "description": "The course emphasizes the role of cost information in assistingmanagers in designing and implementing firms' strategic plans; adopts a decision- oriented approach to such cost topics as budgeting, variances, controls, and cost allocations. Prerequisite: AD211 and concurrent enrollment in AD316. Offered each fall.",
+      "institution": "Illinois Wesleyan University"
+    }
+  ],
+  "timestamp": "2025-08-10T19:01:53.833431"
+}

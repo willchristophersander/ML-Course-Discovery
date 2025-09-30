@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Massasoit Community College",
+    "successful_variation": "Massasoit Community College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Massasoit+Community+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACAD 101",
+      "course_title": "Freshman Seminar",
+      "credits": "1.00",
+      "description": "This course is concerned with helping first semester students adapt to college life at Massasoit. It aids students in exploring their personal values and reasons for seeking a college education. The students become familiar with the college's resources, policies, and procedures. Further, they develop skills in stress management, reduction of test anxiety, effective note-taking and test-taking techniques, career planning, decision making, and educational goal setting.",
+      "institution": "Massasoit Community College"
+    },
+    {
+      "course_id": "ACAD 103",
+      "course_title": "College Experience",
+      "credits": "3.00",
+      "description": "This course is concerned with helping first semester students adapt to college life at Massasoit. It aids students in exploring their personal values and reasons for seeking a college education. The students become familiar with the college's resources, policies, and procedures. Further, they develop skills in stress management, reduction of test anxiety, effective note-taking and test-taking techniques, career planning, decision-making, educational goal setting, mediation and leadership. This course is required of all students who test into two or more developmental courses (Fundamentals of Mathematics (MATH010), Preparing for College Reading I (ENGL091), Preparing for College Reading II (ENGL092), or Introductory Writing (ENGL099)). Any full-time student (day or evening) taking 12 or more credits in a semester who tests into two or more developmental courses must take this course in the first semester. Any part-time student (day or evening) who tests into two or more developmental courses must take this course before proceeding beyond nine credits.",
+      "institution": "Massasoit Community College"
+    },
+    {
+      "course_id": "ACAD 120",
+      "course_title": "Self-Assessment",
+      "credits": "3.00",
+      "description": "Self-Assessment and Career Planning is designed to enable each participant in this project to appraise himself/herself in relation to his/her career choice. The course includes experiences that stimulate a more accurate appraisal of interests and abilities; a lessening of stress involved in choosing and then planning for a technical career; and an exploration of the various worlds of technical careers. The second part of the course focuses on the development of appropriate job-readiness skills, attitudes, and behaviors. A variety of class experiences are involved including group discussions, human relations and other simulation games, vocational and aptitude testing, assessment, and role playing. Prerequisite: Preparing for College Reading I (ENGL091), or waiver by placement testing results, or Permission of Instructor",
+      "institution": "Massasoit Community College"
+    },
+    {
+      "course_id": "ACAD 400",
+      "course_title": "Special Study in Academic Support",
+      "credits": "1.00",
+      "description": "This course involves independent work on a selected topic under the direction of members of the Department of Academic Support. Limited to 2 courses per student Prerequisite: Approval of the Department Chair and Division Dean Accounting",
+      "institution": "Massasoit Community College"
+    },
+    {
+      "course_id": "ACCT 103",
+      "course_title": "Accounting Survey",
+      "credits": "3.00",
+      "description": "This is an accounting course designed for non-business majors. Emphasis is on record keeping systems for service and merchandising concerns. The accounting cycle through trial balance, adjustments, and financial reports is studied. Topics include control of cash, receivables and payables as well as worksheets, bank reconciliations, and payroll.",
+      "institution": "Massasoit Community College"
+    },
+    {
+      "course_id": "ACCT 105",
+      "course_title": "Financial Acct I",
+      "credits": "4.00",
+      "description": "This course is an introduction to accounting concepts and principles. Topics cover the accounting cycle, recording transactions, adjustments, the worksheet, financial statement preparation, and closing the accounts. Accounting systems, current assets, current liabilities including cash, receivables, inventories, payables, and payroll are also covered. Methods of depreciation are included. The emphasis is on the sole proprietorship form of business organization for both service and merchandising firms. Computer applications are integrated. Pre/Corequisite: Computerized Business Applications (ACCT302); or Beginning Windows (CTIM101), Beginning Word (CTIM102), and Beginning Excel (CTIM103); or Departmental Approval",
+      "institution": "Massasoit Community College"
+    },
+    {
+      "course_id": "ACCT 106",
+      "course_title": "Finan Acct II",
+      "credits": "4.00",
+      "description": "This course further develops an appreciation of the role of principles, concepts, conventions, and ethics in today's accounting environment. Long-term assets including plant and equipment, natural resources, intangibles, and investments are covered. Accounting for liabilities, both current and long-term, are explored. Partnership and corporate accounting are studied. Cash flow statements and the techniques of financial statement analysis are presented. The tax consequences of various business decisions are examined. Relevant computer applications are integrated. Prerequisite: Principles of Financial Accounting (ACCT105) or Departmental Approval",
+      "institution": "Massasoit Community College"
+    },
+    {
+      "course_id": "ACCT 107",
+      "course_title": "Managerial Account",
+      "credits": "4.00",
+      "description": "This course is an introductory course in the uses of accounting data for management decisions. It is concerned with identifying, measuring, developing, and communicating accounting information to management for the purposes of planning, information processing, controlling, and decision-making. Topics include cost identification, cost behavior, cost-volume-profit relationships, manufacturing costs and systems, budgeting, including master budgets and flexible budgets, responsibility accounting, cost control, time value of money, just-in-time systems, and not-for-profit accounting. Coverage also extends to cash flows and financial-statement analysis. Computerized applications are assigned as part of the course requirements utilizing spreadsheets and other related applications. Prerequisite: Principles of Financial Accounting I (ACCT105) or Departmental Approval",
+      "institution": "Massasoit Community College"
+    },
+    {
+      "course_id": "ACCT 111",
+      "course_title": "Fin Statemnt Analysis",
+      "credits": "3.00",
+      "description": "Financial Statement Analysis is a course designed to provide a comprehensive and up-to-date coverage of the process and purposes of analysis of Financial Statements (both external as well as internal). Coverage commences with an overview of the objectives of Financial Statement Analysis and the environment in which data is provided. Specific inclusions will cover both short-term and longer term techniques for analysis of the Balance Sheet of Business Operations and of Capital Structure. Also included will be a comprehensive analysis of a prepared set of Financial Statements. Prerequisite: Financial Accounting II (ACCT106) or Managerial Accounting (ACCT107)",
+      "institution": "Massasoit Community College"
+    },
+    {
+      "course_id": "ACCT 112",
+      "course_title": "Payrl Appl Quickbk",
+      "credits": "3.00",
+      "description": "This course is designed to introduce students to accounting applications that are commonly computerized in a business environment. Topics include coverage of payroll accounting systems and general ledger applications using QuickBooks. Other business applications may include inventory management and fixed asset tracking. This course provides students the opportunity to apply the concepts to both a manual and a computerized accounting system using the computer facilities.",
+      "institution": "Massasoit Community College"
+    }
+  ],
+  "timestamp": "2025-08-10T04:20:32.495126"
+}

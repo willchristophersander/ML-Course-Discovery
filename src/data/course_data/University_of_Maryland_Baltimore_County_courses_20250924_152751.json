@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "University of Maryland, Baltimore County",
+    "successful_variation": "University of Maryland-Baltimore County",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=University+of+Maryland-Baltimore+County&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "AFST 201",
+      "course_title": "Introduction to Methodology and Research in Africana Studies",
+      "credits": "3.00",
+      "description": "An overview of methodologies of basic research, with examples and issues drawn from the sub-fields of Africana studies. Includes an introduction to selected concepts and use of the computer for statistical analysis.",
+      "institution": "University of Maryland, Baltimore County"
+    },
+    {
+      "course_id": "AFST 205",
+      "course_title": "Contemporary Black Popular Culture",
+      "credits": "3.00",
+      "description": "GEP: N/A. GFR: Meets AH. This course examines the folk idiom and current images of black American culture as reflected in the creative works of contemporary black artists in the areas of film, music, sports and language. Examples are drawn from each of these areas to demonstrate the continuity of these images across artistic domains.",
+      "institution": "University of Maryland, Baltimore County"
+    },
+    {
+      "course_id": "AFST 206",
+      "course_title": "Introduction to African- American History: A Survey",
+      "credits": "3.00",
+      "description": "GEP/GFR: Meets SS. This course offers a broad survey of the history of the African-American experience from the African background to the present. Notes: Also listed as HIST 218.",
+      "institution": "University of Maryland, Baltimore County"
+    },
+    {
+      "course_id": "AFST 211",
+      "course_title": "Introduction to Contemporary Africa",
+      "credits": "3.00",
+      "description": "GEP: N/A. GFR: Meets SS or C. A survey of contemporary Africa, its geography, peoples and cultural heritage. Economic, cultural, political and social changes on the continent since World War II, including the struggle for independence and the problems of nation-building. Notes: Also listed as HIST 242.",
+      "institution": "University of Maryland, Baltimore County"
+    },
+    {
+      "course_id": "AFST 212",
+      "course_title": "Introduction to African History",
+      "credits": "3.00",
+      "description": "GEP: N/A. GFR: Meets SS or C. A survey of ancient and medieval kingdoms of Africa, the spread of Islam in Africa, European slave trade, white settler penetration of southern Africa and Arab penetration of East Africa, the colonial conquest, the 20th century and the emergence of nationalist movements seeking independence. Notes: Also listed as HIST 243.",
+      "institution": "University of Maryland, Baltimore County"
+    },
+    {
+      "course_id": "AFST 213",
+      "course_title": "Africa: Culture and Development",
+      "credits": "3.00",
+      "description": "GEP/GFR: AH or C This course provides a general introduction to Africa. It is designed to survey its peoples, languages, cultures, societies and development. An emphasis is placed on how language and development are interrelated. Modules are offered to students to build on their special interests in the continent. Notes: Also listed as MLL 210.",
+      "institution": "University of Maryland, Baltimore County"
+    },
+    {
+      "course_id": "AFST 215",
+      "course_title": "Introduction to African Dance",
+      "credits": "3.00",
+      "description": "Course offers an understanding of the role of dance in daily life in African societies. Types of African dance are distinguished; basic movements are identified, and relationship of dance to other African arts is shown. Notes: Also listed as DANC 260.",
+      "institution": "University of Maryland, Baltimore County"
+    },
+    {
+      "course_id": "AFST 230",
+      "course_title": "Comparative African Religions",
+      "credits": "3.00",
+      "description": "GEP: N/A. GFR: Meets AH or C. An introduction to indigenous religions of Africa. Religions in African traditional society, with special reference to the principal elements in the religious system the Supreme Being, the cosmic gods, the ancestors and lesser spirits. The impact of Islam and Christianity. Notes: Also listed as RLST 230.",
+      "institution": "University of Maryland, Baltimore County"
+    },
+    {
+      "course_id": "AFST 240",
+      "course_title": "Topics in African and African- American Studies",
+      "credits": "3.00",
+      "description": "Examination of current issues highlighting the experiences of blacks in the diaspora. Specific topics are selected by the instructor. Notes: May be repeated for a maximum of 12 credits.",
+      "institution": "University of Maryland, Baltimore County"
+    },
+    {
+      "course_id": "AFST 241",
+      "course_title": "The Making of the Caribbean",
+      "credits": "3.00",
+      "description": "The course presents a historical analysis of the growth and development of African peoples in the Caribbean and Latin America. The nature and character of African cultural survivors and their impact on the Caribbean, slavery, abolition, colonization, efforts toward federation, independence and contemporary issues will be discussed. Prerequisites: AFST 100 or permission of instructor.",
+      "institution": "University of Maryland, Baltimore County"
+    }
+  ],
+  "timestamp": "2025-09-24T15:27:51.017182"
+}

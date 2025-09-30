@@ -1,0 +1,116 @@
+{
+  "timestamp": "2025-08-09T19:45:18.523542",
+  "analysis": {
+    "total_universities": 5,
+    "discovery_success_rate": 0.8,
+    "avg_discovery_confidence": 0.82375,
+    "validation_success_rate": 0.6,
+    "avg_validation_confidence": 0.3333333333333333,
+    "course_finding_rate": 0.4666666666666667,
+    "avg_discovery_time": 23.82049479484558,
+    "avg_validation_time": 1.842193078994751,
+    "successful_discoveries": [
+      {
+        "university": "Eastern Gateway Community College",
+        "url": "https://egcc.edu/academics/programs/course-catalog/",
+        "discovery_confidence": 0.7949999999999999,
+        "validation_confidence": 0.4,
+        "courses_found": "2/5"
+      },
+      {
+        "university": "Central Oregon Community College",
+        "url": "https://central.edu/event/classes-resume/",
+        "discovery_confidence": 0.925,
+        "validation_confidence": 0.2,
+        "courses_found": "2/5"
+      },
+      {
+        "university": "Los Angeles Mission College",
+        "url": "https://www.lamission.edu/academics/pathways/shf/health-occupations/class-schedule-and-registration",
+        "discovery_confidence": 0.78,
+        "validation_confidence": 0.0,
+        "courses_found": "0/0"
+      },
+      {
+        "university": "Nassau Community College",
+        "url": "https://collegecatalog.ncc.edu/current/courses/",
+        "discovery_confidence": 0.7949999999999999,
+        "validation_confidence": 0.4,
+        "courses_found": "3/5"
+      }
+    ],
+    "failed_discoveries": [
+      {
+        "university": "Columbia University",
+        "error": "Timeout 30000ms exceeded."
+      }
+    ]
+  },
+  "detailed_results": [
+    {
+      "university_name": "Eastern Gateway Community College",
+      "discovered_url": "https://egcc.edu/academics/programs/course-catalog/",
+      "discovery_success": true,
+      "discovery_confidence": 0.7949999999999999,
+      "validation_success": true,
+      "validation_confidence": 0.4,
+      "test_courses_found": 2,
+      "total_test_courses": 5,
+      "error_message": null,
+      "discovery_time": 20.751052141189575,
+      "validation_time": 2.297657012939453
+    },
+    {
+      "university_name": "Columbia University",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "Timeout 30000ms exceeded.",
+      "discovery_time": 49.53858709335327,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "Central Oregon Community College",
+      "discovered_url": "https://central.edu/event/classes-resume/",
+      "discovery_success": true,
+      "discovery_confidence": 0.925,
+      "validation_success": true,
+      "validation_confidence": 0.2,
+      "test_courses_found": 2,
+      "total_test_courses": 5,
+      "error_message": null,
+      "discovery_time": 21.877888917922974,
+      "validation_time": 2.1689810752868652
+    },
+    {
+      "university_name": "Los Angeles Mission College",
+      "discovered_url": "https://www.lamission.edu/academics/pathways/shf/health-occupations/class-schedule-and-registration",
+      "discovery_success": true,
+      "discovery_confidence": 0.78,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No test courses found in CollegeTransfer.net",
+      "discovery_time": 20.95016574859619,
+      "validation_time": 2.297051191329956
+    },
+    {
+      "university_name": "Nassau Community College",
+      "discovered_url": "https://collegecatalog.ncc.edu/current/courses/",
+      "discovery_success": true,
+      "discovery_confidence": 0.7949999999999999,
+      "validation_success": true,
+      "validation_confidence": 0.4,
+      "test_courses_found": 3,
+      "total_test_courses": 5,
+      "error_message": null,
+      "discovery_time": 5.9847800731658936,
+      "validation_time": 2.4472761154174805
+    }
+  ]
+}

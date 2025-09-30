@@ -1,0 +1,65 @@
+{
+  "timestamp": "2025-08-08T14:52:33.967444",
+  "verification_results": {
+    "university_name": "Mesa Community College",
+    "course_search_url": "https://www.mesacc.edu/class-schedule",
+    "verification_success": false,
+    "verification_confidence": 0.0,
+    "collegetransfer_courses_found": 0,
+    "total_collegetransfer_courses": 7,
+    "verification_time": 4.044859886169434,
+    "collegetransfer_courses": [
+      {
+        "course_id": "AAA 150",
+        "course_title": "Strategies for College Success",
+        "credits": "3.00",
+        "description": "Focus on increasing student success through college orientation and personal growth, study skills development, and educational and career planning. Prerequisites: None. 3 credits 3 periods",
+        "institution": "Mesa Community College"
+      },
+      {
+        "course_id": "ACC 107",
+        "course_title": "Bookkeeping Theory and Practice",
+        "credits": "4.00",
+        "description": "Fundamental accounting practices; application to retail stores, professional firms and personal service operations. Prerequisites: None. 4 credits 5 periods",
+        "institution": "Mesa Community College"
+      },
+      {
+        "course_id": "ACC 109",
+        "course_title": "Accounting Concepts",
+        "credits": "3.00",
+        "description": "Introduction to accounting with emphasis on analysis and applications of financial information. Prerequisites: None. GBS151 and reading ability equivalent to RDG091 suggested, but not required. 3 credits 3 periods",
+        "institution": "Mesa Community College"
+      },
+      {
+        "course_id": "ACC 111",
+        "course_title": "Accounting Principles I",
+        "credits": "3.00",
+        "description": "Fundamental theory of accounting principles and procedures. Prerequisites: None. 3 credits 3 periods",
+        "institution": "Mesa Community College"
+      },
+      {
+        "course_id": "ACC 115",
+        "course_title": "Computerized Accounting",
+        "credits": "2.00",
+        "description": "Mastery of a microcomputer accounting system including the general ledger, accounts receivable, accounts payable and payroll. Prerequisites: ACC107, or higher level accounting course, or permission of instructor. 2 credits 3 periods",
+        "institution": "Mesa Community College"
+      },
+      {
+        "course_id": "ACC 121",
+        "course_title": "Income Tax Preparation",
+        "credits": "2.00",
+        "description": "Preparation of and practical experience in preparing returns. Prerequisites: None. 2 credits 3 periods",
+        "institution": "Mesa Community College"
+      },
+      {
+        "course_id": "ACC 221",
+        "course_title": "Tax Accounting",
+        "credits": "3.00",
+        "description": "Preparation of and accounting procedures for individuals; introduction to partnerships and corporate tax structures. Prerequisites: ACC111, or ACC211, or permission of department/division. 3 credits 3 periods",
+        "institution": "Mesa Community College"
+      }
+    ],
+    "found_courses": [],
+    "error_message": null
+  }
+}

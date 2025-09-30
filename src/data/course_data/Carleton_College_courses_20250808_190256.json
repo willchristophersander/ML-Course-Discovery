@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Carleton College",
+    "successful_variation": "Carleton College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Carleton+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ANT 200U",
+      "course_title": "Introduction to Anthropology",
+      "credits": "3.00",
+      "description": "Study of humankind, with an emphasis on human social and cultural systems. Focus on one non-Western culture in anthropological perspective. Study of the discipline, methods, and theories of anthropology. Prerequisites: GES130 or GES 145, 146.",
+      "institution": "Carleton College"
+    },
+    {
+      "course_id": "ANT 242U",
+      "course_title": "Peoples and Cultures of the United States",
+      "credits": "3.00",
+      "description": "Comparative ethnography of contemporary United States cultures. A study of cultural origins and development of cultures in this complex, multicultural society with specific focus on Native American, immigrant minority, and dominant majority cultures of the United States. Special attention given to the nature of this pluralistic society and processes of community formation. Prerequisites: GES130 or GES 145, 146.",
+      "institution": "Carleton College"
+    },
+    {
+      "course_id": "ANT 301K",
+      "course_title": "Human Origins and Diversity",
+      "credits": "3.00",
+      "description": "Fossil evidence for human origins and development. Human adaptation to the environment, human genetics, and heredity, and comparison of humans to other primates. Prerequisites: Laboratory Science (D) course; Mathematics (M) course.",
+      "institution": "Carleton College"
+    },
+    {
+      "course_id": "ANT 305",
+      "course_title": "Intentional Urban Living I",
+      "credits": "2.00",
+      "description": "Intensive urban learning opportunity involving exploration and analysis of urban community, urban neighborhood social and political structures, and theological issues that arise in an urban context. Involves living in an urban neighborhood in Minneapolis or St. Paul and substantial interaction in the neighborhood.",
+      "institution": "Carleton College"
+    },
+    {
+      "course_id": "ANT 306",
+      "course_title": "Intentional Urban Living II",
+      "credits": "2.00",
+      "description": "Intensive urban learning opportunity involving exploration and analysis of urban community, urban neighborhood social and political structures, and theological issues that arise in an urban context. Involves living in an urban neighborhood in Minneapolis or St. Paul and substantial interaction in the neighborhood. Involves an individualized research project and/or action project focused on a change initiative.",
+      "institution": "Carleton College"
+    },
+    {
+      "course_id": "ANT 312G",
+      "course_title": "Peoples and Cultures of Oceania",
+      "credits": "3.00",
+      "description": "Comparative ethnography of Oceania. A study of cultural and social uniformities and differences for this geographical region to develop an understanding of the social structures of Oceania. Prerequisites: GES130 or GES145, 146; Contemporary Western Life and Thought (L) course or GES245; World Cultures (U) course.",
+      "institution": "Carleton College"
+    },
+    {
+      "course_id": "ANT 314G",
+      "course_title": "Peoples and Cultures of Latin America",
+      "credits": "3.00",
+      "description": "Comparative ethnography of Latin America. A study of cultural and social uniformities and differences for this geographical region to develop an understanding of the social structures of Latin America. Prerequisites: GES130 or GES145, 146; Contemporary Western Life and Thought (L) course or GES245; World Cultures (U) course.",
+      "institution": "Carleton College"
+    },
+    {
+      "course_id": "ANT 318G",
+      "course_title": "The Urban Church",
+      "credits": "3.00",
+      "description": "Taught on-site in cities around the world (e.g., Amsterdam). Students research the challenges of urban communities and help local churches develop church-based responses to these challenges. Intensive interaction with urban communities and churches. Method for applied and experiential learning in response to social needs. Prerequisites: GES130 or GES145, 146; Contemporary Western Life and Thought (L) course or GES245; World Cultures (U) course.",
+      "institution": "Carleton College"
+    },
+    {
+      "course_id": "ANT 371G",
+      "course_title": "Christianity in Cross-Cultural Perspective",
+      "credits": "3.00",
+      "description": "How Christian faith and practice everywhere are influenced by and expressed through social systems. Aspects of the social structure of selected Christian groups, both Western and non- Western, with emphasis on how these structures contribute to and result from Christian conversion, belief, and practice. Prerequisites: GES130 or GES145, 146; Contemporary Western Life and Thought (L) course or GES245; World Cultures (U) course.",
+      "institution": "Carleton College"
+    },
+    {
+      "course_id": "ANT 381G",
+      "course_title": "Urbanism:A Way of Life",
+      "credits": "3.00",
+      "description": "Comparative study of urban life and urban social and cultural forces. Ways in which humans construct community; develop distinct urban lifestyles; and interact across social, ethnic, and religious boundaries. Special attention given to implications for urban planning, community development, and urban ministry. Prerequisites: GES130 or GES145, 146; Contemporary Western Life and Thought (L) course or GES245; World Cultures (U) course.",
+      "institution": "Carleton College"
+    }
+  ],
+  "timestamp": "2025-08-08T19:02:56.942327"
+}

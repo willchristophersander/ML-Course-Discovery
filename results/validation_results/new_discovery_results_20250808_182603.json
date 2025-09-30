@@ -1,0 +1,443 @@
+{
+  "timestamp": "2025-08-08T18:26:03.250171",
+  "analysis": {
+    "total_universities": 25,
+    "discovery_success_rate": 0.0,
+    "avg_discovery_confidence": 0,
+    "validation_success_rate": 0.0,
+    "avg_validation_confidence": 0,
+    "course_finding_rate": 0,
+    "avg_discovery_time": 4.549189662933349,
+    "avg_validation_time": 0.0,
+    "successful_discoveries": [],
+    "failed_discoveries": [
+      {
+        "university": "University of Hawaii at Manoa",
+        "error": "Page.click: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"a[href='https://catalog.manoa.hawaii.edu/']\")\n"
+      },
+      {
+        "university": "Covenant College",
+        "error": "No search results found with any strategy"
+      },
+      {
+        "university": "Bay Mills Community College",
+        "error": "No search results found with any strategy"
+      },
+      {
+        "university": "Delta College",
+        "error": "No search results found with any strategy"
+      },
+      {
+        "university": "Minnesota State Community and Technical College",
+        "error": "No search results found with any strategy"
+      },
+      {
+        "university": "Wayland Baptist University",
+        "error": "No search results found with any strategy"
+      },
+      {
+        "university": "Prairie State College",
+        "error": "No search results found with any strategy"
+      },
+      {
+        "university": "CUNY Hostos Community College",
+        "error": "No search results found with any strategy"
+      },
+      {
+        "university": "Morton College",
+        "error": "No search results found with any strategy"
+      },
+      {
+        "university": "Gadsden State Community College",
+        "error": "No search results found with any strategy"
+      },
+      {
+        "university": "University of Texas Medical Branch",
+        "error": "No search results found with any strategy"
+      },
+      {
+        "university": "Northwestern State University",
+        "error": "Page.click: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"a[href='https://www.it.northwestern.edu/support/researchers/index.html']\")\n"
+      },
+      {
+        "university": "Lee College",
+        "error": "No search results found with any strategy"
+      },
+      {
+        "university": "Thomas Jefferson University",
+        "error": "No search results found with any strategy"
+      },
+      {
+        "university": "Plymouth State University",
+        "error": "No search results found with any strategy"
+      },
+      {
+        "university": "Saint Louis University",
+        "error": "No search results found with any strategy"
+      },
+      {
+        "university": "University of Tennessee, Knoxville",
+        "error": "No search results found with any strategy"
+      },
+      {
+        "university": "Corning Community College",
+        "error": "No search results found with any strategy"
+      },
+      {
+        "university": "Harris-Stowe State University",
+        "error": "No search results found with any strategy"
+      },
+      {
+        "university": "Meredith College",
+        "error": "No search results found with any strategy"
+      },
+      {
+        "university": "California State University, Dominguez Hills",
+        "error": "No search results found with any strategy"
+      },
+      {
+        "university": "Western Governors University",
+        "error": "No search results found with any strategy"
+      },
+      {
+        "university": "Oral Roberts University",
+        "error": "No search results found with any strategy"
+      },
+      {
+        "university": "Oregon Health Sciences University",
+        "error": "No search results found with any strategy"
+      },
+      {
+        "university": "Cankdeska Cikana Community College",
+        "error": "No search results found with any strategy"
+      }
+    ]
+  },
+  "detailed_results": [
+    {
+      "university_name": "University of Hawaii at Manoa",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "Page.click: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"a[href='https://catalog.manoa.hawaii.edu/']\")\n",
+      "discovery_time": 57.9356210231781,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "Covenant College",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No search results found with any strategy",
+      "discovery_time": 0.0005292892456054688,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "Bay Mills Community College",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No search results found with any strategy",
+      "discovery_time": 0.0006310939788818359,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "Delta College",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No search results found with any strategy",
+      "discovery_time": 0.0002849102020263672,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "Minnesota State Community and Technical College",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No search results found with any strategy",
+      "discovery_time": 0.001088857650756836,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "Wayland Baptist University",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No search results found with any strategy",
+      "discovery_time": 0.10825181007385254,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "Prairie State College",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No search results found with any strategy",
+      "discovery_time": 0.000492095947265625,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "CUNY Hostos Community College",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No search results found with any strategy",
+      "discovery_time": 0.0002999305725097656,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "Morton College",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No search results found with any strategy",
+      "discovery_time": 0.0005660057067871094,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "Gadsden State Community College",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No search results found with any strategy",
+      "discovery_time": 0.0001239776611328125,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "University of Texas Medical Branch",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No search results found with any strategy",
+      "discovery_time": 0.09463119506835938,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "Northwestern State University",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "Page.click: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"a[href='https://www.it.northwestern.edu/support/researchers/index.html']\")\n",
+      "discovery_time": 32.498252868652344,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "Lee College",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No search results found with any strategy",
+      "discovery_time": 0.00039386749267578125,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "Thomas Jefferson University",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No search results found with any strategy",
+      "discovery_time": 0.8725540637969971,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "Plymouth State University",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No search results found with any strategy",
+      "discovery_time": 5.614828109741211,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "Saint Louis University",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No search results found with any strategy",
+      "discovery_time": 0.09284305572509766,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "University of Tennessee, Knoxville",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No search results found with any strategy",
+      "discovery_time": 0.08547782897949219,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "Corning Community College",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No search results found with any strategy",
+      "discovery_time": 0.0002410411834716797,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "Harris-Stowe State University",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No search results found with any strategy",
+      "discovery_time": 0.1176612377166748,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "Meredith College",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No search results found with any strategy",
+      "discovery_time": 0.0002357959747314453,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "California State University, Dominguez Hills",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No search results found with any strategy",
+      "discovery_time": 0.0004961490631103516,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "Western Governors University",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No search results found with any strategy",
+      "discovery_time": 13.930208921432495,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "Oral Roberts University",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No search results found with any strategy",
+      "discovery_time": 0.09298205375671387,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "Oregon Health Sciences University",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No search results found with any strategy",
+      "discovery_time": 2.280499219894409,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "Cankdeska Cikana Community College",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No search results found with any strategy",
+      "discovery_time": 0.0005471706390380859,
+      "validation_time": 0.0
+    }
+  ]
+}

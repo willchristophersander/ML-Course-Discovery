@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Rowan-Cabarrus Community College",
+    "successful_variation": "Rowan-Cabarrus Community College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Rowan-Cabarrus+Community+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACA 090",
+      "course_title": "Study Skills F,S SU Evening",
+      "credits": "3.00",
+      "description": "This course is intended for those who placed into credit-level course work but who are not maintaining satisfactory academic progress toward meeting program goals. Topics include study skills, note taking, learning styles and strategies, test taking, goal setting, and self-assessment skills. Upon completion, students should be able to manage their learning experiences to successfully meet educational goals. This course is designed to prepare students for college level work and will not satisfy credit hours for any degree, diploma or certificate program. This course will not transfer to a four-year institution but will transfer to any of the community colleges within the N.C. Community College System; however, it will not satisfy any degree, diploma or certificate requirements at the receiving institution. Credit earned for this course will only satisfy the prerequisites for entry into a curriculum level course. Prerequisites: None Corequisites: None",
+      "institution": "Rowan-Cabarrus Community College"
+    },
+    {
+      "course_id": "ACA 115",
+      "course_title": "Success & Study Skills F,S SU Evening",
+      "credits": "1.00",
+      "description": "This course provides an orientation to the campus resources and academic skills necessary to achieve educational objectives. Emphasis is placed on an exploration of facilities and services, study skills, library skills, self-assessment, wellness, goal-setting, and critical thinking. Upon completion, students should be able to manage their learning experiences to successfully meet educational goals. Prerequisites: None Corequisites: None Credit Hours Course Prefix and Number Lab/Clinical/ Work Exp. Area Of Study Course Title Text Body",
+      "institution": "Rowan-Cabarrus Community College"
+    },
+    {
+      "course_id": "ACC 120",
+      "course_title": "Principles of Financial Accounting )(F,S Day)",
+      "credits": "4.00",
+      "description": "This course introduces business decision-making using accounting information systems. Emphasis is placed on analyzing, summarizing, reporting, and interpreting financial information. Upon completion, students should be able to prepare financial statements, understand the role of financial information in decision-making and address ethical considerations. This course has been approved to satisfy the Comprehensive Articulation Agreement pre-major and/or elective course requirement. Prerequisites MAT 080 or appropriate placement test score; CTS 080 or acceptable score on the TPE or computer placement test (Local) Corequisites: CIS 110 (Local) Distance Education: Internet, Hybrid",
+      "institution": "Rowan-Cabarrus Community College"
+    },
+    {
+      "course_id": "ACC 121",
+      "course_title": "Principles of Managerial Acct. )(F,S Day)",
+      "credits": "4.00",
+      "description": "This course includes a greater emphasis on managerial and cost accounting skills. Emphasis is placed on managerial accounting concepts for external and internal analysis, reporting and decision-making. Upon completion, students should be able to analyze and interpret transactions relating to managerial concepts including product costing systems. This course has been approved to satisfy the Comprehensive Articulation Agreement premajor and/or elective course requirement. Prerequisites: ACC 120 Corequisites: None Distance Education: Internet, Hybrid",
+      "institution": "Rowan-Cabarrus Community College"
+    },
+    {
+      "course_id": "ACC 129",
+      "course_title": "Individual Income Taxes(S Day)",
+      "credits": "3.00",
+      "description": "This course introduces the relevant laws governing individual income taxation. Topics include tax law, electronic research and methodologies, and the use of technology for preparation of individual tax returns. Upon completion, students should be able to analyze basic tax scenarios, research applicable tax law, and complete various individual tax forms. Prerequisites: None Corequisites: None Distance Education: Internet, Hybrid",
+      "institution": "Rowan-Cabarrus Community College"
+    },
+    {
+      "course_id": "ACC 132",
+      "course_title": "NC Business Taxes(TBA Day)",
+      "credits": "2.00",
+      "description": "This course introduces the relevant laws governing North Carolina taxes as they apply to business. Topics include sales taxes, income taxes for business entities, payroll taxes, unemployment taxes, and other taxes pertaining to the State of North Carolina. Upon completion, students should be able to maintain a company's records to comply with the laws governing North Carolina business taxes. Prerequisites: None Corequisites: None Distance Education: Internet, Hybrid",
+      "institution": "Rowan-Cabarrus Community College"
+    },
+    {
+      "course_id": "ACC 140",
+      "course_title": "Payroll Accounting(S Day)",
+      "credits": "2.00",
+      "description": "This course covers federal and state laws pertaining to wages, payroll taxes, payroll tax forms, and journal and general ledger transactions. Emphasis is placed on computing wages; calculating social security, income, and unemployment taxes; preparing appropriate payroll tax forms; and journalizing/posting transactions. Upon completion, students should be able to analyze data, make appropriate computations, complete forms, and prepare accounting entries using appropriate technology. Prerequisites: ACC 115 or ACC 120 Corequisites: None Distance Education: Internet, Hybrid",
+      "institution": "Rowan-Cabarrus Community College"
+    },
+    {
+      "course_id": "ACC 150",
+      "course_title": "Accounting Software Applications(S Day)",
+      "credits": "2.00",
+      "description": "This course introduces computer applications related to accounting systems. Topics include general ledger, accounts receivable, accounts payable, inventory, payroll, and correcting, adjusting, and closing entries. Upon completion, students should be able to use a computer accounting software package to solve accounting problems. Prerequisites: ACC 115 or ACC 120 Corequisites: None Distance Education: Internet, Hybrid",
+      "institution": "Rowan-Cabarrus Community College"
+    },
+    {
+      "course_id": "ACC 220",
+      "course_title": "Intermediate Accounting I(S Day)",
+      "credits": "4.00",
+      "description": "This course is a continuation of the study of accounting principles with in-depth coverage of theoretical concepts and financial statements. Topics include generally accepted accounting principles and extensive analyses of financial statements. Upon completion, students should be able to demonstrate competence in the conceptual framework underlying financial accounting, including the application of financial standards. Prerequisites: ACC 120 Corequisites: None Distance Education: Hybrid",
+      "institution": "Rowan-Cabarrus Community College"
+    },
+    {
+      "course_id": "ACC 221",
+      "course_title": "Intermediate Accounting II(F Day)",
+      "credits": "4.00",
+      "description": "This course is a continuation of ACC 220. Emphasis is placed on special problems which may include leases, bonds, investments, ratio analyses, present value applications, accounting changes, and corrections. Upon completion, students should be able to demonstrate an understanding of the principles involved and display an analytical problem-solving ability for the topics covered. Prerequisites: ACC 220 Corequisites: None Distance Education: Hybrid",
+      "institution": "Rowan-Cabarrus Community College"
+    }
+  ],
+  "timestamp": "2025-08-09T23:44:11.250888"
+}

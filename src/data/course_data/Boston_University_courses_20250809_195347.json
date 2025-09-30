@@ -1,0 +1,18 @@
+{
+  "search_query": {
+    "institution": "Boston University",
+    "successful_variation": "Boston University",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Boston+University&distance=5"
+  },
+  "total_results": 1,
+  "courses": [
+    {
+      "course_id": "BE 521",
+      "course_title": "Continuum Mechanics for Biomedical EngineersPrereq",
+      "credits": "4.00",
+      "description": "ENG ME 309 or ENG ME 424 and either ENG ME 304, ENG ME 421, ENG ME 422, ENG BE 420, ENG BE 436, or consent of instructor. The main goal of this course is to present a unified, mathematically rigorous approach to two classical branches of mechanics: the mechanics of fluids and the mechanics of solids. Topics will include kinematics, stress analysis, balance laws (mass, momentum, and energy), the entropy inequality, and constitutive equations in the framework of Cartesian vectors and tensors. Emphasis will be placed on mechanical principles that apply to all materials by using the unifying mathematical framework of Cartesian vectors and tensors. Illustrative examples from biology and physiology will be used to describe basic concepts in continuum mechanics. The course will end at the point from which specialized courses devoted to problems in fluid mechanics (e.g., biotransport) and solid mechanics (e.g., cellular biomechanics) could logically proceed; students may not receive credit for both. 4 cr.",
+      "institution": "Boston University"
+    }
+  ],
+  "timestamp": "2025-08-09T19:53:47.791649"
+}

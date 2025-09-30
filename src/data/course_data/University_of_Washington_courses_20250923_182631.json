@@ -1,0 +1,53 @@
+{
+  "search_query": {
+    "institution": "University of Washington",
+    "successful_variation": "Washington",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Washington&distance=5"
+  },
+  "total_results": 6,
+  "courses": [
+    {
+      "course_id": "ACC 201",
+      "course_title": "Principles of Accounting",
+      "credits": "3.00",
+      "description": "This course provides an introduction to financial accounting principles. Topics include basic accounting procedures, measurement of income and expense, working capital, and investments.",
+      "institution": "University of Washington"
+    },
+    {
+      "course_id": "ACC 202",
+      "course_title": "Principles of Management Accounting",
+      "credits": "3.00",
+      "description": "This course provides the basic principles and applications of managerial and cost accounting, considering particularly how a manager\u2019s understanding of accounting practices influence basic operational decisions.",
+      "institution": "University of Washington"
+    },
+    {
+      "course_id": "ACC 415",
+      "course_title": "Auditing",
+      "credits": "3.00",
+      "description": "The course reviews the auditing process from the perspective of the internal and independent auditing function. Topics include operational auditing, internal/external auditing, and the role of ethics and professionalism within the public accounting and auditing professions.",
+      "institution": "University of Washington"
+    },
+    {
+      "course_id": "ACC 418",
+      "course_title": "Corporate Taxation",
+      "credits": "3.00",
+      "description": "The course provides an introduction to the federal corporate income tax system for routine operations, capital investments, and the treatment of dividends and other distributions. Tax, legal, and ethical implications of transfer pricing are included.",
+      "institution": "University of Washington"
+    },
+    {
+      "course_id": "ACC 420",
+      "course_title": "Capital Budgeting",
+      "credits": "0.00",
+      "description": "The course builds from basic accounting and finance to develop the tools necessary to effectively analyze and budget for capital expenditures to maximize organizational performance. Applied opportunity cost and risk analysis, as well as financial tools to minimize risk, are presented.",
+      "institution": "University of Washington"
+    },
+    {
+      "course_id": "ASP 100",
+      "course_title": "Skills for Success",
+      "credits": "3.00",
+      "description": "This course is designed to prepare learners for success in their undergraduate programs at Argosy University. Students develop strategies to help them achieve their educational goals, and to apply what they have already learned in other school, work and personal settings. Self- assessments are used to help students determine their learning styles and to develop successful strategies for learning. Course content emphasizes the following: oral and written communication, personal and interpersonal development, critical thinking skills, study skills, goal setting, time and stress management, information literacy, financial management skills, career search skills, and student responsibility.",
+      "institution": "University of Washington"
+    }
+  ],
+  "timestamp": "2025-09-23T18:26:31.178731"
+}

@@ -1,0 +1,985 @@
+{
+  "timestamp": "2025-08-09T20:24:44.291221",
+  "analysis": {
+    "total_universities": 50,
+    "discovery_success_rate": 0.76,
+    "avg_discovery_confidence": 0.8134210526315789,
+    "ct_availability_rate": 0.36,
+    "colleges_with_ct_courses": 18,
+    "validation_success_rate": 1.0,
+    "avg_validation_confidence": 0.3111111111111111,
+    "course_finding_rate": 0.5977011494252874,
+    "avg_discovery_time": 270.28818977832793,
+    "avg_validation_time": 57.818502621650694,
+    "successful_discoveries": [
+      {
+        "university": "ITT Technical Institute",
+        "url": "https://www.shiksha.com/studyabroad/usa/universities/itt-technical-institute/courses",
+        "discovery_confidence": 0.72,
+        "validation_confidence": 0.0,
+        "courses_found": "0/0"
+      },
+      {
+        "university": "Lamar Institute of Technology",
+        "url": "https://www.lamar.edu/students/registrar/registration/course-schedules.html",
+        "discovery_confidence": 0.94,
+        "validation_confidence": 0.0,
+        "courses_found": "0/0"
+      },
+      {
+        "university": "Morehouse",
+        "url": "https://morehouse.edu/admissions/resource-center/admitted-students/step-by-step-checklist/register-for-courses",
+        "discovery_confidence": 0.77,
+        "validation_confidence": 0.2,
+        "courses_found": "4/5"
+      },
+      {
+        "university": "University of Puget Sound",
+        "url": "https://campus.pugetsound.edu/psc/PUBLIC/EMPLOYEE/CAMPPUB/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL?&",
+        "discovery_confidence": 0.755,
+        "validation_confidence": 0.4,
+        "courses_found": "1/5"
+      },
+      {
+        "university": "Gaston College",
+        "url": "https://www.gaston.edu/registration/course-schedules/",
+        "discovery_confidence": 0.78,
+        "validation_confidence": 0.4,
+        "courses_found": "3/5"
+      },
+      {
+        "university": "Pine Technical College",
+        "url": "https://pine.edu/academics/programs-courses/manufacturing-foundations/",
+        "discovery_confidence": 0.735,
+        "validation_confidence": 0.0,
+        "courses_found": "0/0"
+      },
+      {
+        "university": "Nunez Community College",
+        "url": "https://catalog.nunez.edu/course-descriptions/",
+        "discovery_confidence": 0.78,
+        "validation_confidence": 0.0,
+        "courses_found": "0/0"
+      },
+      {
+        "university": "Cornell College",
+        "url": "https://classes.cornell.edu/browse/roster/FA25",
+        "discovery_confidence": 0.935,
+        "validation_confidence": 0.0,
+        "courses_found": "0/0"
+      },
+      {
+        "university": "San Juan College",
+        "url": "https://selfservice.sanjuancollege.edu:467/Student/Courses/Search",
+        "discovery_confidence": 0.785,
+        "validation_confidence": 0.4,
+        "courses_found": "5/5"
+      },
+      {
+        "university": "Fordham University",
+        "url": "https://www.fordham.edu/graduate-school-of-education/students/course-schedules-and-descriptions/",
+        "discovery_confidence": 0.7949999999999999,
+        "validation_confidence": 0.0,
+        "courses_found": "0/0"
+      },
+      {
+        "university": "William Paterson University",
+        "url": "https://www.wpunj.edu/admissions/undergraduate/transfer-students/course-lookup",
+        "discovery_confidence": 0.72,
+        "validation_confidence": 0.2,
+        "courses_found": "3/5"
+      },
+      {
+        "university": "Baker College",
+        "url": "https://catalog.baker.edu/index.php?catoid=21",
+        "discovery_confidence": 0.905,
+        "validation_confidence": 0.2,
+        "courses_found": "3/5"
+      },
+      {
+        "university": "College of Wooster",
+        "url": "https://wooster.edu/schedule/",
+        "discovery_confidence": 0.91,
+        "validation_confidence": 0.0,
+        "courses_found": "0/0"
+      },
+      {
+        "university": "Phoenix College",
+        "url": "https://www.phoenix.edu/online-courses.html",
+        "discovery_confidence": 0.94,
+        "validation_confidence": 0.2,
+        "courses_found": "2/5"
+      },
+      {
+        "university": "Sullivan University",
+        "url": "https://sisportal-100552.campusnexus.cloud/CMCPortal/Common/CourseSchedule.aspx",
+        "discovery_confidence": 0.78,
+        "validation_confidence": 0.4,
+        "courses_found": "2/5"
+      },
+      {
+        "university": "LaGrange College",
+        "url": "https://www.lagrange.edu/academics/undergraduate/class-schedule.html",
+        "discovery_confidence": 0.9199999999999999,
+        "validation_confidence": 0.0,
+        "courses_found": "0/0"
+      },
+      {
+        "university": "Montgomery College",
+        "url": "https://www.montgomerycollege.edu/workforce-development-continuing-education/course-offering-schedule/index.html",
+        "discovery_confidence": 0.7949999999999999,
+        "validation_confidence": 0.4,
+        "courses_found": "5/5"
+      },
+      {
+        "university": "West Virginia University",
+        "url": "https://west.edu/classes",
+        "discovery_confidence": 0.925,
+        "validation_confidence": 0.0,
+        "courses_found": "0/0"
+      },
+      {
+        "university": "Villanova University",
+        "url": "https://www1.villanova.edu/university/enrollment-management/registrar/registration-course-information.html",
+        "discovery_confidence": 0.785,
+        "validation_confidence": 0.0,
+        "courses_found": "0/0"
+      },
+      {
+        "university": "Shawnee Community College",
+        "url": "https://www.shawnee.edu/registrar/academic-catalog",
+        "discovery_confidence": 0.905,
+        "validation_confidence": 0.2,
+        "courses_found": "2/5"
+      },
+      {
+        "university": "University of Massachusetts at Dartmouth",
+        "url": "https://www.mass.edu/masstransfer/equivalencies/main.asp",
+        "discovery_confidence": 0.575,
+        "validation_confidence": 0.0,
+        "courses_found": "0/0"
+      },
+      {
+        "university": "Midlands Technical College",
+        "url": "https://academic.catalog.midlandstech.edu/courses?page=1&cq=",
+        "discovery_confidence": 0.7949999999999999,
+        "validation_confidence": 0.4,
+        "courses_found": "4/5"
+      },
+      {
+        "university": "Montgomery County Community College",
+        "url": "https://www.mc3.edu/admissions/dates-and-deadlines/course-catalog",
+        "discovery_confidence": 0.78,
+        "validation_confidence": 0.4,
+        "courses_found": "5/5"
+      },
+      {
+        "university": "Alexandria Technical & Community College",
+        "url": "https://www.ochs.education/s/courses",
+        "discovery_confidence": 0.72,
+        "validation_confidence": 0.0,
+        "courses_found": "0/0"
+      },
+      {
+        "university": "St. Mary's College of Maryland",
+        "url": "https://www.smcm.edu/registrar/course-classroom-scheduling/schedule-of-classes/",
+        "discovery_confidence": 0.7949999999999999,
+        "validation_confidence": 0.0,
+        "courses_found": "0/0"
+      },
+      {
+        "university": "Olin College of Engineering",
+        "url": "https://courses.olin.edu/",
+        "discovery_confidence": 0.935,
+        "validation_confidence": 0.0,
+        "courses_found": "0/0"
+      },
+      {
+        "university": "Polk State College",
+        "url": "https://www.polk.edu/schedule/",
+        "discovery_confidence": 0.91,
+        "validation_confidence": 0.0,
+        "courses_found": "0/0"
+      },
+      {
+        "university": "Rose-Hulman Institute of Technology",
+        "url": "https://www.rose-hulman.edu/classes#gsc.tab=0",
+        "discovery_confidence": 0.91,
+        "validation_confidence": 0.2,
+        "courses_found": "2/5"
+      },
+      {
+        "university": "The University of Olivet",
+        "url": "https://www.uolivet.edu/academics/course-catalog/",
+        "discovery_confidence": 0.7949999999999999,
+        "validation_confidence": 0.0,
+        "courses_found": "0/0"
+      },
+      {
+        "university": "Eastern Oregon State College",
+        "url": "https://catalog.ecsu.edu/content.php?catoid=5&navoid=199",
+        "discovery_confidence": 0.665,
+        "validation_confidence": 0.0,
+        "courses_found": "0/0"
+      },
+      {
+        "university": "University of Vermont",
+        "url": "https://www.uvm.edu/search/google?keys=/classes#gsc.tab=0&gsc.q=%2Fclasses&gsc.page=1",
+        "discovery_confidence": 0.925,
+        "validation_confidence": 0.4,
+        "courses_found": "2/5"
+      },
+      {
+        "university": "Rollins College",
+        "url": "https://catalog.rollins.edu/",
+        "discovery_confidence": 0.665,
+        "validation_confidence": 0.2,
+        "courses_found": "5/5"
+      },
+      {
+        "university": "Rockhurst College",
+        "url": "https://www.rockhurst.edu/academics/registrar/university-catalog",
+        "discovery_confidence": 0.925,
+        "validation_confidence": 0.0,
+        "courses_found": "0/0"
+      },
+      {
+        "university": "Trinidad State Junior College",
+        "url": "https://trinidadstate.edu/catalog/current/courses/index.html",
+        "discovery_confidence": 0.78,
+        "validation_confidence": 0.0,
+        "courses_found": "0/0"
+      },
+      {
+        "university": "Eckerd College",
+        "url": "https://www.eckerd.edu/catalog/",
+        "discovery_confidence": 0.925,
+        "validation_confidence": 0.2,
+        "courses_found": "1/2"
+      },
+      {
+        "university": "Boston Graduate School of Psychoanalysis",
+        "url": "https://bgsp.edu/continuing-education/courses/",
+        "discovery_confidence": 0.72,
+        "validation_confidence": 0.2,
+        "courses_found": "2/5"
+      },
+      {
+        "university": "California University of Pennsylvania",
+        "url": "https://www.shiksha.com/studyabroad/usa/universities/california-university-of-pennsylvania/courses",
+        "discovery_confidence": 0.735,
+        "validation_confidence": 0.0,
+        "courses_found": "0/0"
+      },
+      {
+        "university": "California State University, Northridge",
+        "url": "https://catalog.csun.edu/schedule-of-classes/",
+        "discovery_confidence": 0.775,
+        "validation_confidence": 0.6,
+        "courses_found": "1/5"
+      }
+    ],
+    "failed_discoveries": [
+      {
+        "university": "Malone College",
+        "error": "Page.click: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"a[href='https://jics.malone.edu/ICS/Course_List/Course_Selection.jnz']\")\n"
+      },
+      {
+        "university": "Phillips Community College of the University of Arkansas",
+        "error": "Page.goto: net::ERR_ABORTED at https://www.pccua.edu/images/uploads/20230818/2023-2024-course-catalog-46638.pdf\nCall log:\n  - navigating to \"https://www.pccua.edu/images/uploads/20230818/2023-2024-course-catalog-46638.pdf\", waiting until \"load\"\n"
+      },
+      {
+        "university": "Western Governors University",
+        "error": "Could not find course search page after navigation"
+      },
+      {
+        "university": "The University of Texas at Rio Grande Valley",
+        "error": "Page.click: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"a[href='https://www.depts.ttu.edu/vetschool/academics/dvm-program/course-descriptions.php']\")\n"
+      },
+      {
+        "university": "New Mexico State University-Alamogordo",
+        "error": "Page.goto: net::ERR_ABORTED at https://catalogs.nmsu.edu/pdf/23-24_New%20Mexico%20State%20University%20-%20Alamogordo_Final.pdf\nCall log:\n  - navigating to \"https://catalogs.nmsu.edu/pdf/23-24_New%20Mexico%20State%20University%20-%20Alamogordo_Final.pdf\", waiting until \"load\"\n"
+      },
+      {
+        "university": "St. Joseph College (CT)",
+        "error": "Page.click: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"a[href='https://ric.smartcatalogiq.com/en/2024-2025/2024-2025/']\")\n    - locator resolved to <a rel=\"noopener\" class=\"external\" href=\"https://ric.smartcatalogiq.com/en/2024-2025/2024-2025/\">College Catalog</a>\n  - attempting click action\n    2 \u00d7 waiting for element to be visible, enabled and stable\n      - element is not visible\n    - retrying click action\n    - waiting 20ms\n    2 \u00d7 waiting for element to be visible, enabled and stable\n      - element is not visible\n    - retrying click action\n      - waiting 100ms\n    58 \u00d7 waiting for element to be visible, enabled and stable\n       - element is not visible\n     - retrying click action\n       - waiting 500ms\n"
+      },
+      {
+        "university": "Polytechnic University of New York",
+        "error": "Timeout 30000ms exceeded."
+      },
+      {
+        "university": "Northland Community and Technical College",
+        "error": "Could not find course search page after navigation"
+      },
+      {
+        "university": "Zane State College",
+        "error": "Page.goto: net::ERR_ABORTED at https://www.zanestate.edu/wp-content/uploads/2024-2025-Academic-Catalog-and-Student-Handbook-Final.pdf\nCall log:\n  - navigating to \"https://www.zanestate.edu/wp-content/uploads/2024-2025-Academic-Catalog-and-Student-Handbook-Final.pdf\", waiting until \"load\"\n"
+      },
+      {
+        "university": "Walla Walla Community College",
+        "error": "Timeout 30000ms exceeded."
+      },
+      {
+        "university": "Monmouth University",
+        "error": "Could not find course search page after navigation"
+      },
+      {
+        "university": "Texas A&M University - Commerce",
+        "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://inside.tamuc.edu/academics/onlinecourses/enrollment.aspx\", waiting until \"load\"\n"
+      }
+    ]
+  },
+  "detailed_results": [
+    {
+      "university_name": "Malone College",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "Page.click: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"a[href='https://jics.malone.edu/ICS/Course_List/Course_Selection.jnz']\")\n",
+      "discovery_time": 633.0005288124084,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "ITT Technical Institute",
+      "discovered_url": "https://www.shiksha.com/studyabroad/usa/universities/itt-technical-institute/courses",
+      "discovery_success": true,
+      "discovery_confidence": 0.72,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No test courses found in CollegeTransfer.net",
+      "discovery_time": 205.01465392112732,
+      "validation_time": 9.171358108520508
+    },
+    {
+      "university_name": "Lamar Institute of Technology",
+      "discovered_url": "https://www.lamar.edu/students/registrar/registration/course-schedules.html",
+      "discovery_success": true,
+      "discovery_confidence": 0.94,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No test courses found in CollegeTransfer.net",
+      "discovery_time": 214.17788195610046,
+      "validation_time": 418.8766658306122
+    },
+    {
+      "university_name": "Morehouse",
+      "discovered_url": "https://morehouse.edu/admissions/resource-center/admitted-students/step-by-step-checklist/register-for-courses",
+      "discovery_success": true,
+      "discovery_confidence": 0.77,
+      "validation_success": true,
+      "validation_confidence": 0.2,
+      "test_courses_found": 4,
+      "total_test_courses": 5,
+      "error_message": null,
+      "discovery_time": 213.02382493019104,
+      "validation_time": 26.38208270072937
+    },
+    {
+      "university_name": "Phillips Community College of the University of Arkansas",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "Page.goto: net::ERR_ABORTED at https://www.pccua.edu/images/uploads/20230818/2023-2024-course-catalog-46638.pdf\nCall log:\n  - navigating to \"https://www.pccua.edu/images/uploads/20230818/2023-2024-course-catalog-46638.pdf\", waiting until \"load\"\n",
+      "discovery_time": 204.44225978851318,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "Western Governors University",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "Could not find course search page after navigation",
+      "discovery_time": 205.00779604911804,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "University of Puget Sound",
+      "discovered_url": "https://campus.pugetsound.edu/psc/PUBLIC/EMPLOYEE/CAMPPUB/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL?&",
+      "discovery_success": true,
+      "discovery_confidence": 0.755,
+      "validation_success": true,
+      "validation_confidence": 0.4,
+      "test_courses_found": 1,
+      "total_test_courses": 5,
+      "error_message": null,
+      "discovery_time": 212.88544392585754,
+      "validation_time": 705.0061361789703
+    },
+    {
+      "university_name": "Gaston College",
+      "discovered_url": "https://www.gaston.edu/registration/course-schedules/",
+      "discovery_success": true,
+      "discovery_confidence": 0.78,
+      "validation_success": true,
+      "validation_confidence": 0.4,
+      "test_courses_found": 3,
+      "total_test_courses": 5,
+      "error_message": null,
+      "discovery_time": 212.84851503372192,
+      "validation_time": 26.645659923553467
+    },
+    {
+      "university_name": "The University of Texas at Rio Grande Valley",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "Page.click: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"a[href='https://www.depts.ttu.edu/vetschool/academics/dvm-program/course-descriptions.php']\")\n",
+      "discovery_time": 633.0007259845734,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "Pine Technical College",
+      "discovered_url": "https://pine.edu/academics/programs-courses/manufacturing-foundations/",
+      "discovery_success": true,
+      "discovery_confidence": 0.735,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No test courses found in CollegeTransfer.net",
+      "discovery_time": 212.94044613838196,
+      "validation_time": 26.397627115249634
+    },
+    {
+      "university_name": "Nunez Community College",
+      "discovered_url": "https://catalog.nunez.edu/course-descriptions/",
+      "discovery_success": true,
+      "discovery_confidence": 0.78,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No test courses found in CollegeTransfer.net",
+      "discovery_time": 212.84853291511536,
+      "validation_time": 26.489047050476074
+    },
+    {
+      "university_name": "Cornell College",
+      "discovered_url": "https://classes.cornell.edu/browse/roster/FA25",
+      "discovery_success": true,
+      "discovery_confidence": 0.935,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No test courses found in CollegeTransfer.net",
+      "discovery_time": 212.91134095191956,
+      "validation_time": 26.430014848709106
+    },
+    {
+      "university_name": "San Juan College",
+      "discovered_url": "https://selfservice.sanjuancollege.edu:467/Student/Courses/Search",
+      "discovery_success": true,
+      "discovery_confidence": 0.785,
+      "validation_success": true,
+      "validation_confidence": 0.4,
+      "test_courses_found": 5,
+      "total_test_courses": 5,
+      "error_message": null,
+      "discovery_time": 213.0903182029724,
+      "validation_time": 26.40341281890869
+    },
+    {
+      "university_name": "Fordham University",
+      "discovered_url": "https://www.fordham.edu/graduate-school-of-education/students/course-schedules-and-descriptions/",
+      "discovery_success": true,
+      "discovery_confidence": 0.7949999999999999,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No test courses found in CollegeTransfer.net",
+      "discovery_time": 214.18520212173462,
+      "validation_time": 418.87911915779114
+    },
+    {
+      "university_name": "William Paterson University",
+      "discovered_url": "https://www.wpunj.edu/admissions/undergraduate/transfer-students/course-lookup",
+      "discovery_success": true,
+      "discovery_confidence": 0.72,
+      "validation_success": true,
+      "validation_confidence": 0.2,
+      "test_courses_found": 3,
+      "total_test_courses": 5,
+      "error_message": null,
+      "discovery_time": 212.94034910202026,
+      "validation_time": 26.46479105949402
+    },
+    {
+      "university_name": "Baker College",
+      "discovered_url": "https://catalog.baker.edu/index.php?catoid=21",
+      "discovery_success": true,
+      "discovery_confidence": 0.905,
+      "validation_success": true,
+      "validation_confidence": 0.2,
+      "test_courses_found": 3,
+      "total_test_courses": 5,
+      "error_message": null,
+      "discovery_time": 213.00479698181152,
+      "validation_time": 26.487872838974
+    },
+    {
+      "university_name": "New Mexico State University-Alamogordo",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "Page.goto: net::ERR_ABORTED at https://catalogs.nmsu.edu/pdf/23-24_New%20Mexico%20State%20University%20-%20Alamogordo_Final.pdf\nCall log:\n  - navigating to \"https://catalogs.nmsu.edu/pdf/23-24_New%20Mexico%20State%20University%20-%20Alamogordo_Final.pdf\", waiting until \"load\"\n",
+      "discovery_time": 8.797311305999756,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "St. Joseph College (CT)",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "Page.click: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"a[href='https://ric.smartcatalogiq.com/en/2024-2025/2024-2025/']\")\n    - locator resolved to <a rel=\"noopener\" class=\"external\" href=\"https://ric.smartcatalogiq.com/en/2024-2025/2024-2025/\">College Catalog</a>\n  - attempting click action\n    2 \u00d7 waiting for element to be visible, enabled and stable\n      - element is not visible\n    - retrying click action\n    - waiting 20ms\n    2 \u00d7 waiting for element to be visible, enabled and stable\n      - element is not visible\n    - retrying click action\n      - waiting 100ms\n    58 \u00d7 waiting for element to be visible, enabled and stable\n       - element is not visible\n     - retrying click action\n       - waiting 500ms\n",
+      "discovery_time": 423.4493730068207,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "Polytechnic University of New York",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "Timeout 30000ms exceeded.",
+      "discovery_time": 418.1528539657593,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "College of Wooster",
+      "discovered_url": "https://wooster.edu/schedule/",
+      "discovery_success": true,
+      "discovery_confidence": 0.91,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No test courses found in CollegeTransfer.net",
+      "discovery_time": 413.8735918998718,
+      "validation_time": 284.59716510772705
+    },
+    {
+      "university_name": "Phoenix College",
+      "discovered_url": "https://www.phoenix.edu/online-courses.html",
+      "discovery_success": true,
+      "discovery_confidence": 0.94,
+      "validation_success": true,
+      "validation_confidence": 0.2,
+      "test_courses_found": 2,
+      "total_test_courses": 5,
+      "error_message": null,
+      "discovery_time": 677.3859620094299,
+      "validation_time": 22.220582962036133
+    },
+    {
+      "university_name": "Sullivan University",
+      "discovered_url": "https://sisportal-100552.campusnexus.cloud/CMCPortal/Common/CourseSchedule.aspx",
+      "discovery_success": true,
+      "discovery_confidence": 0.78,
+      "validation_success": true,
+      "validation_confidence": 0.4,
+      "test_courses_found": 2,
+      "total_test_courses": 5,
+      "error_message": null,
+      "discovery_time": 672.8668129444122,
+      "validation_time": 22.391928911209106
+    },
+    {
+      "university_name": "LaGrange College",
+      "discovered_url": "https://www.lagrange.edu/academics/undergraduate/class-schedule.html",
+      "discovery_success": true,
+      "discovery_confidence": 0.9199999999999999,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No test courses found in CollegeTransfer.net",
+      "discovery_time": 646.0160558223724,
+      "validation_time": 22.228032112121582
+    },
+    {
+      "university_name": "Montgomery College",
+      "discovered_url": "https://www.montgomerycollege.edu/workforce-development-continuing-education/course-offering-schedule/index.html",
+      "discovery_success": true,
+      "discovery_confidence": 0.7949999999999999,
+      "validation_success": true,
+      "validation_confidence": 0.4,
+      "test_courses_found": 5,
+      "total_test_courses": 5,
+      "error_message": null,
+      "discovery_time": 646.3349850177765,
+      "validation_time": 22.11436891555786
+    },
+    {
+      "university_name": "West Virginia University",
+      "discovered_url": "https://west.edu/classes",
+      "discovery_success": true,
+      "discovery_confidence": 0.925,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No test courses found in CollegeTransfer.net",
+      "discovery_time": 645.9935779571533,
+      "validation_time": 67.13653016090393
+    },
+    {
+      "university_name": "Villanova University",
+      "discovered_url": "https://www1.villanova.edu/university/enrollment-management/registrar/registration-course-information.html",
+      "discovery_success": true,
+      "discovery_confidence": 0.785,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No test courses found in CollegeTransfer.net",
+      "discovery_time": 646.3253638744354,
+      "validation_time": 66.80869889259338
+    },
+    {
+      "university_name": "Shawnee Community College",
+      "discovered_url": "https://www.shawnee.edu/registrar/academic-catalog",
+      "discovery_success": true,
+      "discovery_confidence": 0.905,
+      "validation_success": true,
+      "validation_confidence": 0.2,
+      "test_courses_found": 2,
+      "total_test_courses": 5,
+      "error_message": null,
+      "discovery_time": 646.3343529701233,
+      "validation_time": 22.114593029022217
+    },
+    {
+      "university_name": "Northland Community and Technical College",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "Could not find course search page after navigation",
+      "discovery_time": 646.3346691131592,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "University of Massachusetts at Dartmouth",
+      "discovered_url": "https://www.mass.edu/masstransfer/equivalencies/main.asp",
+      "discovery_success": true,
+      "discovery_confidence": 0.575,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No test courses found in CollegeTransfer.net",
+      "discovery_time": 305.6686930656433,
+      "validation_time": 122.47261023521423
+    },
+    {
+      "university_name": "Zane State College",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "Page.goto: net::ERR_ABORTED at https://www.zanestate.edu/wp-content/uploads/2024-2025-Academic-Catalog-and-Student-Handbook-Final.pdf\nCall log:\n  - navigating to \"https://www.zanestate.edu/wp-content/uploads/2024-2025-Academic-Catalog-and-Student-Handbook-Final.pdf\", waiting until \"load\"\n",
+      "discovery_time": 227.57293701171875,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "Midlands Technical College",
+      "discovered_url": "https://academic.catalog.midlandstech.edu/courses?page=1&cq=",
+      "discovery_success": true,
+      "discovery_confidence": 0.7949999999999999,
+      "validation_success": true,
+      "validation_confidence": 0.4,
+      "test_courses_found": 4,
+      "total_test_courses": 5,
+      "error_message": null,
+      "discovery_time": 248.94623398780823,
+      "validation_time": 44.94581580162048
+    },
+    {
+      "university_name": "Walla Walla Community College",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "Timeout 30000ms exceeded.",
+      "discovery_time": 293.679053068161,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "Montgomery County Community College",
+      "discovered_url": "https://www.mc3.edu/admissions/dates-and-deadlines/course-catalog",
+      "discovery_success": true,
+      "discovery_confidence": 0.78,
+      "validation_success": true,
+      "validation_confidence": 0.4,
+      "test_courses_found": 5,
+      "total_test_courses": 5,
+      "error_message": null,
+      "discovery_time": 248.96940207481384,
+      "validation_time": 44.914204835891724
+    },
+    {
+      "university_name": "Alexandria Technical & Community College",
+      "discovered_url": "https://www.ochs.education/s/courses",
+      "discovery_success": true,
+      "discovery_confidence": 0.72,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No test courses found in CollegeTransfer.net",
+      "discovery_time": 248.9036889076233,
+      "validation_time": 44.87509083747864
+    },
+    {
+      "university_name": "St. Mary's College of Maryland",
+      "discovered_url": "https://www.smcm.edu/registrar/course-classroom-scheduling/schedule-of-classes/",
+      "discovery_success": true,
+      "discovery_confidence": 0.7949999999999999,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No test courses found in CollegeTransfer.net",
+      "discovery_time": 66.18238186836243,
+      "validation_time": 70.68604016304016
+    },
+    {
+      "university_name": "Olin College of Engineering",
+      "discovered_url": "https://courses.olin.edu/",
+      "discovery_success": true,
+      "discovery_confidence": 0.935,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No test courses found in CollegeTransfer.net",
+      "discovery_time": 62.11601901054382,
+      "validation_time": 70.8441801071167
+    },
+    {
+      "university_name": "Polk State College",
+      "discovered_url": "https://www.polk.edu/schedule/",
+      "discovery_success": true,
+      "discovery_confidence": 0.91,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No test courses found in CollegeTransfer.net",
+      "discovery_time": 62.15878701210022,
+      "validation_time": 70.81533813476562
+    },
+    {
+      "university_name": "Rose-Hulman Institute of Technology",
+      "discovered_url": "https://www.rose-hulman.edu/classes#gsc.tab=0",
+      "discovery_success": true,
+      "discovery_confidence": 0.91,
+      "validation_success": true,
+      "validation_confidence": 0.2,
+      "test_courses_found": 2,
+      "total_test_courses": 5,
+      "error_message": null,
+      "discovery_time": 62.18715190887451,
+      "validation_time": 70.90860319137573
+    },
+    {
+      "university_name": "Monmouth University",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "Could not find course search page after navigation",
+      "discovery_time": 114.72210621833801,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "The University of Olivet",
+      "discovered_url": "https://www.uolivet.edu/academics/course-catalog/",
+      "discovery_success": true,
+      "discovery_confidence": 0.7949999999999999,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No test courses found in CollegeTransfer.net",
+      "discovery_time": 105.95107698440552,
+      "validation_time": 9.675858974456787
+    },
+    {
+      "university_name": "Texas A&M University - Commerce",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://inside.tamuc.edu/academics/onlinecourses/enrollment.aspx\", waiting until \"load\"\n",
+      "discovery_time": 105.87017703056335,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "Eastern Oregon State College",
+      "discovered_url": "https://catalog.ecsu.edu/content.php?catoid=5&navoid=199",
+      "discovery_success": true,
+      "discovery_confidence": 0.665,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No test courses found in CollegeTransfer.net",
+      "discovery_time": 105.8958067893982,
+      "validation_time": 5.278338193893433
+    },
+    {
+      "university_name": "University of Vermont",
+      "discovered_url": "https://www.uvm.edu/search/google?keys=/classes#gsc.tab=0&gsc.q=%2Fclasses&gsc.page=1",
+      "discovery_success": true,
+      "discovery_confidence": 0.925,
+      "validation_success": true,
+      "validation_confidence": 0.4,
+      "test_courses_found": 2,
+      "total_test_courses": 5,
+      "error_message": null,
+      "discovery_time": 105.96034526824951,
+      "validation_time": 5.293033123016357
+    },
+    {
+      "university_name": "Rollins College",
+      "discovered_url": "https://catalog.rollins.edu/",
+      "discovery_success": true,
+      "discovery_confidence": 0.665,
+      "validation_success": true,
+      "validation_confidence": 0.2,
+      "test_courses_found": 5,
+      "total_test_courses": 5,
+      "error_message": null,
+      "discovery_time": 75.20004677772522,
+      "validation_time": 4.732097148895264
+    },
+    {
+      "university_name": "Rockhurst College",
+      "discovered_url": "https://www.rockhurst.edu/academics/registrar/university-catalog",
+      "discovery_success": true,
+      "discovery_confidence": 0.925,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No test courses found in CollegeTransfer.net",
+      "discovery_time": 70.08529925346375,
+      "validation_time": 5.040704011917114
+    },
+    {
+      "university_name": "Trinidad State Junior College",
+      "discovered_url": "https://trinidadstate.edu/catalog/current/courses/index.html",
+      "discovery_success": true,
+      "discovery_confidence": 0.78,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No test courses found in CollegeTransfer.net",
+      "discovery_time": 70.11179518699646,
+      "validation_time": 5.029357194900513
+    },
+    {
+      "university_name": "Eckerd College",
+      "discovered_url": "https://www.eckerd.edu/catalog/",
+      "discovery_success": true,
+      "discovery_confidence": 0.925,
+      "validation_success": true,
+      "validation_confidence": 0.2,
+      "test_courses_found": 1,
+      "total_test_courses": 2,
+      "error_message": null,
+      "discovery_time": 70.54241681098938,
+      "validation_time": 4.4946582317352295
+    },
+    {
+      "university_name": "Boston Graduate School of Psychoanalysis",
+      "discovered_url": "https://bgsp.edu/continuing-education/courses/",
+      "discovery_success": true,
+      "discovery_confidence": 0.72,
+      "validation_success": true,
+      "validation_confidence": 0.2,
+      "test_courses_found": 2,
+      "total_test_courses": 5,
+      "error_message": null,
+      "discovery_time": 69.99145698547363,
+      "validation_time": 4.86212682723999
+    },
+    {
+      "university_name": "California University of Pennsylvania",
+      "discovered_url": "https://www.shiksha.com/studyabroad/usa/universities/california-university-of-pennsylvania/courses",
+      "discovery_success": true,
+      "discovery_confidence": 0.735,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No test courses found in CollegeTransfer.net",
+      "discovery_time": 70.00931191444397,
+      "validation_time": 7.298584699630737
+    },
+    {
+      "university_name": "California State University, Northridge",
+      "discovered_url": "https://catalog.csun.edu/schedule-of-classes/",
+      "discovery_success": true,
+      "discovery_confidence": 0.775,
+      "validation_success": true,
+      "validation_confidence": 0.6,
+      "test_courses_found": 1,
+      "total_test_courses": 5,
+      "error_message": null,
+      "discovery_time": 6.497775077819824,
+      "validation_time": 5.512801647186279
+    }
+  ]
+}

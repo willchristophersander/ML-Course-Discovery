@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "University of Minnesota",
+    "successful_variation": "University of Minnesota",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=University+of+Minnesota&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "AC 222",
+      "course_title": "Accounting Concepts",
+      "credits": "3.00",
+      "description": "3 credits This course provides an introduction to accounting with an emphasis on interpretation and use of accounting information for effective business decision-making. The course employs an \"information user/managerial approach\" rather than an \"information preparer approach.\" Students are introduceto the accounting system, financial statement analysis, and quantitative managerial accounting techniques. Prerequisite: mathematics competency.",
+      "institution": "University of Minnesota"
+    },
+    {
+      "course_id": "AC 223",
+      "course_title": "Financial Accounting Principles",
+      "credits": "3.00",
+      "description": "3 credits This course is a study of financial accounting practices including information gathering, processing, recording, and reporting. Topics include the accounting cycle, current assets and liabilities, noncurrent assets and liabilities, equity, revenues, and expenses. Prerequisite: AC222.",
+      "institution": "University of Minnesota"
+    },
+    {
+      "course_id": "AC 320",
+      "course_title": "Federal Tax",
+      "credits": "3.00",
+      "description": "3 credits Recommended for all business majors, this course considers income tax concepts and income tax law as it applies to individuals and corporations. Prerequisites: M145 and AC222.",
+      "institution": "University of Minnesota"
+    },
+    {
+      "course_id": "AC 321",
+      "course_title": "Intermediate Accounting I",
+      "credits": "3.00",
+      "description": "3 credits A comprehensive study of selected financial accounting topics, the course considers financial statements, short-term receivables and payables, inventories, plant assets, depreciation, and long-term liabilities. Prerequisites: AC221/223 and M145.",
+      "institution": "University of Minnesota"
+    },
+    {
+      "course_id": "AC 322",
+      "course_title": "Intermediate Accounting II",
+      "credits": "3.00",
+      "description": "3 credits A continuation of AC321, this course involves a study of financial accounting in the areas of stockholders' equity, revenues, taxes, pensions, leases, statement of cash flows, financial statement analysis and full disclosure. Prerequisite: AC321 or consent of instructor.",
+      "institution": "University of Minnesota"
+    },
+    {
+      "course_id": "AC 324",
+      "course_title": "Cost Accounting",
+      "credits": "3.00",
+      "description": "3 credits The systems of cost accounting are studied as they apply to both manufacturing and service organizations. Topics include job order and process cost systems, budgeting, standard costing, and other selected accounting topics which are used in management decision-making. Prerequisites: AC121/222, BU215, and M145.",
+      "institution": "University of Minnesota"
+    },
+    {
+      "course_id": "AC 325",
+      "course_title": "Accounting Information Systems",
+      "credits": "3.00",
+      "description": "3 credits Systems are methods and procedures established by management for accomplishing and documenting business tasks. The course covers the systems created and monitored by management in order to provide a reasonable assurance that company operations are effective and efficient, financial reporting methods are reliable, and the company is complying with laws and regulations pertaining to it. Prerequisite: AC321.",
+      "institution": "University of Minnesota"
+    },
+    {
+      "course_id": "AC 426",
+      "course_title": "Auditing",
+      "credits": "3.00",
+      "description": "3 credits This course is designed to provide the student with a basic understanding of audit theory and practice. Emphasis is placed on applying audit theories and procedures in the examination of an organization's financial statements by a certified public accountant. Prerequisite: AC322.",
+      "institution": "University of Minnesota"
+    },
+    {
+      "course_id": "AC 427",
+      "course_title": "Governmental and Not-For-Profit Accounting",
+      "credits": "3.00",
+      "description": "3 credits The course covers accounting and financial reporting issues of governmental agencies at the local and state levels, federal government agencies, and the federal government as a whole. Non-governmental, not-for-profit organizations which must demonstrate accountability for financial and operational performance to providers of their resources are also examined. Prerequisite: AC321.",
+      "institution": "University of Minnesota"
+    },
+    {
+      "course_id": "AC 428",
+      "course_title": "Advanced Accounting",
+      "credits": "3.00",
+      "description": "3 credits The course includes a study of business combinations and a survey of international accounting. Prerequisite: AC322.",
+      "institution": "University of Minnesota"
+    }
+  ],
+  "timestamp": "2025-09-23T18:26:47.967725"
+}

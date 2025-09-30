@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Clark Atlanta University",
+    "successful_variation": "Clark Atlanta Univ",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Clark+Atlanta+Univ&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "AAS 301",
+      "course_title": "Introduction to African and African American Studies",
+      "credits": "3.00",
+      "description": "An overview of the discipline of African World Studies: popular and academic attitudes and approaches; its significant historical periods and its definable school of thought; the concepts of discipline, interdisciplinary humanities, social sciences, and area studies as relevant to African American Studies. (3 credits)",
+      "institution": "Clark Atlanta University"
+    },
+    {
+      "course_id": "AAS 302",
+      "course_title": "The Modern Era",
+      "credits": "3.00",
+      "description": "An examination of the African American historical, social and cultural experience in the 20th century, its salient periods (Harlem Renaissance, Black Arts Movement, etc.), arts (jazz, hip hop, rap, etc.), and ideologies (integration, Afrocentrism, etc.). (3 credits)",
+      "institution": "Clark Atlanta University"
+    },
+    {
+      "course_id": "AAS 501",
+      "course_title": "Africa and the African Diaspora",
+      "credits": "3.00",
+      "description": "Introduction to research methods and current concepts of culture and value systems as applied to Africa and African -derived cultures of the Americas. Various cultures of the Diaspora viewed as exemplars. (3 credits)",
+      "institution": "Clark Atlanta University"
+    },
+    {
+      "course_id": "AAS 535",
+      "course_title": "Africa and African American Folklore",
+      "credits": "3.00",
+      "description": "A survey of the principal characteristics of African and African American folklore in its social, historical, and aesthetic contexts. (3 credits)",
+      "institution": "Clark Atlanta University"
+    },
+    {
+      "course_id": "AAS 550",
+      "course_title": "African and African American Music",
+      "credits": "3.00",
+      "description": "A study of the principal characteristics of African American music with pertinent references to music on the Continent. (3 credits)",
+      "institution": "Clark Atlanta University"
+    },
+    {
+      "course_id": "AAS 560",
+      "course_title": "African American Art",
+      "credits": "3.00",
+      "description": "A study of the aesthetic tradition and the social context of African American art. (3 credits)",
+      "institution": "Clark Atlanta University"
+    },
+    {
+      "course_id": "AAS 564",
+      "course_title": "African Art",
+      "credits": "3.00",
+      "description": "A survey of the basic forms and styles of traditional African art and an examination of colonial and post-independence styles and trends. (3 credits)",
+      "institution": "Clark Atlanta University"
+    },
+    {
+      "course_id": "AAS 601",
+      "course_title": "Directed Study",
+      "credits": "3.00",
+      "description": "Readings and other research based on a corpus suited to the research needs and interests of the individual student. (2-3 hour credits)",
+      "institution": "Clark Atlanta University"
+    },
+    {
+      "course_id": "AAS 630",
+      "course_title": "Seminar in Selected African Americans",
+      "credits": "3.00",
+      "description": "Men and women of historical importance in the shaping of destiny or culture, such as Frederick Douglass, W. E. D. DuBois, Alain Locke, are studied in detail. (3 credits)",
+      "institution": "Clark Atlanta University"
+    },
+    {
+      "course_id": "AAS 640",
+      "course_title": "Seminar in Comparative Black Literature",
+      "credits": "3.00",
+      "description": "Selected research problems comparing and contrasting traditions in Francophone, Afro-Hispanic and African American literature. (3 credits)",
+      "institution": "Clark Atlanta University"
+    }
+  ],
+  "timestamp": "2025-08-10T12:41:20.236199"
+}

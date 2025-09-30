@@ -1,0 +1,67 @@
+{
+  "search_query": {
+    "institution": "Illinois State University",
+    "successful_variation": "Illinois State University",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Illinois+State+University&distance=5"
+  },
+  "total_results": 8,
+  "courses": [
+    {
+      "course_id": "ACC 131",
+      "course_title": "Financial Accounting",
+      "credits": "3.00",
+      "description": "Introduction to financial accounting. Examines the nature of accounting, basic accounting concepts, financial statements, accrual basis of accounting, the accounting cycle, monetary assets, inventories, fixed assets, current and noncurrent liabilities, and owners equity. Prerequisite: Completion of 12 hours.",
+      "institution": "Illinois State University"
+    },
+    {
+      "course_id": "ACC 132",
+      "course_title": "Managerial Accounting",
+      "credits": "3.00",
+      "description": "Introduction to managerial accounting. Examines the nature of cost-volume-profit analysis and product costing; investigates budgets and standard costs in planning, control and performance measurements; and employs relevant costs and present value techniques in decision making. Prerequisite: ACC 131.",
+      "institution": "Illinois State University"
+    },
+    {
+      "course_id": "ACC 167",
+      "course_title": "Electronic Spreadsheet Usage",
+      "credits": "1.00",
+      "description": "Introduces the electronic spreadsheet for use as a tool to improve management productivity. Lecture and lab. CR/NC only.",
+      "institution": "Illinois State University"
+    },
+    {
+      "course_id": "ACC 168",
+      "course_title": "Internet and Presentation Tools",
+      "credits": "1.00",
+      "description": "Introduces intermediate Web browsing and E-mail techniques, skills on using a Web page editor, and using a presentation software package like PowerPoint. Lecture and lab. CR/NC only.",
+      "institution": "Illinois State University"
+    },
+    {
+      "course_id": "ACC 225",
+      "course_title": "Advanced Microcomputer Applications for the Professional",
+      "credits": "3.00",
+      "description": "Development of advanced skills in widely used application software. Introduces topics related to the role of technology in education and training. Materials charge optional. Also offered as BTE 225. Prerequisite: MS Office competency or ACC 167 and 168 or equivalent.",
+      "institution": "Illinois State University"
+    },
+    {
+      "course_id": "ACC 230",
+      "course_title": "Cost and Management Accounting",
+      "credits": "3.00",
+      "description": "Study of managerial accounting concepts in planning, control and decision making. Emphasis on product costing methods, cost drivers, cost-volume-profit analysis, budgets, standard costs, just-in-time implications, relevant costs and capital budgeting decisions. Prerequisite: ACC 132 and MAT 121; minimum grade of B/C combination between ACC 131 and 132; B or higher in ACC 131 and 132 recommended.",
+      "institution": "Illinois State University"
+    },
+    {
+      "course_id": "ACC 231",
+      "course_title": "Intermediate Accounting I",
+      "credits": "3.00",
+      "description": "The study of financial accounting theory and practice relating to monetary assets, inventories, plant assets, intangible assets, current liabilities, contingencies, and stockholders\u001a equity. Present value applications, and preparation of financial statements are examined. The following topics are also overviewed: the environment of financial accounting, the development of accounting standards, and the conceptual framework underlying financial accounting. Prerequisite: ACC 132; minimum grade of B/C combination between ACC 131 and 132; B or higher in ACC 131 and 132 strongly recommended.",
+      "institution": "Illinois State University"
+    },
+    {
+      "course_id": "ACC 232",
+      "course_title": "Intermediate Accounting II",
+      "credits": "3.00",
+      "description": "The study of financial accounting theory and practice relating to the following topics: long-term liabilities, dilutive securities, earnings per share, investments, revenue recognition, accounting for income taxes, pension costs, leases, accounting changes, errors, and the preparation of cash flow statements. Prerequisite: C or higher in ACC 231.",
+      "institution": "Illinois State University"
+    }
+  ],
+  "timestamp": "2025-09-23T18:28:00.810466"
+}

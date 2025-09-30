@@ -1,0 +1,60 @@
+{
+  "search_query": {
+    "institution": "New Mexico State University-Alamogordo",
+    "successful_variation": "New Mexico State University-Alamogordo",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=New+Mexico+State+University-Alamogordo&distance=5"
+  },
+  "total_results": 7,
+  "courses": [
+    {
+      "course_id": "ACCT 200",
+      "course_title": "A Survey of Accounting",
+      "credits": "3.00",
+      "description": "Emphasis on financial statement interpretation and development of accounting information for management. For engineering, computer science, and other non-business majors. Prerequisite: one Computer Science course or consent of instructor. Branch campuses only.",
+      "institution": "New Mexico State University-Alamogordo"
+    },
+    {
+      "course_id": "ACCT 251",
+      "course_title": "Management Accounting",
+      "credits": "3.00",
+      "description": "Development and use of accounting information for management decision making.",
+      "institution": "New Mexico State University-Alamogordo"
+    },
+    {
+      "course_id": "AERO 000",
+      "course_title": "Air Force Leadership Laboratory 99 cr. 2P)",
+      "credits": "0.00",
+      "description": "Progressive study and application of Air Force customs, courtesies, drill, ceremonies, military commands, and evaluating these skills. Cadets plan and control the military activities of the cadet corps, prepare and present briefings, motivate, and increase the performance of other cadets. Mandatory each semester for cadets pursuing a commission.",
+      "institution": "New Mexico State University-Alamogordo"
+    },
+    {
+      "course_id": "AERO 121",
+      "course_title": "The Air Force Today I",
+      "credits": "3.00",
+      "description": "Survey course on the USAF and AFROTC. Includes mission and organization of the Air Force, officership and professionalism, military customs and courtesies, as well as basic communication skills. Leadership Lab practicum, AERO 000 is included.",
+      "institution": "New Mexico State University-Alamogordo"
+    },
+    {
+      "course_id": "AERO 122",
+      "course_title": "The Air Force Today II",
+      "credits": "3.00",
+      "description": "Continuation of AERO 121, with emphasis on Air Force officer opportunities, group leadership problems, and further development of communication skills (oral and written). Includes Leadership Lab practicum, AERO 000.",
+      "institution": "New Mexico State University-Alamogordo"
+    },
+    {
+      "course_id": "AERO 221",
+      "course_title": "The Air Force Way I",
+      "credits": "3.00",
+      "description": "Topics include: Air Force heritage, Air Force leaders, an introduction to ethics and values, and an application of communication skills. Facilitates the transition from Air Force ROTC cadet to Air Force ROTC candidate. Includes Leadership Lab practicum, AERO 000.",
+      "institution": "New Mexico State University-Alamogordo"
+    },
+    {
+      "course_id": "AERO 222",
+      "course_title": "The Air Force Way II",
+      "credits": "3.00",
+      "description": "Continuation of AERO 221, including an introduction to leadership, quality Air Force, and continued application of communication skills. Includes Leadership Lab practicum, AERO 000.",
+      "institution": "New Mexico State University-Alamogordo"
+    }
+  ],
+  "timestamp": "2025-08-09T19:13:08.207834"
+}

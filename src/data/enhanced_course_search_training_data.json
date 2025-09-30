@@ -1,0 +1,24 @@
+{
+  "course_search_urls": [
+    "https://bulletin.wfu.edu/course-search/",
+    "https://catalog.hiram.edu/course-search/",
+    "https://soc.uvm.edu",
+    "https://courses.yale.edu",
+    "https://catalog.utexas.edu/course-search/",
+    "https://catalog.mccc.edu/courses?page=1&cq=",
+    "https://catalog.mccc.edu/courses",
+    "https://catalog.mccc.edu/courses?page=1"
+  ],
+  "non_course_search_urls": [
+    "https://bulletin.yale.edu/bulletins-html",
+    "https://www.yale.edu",
+    "https://www.uvm.edu",
+    "https://www.uvm.edu/registrar/uvm-academic-calendar-2024-2025-0",
+    "https://www.uvm.edu/registrar/register-classes",
+    "https://catalog.mccc.edu",
+    "https://catalog.mccc.edu/about/glance",
+    "https://catalog.mccc.edu/enrollment"
+  ],
+  "description": "Enhanced training data including MCCC case",
+  "version": "2.0"
+}

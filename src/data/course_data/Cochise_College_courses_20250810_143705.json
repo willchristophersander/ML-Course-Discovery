@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Cochise College",
+    "successful_variation": "Cochise College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Cochise+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "AGR 101",
+      "course_title": "Principles of Veterinary Science",
+      "credits": "3.00",
+      "description": "Prerequisite(s): None. An introduction to the veterinary sciences for potential pre-veterinary students as well as those students of animal science or husbandry interested in the care and health of all domestic animals and livestock. 3 hours lecture.",
+      "institution": "Cochise College"
+    },
+    {
+      "course_id": "AGR 102",
+      "course_title": "Introduction to Agriculture",
+      "credits": "3.00",
+      "description": "Prerequisite(s): None. An introductory class involving the overall concepts of agriculture. This class introduces the theoretical basis of agriculture in order that the student may better select career options. 3 hours lecture.",
+      "institution": "Cochise College"
+    },
+    {
+      "course_id": "AGR 104",
+      "course_title": "Principles of Agronomy",
+      "credits": "3.00",
+      "description": "Prerequisite(s): None. This course deals with principles of field crop production with special emphasis on origin, distribution, cultural practices and improvements. 3 hours lecture.",
+      "institution": "Cochise College"
+    },
+    {
+      "course_id": "AGR 105",
+      "course_title": "Range Management I",
+      "credits": "3.00",
+      "description": "Prerequisite(s): None. A study of the history of rangeland use, the influences of use on plant physiology and ecology, and the interrelationships and coordination of rangeland uses for farm and ranch managers interested in plants, soils, and livestock. 3 hours lecture.",
+      "institution": "Cochise College"
+    },
+    {
+      "course_id": "AGR 107",
+      "course_title": "Farrier Science",
+      "credits": "3.00",
+      "description": "Prerequisite(s): None. A study of the basic principles of farrier science, including an introduction to the physiology and anatomy of the horse's legs and hooves, horse shoeing, diagnosis of minor hoof and leg problems and proper methods for correcting stride and alignment. 2 hours lecture, 3 hours laboratory.",
+      "institution": "Cochise College"
+    },
+    {
+      "course_id": "AGR 138",
+      "course_title": "Team Roping",
+      "credits": "3.00",
+      "description": "Prerequisite(s): None. This course will provide an opportunity for students to participate for pleasure and for later competition in rodeo team roping. 2 hours lecture, 3 hours laboratory.",
+      "institution": "Cochise College"
+    },
+    {
+      "course_id": "AGR 139",
+      "course_title": "Western Horsemanship",
+      "credits": "3.00",
+      "description": "Prerequisite(s): None. A course enabling students who now own or intend to buy a pleasure horse to handle and care for the animal in the western tradition; how to handle a western saddle, how to select appropriate equipment, how to evaluate a pleasure horse before purchasing, and how to provide for the general well-being of the animal. 2 hours lecture, 3 hours laboratory.",
+      "institution": "Cochise College"
+    },
+    {
+      "course_id": "AGR 140",
+      "course_title": "Rodeo Skills",
+      "credits": "3.00",
+      "description": "Prerequisite(s): None. A course designed for a student to learn rodeo rules and to develop rodeo skills in barrel racing, team roping, calf roping, goat tying, and riding events and the personal ethics and attitudes of a good competitor. 2 hours lecture, 3 hours laboratory. Course descriptions can be found online through the current INFOnline schedule information:www.cochise.edu/information/infonline. HazardousMaterials: Certain courses may require students to work with potentially hazardous materials as part of their course work in the laboratory, darkroom, or workshop. Instructors will provide information on the safe handling of all materials to include upon request material safety data sheets (MSDS). If you have questions regarding the use of these materials or any required protective equipment, ask your instructor or a member of the specific academic department.",
+      "institution": "Cochise College"
+    },
+    {
+      "course_id": "AGR 141",
+      "course_title": "English Equitation",
+      "credits": "3.00",
+      "description": "Prerequisite(s): None. A course for students who now own or intend to purchase a pleasure horse to handle and care for the animal in an arena situation: how to handle English equipment, how to evaluate a pleasure horse and how to provide for the general well-being of the animal. 2 hours lecture, 3 hours laboratory.",
+      "institution": "Cochise College"
+    },
+    {
+      "course_id": "AGR 142",
+      "course_title": "Varsity Rodeo",
+      "credits": "1.00",
+      "description": "Prerequisite(s): Students must try out for the varsity rodeo team. This course is designed to provide the intermediate/advanced rodeo student-athlete with the skills, strategies, and knowledge of the rules necessary to compete at the intercollegiate level. 1 hour lecture, 4 hours laboratory.",
+      "institution": "Cochise College"
+    }
+  ],
+  "timestamp": "2025-08-10T14:37:05.411403"
+}

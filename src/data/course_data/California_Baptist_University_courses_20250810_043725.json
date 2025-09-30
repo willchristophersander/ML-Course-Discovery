@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "California Baptist University",
+    "successful_variation": "California Baptist University",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=California+Baptist+University&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACC 250",
+      "course_title": "Principles of Accounting I Fall",
+      "credits": "3.00",
+      "description": "An introduction to financial accounting, involving its basic structure, the accounting cycles for service andmerchandising enterprises, assets, liabilities, and accounting systems.",
+      "institution": "California Baptist University"
+    },
+    {
+      "course_id": "ACC 251",
+      "course_title": "Principles of Accounting II Spring",
+      "credits": "3.00",
+      "description": "This course has an emphasis on managerial accounting involved with corporations, control accounting, and decision making. Prerequisite: ACC 250.",
+      "institution": "California Baptist University"
+    },
+    {
+      "course_id": "ACC 310",
+      "course_title": "Intermediate Accounting I Fall",
+      "credits": "3.00",
+      "description": "A comprehensive and in-depth coverage of accounting principles. The course is for accounting majors or students wanting a solid understanding of accounting. The accounting cycle steps are reviewed and more complex accounting problems are presented. Topics include cash, short-term investments, accounts receivable, inventories, liabilities, statement of cash flows, revenue recognition, and debt financing. Prerequisite: ACC 251.",
+      "institution": "California Baptist University"
+    },
+    {
+      "course_id": "ACC 311",
+      "course_title": "Intermediate Accounting II Spring",
+      "credits": "3.00",
+      "description": "This course has an emphasis on property, equipment, intangible assets, corporations, long-terminvestments in equity securities, longterm liabilities, accounting for pensions, leases, error corrections, analysis of financial statements, income taxes and financial reporting. Prerequisite: ACC 310.",
+      "institution": "California Baptist University"
+    },
+    {
+      "course_id": "ACC 320",
+      "course_title": "Cost Accounting Fall",
+      "credits": "3.00",
+      "description": "This course covers budgeting, standard costs, analysis of variances, job order and process accounting,profit centers, capital budgeting, and managerial controls. Prerequisite: ACC 251.",
+      "institution": "California Baptist University"
+    },
+    {
+      "course_id": "ACC 330",
+      "course_title": "Governmental and Non-profit Accounting Spring",
+      "credits": "3.00",
+      "description": "Covers municipal, school, university, hospital, church, and other forms of governmental and non-profit organizational accounting. Types of funds discussed are general, revenue, capital projects, enterprise, debt service, and others. Prerequisite: ACC 251.",
+      "institution": "California Baptist University"
+    },
+    {
+      "course_id": "ACC 345",
+      "course_title": "Managerial Accounting Degree Completion",
+      "credits": "3.00",
+      "description": "Introduction to managerial accounting concepts and principles, focusing on the development and application of costing concepts as they apply to manufacturing environments. This includes the collection and reporting of cost data used for planning, controlling and decision-making in a business environment.",
+      "institution": "California Baptist University"
+    },
+    {
+      "course_id": "ACC 350",
+      "course_title": "Financial Accounting I Degree Completion",
+      "credits": "3.00",
+      "description": "A study of accounting principles relating to non-current assets and liabilities emphasizing the measurement and valuation of property, plant and equipment, other long-term assets, and current and long-term liabilities. Emphasis is also placed on the accounting aspects of the operations of sole proprietorships, partnerships and corporations. (This course does not meet the requirements for upper division accounting units within the accounting major).",
+      "institution": "California Baptist University"
+    },
+    {
+      "course_id": "ACC 351",
+      "course_title": "Financial Accounting II Degree Completion",
+      "credits": "3.00",
+      "description": "A continuation of the study of accounting principles relating to non-current assets and liabilities emphasizing the measurement and valuation of property, plant and equipment, other long-term assets, and current and long-term liabilities. Emphasis is also placed on the accounting aspects of the operations of sole proprietorships, partnerships and corporations. Prerequisite: ACC 350 (This course does not meet the requirements for upper division accounting units within the accounting major).",
+      "institution": "California Baptist University"
+    },
+    {
+      "course_id": "ACC 410",
+      "course_title": "Advanced Accounting Fall",
+      "credits": "3.00",
+      "description": "Partnerships, installment sales, consignments, home office and branch relationships, business combinations, receiverships, estates and trusts. Prerequisite: ACC 311.",
+      "institution": "California Baptist University"
+    }
+  ],
+  "timestamp": "2025-08-10T04:37:25.271097"
+}

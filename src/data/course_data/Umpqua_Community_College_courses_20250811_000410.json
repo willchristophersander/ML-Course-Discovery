@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Umpqua Community College",
+    "successful_variation": "Umpqua Community College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Umpqua+Community+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "APP 151",
+      "course_title": "Basic Electronics and Electricity",
+      "credits": "4.00",
+      "description": "This course covers information on basic DC and AC electrical theory, definitions, basic component identification and analysis of series, parallel and combination circuits. Emphasis is placed on practical application, troubleshooting and problem solving. Registration Enforced Prerequisite: Math 052 or 060. 3 lecture, 2 lecture/lab hrs/wk.",
+      "institution": "Umpqua Community College"
+    },
+    {
+      "course_id": "APP 153",
+      "course_title": "Electrical Applications and Techniques",
+      "credits": "3.00",
+      "description": "This course covers basic application techniques and components generally found in the industrial and commercial environments. Focus is on electrical safety and related industry safety standards. The National Electrical Code Book is utilized where applicable to reinforce code rules and proper application of associated articles. Registration Enforced Prerequisites: Math 052 or 060, 3 lecture hrs/wk.",
+      "institution": "Umpqua Community College"
+    },
+    {
+      "course_id": "APP 155",
+      "course_title": "Electrical Best Practices",
+      "credits": "2.00",
+      "description": "The course includes techniques in conduit bending and installation, conductor installation, cable installation and conductor termination, including handson instruction. It covers tools available for installation, fasteners and panelboard mounting. The material presented will stress workmanship and professionalism, and will include a review of NEIS publications. Registration Enforced Prerequisites: Math 052 or 060, 2 lecture hrs/wk.",
+      "institution": "Umpqua Community College"
+    },
+    {
+      "course_id": "APP 157",
+      "course_title": "Introduction to the National Electric Code",
+      "credits": "2.00",
+      "description": "This course is an introduction to the National Electrical Code and examines the structure, language and basic content of the Code. It will examine the basic wiring methods outlined in chapters 1, 2 and 3 of the National Electrical Code and evaluate methods and techniques necessary for a safe and reliable installation. Registration Enforced Prerequisites: Math 052 or 060. 2 lecture hrs/wk.",
+      "institution": "Umpqua Community College"
+    },
+    {
+      "course_id": "APP 159",
+      "course_title": "Blueprint Reading",
+      "credits": "2.00",
+      "description": "This course will provide the apprentice with the knowledge and understanding of how to read, draw, and interpret electrical drawings, symbols, schematics, prints, and schedules. One-line drawings, controller operational sequencing/ troubleshooting, and applicable sections of the National Electrical Code are included. Registration Enforced Prerequisites: Math 052 or 060. 2 lecture hrs/wk.",
+      "institution": "Umpqua Community College"
+    },
+    {
+      "course_id": "APP 160",
+      "course_title": "Residential Wiring",
+      "credits": "3.00",
+      "description": "This course is an introduction to basic residential wiring and calculations. Topics include circuit layout, wiring design, wiring installation, service installation, and service and branch circuit calculations. Design techniques are reinforced through the use of testing equipment and installation practice. Registration Enforced Prerequisites: APP 151, 153, 155, and 157. 3 lecture hrs/wk.",
+      "institution": "Umpqua Community College"
+    },
+    {
+      "course_id": "APP 163",
+      "course_title": "Commercial Wiring",
+      "credits": "3.00",
+      "description": "This course is an introduction to basic commercial wiring and calculations. It will give the student background in all aspects of commercial work, including services. Design techniques are reinforced through the use of testing equipment and installation practice. Registration Enforced Prerequisites: APP 151, 153, 155, and 157. 3 lecture hrs/wk.",
+      "institution": "Umpqua Community College"
+    },
+    {
+      "course_id": "APP 165",
+      "course_title": "AC Electronics and Electricity",
+      "credits": "4.00",
+      "description": "This course covers the theory and application of magnetism, electro-magnetism, the generation of electromotive force, AC and DC motor principles, transformer theory, types and applications. Focus is on alternating current principles and the theories involving the proper wiring of AC circuits. The student will be introduced to electrical control circuits and the operation of a transistor. Registration Enforced Prerequisites: APP 151. 3 lecture, 2 lecture/lab hrs/wk.",
+      "institution": "Umpqua Community College"
+    },
+    {
+      "course_id": "APP 167",
+      "course_title": "Electric Motors and Transformers",
+      "credits": "3.00",
+      "description": "This course investigates the electric motor and transformer, and helps the student differentiate between winding styles, frame sizes, NEMA motor type designations, and other criteria. It discusses motor sizing and motor starting characteristics and methods. Troubleshooting and maintenance are covered. NEC requirements for motor and transformer installation are included. Registration Enforced Prerequisites: APP 153. 3 lecture hrs/wk. general informaion transfer education career & technical undecided contacts index maps",
+      "institution": "Umpqua Community College"
+    },
+    {
+      "course_id": "APP 169",
+      "course_title": "Electrical Code Study II",
+      "credits": "2.00",
+      "description": "This course is an in-depth study of grounding, over-current and electrical safety as found in Articles 240 and 250, along with safety-oriented excerpts found elsewhere in the National Electrical Code. Registration Enforced Prerequisites: APP 157. 2 lecture hrs/wk.",
+      "institution": "Umpqua Community College"
+    }
+  ],
+  "timestamp": "2025-08-11T00:04:10.806736"
+}

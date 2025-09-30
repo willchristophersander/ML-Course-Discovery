@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Francis Marion University",
+    "successful_variation": "Francis Marion University",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Francis+Marion+University&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "AAAS 200",
+      "course_title": "Intro to African American Studies",
+      "credits": "3.00",
+      "description": "Introductory survey course which provides an overview of the field of African American Studies from an interdisciplinary perspective.",
+      "institution": "Francis Marion University"
+    },
+    {
+      "course_id": "AAAS 201",
+      "course_title": "Special Topics in African and African American Studies",
+      "credits": "3.00",
+      "description": "In depth study of an area of interest related to Africa, African American experiences and/or other parts of the African diaspora. Different areas of study will be offered on a rotating basis during various semesters. May be taken up to two times to count toward the program minor or collateral. May be taken for credit toward the Honors degree by special arrangement. Prerequisite: AAAS 200",
+      "institution": "Francis Marion University"
+    },
+    {
+      "course_id": "AAAS 497",
+      "course_title": "African and African American Studies: Special Studies",
+      "credits": "3.00",
+      "description": "Individual research project under the guidance of a faculty member. Research projects must be approved by the African and African American Studies Committee and are reviewed by three faculty members from two different disciplines. Open only to junior and seniors with a grade point average of 3.0 or higher in their major courses. A maximum of three semester hours may be earned. May be taken for credit toward the Honors degree by special arrangement. Prerequisite: AAAS 200",
+      "institution": "Francis Marion University"
+    },
+    {
+      "course_id": "ACTG 201",
+      "course_title": "Financial Accounting",
+      "credits": "3.00",
+      "description": "The conceptual approach to financial accounting. The income statement, retained earnings statement, balance sheet, and cash flow statement are studied with emphasis placed on an understanding of the underlying assumptions, theories, and concepts, as well as a thorough understanding of the basic accounting equation.",
+      "institution": "Francis Marion University"
+    },
+    {
+      "course_id": "ACTG 202",
+      "course_title": "Managerial Accounting",
+      "credits": "3.00",
+      "description": "Introduces the planning and control aspects of internal accounting. Topics include cost systems, cost behavior, direct costing, capital budgeting, decentralized operations, relevant costs, operations budgeting, differential cost, and variance analysis. Prerequisite: ACTG 201",
+      "institution": "Francis Marion University"
+    },
+    {
+      "course_id": "ACTG 320",
+      "course_title": "Accounting Information Systems",
+      "credits": "3.00",
+      "description": "An introduction to the design and implementation of a systematic structure for providing information for decision making for both management and others interested in an organization's operations. It includes data gathering, processing, preparing reports, and controls over the operations of the organization. It includes both manual and computerized systems with emphasis on internal controls. Prerequisite: ACTG 201",
+      "institution": "Francis Marion University"
+    },
+    {
+      "course_id": "ACTG 323",
+      "course_title": "Financial Reporting I",
+      "credits": "3.00",
+      "description": "Reviews the accounting cycle, discusses the conceptual framework as a basis for accounting theory, and provides an in-depth study of GAAP in relation to preparation of financial statements. Topics include the time value of money and accounting for current (and non-current) assets. Prerequisite: ACTG 201",
+      "institution": "Francis Marion University"
+    },
+    {
+      "course_id": "ACTG 324",
+      "course_title": "Financial Reporting II",
+      "credits": "3.00",
+      "description": "This course provides an in-depth study of GAAP in relation to preparation of financial statements, including (1) accounting for current (and non-current) liabilities and stockholders' equity and (2) calculating EPS. Special topics including accounting for investments, income taxes, pensions, and leases. Prerequisite: ACTG 323",
+      "institution": "Francis Marion University"
+    },
+    {
+      "course_id": "ACTG 325",
+      "course_title": "Cost Accounting",
+      "credits": "3.00",
+      "description": "The planning, control, and decision aspects of internal accounting. Topics include cost accumulation and assignment, decentralized operations, and performance measurements Prerequisite: ACTG 202",
+      "institution": "Francis Marion University"
+    },
+    {
+      "course_id": "ACTG 328",
+      "course_title": "Federal Taxation I",
+      "credits": "3.00",
+      "description": "Emphasizes the study of individual income taxation. Major topics revolve around the determination of taxable income, including filing status, gross income and exclusions, deductions, gains and losses. Other areas of study include the federal tax system and tax research. Prerequisite: ACTG 201",
+      "institution": "Francis Marion University"
+    }
+  ],
+  "timestamp": "2025-08-10T06:12:19.509016"
+}

@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Slippery Rock University of Pennsylvania",
+    "successful_variation": "Slippery Rock University of Pennsylvania",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Slippery+Rock+University+of+Pennsylvania&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACCT 101",
+      "course_title": "Taxes in America",
+      "credits": "3.00",
+      "description": "In America, our income is taxed when we earn it and when we spend it. Our property is taxed when we own it and sometimes even when we give it away! We pay taxes to our local, state, and federal governments. Learn where you tax dollars go, how they are used, and how you influence tax legislation. Evaluate how our taxes affect diverse populations in American society.",
+      "institution": "Slippery Rock University of Pennsylvania"
+    },
+    {
+      "course_id": "ACCT 139",
+      "course_title": "Foundations of Academic Discovery",
+      "credits": "3.00",
+      "description": "Foundations of Academic Discovery serves as the entry point to the Rock Integrated Studies Program. With its strong faculty-student interaction, the course promotes intellectual inquiry, critical and creative thinking, and computer skills needed for academic success. Through varied content, the course introduces students to academic discourse and information literacy while exploring topics such as diversity and inclusion and global awareness. This course will set students along the path to becoming engaged with issues and scholarship important to a 21st century education while they learn about themselves and their place in the world.",
+      "institution": "Slippery Rock University of Pennsylvania"
+    },
+    {
+      "course_id": "ACCT 190",
+      "course_title": "Experimental",
+      "credits": "3.00",
+      "description": "A unique and specifically focused course within the general purview of a department which intends to offer it on a \"one time only\" basis and not as a permanent part of the department's curriculum.",
+      "institution": "Slippery Rock University of Pennsylvania"
+    },
+    {
+      "course_id": "ACCT 195",
+      "course_title": "Workshop",
+      "credits": "6.00",
+      "description": "A workshop is a program which is usually of short duration, narrow in scope, often non-traditional in content and format, and on a timely topic.",
+      "institution": "Slippery Rock University of Pennsylvania"
+    },
+    {
+      "course_id": "ACCT 198",
+      "course_title": "Selected Topics",
+      "credits": "3.00",
+      "description": "A Selected Topics course is a normal, departmental offering which is directly related to the discipline, but because of its specialized nature, may not be able to be offered on a yearly basis by the department.",
+      "institution": "Slippery Rock University of Pennsylvania"
+    },
+    {
+      "course_id": "ACCT 209",
+      "course_title": "Financial Accounting",
+      "credits": "3.00",
+      "description": "A study of accounting concepts and principles that govern the recording, processing, and reporting of accounting information. The significance of the financial statements and the analysis of accounting information for investors, creditors, and other external users in the decision making process is emphasized.",
+      "institution": "Slippery Rock University of Pennsylvania"
+    },
+    {
+      "course_id": "ACCT 210",
+      "course_title": "Managerial Accounting",
+      "credits": "3.00",
+      "description": "A study of accounting concepts and procedures used for cost analysis, cost allocation , planning, and reporting accounting information with an internal perspective. The significance of accounting information and the financial statements for management''s decision-making process is emphasized.",
+      "institution": "Slippery Rock University of Pennsylvania"
+    },
+    {
+      "course_id": "ACCT 230",
+      "course_title": "Accounting Information Systems",
+      "credits": "3.00",
+      "description": "Designing effective accounting information systems to generate reliable accounting information is the focus of the course. The significance of accounting information, transaction cycles, systems controls, document flowcharts, and accounting software are emphasized.",
+      "institution": "Slippery Rock University of Pennsylvania"
+    },
+    {
+      "course_id": "ACCT 290",
+      "course_title": "Experimental",
+      "credits": "3.00",
+      "description": "A unique and specifically focused course within the general purview of a department which intends to offer it on a \"one time only\" basis and not as a permanent part of the department's curriculum.",
+      "institution": "Slippery Rock University of Pennsylvania"
+    },
+    {
+      "course_id": "ACCT 295",
+      "course_title": "Workshop",
+      "credits": "6.00",
+      "description": "A workshop is a program which is usually of short duration, narrow in scope, often non-traditional in content and format, and on a timely topic.",
+      "institution": "Slippery Rock University of Pennsylvania"
+    }
+  ],
+  "timestamp": "2025-08-10T18:05:13.288044"
+}

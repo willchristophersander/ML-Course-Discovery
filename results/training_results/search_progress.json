@@ -1,0 +1,103 @@
+{
+  "timestamp": "2025-08-04 20:56:54",
+  "universities": [
+    {
+      "name": "Bergen Community College",
+      "domains": [
+        "bergen.edu"
+      ],
+      "web_pages": [
+        "http://www.bergen.edu"
+      ],
+      "country": "United States",
+      "alpha_two_code": "US",
+      "state-province": null,
+      "course_catalog": null
+    },
+    {
+      "name": "Indiana University of Pennsylvania",
+      "domains": [
+        "iup.edu"
+      ],
+      "web_pages": [
+        "http://www.iup.edu/"
+      ],
+      "country": "United States",
+      "alpha_two_code": "US",
+      "state-province": "Pennsylvania",
+      "course_catalog": null
+    },
+    {
+      "name": "Keene State College",
+      "domains": [
+        "keene.edu"
+      ],
+      "web_pages": [
+        "http://www.keene.edu/"
+      ],
+      "country": "United States",
+      "alpha_two_code": "US",
+      "state-province": null,
+      "course_catalog": null
+    },
+    {
+      "name": "Cuyamaca College",
+      "domains": [
+        "cuyamaca.edu"
+      ],
+      "web_pages": [
+        "http://www.cuyamaca.edu"
+      ],
+      "country": "United States",
+      "alpha_two_code": "US",
+      "state-province": null,
+      "course_catalog": null
+    },
+    {
+      "name": "University of Tulsa",
+      "domains": [
+        "utulsa.edu"
+      ],
+      "web_pages": [
+        "http://utulsa.edu/"
+      ],
+      "country": "United States",
+      "alpha_two_code": "US",
+      "state-province": null,
+      "course_catalog": null
+    }
+  ],
+  "results": [
+    {
+      "university": "Bergen Community College",
+      "domain": "bergen.edu",
+      "course_catalog": null,
+      "confidence": 0.0,
+      "method": null
+    },
+    {
+      "university": "Indiana University of Pennsylvania",
+      "domain": "iup.edu",
+      "course_catalog": "https://iup.edu/catalog",
+      "confidence": 0.9999298011828615,
+      "method": "ml_guessing_parallel_validated"
+    },
+    {
+      "university": "Keene State College",
+      "domain": "keene.edu",
+      "course_catalog": "https://keene.edu/catalog",
+      "confidence": 0.9987086157709332,
+      "method": "ml_guessing_parallel_validated"
+    },
+    {
+      "university": "Cuyamaca College",
+      "domain": "cuyamaca.edu",
+      "course_catalog": null,
+      "confidence": 0.0,
+      "method": null
+    }
+  ],
+  "successful_finds": 2,
+  "start_index": 4,
+  "total_universities": 5
+}

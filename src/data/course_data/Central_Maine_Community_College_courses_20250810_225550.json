@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Central Maine Community College",
+    "successful_variation": "Central Maine Community College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Central+Maine+Community+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACC 208",
+      "course_title": "Financial Accounting",
+      "credits": "3.00",
+      "description": "3 Credits (3 Lecture 0 Lab 0 Shop) 3 hrs/wk (3 Hrs. Lecture) *15 wks This course is a one-semester course for non-accounting majors. It is designed to give students a basic foundation in financial accounting and the language of business. Key topics include the correct classification and recording of accounting transactions, preparation of basic financial statements, and analysis and interpretation of financial data. Students will use computer software in and out of class for some problem solving.",
+      "institution": "Central Maine Community College"
+    },
+    {
+      "course_id": "ACC 210",
+      "course_title": "Principles of Accounting I",
+      "credits": "3.00",
+      "description": "3 Credits (3 Lecture 0 Lab 0 Shop) 3 hrs/wk (3 Hrs. Lecture) *15 wks This course is a beginning accounting course that introduces the student to basic financial statements and the double-entry accounting system. The course includes methods and procedures such as merchandising operations, internal control, accounts and notes receivable and accounting for merchandise inventory.",
+      "institution": "Central Maine Community College"
+    },
+    {
+      "course_id": "ACC 212",
+      "course_title": "Principles of Accounting II",
+      "credits": "3.00",
+      "description": "3 Credits (3 Lecture 0 Lab 0 Shop) 3 hrs/wk (3 Hrs. Lecture) *15 wks This course is designed to further the understanding of basic accounting principles, methods and procedures gained in Principles of Accounting I; for example, inventory valuation, depreciation, partnerships and capital stock. In addition, an integrated computer simulation will be completed at the end of the semester. Prerequisite: ACC 210 or Faculty approval.",
+      "institution": "Central Maine Community College"
+    },
+    {
+      "course_id": "ACC 240",
+      "course_title": "Intermediate Accounting I",
+      "credits": "3.00",
+      "description": "3 Credits (3 Lecture 0 Lab 0 Shop) 3 hrs/wk (3 Hrs. Lecture) *15 wks This course begins with a comprehensive review of accounting principles, including the conceptual framework of accounting as prescribed by the Financial Standards Board (FASB) and Generally Accepted Accounting Principles (GAAP). Other topics include concepts of future and present value, theory underlying revenue recognition practices, internal control procedures for cash, basic alternative inventory valuation methods, as well as recording of investment securities. Prerequisite: ACC 212 with a grade of \"C\" or better or Faculty approval",
+      "institution": "Central Maine Community College"
+    },
+    {
+      "course_id": "ACC 242",
+      "course_title": "Intermediate Accounting II",
+      "credits": "3.00",
+      "description": "3 Credits (3 Lecture 0 Lab 0 Shop) 3 hrs/wk (3 Hrs. Lecture) *15 wks This course continues the intensive study of financial accounting including the valuation of long-term liabilities and accounting for income taxes, leases, and pensions. Other topics are forming a corporation, recording various types of dividends, computing earnings per share, as well as the preparation of the statement of cash flows. Application of accounting principles in recording, reporting, and disclosing accounting changes and prior period adjustments are also included. Prerequisite: ACC 240 with a grade of \"C\" or better or Faculty approval.",
+      "institution": "Central Maine Community College"
+    },
+    {
+      "course_id": "ACC 244",
+      "course_title": "Computerized Accounting",
+      "credits": "3.00",
+      "description": "3 Credits (3 Lecture 0 Lab 0 Shop) 3 hrs/wk (3 Hrs. Lecture) *15 wks This course utilizes QuickBooks integrated accounting software whereby both service and merchandizing businesses are set up from inception. Depending upon the particular business, the following topics will be covered throughout the course: general ledger, accounts payable, accounts receivable, payroll, inventory, job costing, importing and exporting of files, and other advanced QuickBooks applications. The necessity of an audit trail will be emphasized. Prerequisites: ACC 210 or Faculty approval.",
+      "institution": "Central Maine Community College"
+    },
+    {
+      "course_id": "ACC 246",
+      "course_title": "Tax Accounting",
+      "credits": "3.00",
+      "description": "3 Credits (3 Lecture 0 Lab 0 Shop) 3 hrs/wk (3 Hrs. Lecture) *15 wks This introductory course examines taxation for individuals, including Schedule C, which is filed for sole proprietorship businesses. Filing requirements, gross income, exclusions, deductions, exemptions, tax credits, and tax research are a sampling of the topics covered. A general overview of tax consequences for different forms of business entities such as corporations, partnerships, limited liability companies, and S Corporations is included. Prerequisite: ACC 210 or Faculty approval.",
+      "institution": "Central Maine Community College"
+    },
+    {
+      "course_id": "ACC 265",
+      "course_title": "Managerial Accounting",
+      "credits": "3.00",
+      "description": "3 Credits (3 Lecture 0 Lab 0 Shop) 3 hrs/wk (3 Hrs. Lecture) *15 wks This course is an introduction to internal management accounting. Emphasis is on the use of accounting information in controlling the operations of the enterprise. Specific areas covered include: cost classifications, accumulating costs through job order and process costing techniques, budgeting, responsibility accounting, and transfer pricing. The fundamental accounting concepts and techniques for planning and control are applicable to all types of functions of organizations; therefore, this course deals with not-for-profit, retail, wholesale, selling and administrative functions as well as the more traditional manufacturing organizations.",
+      "institution": "Central Maine Community College"
+    },
+    {
+      "course_id": "ACET 113",
+      "course_title": "Architecture & Design",
+      "credits": "3.00",
+      "description": "3 Credits (1 Lecture 2 Lab 0 Shop) 5 hrs/wk (1 Hr. Lecture 4 Hrs. Lab) *15 wks Students will research design and construction processes, materials, and methods to design a commercial wood frame building and its components. The student will be introduced to basic drafting and presentation techniques utilized by the A/E industry utilizing CAD within a \"hands-on\" approach for CAD training for the creation of construction documents. Prerequisite: Score above the 40th percentile on CMTC Assessment Tests, Knowledge of basic computer skills, Co-requisite: ACET 115",
+      "institution": "Central Maine Community College"
+    },
+    {
+      "course_id": "ACET 114",
+      "course_title": "Construction and Materials",
+      "credits": "4.00",
+      "description": "4 Credits (2 Hrs. Lecture 2 Lab 0 Shop) 6 hrs/wk (2 Hrs. Lecture 4 Hrs. Lab) *15 wks. Students will research design and construction processes, materials, and methods to design a commercial masonry steel frame building, components and a preliminary site plan. The student will evaluate and implement expanded concepts in CAD construction document preparation utilized within the A/E industry. The student will expand their knowledge use of CAD through the \"hands-on\" approach for CAD training for the creation, presentation of construction. Prerequisites: ACET 113 and ACET 115.",
+      "institution": "Central Maine Community College"
+    }
+  ],
+  "timestamp": "2025-08-10T22:55:50.423094"
+}

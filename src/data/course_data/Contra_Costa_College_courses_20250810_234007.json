@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Contra Costa College",
+    "successful_variation": "Contra Costa College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Contra+Costa+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACSKL 100",
+      "course_title": "Topics in Academic Skills",
+      "credits": "5.00",
+      "description": "5-4 Units: 9-72 hours of lecture and/or 27-216 hours of laboratory per term, SC, ND This course covers topics in Academic Skills. Topics will be chosen to supplement and serve as additions to current offerings in the area, and will be announced each term in the current schedule of classes. May be repeated three times.",
+      "institution": "Contra Costa College"
+    },
+    {
+      "course_id": "ACSKL 200",
+      "course_title": "Peer Tutoring Certification Level One",
+      "credits": "9.00",
+      "description": "5 Unit: 9 hours of lecture, per term, SC, DG, CSU This course will allow peer tutors to meet the training requirements for Level I certification by the College Reading and Learning Association (CRLA). Topics will include the role and responsibilities of tutors, basic tutoring strategies and techniques, communication skills, and the ethics of tutoring. This course is highly recommended for all peer tutors. Not repeatable.",
+      "institution": "Contra Costa College"
+    },
+    {
+      "course_id": "ACSKL 201",
+      "course_title": "Peer Tutoring Certification Level Two",
+      "credits": "9.00",
+      "description": "5 Unit: 9 hours of lecture, per term, SC, DG, CSU This course will allow peer tutors to meet the training requirements for Level II certification by the College Reading and Learning Association (CRLA). Topics will include record keeping and case management, the characteristics of adult learners and learning styles, cultural awareness and intercultural communication, and tutoring in specific skill and subject areas. This course is recommended for tutors who have completed ACSKL 200. Not repeatable.",
+      "institution": "Contra Costa College"
+    },
+    {
+      "course_id": "ACSKL 801N",
+      "course_title": "CAHSEE-Plus Preparation:English",
+      "credits": "3.00",
+      "description": "This course is designed to provide students with skills and strategies to help them pass the English Language Arts (ELA) portion of the California High School Exit Examination (CAHSEE). In addition, this course will help students develop basic skills in reading, writing and critical thinking with an emphasis on study skills, paragraphing, and essay writing. May be repeated indefinitely.",
+      "institution": "Contra Costa College"
+    },
+    {
+      "course_id": "ACSKL 802N",
+      "course_title": "CAHSEE-Plus Preparation:Math",
+      "credits": "3.00",
+      "description": "This course is designed to prepare students to pass the Math portion of California High School Exit Exam (CAHSEE). Students will learn and demonstrate mastery of targeted Math California Content Standards that are inlcuded on the exam. In addition, the course will include test taking strategies needed to pass the exam, and study skills to help students be successful in a college setting. May be repeated indefinitely.",
+      "institution": "Contra Costa College"
+    },
+    {
+      "course_id": "ACSKL 803N",
+      "course_title": "CAHSEE-Preparation:English",
+      "credits": "3.00",
+      "description": "This course is designed to provide students with skills and strategies to help them pass the English Language Arts (ELA) portion of the California High School Exit Examination (CAHSEE). May be repeated indefinitely.",
+      "institution": "Contra Costa College"
+    },
+    {
+      "course_id": "ACSKL 804N",
+      "course_title": "CAHSEE-Preparation:Math",
+      "credits": "3.00",
+      "description": "This course is designed to prepare students to pass the Math portion of California High School Exit Exam (CAHSEE). They will learn test taking strategies for targeted Math California Content Standards included on the CAHSEE. May be repeated indefinitely.",
+      "institution": "Contra Costa College"
+    },
+    {
+      "course_id": "ACSKL 875N",
+      "course_title": "Supervised Tutoring",
+      "credits": "3.00",
+      "description": "This course provides individualized tutoring designed to assist students to increase their success in college. Students enrolled in this course receive support from trained tutors in one or more college courses per semester. Content will vary depending on the course subject matter. Students must be enrolled in a college credit course and be referred by an instructor or counselor. May be repeated indefinitely.",
+      "institution": "Contra Costa College"
+    },
+    {
+      "course_id": "ADJUS 099",
+      "course_title": "Occupational Work Experience",
+      "credits": "4.00",
+      "description": "1-4 Units: 18-72 hours of work experience, per term, LR, DG, CSU Prerequisite: Employment in career-related field. This course offers on-the-job learning experiences for employed students, whether paid or volunteer, in cooperation with their employers. If students' career goals are directly related to their work they can earn credit for jobs they hold during the term. Students must be enrolled in at least seven units, including their cooperative education units (proportionately fewer in summer session). May be repeated three times.",
+      "institution": "Contra Costa College"
+    },
+    {
+      "course_id": "ADJUS 100",
+      "course_title": "Topics in Administration of Justice",
+      "credits": "10.00",
+      "description": "5-10 Units: 9-180 hours of lecture and/or 27-540 hours of laboratory, per term, CR/NC, DG, CSU This course covers topics in Administration of Justice. Topics will be chosen to supplement and serve as additions to current offerings in the area, and will be announced each term in the current schedule of classes. May be repeated three times.",
+      "institution": "Contra Costa College"
+    }
+  ],
+  "timestamp": "2025-08-10T23:40:07.982071"
+}

@@ -1,0 +1,74 @@
+{
+  "search_query": {
+    "institution": "Duke University",
+    "successful_variation": "Duke University",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Duke+University&distance=5"
+  },
+  "total_results": 9,
+  "courses": [
+    {
+      "course_id": "AAAS 100S",
+      "course_title": "U.S. Critical Studies of Race, Law and the Literary Imagination",
+      "credits": "1.00",
+      "description": "This course explores the intersectionalities of race and law. We'll focus on issues like sexuality, adoption, and marriage, the era and residue of Jim Crow, as well as the meaning and intent of affirmative action in educational contexts. We'll use case law and some literary fiction to expose and explore these issues with a particular interest in understanding how race matters in the construction of US citizenship. Instructor: Holloway.",
+      "institution": "Duke University"
+    },
+    {
+      "course_id": "AAAS 101",
+      "course_title": "Film and the African Diaspora",
+      "credits": "1.00",
+      "description": "Theories and issues of representation and practice, with specific attention to culture, nation, and gender in contemporary and historic black films and filmmakers of Africa and the Diaspora. Instructor: Lubiano",
+      "institution": "Duke University"
+    },
+    {
+      "course_id": "AAAS 102",
+      "course_title": "Duke-Administered Study Abroad: Advanced Special Topics in African and African American Studies",
+      "credits": "1.00",
+      "description": "Topics differ by section. Instructor: Staff",
+      "institution": "Duke University"
+    },
+    {
+      "course_id": "AAAS 104",
+      "course_title": "Special Topics",
+      "credits": "1.00",
+      "description": "Topics vary from semester to semester. Instructor: Staff",
+      "institution": "Duke University"
+    },
+    {
+      "course_id": "AAAS 104S",
+      "course_title": "Special Topics",
+      "credits": "1.00",
+      "description": "Seminar version of African and African American Studies 104. Instructor: Staff",
+      "institution": "Duke University"
+    },
+    {
+      "course_id": "AAAS 106A",
+      "course_title": "Introduction to African and African American Studies",
+      "credits": "1.00",
+      "description": "A range of disciplinary perspectives on key topics in African American Studies: slavery and abolitionism, theories of race and racism, gender and race, the era of Jim Crow, cultural expressions, political and intellectual thought, African American freedom struggles from the seventeenth through the twentieth centuries, and race and public policy. Instructor: Staff",
+      "institution": "Duke University"
+    },
+    {
+      "course_id": "AAAS 106B",
+      "course_title": "Introduction to African and African American Studies",
+      "credits": "1.00",
+      "description": "Same as 106A, except writing across discipline course. Not open to students who have taken African and African American Studies 106 or 106A. Instructor: Staff",
+      "institution": "Duke University"
+    },
+    {
+      "course_id": "AAAS 107",
+      "course_title": "Introduction to African Studies (B) (DS3 or DS4)",
+      "credits": "1.00",
+      "description": "A range of disciplinary perspectives on key topics in contemporary African Studies: nationalism and pan-Africanism, imperialism and colonialism, genocide and famine, development and democratization, art and music, age and gender. Instructor: Staff",
+      "institution": "Duke University"
+    },
+    {
+      "course_id": "AAAS 108S",
+      "course_title": "Gender and Sexuality in Africa",
+      "credits": "1.00",
+      "description": "Constructions of gender and sexuality in different African societies. Related issues of power and inequality. Instructor: Holsey",
+      "institution": "Duke University"
+    }
+  ],
+  "timestamp": "2025-08-10T04:18:44.272816"
+}

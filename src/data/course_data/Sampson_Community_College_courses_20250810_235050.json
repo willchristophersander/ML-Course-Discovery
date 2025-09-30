@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Sampson Community College",
+    "successful_variation": "Sampson Community College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Sampson+Community+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACC 115",
+      "course_title": "College Accounting",
+      "credits": "4.00",
+      "description": "Prerequisites: None Corequisites: None This course introduces basic accounting principles for a sole proprietorship. Topics include the complete accounting cycle with end-of-period statements, bank reconciliation, payrolls, and petty cash. Upon completion, students should be able to demonstrate an understanding of accounting principles and apply those skills to a business organization. This course is intended for those who have not received credit for ACC 120.",
+      "institution": "Sampson Community College"
+    },
+    {
+      "course_id": "ACC 120",
+      "course_title": "Principles of Financial Acct",
+      "credits": "4.00",
+      "description": "Prerequisites: None Corequisites: None This course introduces business decision-making accounting information systems. Emphasis is placed on analyzing, summarizing, reporting, and interpreting financial information. Upon completion, students should be able to prepare financial statements, understand the role of financial information in decision-making and address ethical considerations. This course has been approved to satisfy the Comprehensive Articulation Agreement pre-major and/or elective course requirement.",
+      "institution": "Sampson Community College"
+    },
+    {
+      "course_id": "ACC 121",
+      "course_title": "Prin.of Managerial Acct",
+      "credits": "4.00",
+      "description": "Prerequisites: ACC 120 Corequisites: None This course includes a greater emphasis on managerial and cost accounting skills. Emphasis is placed on managerial accounting concepts for external and internal analysis, reporting and decisionmaking. Upon completion, students should be able to analyze and interpret transactions relating to managerial concepts including product-costing systems. This course has been approved to satisfy the Comprehensive Articulation Agreement pre-major and/or elective course requirement.",
+      "institution": "Sampson Community College"
+    },
+    {
+      "course_id": "ACC 131",
+      "course_title": "Federal Income Taxes",
+      "credits": "3.00",
+      "description": "Prerequisites: None Corequisites: None This course provides an overview of federal income taxes for individuals, partnerships, and corporations. Topics include tax law, electronic research and methodologies and the use of technology for the preparation of individual and business tax returns. Upon completion, students should be able to analyze basic tax scenarios, research applicable tax laws, and complete federal tax returns for individuals, partnerships, and corporations.",
+      "institution": "Sampson Community College"
+    },
+    {
+      "course_id": "ACC 140",
+      "course_title": "Payroll Accounting",
+      "credits": "2.00",
+      "description": "Prerequisites: ACC 115 or ACC 120 Corequisites: None This course covers federal and state laws pertaining to wages, payroll taxes, payroll tax forms, and journal and general ledger transactions. Emphasis is placed on computing wages; calculating social security, income, and unemployment taxes; preparing appropriate payroll tax forms; and journalizing/posting transactions. Upon completion, students should be able to analyze data, make appropriate computations, complete forms, and prepare accounting entries using appropriate technology.",
+      "institution": "Sampson Community College"
+    },
+    {
+      "course_id": "ACC 150",
+      "course_title": "Accounting Software Appl",
+      "credits": "2.00",
+      "description": "Prerequisites: ACC 115 or ACC 120 Corequisites: None This course introduces microcomputer applications related to accounting systems. Topics include general ledger, accounts receivable, accounts payable, inventory, payroll, and correcting, adjusting, and closing entries. Upon completion, students should be able to use a computer accounting package to solve accounting problems.",
+      "institution": "Sampson Community College"
+    },
+    {
+      "course_id": "ACC 220",
+      "course_title": "Intermediate Accounting I",
+      "credits": "4.00",
+      "description": "Prerequisites: ACC 121 Corequisites: None This course is a continuation of the study of accounting principles with indepth coverage of theoretical concepts and financial statements. Topics include generally accepted accounting principles and an extensive analysis of financial statements. Upon completion, students should be able to demonstrate competence in the conceptual framework underlying financial accounting, including the application of financial standards.",
+      "institution": "Sampson Community College"
+    },
+    {
+      "course_id": "ACC 226",
+      "course_title": "Advanced Managerial Acct",
+      "credits": "3.00",
+      "description": "Prerequisites: ACC 121 Corequisites: None This course is designed to develop an appreciation for the uses of cost information in the administration and control of business organizations. Emphasis is placed on how accounting data can be interpreted and used by management in planning and controlling business activities. Upon completion, students should be able to analyze and interpret cost information and present this information in a form that is usable by management.",
+      "institution": "Sampson Community College"
+    },
+    {
+      "course_id": "AGR 110",
+      "course_title": "Agricultural Economics",
+      "credits": "2.00",
+      "description": "Prerequisites: None Corequisites: None This course provides an introduction to basic economic principles in agriculture. Topics include supply and demand, the role of agriculture in the economy, economic systems, and micro- and macroeconomics. Upon completion, students should be able to explain economic systems, interpret supply and demand curves, and complete cost and revenue production schedules.",
+      "institution": "Sampson Community College"
+    },
+    {
+      "course_id": "AGR 150",
+      "course_title": "Ag-O-Metrics",
+      "credits": "3.00",
+      "description": "Prerequisites: None Corequisites: None This course introduces basic calculations for agricultural applications. Topics include the metric system, land measurement, feed efficiency, rate of gain, chemical calibration, and payroll. Upon completion, students should be able to perform calculations that pertain to agricultural production.",
+      "institution": "Sampson Community College"
+    }
+  ],
+  "timestamp": "2025-08-10T23:50:50.967519"
+}

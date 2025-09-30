@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Gallaudet University",
+    "successful_variation": "Gallaudet University",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Gallaudet+University&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACC 207",
+      "course_title": "Introductory Accounting I",
+      "credits": "3.00",
+      "description": "This is the first course of a two-semester sequence. This course covers the basic principles and techniques of accounting from original recording through financial statements for proprietorships, partnerships, and corporations. Prerequisite: ENG 102 or the equivalent",
+      "institution": "Gallaudet University"
+    },
+    {
+      "course_id": "ACC 208",
+      "course_title": "Introductory Accounting II",
+      "credits": "3.00",
+      "description": "This is the second part of a two-semester sequence. This course covers corporation accounting and analysis of financial statements. Prerequisite: ACC 207",
+      "institution": "Gallaudet University"
+    },
+    {
+      "course_id": "ACC 311",
+      "course_title": "Intermediate Accounting I",
+      "credits": "3.00",
+      "description": "This is the first part of a two-semester sequence. This course covers a more detailed application of principles of first-year accounting, theory supporting principles, detailed definition of various parts of the financial statement. Prerequisite: ACC 208; Business department majors only or permission of the department",
+      "institution": "Gallaudet University"
+    },
+    {
+      "course_id": "ACC 312",
+      "course_title": "Intermediate Accounting II",
+      "credits": "3.00",
+      "description": "This is the second part of a two-semester sequence. This course emphasizes the various techniques of accounting for inventory, tangible and intangible assets, liabilities, equity, and investment transactions. Prerequisite: ACC 311",
+      "institution": "Gallaudet University"
+    },
+    {
+      "course_id": "ACC 315",
+      "course_title": "Managerial Cost Accounting",
+      "credits": "3.00",
+      "description": "Study of the concepts, techniques and principles of cost and management accounting. The use of accounting data for managerial decision making, planning, and control. Topics include budgeting, cost concepts, cost behavior, cost- volume- profits relationships, inventory control, standard costs, absorption costing versus direct costing, variance analysis, cost allocations, setting price and international issues. Prerequisites: ACC 208",
+      "institution": "Gallaudet University"
+    },
+    {
+      "course_id": "ACC 316",
+      "course_title": "Nonprofit Organization Accounting",
+      "credits": "3.00",
+      "description": "Course covers the accounting concepts used in governmental units and other not-for-profit organizations such as hospitals, voluntary health and welfare organizations, and others. Emphasis will be placed on the accounting and budgeting procedures used in these organizations. Prerequisites: ACC 311",
+      "institution": "Gallaudet University"
+    },
+    {
+      "course_id": "ACC 323",
+      "course_title": "Accounting Information Systems",
+      "credits": "3.00",
+      "description": "This course provides an opportunity for accounting majors to learn, study, and apply computerized accounting methods. It is designed to introduce students to accounting systems and covers an introduction to the analysis and development of accounting information systems for businesses by giving a systems perspective on some traditional accounting topics. The course provides hands-on experience with an accounting program(s). Students are encouraged to develop individual modules to specific business needs. Prerequisite: ACC 208",
+      "institution": "Gallaudet University"
+    },
+    {
+      "course_id": "ACC 328",
+      "course_title": "Income Tax Accounting",
+      "credits": "3.00",
+      "description": "Study of federal income taxation of individuals and their impact on personal and business financial decision making. Topics include: concepts of gross income, deductions, tax credits, business and personal investment deductions; sale and other dispositions of property; changes in tax law and economic impact of the law. Although the course emphasizes income taxation, issues such as gift, estate, partnership and corporate taxation are discussed. Prerequisites: ACC 208",
+      "institution": "Gallaudet University"
+    },
+    {
+      "course_id": "ACC 415",
+      "course_title": "Advanced Cost Accounting",
+      "credits": "3.00",
+      "description": "Advanced level cost accounting with emphasis on integration of managerial aspects of accounting internal record-keeping, business and managerial functions of decision making, planning, and control. A consideration of quantitative and behavioral aspects. Prerequisite: ACC 315; Business department majors only or permission of the department",
+      "institution": "Gallaudet University"
+    },
+    {
+      "course_id": "ACC 420",
+      "course_title": "Auditing",
+      "credits": "3.00",
+      "description": "An introductory course covering both the concepts and procedures that the auditor must know and follow. The course attempts to give students a comprehensive, one semester review of the auditing field, with an emphasis on the auditing procedures and techniques needed to audit financial statements as well as to provide basic preparation for the CPA exam. Prerequisites: ACC 311; Business department majors only or permission of the department",
+      "institution": "Gallaudet University"
+    }
+  ],
+  "timestamp": "2025-08-10T19:31:04.492401"
+}

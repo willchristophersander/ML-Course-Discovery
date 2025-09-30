@@ -1,0 +1,25 @@
+{
+  "search_query": {
+    "institution": "Cerritos College",
+    "successful_variation": "Cerritos College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Cerritos+College&distance=5"
+  },
+  "total_results": 2,
+  "courses": [
+    {
+      "course_id": "AB 181",
+      "course_title": "Non- Structural Damage Estimating",
+      "credits": "3.00",
+      "description": "Class hours: 3 lecture/1 lab Recommendation: Proficient in MS Windows software applications. This is an entry-level course for students wanting to learn to estimate non-structural (minor) automotive damage from collisions. Emphasis is on vehicle construction and structural design, repair methodology, vehicle component and systems identification, and in developing appropriate \"judgment repair times\" (estimated repair times for damage). Students learn to properly format hand-written estimates identifying the cost of parts, labor, materials, and sublet and other charges required to return damaged vehicles to factory specifications. Hands-on demonstration of repair techniques helps students increase their knowledge of repair processes recommended in their damage estimates. Students use collision estimating guides to establish parts prices and industry standard labor times for replacement and refinishing of damaged parts; additionally, students learn to use \"Procedure Pages\" in the estimating guides for processes not included in the standard times listed in the guide. Computerized estimating is introduced as students demonstrate proficiency in developing concise hand-written estimates. This course may be taken a maximum of 2 time Transfer Credit: CSU",
+      "institution": "Cerritos College"
+    },
+    {
+      "course_id": "AB 182",
+      "course_title": "Structural Damage Estimating",
+      "credits": "3.00",
+      "description": "Class hours: 2.5 Lecture/1.5 Laboratory Prerequisite: AB 181 or equivalent with a grade of Pass or \"C\" or higher, or appropriate work experience. Recommendation: Proficient in MS Windows Software application. This course extends student skills in collision damage estimating of more complex areas of structural, mechanical, and electrical damage to vehicles. Areas of study include expanded understanding of collision theory, damage analysis fundamentals, visual inspection process, measuring and analyzing structural damage, suspension and mechanical systems damage estimating, build tolerances, and safety systems as related to severely damaged vehicles. Other topics include estimator job functions, methods of determining customer satisfaction, regulatory compliance issues, and ethics within the collision repair industry. This course may be taken a maximum of 2 times. Transfer Credit: CSU",
+      "institution": "Cerritos College"
+    }
+  ],
+  "timestamp": "2025-08-10T06:15:47.789126"
+}

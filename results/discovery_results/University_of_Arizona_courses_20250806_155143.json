@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "University of Arizona",
+    "successful_variation": "University of Arizona",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=University+of+Arizona&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ABE 120",
+      "course_title": "Microcomputing Applications",
+      "credits": "3.00",
+      "description": "Description: Using features in word processing, spreadsheet, presentation, and database software so business, volunteer, and personal work can be completed professionally and accurately with ease. Typical structure: Interactive course taught in computer laboratory. Grading: Regular grades are awarded for this course: A B C D E. Typical structure: 1 hour lecture, 6 hours laboratory. Identical to: AGTM 120, FCSC 120, N SC 120, PL S 120. Usually offered: Fall, Spring.",
+      "institution": "University of Arizona"
+    },
+    {
+      "course_id": "ABE 193",
+      "course_title": "Internship",
+      "credits": "3.00",
+      "description": "Description: Specialized work on an individual basis, consisting of training and practice in actual service in a technical, business, or governmental establishment. Grading: Alternative grades are awarded for this course: S P F. Usually offered: Fall, Spring.",
+      "institution": "University of Arizona"
+    },
+    {
+      "course_id": "ABE 199",
+      "course_title": "Independent Study",
+      "credits": "3.00",
+      "description": "Description: Qualified students working on an individual basis with professors who have agreed to supervise such work. Grading: Alternative grades are awarded for this course: S P F. May be repeated: an unlimited number of times, consult your department for details and possible restrictions. Usually offered: Fall, Spring, Summer.",
+      "institution": "University of Arizona"
+    },
+    {
+      "course_id": "ABE 205",
+      "course_title": "Engineering Analytic Computer Skills",
+      "credits": "3.00",
+      "description": "Description: Introduction to Excel, Visual Basic in Excel, Access, and Matlab with an emphasis on flow charts, graphing, regression, if-then, do loops, statistics, functions and subroutines, and copying to and reporting results in Word; applications include biological energy, growth, and CO2 models. Grading: Regular grades are awarded for this course: A B C D E. Prerequisite(s): College of Engineering majors only. Typical structure: 6 hours laboratory, 1 hour lecture. Usually offered: Spring.",
+      "institution": "University of Arizona"
+    },
+    {
+      "course_id": "ABE 284",
+      "course_title": "Biosystems Thermal Engineering",
+      "credits": "3.00",
+      "description": "Description: This course provides an integrated introduction to basic thermal engineering topics. A structured problem-solving approach emphasizes the interrelated roles of Thermodynamics, Fluid Mechanics, and Heat and Mass Transfer relevant to real-world engineering analyses. Grading: Regular grades are awarded for this course: A B C D E. Prerequisite(s): MATH 129, PHYS141. Usually offered: Fall.",
+      "institution": "University of Arizona"
+    },
+    {
+      "course_id": "ABE 296A",
+      "course_title": "Seminar in Biosystems Engineering",
+      "credits": "3.00",
+      "description": "Description: This Seminar will focus on employment in biosystems engineering and engineering professionalism. Topics will include internship opportunities and engineering ethics. Presentations and discussion will provide communication opportunities. Grading: Regular or alternative grades can be awarded for this course: A B C D E or S P C D E. Credit for: 1 unit engineering science. Usually offered: Fall.",
+      "institution": "University of Arizona"
+    },
+    {
+      "course_id": "ABE 299",
+      "course_title": "Independent Study",
+      "credits": "3.00",
+      "description": "Description: Qualified students working on an individual basis with professors who have agreed to supervise such work. Grading: Alternative grades are awarded for this course: S P F. May be repeated: an unlimited number of times, consult your department for details and possible restrictions. Usually offered: Fall, Spring, Summer.",
+      "institution": "University of Arizona"
+    },
+    {
+      "course_id": "ABE 299H",
+      "course_title": "Honors Independent Study",
+      "credits": "3.00",
+      "description": "Description: Qualified students working on an individual basis with professors who have agreed to supervise such work. Grading: Regular grades are awarded for this course: A B C D E. May be repeated: an unlimited number of times, consult your department for details and possible restrictions. Usually offered: Fall, Spring.",
+      "institution": "University of Arizona"
+    },
+    {
+      "course_id": "ABE 320",
+      "course_title": "Introduction to Computer Aided Design",
+      "credits": "3.00",
+      "description": "Description: Introduction to computer aided design concepts and techniques. Two and three-dimensional drawing presentation, methods of graphical communications, data analysis, design synthesis and production methods. Grading: Regular grades are awarded for this course: A B C D E. Special course fee required: $50. Prerequisite(s): computer literacy (Windows). Credit for: 2 units engineering science, 1 unit engineering design. Typical structure: 1 hour lecture, 6 hours laboratory. Identical to: ENGR 320. Usually offered: Fall, Spring.",
+      "institution": "University of Arizona"
+    },
+    {
+      "course_id": "ABE 393",
+      "course_title": "Internship",
+      "credits": "6.00",
+      "description": "Description: Specialized work on an individual basis, consisting of training and practice in actual service in a technical, business, or governmental establishment. Grading: Alternative grades are awarded for this course: S P F. May be repeated: an unlimited number of times, consult your department for details and possible restrictions. Usually offered: Fall, Spring.",
+      "institution": "University of Arizona"
+    }
+  ],
+  "timestamp": "2025-08-06T15:51:43.784022"
+}

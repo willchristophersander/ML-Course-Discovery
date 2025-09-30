@@ -1,0 +1,12 @@
+{
+  "model_name": "course_search_navigator_model",
+  "timestamp": "20250929T061028Z",
+  "artifact_dir": "/Users/will/AppleAppSander/data/training_runs/20250929T061028Z_course_search_navigator_model",
+  "data_sources": [],
+  "data_hash": "f4ea4ff5cb6d86fae7eb974856e08c73",
+  "metadata": {
+    "train_samples": 15,
+    "test_samples": 4
+  },
+  "metrics": {}
+}

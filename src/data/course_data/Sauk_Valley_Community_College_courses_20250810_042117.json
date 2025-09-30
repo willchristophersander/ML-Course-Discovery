@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Sauk Valley Community College",
+    "successful_variation": "Sauk Valley Community College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Sauk+Valley+Community+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACC 100",
+      "course_title": "Basic Accounting",
+      "credits": "3.00",
+      "description": "This course emphasizes the procedural aspects of financial accounting for a sole proprietorship. The entire accounting cycle is analyzed for service and merchandising businesses. Specialized accounting procedures for cash, payroll accounting, the voucher system, and special journals are applied through manual and automated accounting systems. This non-transfer course is intended for those students planning to take only one semester of accounting or for those who need preparation before enrolling in ACC 101. 4 Semester hour(s) Lecture/Lab Hours 4 lec/week",
+      "institution": "Sauk Valley Community College"
+    },
+    {
+      "course_id": "ACC 101",
+      "course_title": "Financial Accounting",
+      "credits": "4.00",
+      "description": "Presents accounting as an information system that produces summary financial statements, primarily for users external to a business or other enterprise. Students study the forms of business organization and the common transactions entered into by businesses. The emphasis is on understanding and applying basic accounting principles and other concepts that guide the reporting of the effect of transactions and other economic events on the financial condition and operating results of a business. How to analyze and interpret historical financial statements, as well, and the limitations of using these in making forward-looking business decisions is included. The primary content emphasis will be accounting for current assets and liabilities, long-term assets and liabilities, corporations cash flow statements, and financial statement analyses. 4 Semester hour(s) Illinois Articulation Initiative (IAI) IAI: BUS 903 Lecture/Lab Hours 4 lec/week",
+      "institution": "Sauk Valley Community College"
+    },
+    {
+      "course_id": "ACC 102",
+      "course_title": "Managerial Accounting",
+      "credits": "3.00",
+      "description": "Presents accounting as a system of producing information for use in internally managing a business. The course emphasizes the identification, accumulation, and interpretation of information for planning, controlling, and evaluating the performance of the separate components of a business. Included is the identification and measurement of the costs of producing goods or services and how to analyze and control these costs. Decision models commonly used in making specific short-term and long-term business decisions also are included. Prerequisite: ACC 101 4 Semester hour(s) Illinois Articulation Initiative (IAI) IAI: BUS 904 Lecture/Lab Hours 4 lec/week",
+      "institution": "Sauk Valley Community College"
+    },
+    {
+      "course_id": "ACC 201",
+      "course_title": "Intermediate Accounting I",
+      "credits": "4.00",
+      "description": "This course provides an in-depth analysis of the theory, concepts, and procedures underlying the preparation of external financial accounting statements and reports for corporate organizations. Accounting principles and concepts are analyzed and developed from a theoretical, conceptual, and historical environment and are then applied to specific business, transaction, and decision situations. Topical coverage includes: review of the financial accounting process; statements of income, retained earnings, cash flows, and balance sheet; time value of money concepts; cash and receivables; valuation of inventories; acquisition and disposition of property, plant, and equipment: depreciation and depletion; and intangible assets. Prerequisite: ACC 102 4 Semester hour(s) Lecture/Lab Hours 4 lec/week",
+      "institution": "Sauk Valley Community College"
+    },
+    {
+      "course_id": "ACC 202",
+      "course_title": "Intermediate Accounting II",
+      "credits": "4.00",
+      "description": "This course (a continuation of Intermediate Accounting I) provides an in-depth analysis of the theory, concepts, and procedures underlying the preparation of external financial statements and reports for corporate organizations. Accounting principles and concepts are analyzed, developed, and then applied to specific business decision situations. A thorough examination of long-term liabilities, stockholders equity, accounting changes, financial analysis and financial reporting through both manual and automated accounting systems is developed. Prerequisite: ACC 201 4 Semester hour(s) Lecture/Lab Hours 4 lec/week",
+      "institution": "Sauk Valley Community College"
+    },
+    {
+      "course_id": "ACC 203",
+      "course_title": "Cost Accounting",
+      "credits": "3.00",
+      "description": "A study of managerial and cost accounting concepts in planning, control and decision-making. Topics include product costing, cost drivers, cost-volume-profit analysis, activity based costing, budgets, standard costs, just-in-time applications and capital budgeting issues. Prerequisite: ACC 102 3 Semester hour(s) Lecture/Lab Hours 3 lec/week",
+      "institution": "Sauk Valley Community College"
+    },
+    {
+      "course_id": "ACC 204",
+      "course_title": "Tax Accounting",
+      "credits": "3.00",
+      "description": "This course provides an introductory study of the current federal revenue acts as they relate primarily to individual income tax theory and practice. Topical coverage includes the individual income tax return, gross income inclusions and exclusions, business expenses and retirement plans, self-employed and employee expenses, itemized and other deductions, credits and special taxes, accounting periods, accounting methods, depreciation, capital gains and losses, and payroll taxes. In addition to individual income tax theory and practice, an overview of partnership and taxation, corporate taxation, and tax administration and planning is provided. Prerequisite: ACC 101 3 Semester hour(s) Lecture/Lab Hours 3 lec/week",
+      "institution": "Sauk Valley Community College"
+    },
+    {
+      "course_id": "ACC 205",
+      "course_title": "Accounting Information Systems",
+      "credits": "3.00",
+      "description": "Accounting Information Systems examines the relationships and distinctions between accounting information systems (AIS) and the total management information system (MIS) environment, with major emphasis on computerized AIS. The AIS course will explore, in detail, several typical AIS application sub-systems, such as: (a) order entry/sales, (b) billing/receivables/cash receipts, (c) inventory, (d) purchasing/payables/cash disbursements, (e) payroll, and (f) materials planning/production. Prerequisite: ACC 102 3 Semester hour(s) Lecture/Lab Hours 3 lec/week.",
+      "institution": "Sauk Valley Community College"
+    },
+    {
+      "course_id": "ACC 207",
+      "course_title": "Accounting for Governmental and Not-For-Profit Organizations",
+      "credits": "3.00",
+      "description": "This course covers the basic accounting concepts and issues associated with non-profit and governmental organizations. The primary focus is on municipal accounting applications, funds, governmental activities, and business-type activities. Prerequisite: ACC 102 3 Semester hour(s) Lecture/Lab Hours 3 lec/week",
+      "institution": "Sauk Valley Community College"
+    },
+    {
+      "course_id": "ART 100",
+      "course_title": "Introduction to Graphic Design",
+      "credits": "3.00",
+      "description": "This course is designed to provide students with the necessary computer and design skills to begin a career in graphic design. Various personal and corporate projects on the computer will deal with the generation and manipulation of images as they relate to design layout and production. 3 Semester hour(s) Lecture/Lab Hours 6 lab/week",
+      "institution": "Sauk Valley Community College"
+    }
+  ],
+  "timestamp": "2025-08-10T04:21:17.746247"
+}

@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Lorain County Community College",
+    "successful_variation": "Lorain County Community College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Lorain+County+Community+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACTG 115",
+      "course_title": "ACCOUNTING WITH QUICKBOOKS",
+      "credits": "3.00",
+      "description": "The course will equip students with the skills needed to effectively use QuickBooks Online for accounting tasks. Students will be able to use hands-on tutorials to learn QuickBooks online, making them proficient in managing financial data, transactions, and reporting within the software.",
+      "institution": "Lorain County Community College"
+    },
+    {
+      "course_id": "ACTG 151",
+      "course_title": "ACCOUNTING I - FINANCIAL",
+      "credits": "4.00",
+      "description": "Introduction to fundamental accounting theory, concepts, analysis and processes. A study of the accounting cycle, nature of accounts and techniques of analyzing, classifying, recording and summarizing basic financial data. An analysis of the corporate financial structure through the preparation and interpretation of the balance sheets, income statement and statement of retained earnings, and the cash flow statement. (TAG, CTAG)",
+      "institution": "Lorain County Community College"
+    },
+    {
+      "course_id": "ACTG 152",
+      "course_title": "ACCOUNTING II - MANAGERIAL",
+      "credits": "4.00",
+      "description": "An introduction to cost and management accounting. An analysis of financial data for the purpose of determining and controlling product costs, preparing budgets, and aiding management in short and long-run decision making. An introduction to Just-In-Time and Activity Based Costing method. (TAG, CTAG)",
+      "institution": "Lorain County Community College"
+    },
+    {
+      "course_id": "ACTG 161",
+      "course_title": "PAYROLL ACCOUNTING",
+      "credits": "3.00",
+      "description": "An accounting course specializing in payroll procedures including personnel records, computing and reporting payroll and related tax return preparation. Key federal payroll laws and \"special payroll situations\" will be introduced. Accessing and using publications and forms from both the IRS and State of Ohio websites.",
+      "institution": "Lorain County Community College"
+    },
+    {
+      "course_id": "ACTG 226",
+      "course_title": "FUND ACCOUNTING",
+      "credits": "4.00",
+      "description": "This course offers insight to governmental and not-for-profit accounting, theory, concepts analysis and processes. Focus will be placed on the Governmental Accounting Standards Board (GASB) as it pertains to: techniques for analyzing and classifying financial data, budgeting, capital project analysis and financial statement preparation.",
+      "institution": "Lorain County Community College"
+    },
+    {
+      "course_id": "ACTG 251",
+      "course_title": "INTERMEDIATE ACCOUNTING I",
+      "credits": "4.00",
+      "description": "A study of accounting concepts, principles and theory with an emphasis on defining and valuing assets and liabilities for the purpose of proper financial statement presentation. Particular attention will be applied to cash, receivables, inventory and plant assets. Laboratory required.",
+      "institution": "Lorain County Community College"
+    },
+    {
+      "course_id": "ACTG 252",
+      "course_title": "INTERMEDIATE ACCOUNTING II",
+      "credits": "4.00",
+      "description": "Continuation of Intermediate Accounting I with emphasis on intangible assets, investments, current liabilities, long term liabilities (including taxes and pensions), corporate owners' equity, cash flows, and error corrections. Laboratory required.",
+      "institution": "Lorain County Community College"
+    },
+    {
+      "course_id": "ACTG 253",
+      "course_title": "FORENSIC ACCOUNTING",
+      "credits": "3.00",
+      "description": "This course would be a comprehensive overview of the field of forensic accounting. It highlights fraud in many different forms. Accounting, legalities, tools and techniques of fraud will be discussed along with organization and highlights from Sarbanes-Oxley. This course will provide a foundation into the connectivity of forensic accounting and fraud examination. Some of the other topics discussed are: ethics, tax and financial statement fraud, business valuation, information security, identity theft and organized crime.",
+      "institution": "Lorain County Community College"
+    },
+    {
+      "course_id": "ACTG 265",
+      "course_title": "COST ACCOUNTING",
+      "credits": "3.00",
+      "description": "Introduction to cost accounting systems and methods. Cost concepts, classifications, and measurement techniques in relation to their importance in income determination, planning and control. Job order and process costing methods. Standard cost accounting procedures and the analysis of variances; cost and profit planning, capital expenditure and planning and other functions and management. This course contains an opportunity for experiential learning with an applied project requirement.",
+      "institution": "Lorain County Community College"
+    },
+    {
+      "course_id": "ACTG 267",
+      "course_title": "FEDERAL INCOME TAX PROCEDURES-INDIVIDUAL",
+      "credits": "4.00",
+      "description": "Introduction to individual taxation, tax research and tax planning. Preparation of individual federal returns.",
+      "institution": "Lorain County Community College"
+    }
+  ],
+  "timestamp": "2025-08-08T19:11:46.729573"
+}

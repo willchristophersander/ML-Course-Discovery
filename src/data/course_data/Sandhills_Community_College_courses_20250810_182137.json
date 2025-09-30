@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Sandhills Community College",
+    "successful_variation": "Sandhills Community College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Sandhills+Community+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACA 118",
+      "course_title": "College Study Skills",
+      "credits": "2.00",
+      "description": "Prerequisites: None Corequisites: None This course covers skills and strategies designed to improve study behaviors. Topics include time management, note taking, test taking, memory techniques, active reading strategies, critical thinking, communication skills, learning styles, and other strategies for effective learning. Upon completion, students should be able to apply appropriate study strategies and techniques to the development of an effective study plan.",
+      "institution": "Sandhills Community College"
+    },
+    {
+      "course_id": "ACA 120",
+      "course_title": "Career Assessment",
+      "credits": "1.00",
+      "description": "Prerequisites: None Corequisites: None This course provides the information and strategies necessary to develop clear personal, academic, and professional goals. Topics include personality styles, goal setting, various college curricula, career choices, and campus leadership development. Upon completion, students should be able to clearly state their personal, academic, and professional goals and have a feasible plan of action to achieve those goals.",
+      "institution": "Sandhills Community College"
+    },
+    {
+      "course_id": "ACC 120",
+      "course_title": "Principles of Financial Accounting",
+      "credits": "3.00",
+      "description": "FS SS Prerequisites Placement into or credit for ENG 111 and MAT 070 Corequisites: None This course introduces business decision-making accounting information systems. Emphasis is placed on analyzing, summarizing, reporting, and interpreting financial information. Upon completion, students should be able to prepare financial statements, understand the role of financial information in decision-making and address ethical considerations. This course has been approved to satisfy the Comprehensive Articulation Agreement pre-major and/or elective course requirement.",
+      "institution": "Sandhills Community College"
+    },
+    {
+      "course_id": "ACC 121",
+      "course_title": "Principles of Managerial Accounting",
+      "credits": "3.00",
+      "description": "FS SS Prerequisites:ACC 120 Corequisites: None This course includes a greater emphasis on managerial and cost accounting skills. Emphasis is placed on managerial accounting concepts for external and internal analysis, reporting and decision-making. Upon completion, students should be able to analyze and interpret transactions relating to managerial concepts including product-costing systems. This course has been approved to satisfy the Comprehensive Articulation Agreement pre-major and/or elective course requirement.",
+      "institution": "Sandhills Community College"
+    },
+    {
+      "course_id": "ACC 131",
+      "course_title": "Federal Income Taxes",
+      "credits": "2.00",
+      "description": "F Prerequisites: None Corequisites: None This course provides an overview of federal income taxes for individuals, partnerships, and corporations. Topics include tax law, electronic research and methodologies and the use of technology for the preparation of individual and business tax returns. Upon completion, students should be able to analyze basic tax scenarios, research applicable tax laws, and complete federal tax returns for individuals, partnerships, and corporations.",
+      "institution": "Sandhills Community College"
+    },
+    {
+      "course_id": "ACC 140",
+      "course_title": "Payroll Accounting",
+      "credits": "2.00",
+      "description": "S Prerequisites:ACC 120 Corequisites: None This course covers federal and state laws pertaining to wages, payroll taxes, payroll tax forms, and journal and general ledger transactions. Emphasis is placed on computing wages; calculating social security, income, and unemployment taxes; preparing appropriate payroll tax forms; and journalizing/posting transactions. Upon completion, students should be able to analyze data, make appropriate computations, complete forms, and prepare accounting entries using appropriate technology.",
+      "institution": "Sandhills Community College"
+    },
+    {
+      "course_id": "ACC 149",
+      "course_title": "Intro to ACC Spreadsheets",
+      "credits": "2.00",
+      "description": "FS Prerequisites:ACC 115 or ACC 120 Corequisites: None This course provides a working knowledge of computer spreadsheets and their use in accounting. Topics include pre-programmed problems, model-building problems, beginning-level macros, graphics, and what-if analysis enhancements of template problems. Upon completion, students should be able to use a computer spreadsheet to complete many of the tasks required in accounting.",
+      "institution": "Sandhills Community College"
+    },
+    {
+      "course_id": "ACC 150",
+      "course_title": "Accounting Software Applications",
+      "credits": "2.00",
+      "description": "FS Prerequisites:ACC 115 or ACC 120 Corequisites: None This course introduces microcomputer applications related to accounting systems. Topics include general ledger, accounts receivable, accounts payable, inventory, payroll, and correcting, adjusting, and closing entries. Upon completion, students should be able to use a computer accounting package to solve accounting problems. These concepts are taught using Quickbooks and hands-on training which will provide students with practical experience to take into the workplace.",
+      "institution": "Sandhills Community College"
+    },
+    {
+      "course_id": "ACC 151",
+      "course_title": "Acct Spreadsheet Appl",
+      "credits": "2.00",
+      "description": "Prerequisites ACC 149 Corequisites: None This course is designed to facilitate the use of spreadsheet technology as applied to accounting principles. Emphasis is placed on using spreadsheet software as a problem-solving and decision-making tool. Upon completion, students should be able to demonstrate an understanding of the principles involved and display an analytical problem-solving ability for the topics covered.",
+      "institution": "Sandhills Community College"
+    },
+    {
+      "course_id": "ACC 175",
+      "course_title": "Hotel and Restaurant Acct",
+      "credits": "3.00",
+      "description": "Prerequisites: None Corequisites: None This course covers generally accepted accounting principles and the uniform system of accounts for small hotels and motels of the American Hotel and Motel Association. Emphasis is placed on the accounting cycle, analysis of financial statements, and payroll procedures including treatment of tips. Upon completion, students should be able to demonstrate competence in the accounting principles and procedures used in hotels and restaurants.",
+      "institution": "Sandhills Community College"
+    }
+  ],
+  "timestamp": "2025-08-10T18:21:37.540533"
+}

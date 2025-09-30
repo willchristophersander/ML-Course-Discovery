@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Wichita State University",
+    "successful_variation": "Wichita State University",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Wichita+State+University&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACCT 190",
+      "course_title": "Selected Topics",
+      "credits": "3.00",
+      "description": "Selected Topics Repeatable with departmental consent.",
+      "institution": "Wichita State University"
+    },
+    {
+      "course_id": "ACCT 210",
+      "course_title": "Financial Accounting",
+      "credits": "3.00",
+      "description": "Financial Accounting The study of accounting as a means of communicating financial information about the activities of business enterprises. Emphasizes concepts and principles underlying the measurement of income and financial position and how this information may be used to evaluate the progress of a firm.",
+      "institution": "Wichita State University"
+    },
+    {
+      "course_id": "ACCT 220",
+      "course_title": "Managerial Accounting",
+      "credits": "3.00",
+      "description": "Managerial Accounting The study of accounting in terms of management's information requirements. Emphasizes the use of accounting information to assist management in planning, analyzing, and implementing business decisions and activities. Prerequisite: ACCT 210.",
+      "institution": "Wichita State University"
+    },
+    {
+      "course_id": "ACCT 310",
+      "course_title": "Fin Acct & Reporting: Assets",
+      "credits": "3.00",
+      "description": "ACCT 310. Financial Accounting and Reporting: Assets An in-depth study of the conceptual and technical aspects of financial accounting. Emphasizes recognition and measurement problems of income determination and balance sheet presentation. Covers asset accounting in depth. Prerequisites: completion of ACCT 210 and BADM 160 with a grade of C (2.000) or better, advanced standing, junior standing.",
+      "institution": "Wichita State University"
+    },
+    {
+      "course_id": "ACCT 320",
+      "course_title": "Acct Decision Making & Control",
+      "credits": "3.00",
+      "description": "Accounting for Decision Making and Control The use of accounting information to assist management in planning, analyzing, and implementing processes for decision making and control. Focus is operational control in contemporary business contexts. Prerequisites: completion of ACCT 220 and 260 with a grade of C or better, advanced standing, junior standing.",
+      "institution": "Wichita State University"
+    },
+    {
+      "course_id": "ACCT 390",
+      "course_title": "Spec Group Studies in BA",
+      "credits": "3.00",
+      "description": "Special Group Studies in Business Repeatable for credit with School of Accountancy consent. Prerequisites: junior standing, advanced standing.",
+      "institution": "Wichita State University"
+    },
+    {
+      "course_id": "ACCT 390A",
+      "course_title": "Acct Micro-Comp",
+      "credits": "2.00",
+      "description": "No course description available.",
+      "institution": "Wichita State University"
+    },
+    {
+      "course_id": "ACCT 390B",
+      "course_title": "Internal Auditing",
+      "credits": "3.00",
+      "description": "No course description available.",
+      "institution": "Wichita State University"
+    },
+    {
+      "course_id": "ACCT 410",
+      "course_title": "Fin Acct & Report: Equities",
+      "credits": "3.00",
+      "description": "Financial Accounting and Reporting: Equities A continuation of ACCT 310. Emphasizes liabilities and equity. Prerequisites: completion of ACCT 310 with a grade of C or better, advanced standing, junior standing.",
+      "institution": "Wichita State University"
+    },
+    {
+      "course_id": "ACCT 430",
+      "course_title": "Intro Federal Income Tax",
+      "credits": "3.00",
+      "description": "Introduction to Federal Income Tax An overview of the federal tax law and those laws specifically applicable to individuals and sole proprietors. Also introduces tax research techniques. Prerequisites: completion of ACCT 310 with a grade of C or better, advanced standing, junior standing.",
+      "institution": "Wichita State University"
+    }
+  ],
+  "timestamp": "2025-08-08T17:37:57.781536"
+}

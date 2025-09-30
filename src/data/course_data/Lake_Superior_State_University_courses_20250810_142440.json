@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Lake Superior State University",
+    "successful_variation": "Lake Superior State University",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Lake+Superior+State+University&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACTG 132",
+      "course_title": "Principles of Accounting I",
+      "credits": "4.00",
+      "description": "An introduction to the principles and procedures of accounting as applied to proprietorships and corporations. Areas of study include the accounting, internal control and the asset, liability and equity sections of the balance sheet. (4,0) 4",
+      "institution": "Lake Superior State University"
+    },
+    {
+      "course_id": "ACTG 133",
+      "course_title": "Principles of Accounting II",
+      "credits": "4.00",
+      "description": "This course emphasizes the role of managerial accounting information within a firm. Topics include budgeting, responsibility accounting, cost allocations, cost behavior, decision models, product costing, cost control, performance evaluation, capital budgeting, cash flows and methods of financial analysis. Prerequisite: Grade of C or higher in ACTG132. (4,0) 4",
+      "institution": "Lake Superior State University"
+    },
+    {
+      "course_id": "ACTG 177",
+      "course_title": "Electives",
+      "credits": "999.00",
+      "description": "No course description available.",
+      "institution": "Lake Superior State University"
+    },
+    {
+      "course_id": "ACTG 230",
+      "course_title": "Fund of Accounting",
+      "credits": "4.00",
+      "description": "This course is designed to give non-business majors an understanding of the accounting process and the knowledge to read, understand, and use financial statements and reports in making decisions. The emphasis is on the use, rather than the generation, of accounting information. This course is not open to business majors. (4,0) 4",
+      "institution": "Lake Superior State University"
+    },
+    {
+      "course_id": "ACTG 232",
+      "course_title": "Intermediate Accounting I",
+      "credits": "4.00",
+      "description": "A review of the general theoretical framework and process of accounting for use as a reference in an intensive study of accounting doctrines and procedures proposed by various authoritative groups. Topics: Generally accepted accounting principles; the accounting process; balance sheet; income statement; present value principles and application; cash and temporary investments; receivables; inventories, plant and intangible assets; and long term investments. Prerequisites: ACTG132 and ACTG133. (4,0) 4",
+      "institution": "Lake Superior State University"
+    },
+    {
+      "course_id": "ACTG 233",
+      "course_title": "Intermediate Accounting II",
+      "credits": "4.00",
+      "description": "Continuation of ACTG232 with reference to accounting theory as applied to specific critical areas of financial data accumulation and presentation. Emphasis is placed on valuation concepts and their influence on contemporary practice. Topics: Liabilities; long term debt securities; owner's equity; earnings and revenue recognition; income taxes; leases; pensions; error correction; cash flows; and financial statement analysis. Prerequisite: ACTG232. (4,0) 4",
+      "institution": "Lake Superior State University"
+    },
+    {
+      "course_id": "ACTG 277",
+      "course_title": "Electives",
+      "credits": "999.00",
+      "description": "No course description available.",
+      "institution": "Lake Superior State University"
+    },
+    {
+      "course_id": "ACTG 300",
+      "course_title": "Special Topics:",
+      "credits": "2.00",
+      "description": "Field instruction and practical experience in Federal and State Income Tax preparation. Prerequisite: ACTG421. Repeat two times for a maximum of 4 credits. (0,1-2)1-2",
+      "institution": "Lake Superior State University"
+    },
+    {
+      "course_id": "ACTG 332",
+      "course_title": "Cost Management I",
+      "credits": "4.00",
+      "description": "A study of contemporary production costing and cost management practices. Topics include job order and process costing systems, value chain management, activity based costing, activity based management, customer profitability, managing quality and time, cost allocations, joint process costing, and managing support service costs. Prerequisite: Completion of Pre Business Core and ACTG133. (4,0) 4",
+      "institution": "Lake Superior State University"
+    },
+    {
+      "course_id": "ACTG 333",
+      "course_title": "Cost Management II",
+      "credits": "4.00",
+      "description": "A continuation of ACTG332. Topics include cost estimation procedures and computer applications, financial and CVP models, cost management and decision making, strategic issues in capital investment decision, budgeting and financial planning, standard costing, traditional- and activity-based budgeting, performance evaluation, transfer pricing, and incentive systems for performance evaluation. Prerequisites: Completion of Pre Business Core and ACTG332 and DATA235. (4,0) 4",
+      "institution": "Lake Superior State University"
+    }
+  ],
+  "timestamp": "2025-08-10T14:24:40.906241"
+}

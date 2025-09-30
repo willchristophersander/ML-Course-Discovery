@@ -1,0 +1,80 @@
+{
+  "timestamp": "2025-08-09T19:52:50.424142",
+  "analysis": {
+    "total_universities": 3,
+    "discovery_success_rate": 1.0,
+    "avg_discovery_confidence": 0.7816666666666667,
+    "ct_availability_rate": 0.3333333333333333,
+    "colleges_with_ct_courses": 1,
+    "validation_success_rate": 1.0,
+    "avg_validation_confidence": 0.8,
+    "course_finding_rate": 0.2,
+    "avg_discovery_time": 13.36319104830424,
+    "avg_validation_time": 2.4389034112294516,
+    "successful_discoveries": [
+      {
+        "university": "Capitol Technology University",
+        "url": "https://mycapitol.captechu.edu/ICS/College_Offices/The_Office_of_Registration_and_Records/Register_for_Classes.jnz?portlet=Course_Schedules&screen=Advanced+Course+Search&screenType=next",
+        "discovery_confidence": 0.81,
+        "validation_confidence": 0.8,
+        "courses_found": "1/5"
+      },
+      {
+        "university": "Monterey Peninsula College",
+        "url": "https://webreg.mpc.edu/SR_ScheduleOfClasses.aspx",
+        "discovery_confidence": 0.765,
+        "validation_confidence": 0.0,
+        "courses_found": "0/0"
+      },
+      {
+        "university": "Bakersfield College",
+        "url": "https://www.bakersfieldcollege.edu/services-and-resources/how-to-library/register-for-classes.html",
+        "discovery_confidence": 0.77,
+        "validation_confidence": 0.0,
+        "courses_found": "0/0"
+      }
+    ],
+    "failed_discoveries": []
+  },
+  "detailed_results": [
+    {
+      "university_name": "Capitol Technology University",
+      "discovered_url": "https://mycapitol.captechu.edu/ICS/College_Offices/The_Office_of_Registration_and_Records/Register_for_Classes.jnz?portlet=Course_Schedules&screen=Advanced+Course+Search&screenType=next",
+      "discovery_success": true,
+      "discovery_confidence": 0.81,
+      "validation_success": true,
+      "validation_confidence": 0.8,
+      "test_courses_found": 1,
+      "total_test_courses": 5,
+      "error_message": null,
+      "discovery_time": 13.727355003356934,
+      "validation_time": 2.3630239963531494
+    },
+    {
+      "university_name": "Monterey Peninsula College",
+      "discovered_url": "https://webreg.mpc.edu/SR_ScheduleOfClasses.aspx",
+      "discovery_success": true,
+      "discovery_confidence": 0.765,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No test courses found in CollegeTransfer.net",
+      "discovery_time": 12.812780857086182,
+      "validation_time": 2.4897372722625732
+    },
+    {
+      "university_name": "Bakersfield College",
+      "discovered_url": "https://www.bakersfieldcollege.edu/services-and-resources/how-to-library/register-for-classes.html",
+      "discovery_success": true,
+      "discovery_confidence": 0.77,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No test courses found in CollegeTransfer.net",
+      "discovery_time": 13.549437284469604,
+      "validation_time": 2.463948965072632
+    }
+  ]
+}

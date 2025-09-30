@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Lake Erie College of Osteopathic Medicine",
+    "successful_variation": "Lake Erie College of Osteopathic Medicine",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Lake+Erie+College+of+Osteopathic+Medicine&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACCT 213",
+      "course_title": "Fundamentals of Accounting I",
+      "credits": "4.00",
+      "description": "Study of the following fundamental principles of accounting: accounting cycle for individuals, services, and merchandising enterprises; use of special journals; controlling accounts; preparation and analysis of financial statements; valuation of inventories; plant assets and intangible assets; systems and controls. 4 hours, 1 semester, 4 credits",
+      "institution": "Lake Erie College of Osteopathic Medicine"
+    },
+    {
+      "course_id": "ACCT 214",
+      "course_title": "Fundamental of Acounting II",
+      "credits": "4.00",
+      "description": "Requisite: Acct. 213 The study of the accounting fundamentals. Includes fixed assets and intangible assets, Principles & Systems, introduction to different types of organizations such as partnerships and corporations; longterm liabilities and investments. Preparation of the cash-flow statement. 4 hours, 1 semester, 4 credits",
+      "institution": "Lake Erie College of Osteopathic Medicine"
+    },
+    {
+      "course_id": "ACCT 315",
+      "course_title": "Managerial Accounting",
+      "credits": "3.00",
+      "description": "Requisite: ACCT 214 Analysis and evaluation of accounting information; is usefulness within the business planning in order to maximize the resources in managerial decision making. 3 hours, 1 semester, 3 credits",
+      "institution": "Lake Erie College of Osteopathic Medicine"
+    },
+    {
+      "course_id": "ACCT 317",
+      "course_title": "Intermediate Accounting I",
+      "credits": "3.00",
+      "description": "Requisite: ACCT 214 Intensive study of accounting behavior and theoretical frame related to financial accounting. Classification and valuation of balance sheet, income statement, capital changes statement and cash flow statement. Include also other aspect of financial statement procedure. Corporation and partnership features, the current operation concept of net income, and the all inclusive theory (clean surplus); cash and accrual basis; cash and receivables; inventories and special methods for valuating inventories. 4 hours, 1 semester, 3 credits",
+      "institution": "Lake Erie College of Osteopathic Medicine"
+    },
+    {
+      "course_id": "ACCT 318",
+      "course_title": "Intermediate Accounting II",
+      "credits": "3.00",
+      "description": "Requisite: ACCT 317 Study of acquisition, depreciation, disposition, and leases of property, plant and equipment; including depletion for the natural resources and amortization of intangible assets. Accounting for long-term liabilities and receivables, and investments on financial assets. Study of corporate capital structure, earnings per share, retained earnings and dividends. Analysis of financial statements related with discussion topics.",
+      "institution": "Lake Erie College of Osteopathic Medicine"
+    },
+    {
+      "course_id": "ACCT 320",
+      "course_title": "Governmental Accounting",
+      "credits": "3.00",
+      "description": "Requisite: ACCT 317 Study of financial reporting, accounting principles, operating and budgetary statement accounts, accounting for governmental operating activities, illustrative transactions and financial statements according to GASB #34 pronouncements model and more resenting pronouncements for state and local governments. Accounting for general capital assets, capital projects, general long-term liabilities and debt service, business-type and fiduciary activities for state and local governments. 3 hours, 1 semester, 3 credits",
+      "institution": "Lake Erie College of Osteopathic Medicine"
+    },
+    {
+      "course_id": "ACCT 322",
+      "course_title": "Tax Law I",
+      "credits": "3.00",
+      "description": "Requisite: ACCT 213-214 Study of the principles procedures and applications of Puerto Rico Income Tax Law including individual tax payers, partnerships, estates, trusts and corporations, preparation of Income Tax and other forms. Study of the Internal Revenue Code of Puerto Rico related to the above areas, governmental agency and decisions of Courts. Workshops about practical problems related to tax corporations and addendums. 4 hours, 1 semester, 3 credits",
+      "institution": "Lake Erie College of Osteopathic Medicine"
+    },
+    {
+      "course_id": "ACCT 325",
+      "course_title": "Accounting For Nonprofit Entities",
+      "credits": "3.00",
+      "description": "Requisite: ACCT 320 Study of accounting for nonprofit entities, regulatory, taxation, and performance issues. Including: colleges, universities, health care organizations, and others entities. Accounting and reporting for the federal government, budgeting and costing of governmental services as part of the nonprofit sector. Analysis of financial performance and auditing for nonprofit organizations. 4 hours, 1 semester, 3 credits",
+      "institution": "Lake Erie College of Osteopathic Medicine"
+    },
+    {
+      "course_id": "ACCT 340",
+      "course_title": "International Accounting",
+      "credits": "3.00",
+      "description": "Requisite: ACCT 213-214 Study of the international accounting dimensions related to foreign currency; auditing procedures; financial statements and taxes. Include: efforts to harmonize and issuing international accounting standards; comparison of foreign countries accounting procedures; economic, political, legal and cultural factors, managerial accounting systems for gather information, for planning and control and for establishing performance measures. 3 hours, 1 semester, 3 credits",
+      "institution": "Lake Erie College of Osteopathic Medicine"
+    },
+    {
+      "course_id": "ACCT 419",
+      "course_title": "Advanced Accounting",
+      "credits": "3.00",
+      "description": "Requisite: ACCT 318 Intensive study of specialized areas of accounting involving organization liquidation of partnership. Discussion of complex accounting areas such as: Consolidation; of Interest theories. Preparation of consolidated financial statement. In addition the course covers discussion of accounting for a segment report and interim Financial Statement. 4 hours, 1 semester, 3 credits",
+      "institution": "Lake Erie College of Osteopathic Medicine"
+    }
+  ],
+  "timestamp": "2025-08-08T17:34:22.984339"
+}

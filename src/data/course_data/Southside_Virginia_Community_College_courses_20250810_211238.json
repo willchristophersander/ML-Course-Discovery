@@ -1,0 +1,74 @@
+{
+  "search_query": {
+    "institution": "Southside Virginia Community College",
+    "successful_variation": "Southside Virginia Community College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Southside+Virginia+Community+College&distance=5"
+  },
+  "total_results": 9,
+  "courses": [
+    {
+      "course_id": "ACC 212",
+      "course_title": "Principles of Accounting II",
+      "credits": "4.00",
+      "description": "Emphasizes partnerships, corporations and the study of financial analysis. Includes and introduces cost/managerial accounting concepts. Lecture 4 hours per week. Basic math competence and college reading competence required.",
+      "institution": "Southside Virginia Community College"
+    },
+    {
+      "course_id": "ACC 215",
+      "course_title": "Computerized Accounting",
+      "credits": "4.00",
+      "description": "Introduces the computer in solving accounting problems. Focuses on operation of computers. Presents the accounting cycle and financial statement preparation in a computerized system and other applications for financial and managerial accounting. Prerequisite or co-requisite ACC 211 or equivalent. Lecture 3-4 hours per week. Basic math competence and college reading competence required.",
+      "institution": "Southside Virginia Community College"
+    },
+    {
+      "course_id": "ACC 221",
+      "course_title": "Intermediate Accounting I",
+      "credits": "4.00",
+      "description": "Covers accounting principles and theory, including a review of the accounting cycle and accounting for current assets, current liabilities and investments. Introduces various accounting approaches and demonstrates the effect of these approaches on the financial statement users. Prerequisite ACC 212 or equivalent. Lecture 3-4 hours per week. Basic math competence and college reading competence required.",
+      "institution": "Southside Virginia Community College"
+    },
+    {
+      "course_id": "ACC 222",
+      "course_title": "Intermediate Accounting II",
+      "credits": "4.00",
+      "description": "Continues accounting principles and theory with emphasis on accounting for fixed assets, intangibles, corporate capital structure, long-term liabilities, and investments. Prerequisite ACC 221 or equivalent. Lecture 3-4 hours per week. Basic math competence and college reading competence required.",
+      "institution": "Southside Virginia Community College"
+    },
+    {
+      "course_id": "ACC 241",
+      "course_title": "Auditing I",
+      "credits": "3.00",
+      "description": "Presents techniques of investigating, interpreting, and appraising accounting records and assertions. Studies internal control design and evaluation, evidence- gathering techniques and other topics. Prerequisite or co-requisite ACC 212 or equivalent. Lecture 3 hours per week. Basic math competence and college reading competence required.",
+      "institution": "Southside Virginia Community College"
+    },
+    {
+      "course_id": "ACC 261",
+      "course_title": "Principles of Federal Taxation I",
+      "credits": "3.00",
+      "description": "Presents the study of federal taxation as it relates to individuals and other tax entities. Includes tax planning, compliance and reporting. Lecture 3 hours per week. Basic math competence and college reading competence required.",
+      "institution": "Southside Virginia Community College"
+    },
+    {
+      "course_id": "ADJ 106",
+      "course_title": "Crime and Justice in America",
+      "credits": "3.00",
+      "description": "Examines current issues and trends of crime and responses (attitudes, behaviors, structures--both private and public) to crime. Lecture 3 hours per week.",
+      "institution": "Southside Virginia Community College"
+    },
+    {
+      "course_id": "ADJ 111",
+      "course_title": "Law Enforcement Organization and Administration I",
+      "credits": "3.00",
+      "description": "Teaches the principles of organization and administration of law enforcement agencies. Studies the management of line operations, staff and auxiliary services, investigative and juvenile units. Introduces the concept of data processing; examines policies, procedures, rules, and regulations pertaining to crime prevention. Surveys concepts of protection of life and property, detection of offenses, and apprehension of offenders. Prerequisite for ADJ 112, divisional approval or ADJ 111. Lecture 3 hours per week.",
+      "institution": "Southside Virginia Community College"
+    },
+    {
+      "course_id": "ADJ 115",
+      "course_title": "Patrol Procedures",
+      "credits": "3.00",
+      "description": "Describes, instructs and evaluates street-level procedures commonly employed by patrol officers in everyday law enforcement operations. Lecture 3 hours per week.",
+      "institution": "Southside Virginia Community College"
+    }
+  ],
+  "timestamp": "2025-08-10T21:12:38.858022"
+}

@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Vance-Granville Community College",
+    "successful_variation": "Vance-Granville Community College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Vance-Granville+Community+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACA 090",
+      "course_title": "Study Skills",
+      "credits": "3.00",
+      "description": "Prerequisites: None Corequisites: None This course is intended for those who placed into credit-level course work but who are not maintaining satisfactory academic progress toward meeting program goals. Topics include study skills, note taking, learning styles and strategies, test taking, goal setting, and self-assessment skills. Upon completion, students should be able to manage their learning experiences to successfully meet educational goals.",
+      "institution": "Vance-Granville Community College"
+    },
+    {
+      "course_id": "ACA 111",
+      "course_title": "College Student Success",
+      "credits": "3.00",
+      "description": "Prerequisites: None Corequisites: None This course introduces the college's physical, academic, and social environment and promotes the personal development essential for success. Topics include campus facilities and resources; policies, procedures, and programs; study skills; and life management issues such as health, self-esteem, motivation, goal-setting, diversity, and communication. Upon completion, students should be able to function effectively within the college environment to meet their educational objectives.",
+      "institution": "Vance-Granville Community College"
+    },
+    {
+      "course_id": "ACA 115",
+      "course_title": "Success & Study Skills",
+      "credits": "3.00",
+      "description": "Prerequisites: None Corequisites: None This course provides an orientation to the campus resources and academic skills necessary to achieve educational objectives. Emphasis is placed on an exploration of facilities and services, study skills, library skills, self-assessment, wellness, goal-setting, and critical thinking. Upon completion, students should be able to manage their learning experiences to successfully meet educational goals.",
+      "institution": "Vance-Granville Community College"
+    },
+    {
+      "course_id": "ACA 122",
+      "course_title": "College Transfer Success",
+      "credits": "3.00",
+      "description": "Prerequisites: None Corequisites: None This course provides information and strategies necessary to develop clear academic and professional goals beyond the community college experience. Topics include the CAA, college culture, career exploration, gathering information on senior institutions, strategic planning, critical thinking, and communications skills for a successful academic transition. Upon completion, students should be able to develop an academic plan to transition successfully to senior institutions. This course has been approved to satisfy the Comprehensive Articulation Agreement for transferability as a premajor and/or elective course requirement.",
+      "institution": "Vance-Granville Community College"
+    },
+    {
+      "course_id": "ACC 115",
+      "course_title": "College Accounting",
+      "credits": "3.00",
+      "description": "Prerequisites Local, ENG 080, MAT 060, RED 090 Corequisites: None This course introduces basic accounting principles for a sole proprietorship. Topics include the complete accounting cycle with end-of-period statements, bank reconciliation, payrolls, and petty cash. Upon completion, students should be able to demonstrate an understanding of accounting principles and apply those skills to a business organization.",
+      "institution": "Vance-Granville Community College"
+    },
+    {
+      "course_id": "ACC 129",
+      "course_title": "Individual Income Taxes",
+      "credits": "3.00",
+      "description": "Prerequisites: None Corequisites: None This course introduces the relevant laws governing individual income taxation. Emphasis is placed on filing status, exemptions for dependents, gross income, adjustments, deductions, and computation of tax. Upon completion, students should be able to complete various tax forms pertaining to the topics covered in the course.",
+      "institution": "Vance-Granville Community College"
+    },
+    {
+      "course_id": "ACC 130",
+      "course_title": "Business Income Taxes",
+      "credits": "3.00",
+      "description": "Prerequisites: Local, ACC 129 Corequisites: None This course introduces the relevant laws governing business and fiduciary income taxes. Topics include tax depreciation, accounting periods and methods, corporations, partnerships, S corporations, estates and trusts, and gifts. Upon completion, students should be able to complete various tax forms pertaining to the topics covered in the course.",
+      "institution": "Vance-Granville Community College"
+    },
+    {
+      "course_id": "ACC 140",
+      "course_title": "Payroll Accounting",
+      "credits": "3.00",
+      "description": "Prerequisites: State, ACC 115 or ACC 120 Corequisites: None This course covers federal and state laws pertaining to wages, payroll taxes, payroll tax forms, and journal and general ledger transactions. Emphasis is placed on computing wages; calculating social security, income, and unemployment taxes; preparing appropriate payroll tax forms; and journalizing/posting transactions. Upon completion, students should be able to analyze data, make appropriate computations, complete forms, and prepare accounting entries.",
+      "institution": "Vance-Granville Community College"
+    },
+    {
+      "course_id": "ACC 150",
+      "course_title": "Accounting Software Application",
+      "credits": "3.00",
+      "description": "Prerequisites: State, ACC 115 or ACC 120 Corequisites: None This course introduces microcomputer applications related to the major accounting systems. Topics include general ledger, accounts receivable, accounts payable, inventory, payroll, and correcting, adjusting, and closing entries. Upon completion, students should be able to use a computer accounting package to solve accounting problems.",
+      "institution": "Vance-Granville Community College"
+    },
+    {
+      "course_id": "ACC 220",
+      "course_title": "Intermediate Accounting I",
+      "credits": "3.00",
+      "description": "Prerequisites: State, ACC 120; Local, ACC 121 Corequisites: None This course is a continuation of the study of accounting principles with in-depth coverage of theoretical concepts and financial statements. Topics include generally accepted accounting principles and an extensive analysis of financial statements. Upon completion, students should be able to demonstrate competence in the conceptual framework underlying financial accounting, including the application of financial standards.",
+      "institution": "Vance-Granville Community College"
+    }
+  ],
+  "timestamp": "2025-08-10T14:30:47.677060"
+}

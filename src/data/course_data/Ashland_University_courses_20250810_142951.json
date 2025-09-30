@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Ashland University",
+    "successful_variation": "Ashland University",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Ashland+University&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "AHG 501",
+      "course_title": "The American Revolution",
+      "credits": "3.00",
+      "description": "This course focuses on three topics: political developments in North America and the British empire and the arguments for and against independence, culminating in the Declaration of Independence; the RevolutionaryWar as a military, social and cultural event in the development of the American nation and state; and the United States under the articles of confederation.",
+      "institution": "Ashland University"
+    },
+    {
+      "course_id": "AHG 502",
+      "course_title": "The American Founding",
+      "credits": "3.00",
+      "description": "This course is an intensive study of the constitutional convention, the struggle over ratification of the Constitution, and the creation of the Bill of Rights. It will include a close examination of the Federalist Papers and the anti-federalist papers.",
+      "institution": "Ashland University"
+    },
+    {
+      "course_id": "AHG 503",
+      "course_title": "Sectionalism And Civil War",
+      "credits": "3.00",
+      "description": "A study of the sectional conflict beginning with the nullification crisis. The course will not only examine the political, social and economic developments in the period leading to the CivilWar, but will emphasize the political thought of Abraham Lincoln, Stephen Douglas, and John C. Calhoun. 28 College of Arts and Sciences",
+      "institution": "Ashland University"
+    },
+    {
+      "course_id": "AHG 504",
+      "course_title": "Civil War And Reconstruction",
+      "credits": "3.00",
+      "description": "This course will examine military aspects of the war, as well as political developments during it, including the political history of the Emancipation Proclamation, the Gettysburg Address and the Second Inaugural. The course also examines the post-war Amendments and the Reconstruction era.",
+      "institution": "Ashland University"
+    },
+    {
+      "course_id": "AHG 505",
+      "course_title": "The Progressive Era",
+      "credits": "3.00",
+      "description": "The transition to an industrial economy posed many problems for the United States. This course examines those problems and the responses to them that came to be known as progressivism. The course includes the study ofWorldWar I as a manifestation of progressive principles. The course emphasizes the political thought of Theodore Roosevelt, WoodrowWilson, and their political expression of progressive principles.",
+      "institution": "Ashland University"
+    },
+    {
+      "course_id": "AHG 510",
+      "course_title": "Great American Texts",
+      "credits": "3.00",
+      "description": "This course is an intensive study of one important text in American history, politics or literature. Examples might include The Federalist Papers, Franklin's Autobiography, Tocqueville's Democracy in America or Twain's Huckleberry Finn. The text may change from course to course, and the course may be repeated up to two times with the permission of the associate director.",
+      "institution": "Ashland University"
+    },
+    {
+      "course_id": "AHG 601",
+      "course_title": "Sources of The American Regime",
+      "credits": "3.00",
+      "description": "This course examines the European heritage of ideas and arguments upon which the American Founders drew as they devised a new government for the United States.",
+      "institution": "Ashland University"
+    },
+    {
+      "course_id": "AHG 602",
+      "course_title": "European Discovery And Settlement",
+      "credits": "3.00",
+      "description": "An examination of the motives behind and the consequences of the expansion of European power beginning in the 16th Century. The course focuses on the European settlement of North America and the interactions between Europeans and indigenous peoples.",
+      "institution": "Ashland University"
+    },
+    {
+      "course_id": "AHG 603",
+      "course_title": "Colonial America",
+      "credits": "3.00",
+      "description": "This course focuses on the development of an indigenous political culture in the British colonies. It pays special attention to the development of representative political institutions and how these emerged through the confrontation between colonists and King and proprietors. The course also considers imperial politics through a study of the Albany Plan of Union.",
+      "institution": "Ashland University"
+    },
+    {
+      "course_id": "AHG 604",
+      "course_title": "The Early Republic",
+      "credits": "3.00",
+      "description": "Having adopted a form of government, the Americans had to make it work. This course examines their efforts to do so, as the Republic took shape amidst foreign dangers, political conflict, westward expansion and religious revivals.",
+      "institution": "Ashland University"
+    }
+  ],
+  "timestamp": "2025-08-10T14:29:51.441527"
+}

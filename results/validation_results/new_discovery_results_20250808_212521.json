@@ -1,0 +1,680 @@
+{
+  "timestamp": "2025-08-08T21:25:21.445458",
+  "analysis": {
+    "total_universities": 35,
+    "discovery_success_rate": 0.6285714285714286,
+    "avg_discovery_confidence": 0.8,
+    "validation_success_rate": 0.2,
+    "avg_validation_confidence": 0.2857142857142857,
+    "course_finding_rate": 0.6,
+    "avg_discovery_time": 21.52064930370876,
+    "avg_validation_time": 2.287929698399135,
+    "successful_discoveries": [
+      {
+        "university": "College of Alameda",
+        "url": "https://alameda.edu/",
+        "discovery_confidence": 0.925,
+        "validation_confidence": 0.0,
+        "courses_found": "5/5"
+      },
+      {
+        "university": "University of California, Office of the President",
+        "url": "https://www.ucop.edu/human-resources/courses/shr-ecourses.html",
+        "discovery_confidence": 0.72,
+        "validation_confidence": 0.0,
+        "courses_found": "0/0"
+      },
+      {
+        "university": "Eastern New Mexico University-Roswell Campus",
+        "url": "https://www.roswell.enmu.edu/advising-services/",
+        "discovery_confidence": 0.575,
+        "validation_confidence": 0.0,
+        "courses_found": "4/5"
+      },
+      {
+        "university": "University of Southern Maine",
+        "url": "https://www.southern.edu/catalog/",
+        "discovery_confidence": 0.905,
+        "validation_confidence": 0.2,
+        "courses_found": "3/5"
+      },
+      {
+        "university": "University of New Haven",
+        "url": "https://www.newhaven.edu/academics/course-catalog.php",
+        "discovery_confidence": 0.7949999999999999,
+        "validation_confidence": 0.0,
+        "courses_found": "0/0"
+      },
+      {
+        "university": "Air Force Institute of Technology",
+        "url": "https://www.afit.edu/ls/catalogT.cfm?location=36",
+        "discovery_confidence": 0.665,
+        "validation_confidence": 0.0,
+        "courses_found": "0/0"
+      },
+      {
+        "university": "Mohawk Valley Community College",
+        "url": "https://mvcc.edu/advisement/registering-for-courses.php",
+        "discovery_confidence": 0.77,
+        "validation_confidence": 0.2,
+        "courses_found": "5/5"
+      },
+      {
+        "university": "Bay Path University",
+        "url": "https://catalog.baypath.edu/course-descriptions/",
+        "discovery_confidence": 0.78,
+        "validation_confidence": 0.4,
+        "courses_found": "5/5"
+      },
+      {
+        "university": "Great Falls College Montana State University",
+        "url": "https://catalog.gfcmsu.edu/",
+        "discovery_confidence": 0.665,
+        "validation_confidence": 0.0,
+        "courses_found": "0/0"
+      },
+      {
+        "university": "Lamar State College-Orange",
+        "url": "https://www.lamar.edu/students/registrar/registration/course-schedules.html",
+        "discovery_confidence": 0.94,
+        "validation_confidence": 0.0,
+        "courses_found": "0/0"
+      },
+      {
+        "university": "University of Arkansas for Medical Sciences",
+        "url": "https://medicine.uams.edu/dbmi/education/graduate-programs/current-course-offerings/",
+        "discovery_confidence": 0.72,
+        "validation_confidence": 0.0,
+        "courses_found": "0/0"
+      },
+      {
+        "university": "Gogebic Community College",
+        "url": "https://www.gogebic.edu/academics/course_schedules.html",
+        "discovery_confidence": 0.7949999999999999,
+        "validation_confidence": 0.4,
+        "courses_found": "1/5"
+      },
+      {
+        "university": "State University of New York at Fredonia",
+        "url": "https://www.fredonia.edu/academics/colleges-schools/school-business/business/applied-professional-studies/courses",
+        "discovery_confidence": 0.735,
+        "validation_confidence": 0.0,
+        "courses_found": "0/0"
+      },
+      {
+        "university": "Hudson County Community College",
+        "url": "https://www.hccc.edu/admissions/register-for-classes.html",
+        "discovery_confidence": 0.755,
+        "validation_confidence": 0.2,
+        "courses_found": "2/5"
+      },
+      {
+        "university": "Wentworth Military Academy & Junior College",
+        "url": "https://catalog.wit.edu/",
+        "discovery_confidence": 0.905,
+        "validation_confidence": 0.0,
+        "courses_found": "0/0"
+      },
+      {
+        "university": "Dordt College",
+        "url": "https://www.dordt.edu/academics/course-catalog",
+        "discovery_confidence": 0.935,
+        "validation_confidence": 0.0,
+        "courses_found": "0/0"
+      },
+      {
+        "university": "Delta College",
+        "url": "https://ss.delta.edu/student/courses",
+        "discovery_confidence": 0.925,
+        "validation_confidence": 0.2,
+        "courses_found": "1/5"
+      },
+      {
+        "university": "Franklin Pierce Law Center",
+        "url": "https://www.franklin.edu/faculty-development/courses",
+        "discovery_confidence": 0.935,
+        "validation_confidence": 0.0,
+        "courses_found": "0/0"
+      },
+      {
+        "university": "Triton College",
+        "url": "https://www.triton.edu/academics/courses--online-catalog/",
+        "discovery_confidence": 0.935,
+        "validation_confidence": 0.4,
+        "courses_found": "1/5"
+      },
+      {
+        "university": "Metropolitan Community College (NE)",
+        "url": "https://www.mccneb.edu/programs/design-interactivity-and-media-arts",
+        "discovery_confidence": 0.575,
+        "validation_confidence": 0.0,
+        "courses_found": "0/0"
+      },
+      {
+        "university": "Bloomsburg University of Pennsylvania",
+        "url": "https://www.coursicle.com/bloomu/courses/",
+        "discovery_confidence": 0.72,
+        "validation_confidence": 0.0,
+        "courses_found": "0/0"
+      },
+      {
+        "university": "Broward College",
+        "url": "https://www.broward.edu/error/404.html?requestUrl=/classes",
+        "discovery_confidence": 0.925,
+        "validation_confidence": 0.0,
+        "courses_found": "0/0"
+      }
+    ],
+    "failed_discoveries": [
+      {
+        "university": "University of Missouri - Kansas City",
+        "error": "Could not find course search page after navigation"
+      },
+      {
+        "university": "Edward Waters University",
+        "error": "Page.goto: net::ERR_ABORTED at https://www.ewc.edu/wp-content/uploads/CATALOG-2021-2022SG0920-REVISED-10.29.pdf\nCall log:\n  - navigating to \"https://www.ewc.edu/wp-content/uploads/CATALOG-2021-2022SG0920-REVISED-10.29.pdf\", waiting until \"load\"\n"
+      },
+      {
+        "university": "Bob Jones University",
+        "error": "Timeout 30000ms exceeded."
+      },
+      {
+        "university": "Warren Wilson College",
+        "error": "Page.click: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"a[href='https://en.wikipedia.org/wiki/Special:Search']\")\n"
+      },
+      {
+        "university": "Kodiak College",
+        "error": "Page.click: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"a[href='https://koc.alaska.edu/quick-links/searchable-schedule/']\")\n"
+      },
+      {
+        "university": "Ashford University",
+        "error": "Page.goto: net::ERR_ABORTED at https://www.uagc.edu/sites/default/files/2025-02/UACG_Academic_Catalog_2020-2021.pdf?sourceid=16LOCMNAU\nCall log:\n  - navigating to \"https://www.uagc.edu/sites/default/files/2025-02/UACG_Academic_Catalog_2020-2021.pdf?sourceid=16LOCMNAU\", waiting until \"load\"\n"
+      },
+      {
+        "university": "Wayne State University",
+        "error": "Page.click: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"a[href='https://carnegieclassifications.acenet.edu/carnegie-classification/classification-methodology/2021-enrollment-profile-classification/']\")\n    - locator resolved to <a class=\"nav-link\" title=\"2021 Enrollment Profile Classification\" href=\"https://carnegieclassifications.acenet.edu/carnegie-classification/classification-methodology/2021-enrollment-profile-classification/\">2021 Enrollment Profile Classification</a>\n  - attempting click action\n    2 \u00d7 waiting for element to be visible, enabled and stable\n      - element is not visible\n    - retrying click action\n    - waiting 20ms\n    2 \u00d7 waiting for element to be visible, enabled and stable\n      - element is not visible\n    - retrying click action\n      - waiting 100ms\n    58 \u00d7 waiting for element to be visible, enabled and stable\n       - element is not visible\n     - retrying click action\n       - waiting 500ms\n"
+      },
+      {
+        "university": "Portland State University",
+        "error": "Page.click: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"a[href='https://carnegieclassifications.acenet.edu/carnegie-classification/classification-methodology/2021-enrollment-profile-classification/']\")\n    - locator resolved to <a class=\"nav-link\" title=\"2021 Enrollment Profile Classification\" href=\"https://carnegieclassifications.acenet.edu/carnegie-classification/classification-methodology/2021-enrollment-profile-classification/\">2021 Enrollment Profile Classification</a>\n  - attempting click action\n    2 \u00d7 waiting for element to be visible, enabled and stable\n      - element is not visible\n    - retrying click action\n    - waiting 20ms\n    2 \u00d7 waiting for element to be visible, enabled and stable\n      - element is not visible\n    - retrying click action\n      - waiting 100ms\n    58 \u00d7 waiting for element to be visible, enabled and stable\n       - element is not visible\n     - retrying click action\n       - waiting 500ms\n"
+      },
+      {
+        "university": "Francis Marion University",
+        "error": "Page.goto: net::ERR_ABORTED at https://www.fmarion.edu/wp-content/uploads/2016/07/Spring-2025-Semester-Course-Schedule.pdf\nCall log:\n  - navigating to \"https://www.fmarion.edu/wp-content/uploads/2016/07/Spring-2025-Semester-Course-Schedule.pdf\", waiting until \"load\"\n"
+      },
+      {
+        "university": "University of California, Irvine",
+        "error": "Page.click: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"a[href='http://carnegieclassifications.iu.edu/classification_descriptions/enrollment_profile.php']\")\n"
+      },
+      {
+        "university": "Tri-County Community College",
+        "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.tricountycc.edu/future-students/course-descriptions/\", waiting until \"load\"\n"
+      },
+      {
+        "university": "Saint Louis University",
+        "error": "Page.click: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"a[href='https://carnegieclassifications.acenet.edu/carnegie-classification/classification-methodology/2021-enrollment-profile-classification/']\")\n    - locator resolved to <a class=\"nav-link\" title=\"2021 Enrollment Profile Classification\" href=\"https://carnegieclassifications.acenet.edu/carnegie-classification/classification-methodology/2021-enrollment-profile-classification/\">2021 Enrollment Profile Classification</a>\n  - attempting click action\n    2 \u00d7 waiting for element to be visible, enabled and stable\n      - element is not visible\n    - retrying click action\n    - waiting 20ms\n    2 \u00d7 waiting for element to be visible, enabled and stable\n      - element is not visible\n    - retrying click action\n      - waiting 100ms\n    58 \u00d7 waiting for element to be visible, enabled and stable\n       - element is not visible\n     - retrying click action\n       - waiting 500ms\n"
+      },
+      {
+        "university": "Capella University",
+        "error": "Page.click: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"a[href='https://en.wikipedia.org/wiki/Capella_University#Class-action_lawsuit']\")\n"
+      }
+    ]
+  },
+  "detailed_results": [
+    {
+      "university_name": "College of Alameda",
+      "discovered_url": "https://alameda.edu/",
+      "discovery_success": true,
+      "discovery_confidence": 0.925,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 5,
+      "total_test_courses": 5,
+      "error_message": null,
+      "discovery_time": 22.97952890396118,
+      "validation_time": 2.219691038131714
+    },
+    {
+      "university_name": "University of California, Office of the President",
+      "discovered_url": "https://www.ucop.edu/human-resources/courses/shr-ecourses.html",
+      "discovery_success": true,
+      "discovery_confidence": 0.72,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No test courses found in CollegeTransfer.net",
+      "discovery_time": 8.867516994476318,
+      "validation_time": 8.704514026641846
+    },
+    {
+      "university_name": "Eastern New Mexico University-Roswell Campus",
+      "discovered_url": "https://www.roswell.enmu.edu/advising-services/",
+      "discovery_success": true,
+      "discovery_confidence": 0.575,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 4,
+      "total_test_courses": 5,
+      "error_message": null,
+      "discovery_time": 9.006119012832642,
+      "validation_time": 3.485213041305542
+    },
+    {
+      "university_name": "University of Missouri - Kansas City",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "Could not find course search page after navigation",
+      "discovery_time": 12.382117748260498,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "University of Southern Maine",
+      "discovered_url": "https://www.southern.edu/catalog/",
+      "discovery_success": true,
+      "discovery_confidence": 0.905,
+      "validation_success": true,
+      "validation_confidence": 0.2,
+      "test_courses_found": 3,
+      "total_test_courses": 5,
+      "error_message": null,
+      "discovery_time": 9.520461082458496,
+      "validation_time": 3.5421862602233887
+    },
+    {
+      "university_name": "University of New Haven",
+      "discovered_url": "https://www.newhaven.edu/academics/course-catalog.php",
+      "discovery_success": true,
+      "discovery_confidence": 0.7949999999999999,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No test courses found in CollegeTransfer.net",
+      "discovery_time": 7.714471817016602,
+      "validation_time": 6.587215185165405
+    },
+    {
+      "university_name": "Edward Waters University",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "Page.goto: net::ERR_ABORTED at https://www.ewc.edu/wp-content/uploads/CATALOG-2021-2022SG0920-REVISED-10.29.pdf\nCall log:\n  - navigating to \"https://www.ewc.edu/wp-content/uploads/CATALOG-2021-2022SG0920-REVISED-10.29.pdf\", waiting until \"load\"\n",
+      "discovery_time": 4.767255067825317,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "Air Force Institute of Technology",
+      "discovered_url": "https://www.afit.edu/ls/catalogT.cfm?location=36",
+      "discovery_success": true,
+      "discovery_confidence": 0.665,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No test courses found in CollegeTransfer.net",
+      "discovery_time": 6.481300115585327,
+      "validation_time": 3.1787538528442383
+    },
+    {
+      "university_name": "Mohawk Valley Community College",
+      "discovered_url": "https://mvcc.edu/advisement/registering-for-courses.php",
+      "discovery_success": true,
+      "discovery_confidence": 0.77,
+      "validation_success": true,
+      "validation_confidence": 0.2,
+      "test_courses_found": 5,
+      "total_test_courses": 5,
+      "error_message": null,
+      "discovery_time": 8.277325868606567,
+      "validation_time": 2.3663721084594727
+    },
+    {
+      "university_name": "Bay Path University",
+      "discovered_url": "https://catalog.baypath.edu/course-descriptions/",
+      "discovery_success": true,
+      "discovery_confidence": 0.78,
+      "validation_success": true,
+      "validation_confidence": 0.4,
+      "test_courses_found": 5,
+      "total_test_courses": 5,
+      "error_message": null,
+      "discovery_time": 6.238469123840332,
+      "validation_time": 2.9406790733337402
+    },
+    {
+      "university_name": "Great Falls College Montana State University",
+      "discovered_url": "https://catalog.gfcmsu.edu/",
+      "discovery_success": true,
+      "discovery_confidence": 0.665,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No test courses found in CollegeTransfer.net",
+      "discovery_time": 6.045159816741943,
+      "validation_time": 3.451436996459961
+    },
+    {
+      "university_name": "Bob Jones University",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "Timeout 30000ms exceeded.",
+      "discovery_time": 35.23046875,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "Lamar State College-Orange",
+      "discovered_url": "https://www.lamar.edu/students/registrar/registration/course-schedules.html",
+      "discovery_success": true,
+      "discovery_confidence": 0.94,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No test courses found in CollegeTransfer.net",
+      "discovery_time": 12.67343807220459,
+      "validation_time": 3.6878509521484375
+    },
+    {
+      "university_name": "University of Arkansas for Medical Sciences",
+      "discovered_url": "https://medicine.uams.edu/dbmi/education/graduate-programs/current-course-offerings/",
+      "discovery_success": true,
+      "discovery_confidence": 0.72,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No test courses found in CollegeTransfer.net",
+      "discovery_time": 10.40389609336853,
+      "validation_time": 6.3475661277771
+    },
+    {
+      "university_name": "Gogebic Community College",
+      "discovered_url": "https://www.gogebic.edu/academics/course_schedules.html",
+      "discovery_success": true,
+      "discovery_confidence": 0.7949999999999999,
+      "validation_success": true,
+      "validation_confidence": 0.4,
+      "test_courses_found": 1,
+      "total_test_courses": 5,
+      "error_message": null,
+      "discovery_time": 7.829814195632935,
+      "validation_time": 2.115142822265625
+    },
+    {
+      "university_name": "Warren Wilson College",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "Page.click: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"a[href='https://en.wikipedia.org/wiki/Special:Search']\")\n",
+      "discovery_time": 46.62635803222656,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "State University of New York at Fredonia",
+      "discovered_url": "https://www.fredonia.edu/academics/colleges-schools/school-business/business/applied-professional-studies/courses",
+      "discovery_success": true,
+      "discovery_confidence": 0.735,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No test courses found in CollegeTransfer.net",
+      "discovery_time": 6.778707027435303,
+      "validation_time": 5.698415040969849
+    },
+    {
+      "university_name": "Hudson County Community College",
+      "discovered_url": "https://www.hccc.edu/admissions/register-for-classes.html",
+      "discovery_success": true,
+      "discovery_confidence": 0.755,
+      "validation_success": true,
+      "validation_confidence": 0.2,
+      "test_courses_found": 2,
+      "total_test_courses": 5,
+      "error_message": null,
+      "discovery_time": 147.1450638771057,
+      "validation_time": 2.4391696453094482
+    },
+    {
+      "university_name": "Kodiak College",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "Page.click: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"a[href='https://koc.alaska.edu/quick-links/searchable-schedule/']\")\n",
+      "discovery_time": 37.9993257522583,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "Ashford University",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "Page.goto: net::ERR_ABORTED at https://www.uagc.edu/sites/default/files/2025-02/UACG_Academic_Catalog_2020-2021.pdf?sourceid=16LOCMNAU\nCall log:\n  - navigating to \"https://www.uagc.edu/sites/default/files/2025-02/UACG_Academic_Catalog_2020-2021.pdf?sourceid=16LOCMNAU\", waiting until \"load\"\n",
+      "discovery_time": 4.773883819580078,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "Wentworth Military Academy & Junior College",
+      "discovered_url": "https://catalog.wit.edu/",
+      "discovery_success": true,
+      "discovery_confidence": 0.905,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No test courses found in CollegeTransfer.net",
+      "discovery_time": 6.6400227546691895,
+      "validation_time": 1.99440598487854
+    },
+    {
+      "university_name": "Dordt College",
+      "discovered_url": "https://www.dordt.edu/academics/course-catalog",
+      "discovery_success": true,
+      "discovery_confidence": 0.935,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No test courses found in CollegeTransfer.net",
+      "discovery_time": 12.889375925064087,
+      "validation_time": 2.402509927749634
+    },
+    {
+      "university_name": "Delta College",
+      "discovered_url": "https://ss.delta.edu/student/courses",
+      "discovery_success": true,
+      "discovery_confidence": 0.925,
+      "validation_success": true,
+      "validation_confidence": 0.2,
+      "test_courses_found": 1,
+      "total_test_courses": 5,
+      "error_message": null,
+      "discovery_time": 7.399201154708862,
+      "validation_time": 2.190502882003784
+    },
+    {
+      "university_name": "Wayne State University",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "Page.click: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"a[href='https://carnegieclassifications.acenet.edu/carnegie-classification/classification-methodology/2021-enrollment-profile-classification/']\")\n    - locator resolved to <a class=\"nav-link\" title=\"2021 Enrollment Profile Classification\" href=\"https://carnegieclassifications.acenet.edu/carnegie-classification/classification-methodology/2021-enrollment-profile-classification/\">2021 Enrollment Profile Classification</a>\n  - attempting click action\n    2 \u00d7 waiting for element to be visible, enabled and stable\n      - element is not visible\n    - retrying click action\n    - waiting 20ms\n    2 \u00d7 waiting for element to be visible, enabled and stable\n      - element is not visible\n    - retrying click action\n      - waiting 100ms\n    58 \u00d7 waiting for element to be visible, enabled and stable\n       - element is not visible\n     - retrying click action\n       - waiting 500ms\n",
+      "discovery_time": 43.9625027179718,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "Franklin Pierce Law Center",
+      "discovered_url": "https://www.franklin.edu/faculty-development/courses",
+      "discovery_success": true,
+      "discovery_confidence": 0.935,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No test courses found in CollegeTransfer.net",
+      "discovery_time": 9.93128490447998,
+      "validation_time": 3.8546690940856934
+    },
+    {
+      "university_name": "Triton College",
+      "discovered_url": "https://www.triton.edu/academics/courses--online-catalog/",
+      "discovery_success": true,
+      "discovery_confidence": 0.935,
+      "validation_success": true,
+      "validation_confidence": 0.4,
+      "test_courses_found": 1,
+      "total_test_courses": 5,
+      "error_message": null,
+      "discovery_time": 11.556365013122559,
+      "validation_time": 2.7170000076293945
+    },
+    {
+      "university_name": "Portland State University",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "Page.click: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"a[href='https://carnegieclassifications.acenet.edu/carnegie-classification/classification-methodology/2021-enrollment-profile-classification/']\")\n    - locator resolved to <a class=\"nav-link\" title=\"2021 Enrollment Profile Classification\" href=\"https://carnegieclassifications.acenet.edu/carnegie-classification/classification-methodology/2021-enrollment-profile-classification/\">2021 Enrollment Profile Classification</a>\n  - attempting click action\n    2 \u00d7 waiting for element to be visible, enabled and stable\n      - element is not visible\n    - retrying click action\n    - waiting 20ms\n    2 \u00d7 waiting for element to be visible, enabled and stable\n      - element is not visible\n    - retrying click action\n      - waiting 100ms\n    58 \u00d7 waiting for element to be visible, enabled and stable\n       - element is not visible\n     - retrying click action\n       - waiting 500ms\n",
+      "discovery_time": 38.90471291542053,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "Francis Marion University",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "Page.goto: net::ERR_ABORTED at https://www.fmarion.edu/wp-content/uploads/2016/07/Spring-2025-Semester-Course-Schedule.pdf\nCall log:\n  - navigating to \"https://www.fmarion.edu/wp-content/uploads/2016/07/Spring-2025-Semester-Course-Schedule.pdf\", waiting until \"load\"\n",
+      "discovery_time": 15.173650741577148,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "University of California, Irvine",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "Page.click: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"a[href='http://carnegieclassifications.iu.edu/classification_descriptions/enrollment_profile.php']\")\n",
+      "discovery_time": 50.262242794036865,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "Metropolitan Community College (NE)",
+      "discovered_url": "https://www.mccneb.edu/programs/design-interactivity-and-media-arts",
+      "discovery_success": true,
+      "discovery_confidence": 0.575,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No test courses found in CollegeTransfer.net",
+      "discovery_time": 9.399038076400757,
+      "validation_time": 2.1712801456451416
+    },
+    {
+      "university_name": "Bloomsburg University of Pennsylvania",
+      "discovered_url": "https://www.coursicle.com/bloomu/courses/",
+      "discovery_success": true,
+      "discovery_confidence": 0.72,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No test courses found in CollegeTransfer.net",
+      "discovery_time": 6.6981377601623535,
+      "validation_time": 5.4255311489105225
+    },
+    {
+      "university_name": "Tri-County Community College",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.tricountycc.edu/future-students/course-descriptions/\", waiting until \"load\"\n",
+      "discovery_time": 35.81033396720886,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "Saint Louis University",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "Page.click: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"a[href='https://carnegieclassifications.acenet.edu/carnegie-classification/classification-methodology/2021-enrollment-profile-classification/']\")\n    - locator resolved to <a class=\"nav-link\" title=\"2021 Enrollment Profile Classification\" href=\"https://carnegieclassifications.acenet.edu/carnegie-classification/classification-methodology/2021-enrollment-profile-classification/\">2021 Enrollment Profile Classification</a>\n  - attempting click action\n    2 \u00d7 waiting for element to be visible, enabled and stable\n      - element is not visible\n    - retrying click action\n    - waiting 20ms\n    2 \u00d7 waiting for element to be visible, enabled and stable\n      - element is not visible\n    - retrying click action\n      - waiting 100ms\n    58 \u00d7 waiting for element to be visible, enabled and stable\n       - element is not visible\n     - retrying click action\n       - waiting 500ms\n",
+      "discovery_time": 39.93131375312805,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "Broward College",
+      "discovered_url": "https://www.broward.edu/error/404.html?requestUrl=/classes",
+      "discovery_success": true,
+      "discovery_confidence": 0.925,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No test courses found in CollegeTransfer.net",
+      "discovery_time": 12.210606813430786,
+      "validation_time": 2.55743408203125
+    },
+    {
+      "university_name": "Capella University",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "Page.click: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"a[href='https://en.wikipedia.org/wiki/Capella_University#Class-action_lawsuit']\")\n",
+      "discovery_time": 40.713255167007446,
+      "validation_time": 0.0
+    }
+  ]
+}

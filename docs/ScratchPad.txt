@@ -1,0 +1,24 @@
+I think we should look up how difficult courses are, both generally
+and for the specific school attended.
+
+We should try to get the course's sylabus if available, and tailor the reminders/motivation/etc around the
+sylabus. For example, if a class is heavy on homework for overall grade we should be intrusive to the user 
+in reminding them of each assignment, and even look into fall back methods.
+
+We should also research the courses in question, building up a database of ALL courses. Using this we can:
+    1: Estimate difficulty.
+        1.5: Using difficulty estimate stress and make user aware AHEAD of the stress, 
+        while also suggesting strategies.
+    
+    2: Provide motivation.
+        2.5: We can say how the courses in question will impact their life and abilities. For example, 
+        talk of how data structures made doom possible, or how an economics and climate change class is
+        pivotal as we face climate change and create new economic systems to confront climate change.
+        
+        Doing this would allow natural motivation, especially for depressed students.
+
+    3: Provide tools for contacting professors, staff, etc.
+        3.5: A more advanced feature might be having a more advanced AI LLM connection, to chatgpt for example, 
+        with the app providing relevant information, such as course name, sylabus, future and past assignments,
+        etc. Then this chat could be used to suggest new study habits OR provide data to professors/schools 
+        in order to help the student. Personalized learning of a sort.

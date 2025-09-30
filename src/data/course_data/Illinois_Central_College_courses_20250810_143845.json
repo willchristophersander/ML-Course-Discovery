@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Illinois Central College",
+    "successful_variation": "Illinois Central College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Illinois+Central+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACCTG 002",
+      "course_title": "do Your Own Taxes II",
+      "credits": "3.00",
+      "description": "Prerequisite: None, but ACCTG 001 and/or personal experience in preparing the 1040 basic income tax return is recommended This course is designed to expand upon a person's basic personal income tax knowledge. Emphasis will be placed on understanding the tax laws under consideration, analyzing the tax transactions, and reporting them on the individual income tax return form. Illinois income tax laws will also be analyzed as they relate to the transactions being studied. Five three-hour sessions or equivalent.",
+      "institution": "Illinois Central College"
+    },
+    {
+      "course_id": "ACCTG 108",
+      "course_title": "Accounting Using Quick Books",
+      "credits": "3.00",
+      "description": "Prerequisite: ACCTG 105 or equivalent This course covers basic training in the use of accounting software on microcomputers.",
+      "institution": "Illinois Central College"
+    },
+    {
+      "course_id": "ACCTG 113",
+      "course_title": "Tax Accounting",
+      "credits": "3.00",
+      "description": "Prerequisite: ACCTG 120 or department approval This course is a practical study of business and individual income tax accounting procedures relative to current Internal Revenue requirements.",
+      "institution": "Illinois Central College"
+    },
+    {
+      "course_id": "ACCTG 115",
+      "course_title": "Payroll Accounting",
+      "credits": "3.00",
+      "description": "Prerequisite: ACCTG 105 or 120 or department approval This course emphasizes payroll accounting theory and application through familiarization of various federal, state, and local laws effecting payroll systems of business firms. Emphasis is placed on performing detailed payroll work from time of recording employees' hours worked to issuance of paychecks. Familiarization is given to insure adequate control over every detail of the payroll system to improve accuracy, reliability, and timeliness of payroll information processed.",
+      "institution": "Illinois Central College"
+    },
+    {
+      "course_id": "ACCTG 121",
+      "course_title": "Managerial Accounting",
+      "credits": "4.00",
+      "description": "Prerequisite: ACCTG 120 This course covers the fundamental principles of managerial accounting as they apply to management planning, controlling, evaluating and decision-making. Included is the identification and measurement of the costs of producing goods or services and how to analyze and control these costs. Decision models commonly used in making specific short-term and long-term business decisions are also included. [IAI: BUS 904]",
+      "institution": "Illinois Central College"
+    },
+    {
+      "course_id": "ACCTG 208",
+      "course_title": "Cost Accounting",
+      "credits": "3.00",
+      "description": "Prerequisite: ACCTG 121 or department approval This course deals with concepts and procedures applied in accumulation of cost data and use of data by management in performing functions of planning, decision-making, and control. Product cost systems, cost-volume-profit relationships, capital budgeting and inventory planning, control and valuation are topics emphasized.",
+      "institution": "Illinois Central College"
+    },
+    {
+      "course_id": "ACCTG 216",
+      "course_title": "Accounting And Information Systems",
+      "credits": "3.00",
+      "description": "Prerequisite: ACCTG 121 or department approval This course, a synthesis of accounting and information systems, integrates data processing with experience in manual accounting procedures. Emphasis is placed on analysis and design of accounting procedures.",
+      "institution": "Illinois Central College"
+    },
+    {
+      "course_id": "ACCTG 255",
+      "course_title": "Independent Study",
+      "credits": "3.00",
+      "description": "Prerequisite: Department approval This course provides the opportunity to work on a technical project, research, or other specialized study related to individual academic needs. A written plan for the independent-study project is developed with a faculty member (including a detailed description of the project, the number of credit hours assigned to it, the evaluative criteria to be used, and other relevant matters), and the project is carried out under the periodic direction of the faculty member. The written plan is submitted to the associate dean for approval and remains on file within the department, together with a final written report submitted to the faculty member by the student. Repeatable up to a maximum of five semester hours of credit.",
+      "institution": "Illinois Central College"
+    },
+    {
+      "course_id": "ACCTG 260",
+      "course_title": "Accounting Internship",
+      "credits": "3.00",
+      "description": "Prerequisite: Credit or concurrent enrollment in ACCTG 207 or department approval In cooperation with the Internship Coordinator, each student is assisted in locating an appropriate training station where a minimum of fifteen hours per week of on-the-job work experience is provided. The student's work will include experiences which involve accounting activities. This course may be repeated one time.",
+      "institution": "Illinois Central College"
+    },
+    {
+      "course_id": "AGBUS 041",
+      "course_title": "Cash Grain And Livestock Marketing",
+      "credits": "3.00",
+      "description": "Prerequisite: None This course is a foundation course designed to provide farmers with the basic knowledge and skills necessary to develop marketing techniques. The class includes instruction in determining cost of production, determining cash flow, developing marketing plans, incorporating hedging into the marketing plan, and technical analysis as a marketing tool.",
+      "institution": "Illinois Central College"
+    }
+  ],
+  "timestamp": "2025-08-10T14:38:45.011289"
+}

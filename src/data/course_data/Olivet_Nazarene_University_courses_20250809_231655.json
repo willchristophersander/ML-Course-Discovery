@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Olivet Nazarene University",
+    "successful_variation": "Olivet Nazarene University",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Olivet+Nazarene+University&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACCT 110",
+      "course_title": "Financial Accounting",
+      "credits": "4.00",
+      "description": "An introduction to the theory, concepts, and principles that govern the generation of financial accounting data. Topics studied include the nature of accounting; the accounting cycle for services and merchandising entities; accounting for cash, receivables, inventory, property, plant, and equipment; and current liabilities. Computer applications will be integrated throughout the course, enabling emphasis on the use and interpretation of accounting data. Strongly recommended prerequisite: sophomore standing unless strong high school accounting background.",
+      "institution": "Olivet Nazarene University"
+    },
+    {
+      "course_id": "ACCT 111",
+      "course_title": "Managerial Accounting",
+      "credits": "4.00",
+      "description": "This course emphasizes managerial accounting concepts, including management and reporting of cash flows, financial statement analysis, traditional cost accounting systems, activity-based accounting concepts, and just-in-time concepts. Additionally, this class explores the tools and techniques used to control operations such as budgetary planning, C-V-P analysis, and capital budgeting. Computer applications will be utilized throughout the course. Prerequisite: ACCT 110.",
+      "institution": "Olivet Nazarene University"
+    },
+    {
+      "course_id": "ACCT 255",
+      "course_title": "Intermediate Accounting I",
+      "credits": "3.00",
+      "description": "This course is an in-depth analysis of the why's as well as the how-to's regarding accounting information. Topics include a brief review of the accounting cycle and financial statements; a look at the conceptual framework and how that affects GAAP; time value of money concepts; and accounting for cash, receivables, inventory, property and equipment, and intangible assets. Prerequisite: ACCT 111.",
+      "institution": "Olivet Nazarene University"
+    },
+    {
+      "course_id": "ACCT 256",
+      "course_title": "Intermediate Accounting II",
+      "credits": "3.00",
+      "description": "A continuation of the study of accounting theory and practice commenced in Intermediate I. Topics covered include accounting for liabilities and stockholder's equity; complexities in measuring net income; calculation of basic and diluted earnings per share; accounting for investments; accounting for income taxes; pensions; leases; the statement of cash flows. Prerequisite: ACCT 255.",
+      "institution": "Olivet Nazarene University"
+    },
+    {
+      "course_id": "ACCT 357",
+      "course_title": "Cost Accounting",
+      "credits": "3.00",
+      "description": "The utilization of basic cost accounting principles, practices, and procedures for industries using either a process job order or a standard cost system. The effective use of cost accounting as a management tool is emphasized. Prerequisites: ACCT 111 and junior standing, or permission of instructor.",
+      "institution": "Olivet Nazarene University"
+    },
+    {
+      "course_id": "ACCT 365",
+      "course_title": "Income Taxation",
+      "credits": "3.00",
+      "description": "Presents an analysis and interpretation of the Federal Income Tax Laws. Emphasizes the legal concepts of income, deductions, and exemptions. The information is applied in a practical way through the preparation of returns for individuals. Prerequisites: ACCT 255, junior standing, or permission of instructor.",
+      "institution": "Olivet Nazarene University"
+    },
+    {
+      "course_id": "ACCT 367",
+      "course_title": "Auditing",
+      "credits": "3.00",
+      "description": "Presents the purposes of audits as conducted by the certified public accountant. Emphasizes the principles of auditing and the types of audits normally made. Professional ethics and legal responsibility are considered. A specific program or each phase of the audit is outlined in detail. Prerequisites: ACCT 255, junior standing, and/or permission of the instructor.",
+      "institution": "Olivet Nazarene University"
+    },
+    {
+      "course_id": "ACCT 461",
+      "course_title": "Consolidation and Partnerships",
+      "credits": "3.00",
+      "description": "A study of the accounting procedures and principles relating to business combinations, both internal and external. The procedures for the preparation of consolidated financial statements are emphasized. This course also covers the accounting principles relating to the formation, operation, and liquidation of partnerships. Prerequisites: junior standing, ACCT 255, or permission of instructor.",
+      "institution": "Olivet Nazarene University"
+    },
+    {
+      "course_id": "ACCT 462",
+      "course_title": "Governmental and Not- for- Profit Accounting",
+      "credits": "3.00",
+      "description": "This course involves the study of the unique accounting practices of governmental accounting and not-for-profit organizations. The focus will be on fund accounting and the reporting requirements of financial statements. Other topics in the governmental and not-for-profit sector will be covered as appropriate. Prerequisites: junior standing, ACCT 255, or permission of instructor.",
+      "institution": "Olivet Nazarene University"
+    },
+    {
+      "course_id": "ACCT 470",
+      "course_title": "Advanced Tax",
+      "credits": "3.00",
+      "description": "A study of the tax treatment of C corporations and S corporations. Topics include formation, taxation, distributions to shareholders, and liquidations. The emphasis will be on tax planning to minimize taxes. Part of the course will explore the basic rules of income taxation of estates and trusts. Tax research will be emphasized throughout the course, as well as the completion of computerized cases. Prerequisite: ACCT 365.",
+      "institution": "Olivet Nazarene University"
+    }
+  ],
+  "timestamp": "2025-08-09T23:16:55.750893"
+}

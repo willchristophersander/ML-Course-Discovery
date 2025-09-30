@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Urban College of Boston",
+    "successful_variation": "Urban College of Boston",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Urban+College+of+Boston&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ART 201",
+      "course_title": "Art and Architecture",
+      "credits": "3.00",
+      "description": "This course will expand students'understanding of and appreciation for the art and architecture of Boston.Readings, lectures and discussions will be enhanced by guided walking tours of museums, exhibits and architectural sites located in the city.The course will provide students with first-hand experience in analyzing works of art and architecture. Offered: As needed",
+      "institution": "Urban College of Boston"
+    },
+    {
+      "course_id": "ART 202",
+      "course_title": "Art Through a Child's Eyes",
+      "credits": "3.00",
+      "description": "This course focuses on the imaginative and creative processes of young children. Students will have the opportunity to learn more about the creative art process in children and how to plan, implement and evaluate developmentally appropriate activities for young children in the creative arts.During this class, students will be asked to think of the world of art through a child's eyes. Selecting suitable materials, working with various art media and developing creative expression are incorporated into this course. Offered: As needed",
+      "institution": "Urban College of Boston"
+    },
+    {
+      "course_id": "ART 222",
+      "course_title": "Special Topics in Art",
+      "credits": "3.00",
+      "description": "Topics will be announced in the Course Bulletin.",
+      "institution": "Urban College of Boston"
+    },
+    {
+      "course_id": "CIS 100",
+      "course_title": "Computer Basics",
+      "credits": "3.00",
+      "description": "This is a basic course in personal computer use in which students learn fundamental computer skills and word processing.Classroom instruction is followed by application and practice.No previous computer experience is required. Lecture and lab: 3 hours. Offered: Fall, Spring, Summer",
+      "institution": "Urban College of Boston"
+    },
+    {
+      "course_id": "CIS 101",
+      "course_title": "Introduction to Computer Applications",
+      "credits": "3.00",
+      "description": "This introductory course will provide students with word processing skills such as setting up the overall format of documents, formatting text, editing documents, using spelling, grammar and AutoCorrect features, and inserting headers, footers and tables. Students will work with envelope, label,mail merge and online form features,and create outlines,tables of content and indexes.Lecture and lab: 3 hours. Prerequisite: CIS 100 or its equivalent Offered: Fall, Spring, plus Summer as needed",
+      "institution": "Urban College of Boston"
+    },
+    {
+      "course_id": "CIS 102",
+      "course_title": "Effective Use of the Internet",
+      "credits": "3.00",
+      "description": "Designed to enable students to become more productive through efficient and effective use of the Internet, this course will assist students in learning the essentials of technology of the Internet to perform Internet searches to help them complete assignments requiring academic search. Lecture and lab: 3 hours Prerequisite: CIS 100 or 101 Offered: As needed",
+      "institution": "Urban College of Boston"
+    },
+    {
+      "course_id": "CIS 201",
+      "course_title": "Intermediate Computer Application",
+      "credits": "3.00",
+      "description": "This intermediate course will provide students with enhanced word processing skills to produce professional looking documents.Topics will include incorporating graphic elements into documents,working with columns, using desktop publishing documents, and implementing drawing tools.Classroom instruction is followed by application practice. Lecture and lab: 3 hours Prerequisite: CIS 101 Offered: As needed",
+      "institution": "Urban College of Boston"
+    },
+    {
+      "course_id": "CIS 202",
+      "course_title": "Spreadsheet Applications for Home and Business",
+      "credits": "3.00",
+      "description": "This course will introduce students to the use ofMicrosoft Excel forWindows spreadsheet programs.With hands-on training, students will learn how to create and format spreadsheets using enhanced features.Classroom instruction is followed by application practice. Lecture and lab: 3 hours. Prerequisite: CIS 101 Offered: As needed",
+      "institution": "Urban College of Boston"
+    },
+    {
+      "course_id": "CIS 203",
+      "course_title": "Application for Presentations",
+      "credits": "3.00",
+      "description": "This course assists students in using computer technology for presentations. Students will learn how to enhance presentations by creating impressive business documents that incorporate graphics and present data in graph form through the use of PowerPoint . Lecture and lab: 3 hours. Prerequisite: CIS 101 Offered: As needed",
+      "institution": "Urban College of Boston"
+    },
+    {
+      "course_id": "CIS 204",
+      "course_title": "Desktop Publishing",
+      "credits": "3.00",
+      "description": "This course will enable the student to integrate text and graphics using graphic design and electronic page assembly to produce professional quality documents. The student will learn how to produce newsletters, brochures, forms, flyers, schedules and other correspondence. Prerequisite: CIS 101 Offered: As needed",
+      "institution": "Urban College of Boston"
+    }
+  ],
+  "timestamp": "2025-08-08T17:43:25.323655"
+}

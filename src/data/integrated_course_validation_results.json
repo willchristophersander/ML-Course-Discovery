@@ -1,0 +1,42 @@
+[
+  {
+    "valid": true,
+    "college_name": "University of California Berkeley",
+    "search_page_url": "https://classes.berkeley.edu/",
+    "course_info": {
+      "name": "Models of Teaching for Peace and Justice",
+      "code": "EDU 5113",
+      "description": "This is a methods and models course that covers various educational techniques.",
+      "credits": "3.00",
+      "college": "Unification Theological Seminary"
+    },
+    "course_found": true,
+    "message": "Course search page validated successfully"
+  },
+  {
+    "valid": false,
+    "error": "No search forms found",
+    "college_name": "CUNY",
+    "search_page_url": "https://globalsearch.cuny.edu/",
+    "course_info": {
+      "name": "Models of Teaching for Peace and Justice",
+      "code": "EDU 5113",
+      "description": "This is a methods and models course that covers various educational techniques.",
+      "credits": "3.00",
+      "college": "Unification Theological Seminary"
+    }
+  },
+  {
+    "valid": false,
+    "error": "No working search forms found",
+    "college_name": "University of Illinois",
+    "search_page_url": "https://go.illinois.edu/courseexplorer",
+    "course_info": {
+      "name": "Models of Teaching:Young Adults and Adults",
+      "code": "EDU 5112",
+      "description": "This course offers an overview of models, strategies, and theories.",
+      "credits": "3.00",
+      "college": "Unification Theological Seminary"
+    }
+  }
+]

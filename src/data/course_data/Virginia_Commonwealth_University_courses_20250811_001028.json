@@ -1,0 +1,67 @@
+{
+  "search_query": {
+    "institution": "Virginia Commonwealth University",
+    "successful_variation": "Virginia Commonwealth University",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Virginia+Commonwealth+University&distance=5"
+  },
+  "total_results": 8,
+  "courses": [
+    {
+      "course_id": "ACCT 202",
+      "course_title": "Accounting for Non-business Majors",
+      "credits": "3.00",
+      "description": "Semester course; 3 lecture hours. 3 credits. The course is open only to non-business students. A nontechnical introduction to the principles of financial and managerial accounting with emphasis on the use and interpretation of financial reports, managerial planning and control. The course is for the individual who seeks a basic knowledge of accounting and its uses. It is designed for the user of accounting information rather than the preparer. This course cannot be substituted for ACCT 203, 204 or 205.",
+      "institution": "Virginia Commonwealth University"
+    },
+    {
+      "course_id": "ACCT 205",
+      "course_title": "Introductory Accounting Survey",
+      "credits": "3.00",
+      "description": "Semester course; 3 lecture hours. 3 credits. Restricted to students in the post-baccalaureate undergraduate certificate programs in accounting and information systems, students seeking a B.S. in Financial Technology, students enrolled in the School of Engineering, or by permission of instructor. An accelerated course covering theoretical and technical facets of financial and managerial accounting for business. Accumulation, analysis, interpretation and uses of accounting information. May not be counted toward any of the B.S. programs offered by the School of Business other than the B.S. in Financial Technology.",
+      "institution": "Virginia Commonwealth University"
+    },
+    {
+      "course_id": "ACCT 305",
+      "course_title": "Tax Planning for Individuals",
+      "credits": "3.00",
+      "description": "Semester course; 3 lecture hours. 3 credits. Prerequisite: ACCT 203. Not open to accounting majors. A general course in tax accounting concepts and procedures for students with a minimum of previous work in accounting. Emphasis is on aspects of taxation affecting the individual: federal and state income, estate, inheritance, gift, excise and payroll taxes; fundamentals of tax planning. Credit will not be given for both, this course and ACCT 405.",
+      "institution": "Virginia Commonwealth University"
+    },
+    {
+      "course_id": "ACCT 306",
+      "course_title": "Cost Accounting",
+      "credits": "3.00",
+      "description": "Semester course; 3 lecture hours. 3 credits. Prerequisites: Competency in word processing and spreadsheets, ACCT 204, and junior standing. Cost accumulation for inventory pricing and income determination. Cost behavior concepts for planning and control. Job order and process cost systems, standard costs, budgets and special topics in relevant costs for managerial decisions.",
+      "institution": "Virginia Commonwealth University"
+    },
+    {
+      "course_id": "ACCT 307",
+      "course_title": "Accounting Systems",
+      "credits": "3.00",
+      "description": "Semester course; 3 lecture hours. 3 credits. Prerequisites: Competency in word processing and spreadsheets, ACCT 204, and junior standing. Examines design and evaluation of manual and computerized accounting information systems. Emphasis on the system of internal controls and the impact of computers on those controls.",
+      "institution": "Virginia Commonwealth University"
+    },
+    {
+      "course_id": "ACCT 401",
+      "course_title": "Governmental and Not-for-profit Accounting",
+      "credits": "3.00",
+      "description": "Semester course; 3 lecture hours. 3 credits. Prerequisites: ACCT 303-304, grade of \"C\" or higher in ACCT 304, and junior standing. The role of accounting in the management of resources entrusted to government and nonprofit entities, including accounting and reporting standards. Accounting in municipalities and nonprofit entities such as hospitals, charitable and health organizations, and colleges and universities.",
+      "institution": "Virginia Commonwealth University"
+    },
+    {
+      "course_id": "ACCT 402",
+      "course_title": "Advanced Cost Accounting",
+      "credits": "3.00",
+      "description": "Semester course; 3 lecture hours. 3 credits. Prerequisite: ACCT 306. An advanced conceptual cost/managerial course designed to familiarize students with the more complex aspects of cost/managerial accounting concepts including process costing, standard costing, activity-based costing, Just-in-Time inventory systems, enterprise resource planning and issues relating to the relative strengths and limitations of managerial accounting.",
+      "institution": "Virginia Commonwealth University"
+    },
+    {
+      "course_id": "ACCT 403",
+      "course_title": "Management Control Systems",
+      "credits": "3.00",
+      "description": "Semester course; 3 lecture hours. 3 credits. Prerequisite: ACCT 307. An advanced conceptual management control systems course designed to expose students to the theoretical and conceptual foundations of management control systems (MCS) and to integrate accounting into the managerial decision/control process. Uses a predominantly caseoriented approach. While primary emphasis will be on integrating accounting into the management control process, significant attention also will be devoted to the behavioral issues involved in management control system design and implementation. Students also will receive hands-on experience in structuring and formulating control systems in an Enterprise Resource Planning system environment.",
+      "institution": "Virginia Commonwealth University"
+    }
+  ],
+  "timestamp": "2025-08-11T00:10:28.966172"
+}

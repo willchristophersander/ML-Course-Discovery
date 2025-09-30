@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "California State University, Dominguez Hills",
+    "successful_variation": "California State University-Dominguez Hills",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=California+State+University-Dominguez+Hills&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACC 230",
+      "course_title": "Financial Accounting",
+      "credits": "3.00",
+      "description": "Prerequisite: MAT 9 or equivalent. A survey of financial statements under existing generally accepted accounting principles. Emphasis is on underlying concepts, principles, and mechanics to make the statements meaningful to users.",
+      "institution": "California State University, Dominguez Hills"
+    },
+    {
+      "course_id": "ACC 231",
+      "course_title": "Managerial Accounting",
+      "credits": "3.00",
+      "description": "Prerequisite: ACC 230. Accounting for planning and control. Topics include objectives, terminology, concepts, product costing, cost patterns, cost-volume-profit analysis, contribution margin, profit planning, standard costs, flexible budgets, decentralized operations, relevant costs and uses of accounting data for managerial decision making.",
+      "institution": "California State University, Dominguez Hills"
+    },
+    {
+      "course_id": "ACC 330",
+      "course_title": "Intermediate Accounting I",
+      "credits": "3.00",
+      "description": "Prerequisite: ACC 230. Professional level accounting, conceptual framework, balance sheet, income statement, compound interest, cash, receivables, inventories, fixed and intangible assets, depreciation, current and contingent liabilities.",
+      "institution": "California State University, Dominguez Hills"
+    },
+    {
+      "course_id": "ACC 331",
+      "course_title": "Intermediate Accounting II",
+      "credits": "3.00",
+      "description": "Prerequisite: ACC 330. Professional level accounting, bonds and long-term notes, short-term and long-term investments, capital stock, retained earnings, income recognition, income taxes, postemployment benefits, leases, statement of cash flows, earnings per share, changes and errors, financial analysis.",
+      "institution": "California State University, Dominguez Hills"
+    },
+    {
+      "course_id": "ACC 333",
+      "course_title": "Income Taxation I",
+      "credits": "3.00",
+      "description": "Prerequisite: ACC 230. Federal income tax law as related to individuals and sole proprietorships.",
+      "institution": "California State University, Dominguez Hills"
+    },
+    {
+      "course_id": "ACC 336",
+      "course_title": "Introduction to Internal Auditing",
+      "credits": "3.00",
+      "description": "Prerequisite: ACC 231 and CIS 270. Survey of contemporary internal auditing with emphasis on financial, compliance, and operational auditing. Coverage will include audit planning, specific audit techniques, auditing in a computerized environment, emerging issues and report writing. Course includes case studies and computer applications.",
+      "institution": "California State University, Dominguez Hills"
+    },
+    {
+      "course_id": "ACC 337",
+      "course_title": "Cost Accounting",
+      "credits": "3.00",
+      "description": "Prerequisite: ACC 231. The nature, objectives, and procedure of cost accounting and control; job costing and process costing; joint product costing; standard costs; theories of cost allocation and absorption; uses of cost accounting data for management decision making.",
+      "institution": "California State University, Dominguez Hills"
+    },
+    {
+      "course_id": "ACC 339",
+      "course_title": "Accounting and Control in Multinational Companies",
+      "credits": "3.00",
+      "description": "Prerequisite: ACC 231. Study of comparative accounting systems, international accounting standards, currency translation and foreign exchange, transfer pricing, reporting, taxation, auditing and control problems.",
+      "institution": "California State University, Dominguez Hills"
+    },
+    {
+      "course_id": "ACC 430",
+      "course_title": "Advanced Accounting",
+      "credits": "3.00",
+      "description": "Prerequisite: ACC 331. Concepts and principles of partnerships, business combinations, accounting for multinational enterprises, and introduction to governmental and nonprofit accounting.",
+      "institution": "California State University, Dominguez Hills"
+    },
+    {
+      "course_id": "ACC 431",
+      "course_title": "Governmental and Non-Profit Accounting",
+      "credits": "3.00",
+      "description": "Prerequisite: ACC 230. Nature of fund accounting systems used by governments and nonprofit entities. Topics include principles underlying fund accounting, budgeting procedures, discussion of types of funds used. Course requirements include computerized term project.",
+      "institution": "California State University, Dominguez Hills"
+    }
+  ],
+  "timestamp": "2025-08-08T18:47:09.206823"
+}

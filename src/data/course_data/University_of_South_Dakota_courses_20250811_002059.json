@@ -1,0 +1,74 @@
+{
+  "search_query": {
+    "institution": "University of South Dakota",
+    "successful_variation": "South Dakota",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=South+Dakota&distance=5"
+  },
+  "total_results": 9,
+  "courses": [
+    {
+      "course_id": "ACCT 210",
+      "course_title": "Principles of Accounting I",
+      "credits": "4.00",
+      "description": "A first course in accounting procedures and principles used by sole proprietorships and partnerships with an emphasis on the balance sheet accounts. NOTES: PREREQUISITE: SOPHOMORE STANDING OFFERED EVERY FALL SEMESTER",
+      "institution": "University of South Dakota"
+    },
+    {
+      "course_id": "ACCT 211",
+      "course_title": "Principles of Accounting II",
+      "credits": "4.00",
+      "description": "Accounting procedure and statements used by partnerships and corporations. Accounting for corporate activities and accounting for managerial control of operations and business decisions. NOTES: PREREQUISITE: ACCT 210 OFFERED EVERY SPRING SEMESTER",
+      "institution": "University of South Dakota"
+    },
+    {
+      "course_id": "ACCT 300",
+      "course_title": "Special Topics in Accounting",
+      "credits": "3.00",
+      "description": "A variety of topics courses from the Accounting discipline are offered as staffing permits. Topics may include, but are not limited to the following: Theory of Accounting, Managerial Accounting, and Accounting Information Systems. This course may be repeated with different topics. NOTES: PREREQUISITE: ACCT 211 OFFERED OCCASIONALLY",
+      "institution": "University of South Dakota"
+    },
+    {
+      "course_id": "ACCT 310",
+      "course_title": "Not For Profit Accounting",
+      "credits": "3.00",
+      "description": "A study of the unique accounting standards applicable to non-profit entities, including state and local governments. Topics covered include fund accounting, the appropriation process, and program budgeting. NOTES: PREREQUISITE: ACCT 211 OFFERED FALL SEMESTER, EVEN YEARS",
+      "institution": "University of South Dakota"
+    },
+    {
+      "course_id": "ACCT 322",
+      "course_title": "Intermediate Accounting I",
+      "credits": "4.00",
+      "description": "A review of the basic financial statements, the development of accounting principles and procedures relating to cash, receivables, inventories, tangible assets and liabilities, and principles of annuities. NOTES: PREREQUISITE: ACCT 211 OFFERED EVERY FALL SEMESTER",
+      "institution": "University of South Dakota"
+    },
+    {
+      "course_id": "ACCT 323",
+      "course_title": "Intermediate Accounting II",
+      "credits": "4.00",
+      "description": "Corporation accounting and earnings per share, accounting for equity transactions, long term liabilities, pensions, and taxes. NOTES: PREREQUISITE: ACCT 322 OFFERED EVERY SPRING SEMESTER",
+      "institution": "University of South Dakota"
+    },
+    {
+      "course_id": "ACCT 344",
+      "course_title": "Income Tax",
+      "credits": "3.00",
+      "description": "A study of the federal tax system, tax accounting, taxable income and deductions, sales and exchanges, with an emphasis on the effects on an individual tax return. NOTES: PREREQUISITE: ACCT 211 OFFERED EVERY FALL SEMESTER",
+      "institution": "University of South Dakota"
+    },
+    {
+      "course_id": "ACCT 345",
+      "course_title": "Organizational Tax",
+      "credits": "3.00",
+      "description": "A study of tax accounting for partnerships, corporations, and trusts, with an emphasis on corporation tax accounting problems. NOTES: PREREQUISITE: ACCT 344 OFFERED EVERY SPRING SEMESTER",
+      "institution": "University of South Dakota"
+    },
+    {
+      "course_id": "ACCT 347",
+      "course_title": "Cost Accounting",
+      "credits": "3.00",
+      "description": "Elements of production cost according to three recognized cost systems: 1) Job cost; 2) Process cost; and 3) Standard cost. Topics include activity based costing, cost allocations, and variance analysis. NOTES: PREREQUISITE: ACCT 211 OFFERED EVERY SPRING SEMESTER",
+      "institution": "University of South Dakota"
+    }
+  ],
+  "timestamp": "2025-08-11T00:20:59.810731"
+}

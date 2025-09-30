@@ -1,0 +1,74 @@
+{
+  "search_query": {
+    "institution": "University of Dubuque",
+    "successful_variation": "University of Dubuque",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=University+of+Dubuque&distance=5"
+  },
+  "total_results": 9,
+  "courses": [
+    {
+      "course_id": "ART 111",
+      "course_title": "Survey of Western Art I",
+      "credits": "3.00",
+      "description": "Investigates key images in the history of art and architecture from the Ancient to the early Renaissance period (30,000 BCE-1300) via slides, lectures, discussions, and readings. As an historical course, ART 111 not only considers the formal development of art but also presents each monument in the context of the society that created it. This course will focus on how a work of art reflects and is affected by the major cultural, political, and religious developments of its era.",
+      "institution": "University of Dubuque"
+    },
+    {
+      "course_id": "ART 112",
+      "course_title": "Survey of Western Art II",
+      "credits": "3.00",
+      "description": "Investigates key images in the history of art and architecture from the Renaissance to the Modern period (1400-2000) via slides, lectures, discussions, and readings. As an historical course, ART 112 not only considers the formal development of art but also presents each monument in the context of the society that created it. This course will focus on how a work of art reflects and is affected by the major cultural, political, and religious developments of its era.",
+      "institution": "University of Dubuque"
+    },
+    {
+      "course_id": "ART 130",
+      "course_title": "Computer Graphics for Non-Majors",
+      "credits": "3.00",
+      "description": "Introduces to non-computer graphics majors the relationship of design and technology by allowing the student to create and compose visual content that communicates ideas in an effective manner using different software applications. Students will study composition, layout, balance, weight, typography, and organization of imagery. This course focuses on five application areas in computer graphics: paint systems, desktop publishing, 2D animation, 3D animation, and web design. Prerequisite: CIS 101 or permission of instructor. Not applicable for computer graphics majors.",
+      "institution": "University of Dubuque"
+    },
+    {
+      "course_id": "ART 221",
+      "course_title": "Drawing Fundamentals",
+      "credits": "3.00",
+      "description": "An introduction to the structure of forms in two dimensions, figure/ground relationships, line, value, shape, and texture. Emphasis is on still life, perspective, and architecture using pencil, charcoal and conte crayon.",
+      "institution": "University of Dubuque"
+    },
+    {
+      "course_id": "ART 367",
+      "course_title": "Powerful Ideas in Photography",
+      "credits": "3.00",
+      "description": "This course is designed for the individual interested in improving his/her artistic abilities/vision in photography. A basic understanding of the darkroom and film development is required. Each student will need to have a 35mm camera. This course requires a lab fee.",
+      "institution": "University of Dubuque"
+    },
+    {
+      "course_id": "AVI 130",
+      "course_title": "Aviation History",
+      "credits": "3.00",
+      "description": "Familiarization with the beginnings of aviation: the events, the aircraft, and the people that enabled the fledgling industry to develop into what it is today. (Cross-listed with UDHS 130)",
+      "institution": "University of Dubuque"
+    },
+    {
+      "course_id": "AVI 131",
+      "course_title": "Basic Ground School",
+      "credits": "6.00",
+      "description": "An introduction to private pilot flight operations including basic aircraft control, flight theory, national airspace system, radio navigation, aircraft performance, meteorology, cross-country operations, and human physiology. At the successful completion of this course, the student will have gained the aeronautical knowledge to take the FAA Private Pilot written examination. Prerequisite: UDMA 030, 040, or 112 must be taken concurrently.",
+      "institution": "University of Dubuque"
+    },
+    {
+      "course_id": "AVI 145",
+      "course_title": "Safety and Ethics in Aviation",
+      "credits": "1.00",
+      "description": "Designed to acquaint the beginning aviation student with a set of policies, procedures, rules, and laws that affect the student's potential success in the aviation industry. A variety of topics will be presented to address safe, professional and ethical conduct necessary for success in the aviation industry. This course is designed for the first-year student with less than a commercial pilot license. Offered Fall semester only and is required for all students new to UD without an instrument rating.",
+      "institution": "University of Dubuque"
+    },
+    {
+      "course_id": "AVI 201",
+      "course_title": "Principles of Navigation",
+      "credits": "3.00",
+      "description": "An introduction to basic navigation for flight operations students. Covers navigation techniques and equipment used by pilots in all kinds of aircraft, from the basics of dead reckoning and VOR navigation to the most recent developments in satellite navigation. Prerequisite: FLI 131",
+      "institution": "University of Dubuque"
+    }
+  ],
+  "timestamp": "2025-08-10T14:35:57.700705"
+}

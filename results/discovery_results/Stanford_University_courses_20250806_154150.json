@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Stanford University",
+    "successful_variation": "Stanford University",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Stanford+University&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "AA 100",
+      "course_title": "Introduction to Aeronautics and Astronautics",
+      "credits": "3.00",
+      "description": "The principles of fluid flow, flight, and propulsion; the creation of lift and drag, aerodynamic performance including take-off, climb, range, and landing performance, structural concepts, propulsion systems, trajectories, and orbits. The history of aeronautics and astronautics. Prerequisites: MATH 41, 42; elementary physics. GER:DB-EngrAppSci 3 units, Aut (MacCormack, R)",
+      "institution": "Stanford University"
+    },
+    {
+      "course_id": "AA 113N",
+      "course_title": "Structures:Why Things Don't Fall Down",
+      "credits": "3.00",
+      "description": "(F,Sem) Stanford Introductory Seminar. Preference to freshmen. How structures created by nature or built by human beings keep things up and keep things in. Topics: nature's structures from microorganisms to large vertebrae; buildings from ancient dwellings to modern skyscrapers; spacecraft and airplanes; boats from ancient times to America's Cup sailboats, and how they win or break; sports equipment from Odysseus's bow to modern skis; and biomedical devices including bone replacements and cardiovascular stents. How composite materials are used to make a structure light and strong. GER:DB-EngrAppSci 3 units, Win (Springer, G)",
+      "institution": "Stanford University"
+    },
+    {
+      "course_id": "AA 190",
+      "course_title": "Directed Research and Writing in Aero/Astro",
+      "credits": "3.00",
+      "description": "For undergraduates. Experimental or theoretical work under faculty direction, and emphasizing development of research and communication skills. Written report(s) and letter grade required; if this is not appropriate, enroll in 199. Consult faculty in area of interest for appropriate topics, involving one of the graduate research groups or other special projects. May be repeated for credit. Prerequisite: consent of student services manager and instructor. WIM 3-5 units, Aut (Staff), Win (Staff), Spr (Staff), Sum (Staff)",
+      "institution": "Stanford University"
+    },
+    {
+      "course_id": "AA 199",
+      "course_title": "Independent Study in Aero/Astro",
+      "credits": "3.00",
+      "description": "Directed reading, lab, or theoretical work for undergraduate students. Consult faculty in area of interest for appropriate topics involving one of the graduate research groups or other special projects. May be repeated for credit. Prerequisite: consent of instructor. 1-5 units, Aut (Staff), Win (Staff), Spr (Staff), Sum (Staff)",
+      "institution": "Stanford University"
+    },
+    {
+      "course_id": "AA 200A",
+      "course_title": "Applied Aerodynamics",
+      "credits": "3.00",
+      "description": "Fundamental equations of fluid dynamics and the physical assumptions on which they are based; overview of appropriate methods for solving these equations including nonlinear CFD, linear panel and vortex methods; estimation of pressure distributions and resultant airloads on 2-D airfoils, finite wings, slender bodies, and lifting systems; compressibility effects; boundary layer analysis and prediction of drag, separation, and displacement effects. Application to airfoil and wing design. Prerequisite: undergraduate aeronautics course. Recommended: 210A. 3 units, Win (MacCormack, R)",
+      "institution": "Stanford University"
+    },
+    {
+      "course_id": "AA 201A",
+      "course_title": "Fundamentals of Acoustics",
+      "credits": "3.00",
+      "description": "Acoustic equations for a stationary homogeneous fluid; wave equation; plane, spherical, and cylindrical waves; harmonic (monochromatic) waves; simple sound radiators; reflection and transmission of sound at interfaces between different media; multipole analysis of sound radiation; Kirchoff integral representation; scattering and diffraction of sound; propagation through ducts (dispersion, attenuation, group velocity); sound in enclosed regions (reverberation, absorption, and dispersion); radiation from moving sources; propagation in the atmosphere and underwater. Prerequisite: first-year graduate standing in engineering, mathematics, sciences; or consent of instructor. 3 units, not given this year",
+      "institution": "Stanford University"
+    },
+    {
+      "course_id": "AA 201B",
+      "course_title": "Topics in Aeroacoustics",
+      "credits": "3.00",
+      "description": "Acoustic equations for moving medium, simple sources, Kirchhoff formula, and multipole representation; radiation from moving sources; acoustic analogy approach to sound generation in compact flows; theories of Lighthill, Powell, and Mohring; acoustic radiation from moving surfaces; theories of Curl, Ffowcs Williams, and Hawkings; application of acoustic theories to the noise from propulsive jets, and airframe and rotor noise; computational methods for acoustics. Prerequisite: 201A or consent of instructor. 3 units, Spr (Lele, S)",
+      "institution": "Stanford University"
+    },
+    {
+      "course_id": "AA 202",
+      "course_title": "Hypersonic Flow",
+      "credits": "3.00",
+      "description": "The fundamental principals and equations governing hypersonic flight and high temperature gas dynamics, including chemical and thermal equilibrium and non-equilibrium; statistical thermodynamics; kinetic theory; transport phenomena; radiation; surface heating; and scramjet engines. Prerequisite: understanding of aerodynamics. Recommended: AA 200A. 3 units, Spr (MacCormack, R)",
+      "institution": "Stanford University"
+    },
+    {
+      "course_id": "AA 206",
+      "course_title": "Bio-Aerodynamics",
+      "credits": "3.00",
+      "description": "Topics: flapping flight, low Reynolds number aerodynamics, wing design, flocks, swarms, and dynamic soaring. Readings from current and historical literature dealing with theoretical and observational studies. Applications in aircraft design, and simulation-based problem sets. Prerequisite: course in aerodynamics such as 100, 200A, or 241A. 3 units, not given this year",
+      "institution": "Stanford University"
+    },
+    {
+      "course_id": "AA 208",
+      "course_title": "Aerodynamics of Aircraft Dynamic Response and Stability",
+      "credits": "3.00",
+      "description": "Companion to 200A for those interested in control and guidance. Typical vehicles and the technical tradeoffs affecting their design. Equations of motion, stressing applications to dynamic performance, stability, and forced response. Forms and sources for the required aerodynamic data. Response to small disturbances and stability derivatives. Static stability and trim. Review of aerodynamic fundamentals, leading to airload predictions for wings, bodies, and complete aircraft. Paneling and other methods for derivative estimation. Natural motions of the aircraft, and the influence on them of various configuration parameters. Vehicle behavior in maneuvers of small and large amplitudes. Prerequisites: 200A, 210A, or equivalents (may be taken concurrently). 3 units, not given this year",
+      "institution": "Stanford University"
+    }
+  ],
+  "timestamp": "2025-08-06T15:41:50.901897"
+}

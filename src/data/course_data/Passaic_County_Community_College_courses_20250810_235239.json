@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Passaic County Community College",
+    "successful_variation": "Passaic County Community College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Passaic+County+Community+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "AC 102",
+      "course_title": "Financial Accounting II",
+      "credits": "3.00",
+      "description": "Continuation of the basic principles of financial accounting. Covers partnership, corporate accounting for stocks and bonds, cash flow statements, the reporting of unusual events and financial analysis. 3 hours lecture Prerequisite: AC 101",
+      "institution": "Passaic County Community College"
+    },
+    {
+      "course_id": "AC 201",
+      "course_title": "Intermediate Accounting I",
+      "credits": "3.00",
+      "description": "Develops the application of financial accounting theories and valuation practices. Special emphasis on balance sheets and income statements, current assets, plant assets, and investments. 3 hours lecture Prerequisite: AC 102",
+      "institution": "Passaic County Community College"
+    },
+    {
+      "course_id": "AC 205",
+      "course_title": "Managerial Accounting",
+      "credits": "3.00",
+      "description": "Study of managerial uses of accounting information for solving business problems. Among the topics covered are cost systems, manufacturing and cash budgets, process, and job costing, the time value of money, and standard costs. 3 hours lecture Prerequisite: AC 101",
+      "institution": "Passaic County Community College"
+    },
+    {
+      "course_id": "AC 210",
+      "course_title": "Accounting Applications in Excel",
+      "credits": "1.00",
+      "description": "This course emphasizes the use of Excel functions and formatting to set up and solve problems. Through lectures, demonstrations, and individual exercises, the course covers analysis across multiple worksheets within a workbook, the use of absolute values, the logical IF function, financial functions (present, future values, annuities, depreciation, charts, and graphs), statistical calculations (min., max., avg. count) and various other formatting activities. Emphasis is placed on accounting and finance exercises. 1 hour lecture Prerequisite: AC 102, CIS 125",
+      "institution": "Passaic County Community College"
+    },
+    {
+      "course_id": "AC 215",
+      "course_title": "Federal Taxation",
+      "credits": "3.00",
+      "description": "Study of the basic principles and laws of federal taxation for individual and corporate returns. Topics include gross income (inclusions and exclusions), deductions and exemptions, capital gains and losses, and summary of corporate and partnership taxes. 3 hours lecture Prerequisites: MA 004, AC 101",
+      "institution": "Passaic County Community College"
+    },
+    {
+      "course_id": "AC 220",
+      "course_title": "Accounting Software Applications I",
+      "credits": "3.00",
+      "description": "Records business transactions using QuickBooks an up-to-date commercial software program designed for small businesses. Utilize QuickBooks software as it pertains to a service business, a merchandising business, and various legal forms of a business such as a sole proprietorship and a partnership. 3 hours lecture Prerequisites: AC 102, CIS 125; Corequisite: AC 210",
+      "institution": "Passaic County Community College"
+    },
+    {
+      "course_id": "AC 221",
+      "course_title": "Accounting Software Applications II",
+      "credits": "3.00",
+      "description": "Students will explore and use many of the features of PeachTree, a small business accounting software for many types of businesses. Students will record transactions involving general ledger, sales & accounts receivable, accounts payable, generate financial reports, setup and process payroll, estimate budgets, analyze accounting information, calculate ratios and present in numeric graphic form. 3 hours lecture Prerequisites: AC 220",
+      "institution": "Passaic County Community College"
+    },
+    {
+      "course_id": "AR 101",
+      "course_title": "Drawing I",
+      "credits": "3.00",
+      "description": "Foundation studio providing the beginner with basic techniques and practices in composition, sketching, contour drawing, texture, value, one- and two-point perspective. 6 hours studio",
+      "institution": "Passaic County Community College"
+    },
+    {
+      "course_id": "AR 102",
+      "course_title": "Drawing II",
+      "credits": "3.00",
+      "description": "The principles learned in Drawing I are further developed. Light and shade, line qualities, and more complex subjects are studied. Emphasis on rendering natural forms, still life, and the costumed figure. 6 hours studio Prerequisite: AR 101",
+      "institution": "Passaic County Community College"
+    },
+    {
+      "course_id": "AR 110",
+      "course_title": "Introduction to Graphic Design",
+      "credits": "3.00",
+      "description": "Trains the student to apply the principles and elements of design to the design and creation of original work in advertising and promotional print materials, and presentations. Students will explore typography and how it relates to basic layout and design of materials, as well as color selection, and portfolio presentation and scanning techniques. The student will be exposed to various software used for design creation including Fireworks, PhotoShop, Quark Xpress and Adobe Illustrator. Note: This class cannot be used to satisfy a Humanities elective, 3 hours lecture Prerequisite: (EN 001 and RD 001) OR ENR 107",
+      "institution": "Passaic County Community College"
+    }
+  ],
+  "timestamp": "2025-08-10T23:52:39.809223"
+}

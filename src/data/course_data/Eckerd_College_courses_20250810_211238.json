@@ -1,0 +1,25 @@
+{
+  "search_query": {
+    "institution": "Eckerd College",
+    "successful_variation": "Eckerd College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Eckerd+College&distance=5"
+  },
+  "total_results": 2,
+  "courses": [
+    {
+      "course_id": "AH 103A",
+      "course_title": "Art of the Western World",
+      "credits": "3.00",
+      "description": "Introductory course covering the major periods of western art history from its inception to the presentday. Discussion of major works from each era provides information about the cultures and highlights achievements of outstanding artists.",
+      "institution": "Eckerd College"
+    },
+    {
+      "course_id": "AH 203A",
+      "course_title": "Arts of the Silk Road",
+      "credits": "3.00",
+      "description": "A survey of the arts and material culture of the golden age of the Silk Road caravan trade between China, India, and Persia. Emphasis is placed on Chinese arts, especially through Buddhist painting and sculpture.",
+      "institution": "Eckerd College"
+    }
+  ],
+  "timestamp": "2025-08-10T21:12:38.853793"
+}

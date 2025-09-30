@@ -1,0 +1,25 @@
+{
+  "search_query": {
+    "institution": "Minnesota State University Moorhead",
+    "successful_variation": "Minnesota State University Moorhead",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Minnesota+State+University+Moorhead&distance=5"
+  },
+  "total_results": 2,
+  "courses": [
+    {
+      "course_id": "ACCT 230",
+      "course_title": "Principles of Accounting I",
+      "credits": "3.00",
+      "description": "From a user's perspective, an introduction to the content and concepts underlying the three basic financial statements prepared by management for use by investors and creditors. Includes financial statement analysis.",
+      "institution": "Minnesota State University Moorhead"
+    },
+    {
+      "course_id": "ACCT 231",
+      "course_title": "Principles of Accounting II",
+      "credits": "3.00",
+      "description": "An introduction to the content and concepts of financial information for management's use in directing operations. Topics include cost behavior, product costing, actual and standard costs, cost-volume-profit analysis, relevant costs, operational and capital budgeting, and present value analysis.",
+      "institution": "Minnesota State University Moorhead"
+    }
+  ],
+  "timestamp": "2025-08-08T19:00:56.360184"
+}

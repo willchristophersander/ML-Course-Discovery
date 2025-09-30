@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Pennsylvania Institute of Technology",
+    "successful_variation": "Pennsylvania Institute of Technology",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Pennsylvania+Institute+of+Technology&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACT 111",
+      "course_title": "Introduction to Surveying",
+      "credits": "3.00",
+      "description": "No course description available.",
+      "institution": "Pennsylvania Institute of Technology"
+    },
+    {
+      "course_id": "ACT 113",
+      "course_title": "Surveying Mathematics",
+      "credits": "3.00",
+      "description": "No course description available.",
+      "institution": "Pennsylvania Institute of Technology"
+    },
+    {
+      "course_id": "ACT 115",
+      "course_title": "Surveying Measurements",
+      "credits": "3.00",
+      "description": "No course description available.",
+      "institution": "Pennsylvania Institute of Technology"
+    },
+    {
+      "course_id": "ACT 117",
+      "course_title": "Introduction to Surveying Equipment",
+      "credits": "3.00",
+      "description": "No course description available.",
+      "institution": "Pennsylvania Institute of Technology"
+    },
+    {
+      "course_id": "ACT 119",
+      "course_title": "Surveying Plans",
+      "credits": "3.00",
+      "description": "No course description available.",
+      "institution": "Pennsylvania Institute of Technology"
+    },
+    {
+      "course_id": "ACT 121",
+      "course_title": "Surveying Drafting and CAD",
+      "credits": "3.00",
+      "description": "No course description available.",
+      "institution": "Pennsylvania Institute of Technology"
+    },
+    {
+      "course_id": "ACT 123",
+      "course_title": "Introduction to Field Procedures",
+      "credits": "3.00",
+      "description": "No course description available.",
+      "institution": "Pennsylvania Institute of Technology"
+    },
+    {
+      "course_id": "ACT 125",
+      "course_title": "Cert Survey Tech Level I Prep Course",
+      "credits": "3.00",
+      "description": "No course description available.",
+      "institution": "Pennsylvania Institute of Technology"
+    },
+    {
+      "course_id": "ACT 132",
+      "course_title": "Special Topics",
+      "credits": "4.00",
+      "description": "No course description available.",
+      "institution": "Pennsylvania Institute of Technology"
+    },
+    {
+      "course_id": "ACT 150",
+      "course_title": "Contruction Technology",
+      "credits": "3.00",
+      "description": "No course description available.",
+      "institution": "Pennsylvania Institute of Technology"
+    }
+  ],
+  "timestamp": "2025-08-10T23:51:40.818769"
+}

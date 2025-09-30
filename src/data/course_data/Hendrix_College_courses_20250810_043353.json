@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Hendrix College",
+    "successful_variation": "Hendrix College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Hendrix+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "AMST 320",
+      "course_title": "American Roots Music and Southern Culture",
+      "credits": "3.00",
+      "description": "The interplay between regional American folk music and social communities where these forms emerged will be examined from several academic perspectives. The course will focus on Southern cultures and include the examination of Appalachian and Ozark mountain music; bluegrass; Mississippi Delta blues; New Orleans, Memphis, and Kansas City jazz; Louisiana Cajun and zydeco music; and early rock and roll. Student exploration and presentation of hypothesized music/culture relationships in these and other class-defining groups will be emphasized.",
+      "institution": "Hendrix College"
+    },
+    {
+      "course_id": "AMST 385",
+      "course_title": "Special Topics in American Studies",
+      "credits": "3.00",
+      "description": "This course is reserved for participation in the Washington Center Program. the student will receive one academic credit for satisfactorily comleting the academic course offered by the Program. For more information, see Engaged Learning Opportunities, The Washington Center.",
+      "institution": "Hendrix College"
+    },
+    {
+      "course_id": "AMST 401",
+      "course_title": "Seminar in American Studies [UR",
+      "credits": "3.00",
+      "description": "Students will research a project of their own choosing, but will meet regularly with one another and a faculty member to discuss their progress and methodological issues, to present their work and receive feedback, and to foster their identity as members of a particular academic community as well as their appreciation of the nature of that community. The primary goal for the course is to ensure the students understand, appreciate, and can apply American Studies methodologies. It will also provide an excellent opportunity for students to revisit the question, What is American Studies?",
+      "institution": "Hendrix College"
+    },
+    {
+      "course_id": "ANTH 100",
+      "course_title": "Introduction to Cultural Anthropology",
+      "credits": "3.00",
+      "description": "An examination of the total range of human cultural diversity. The goal is to understand the enormous diversity of human culture, and to understand why and how different ways of life have risen. This course introduces the basic principles of social-cultural anthropology, designed to provide insight into the cultural aspects of human ways of life. Examples from cultures around the world will be used to illustrate concepts introduced in class.",
+      "institution": "Hendrix College"
+    },
+    {
+      "course_id": "ANTH 102",
+      "course_title": "Introduction to Archaeology and Physical Anthropology",
+      "credits": "3.00",
+      "description": "Companion course to Introduction to Cultural Anthropology, covering two sub-disciplines of anthropology. An examination of the evolution of humans from earliest known ancestors in Africa to the rise of complex societies. The focus is on biological and cultural change and its consequences as deduced from methods analyzing fossil and material culture evidence.",
+      "institution": "Hendrix College"
+    },
+    {
+      "course_id": "ANTH 200",
+      "course_title": "Buried Cities and Lost Tribes",
+      "credits": "3.00",
+      "description": "A global survey of the great archaeological discoveries and their implications for contemporary anthropological studies of human cultural evolution and variation. The course covers five continents and time periods, ranging from human origins to the rise and collapse of recent empires.",
+      "institution": "Hendrix College"
+    },
+    {
+      "course_id": "ANTH 230",
+      "course_title": "Cultures of the United States-Mexico Borderlands",
+      "credits": "3.00",
+      "description": "An exploration of ethnographic representations of the U.S.-Mexico border and the theoretical orientations of border scholars. Both practical and theoretical problems of the region will be examined using materials concerning the U.S.-Mexico border and the various cultural groups that inhabit this contested space. Through the study of the historical and contemporary sociocultural patterns of borderlands, implications for social science in general will be discussed.",
+      "institution": "Hendrix College"
+    },
+    {
+      "course_id": "ANTH 235",
+      "course_title": "Peoples and Cultures of Latin America",
+      "credits": "3.00",
+      "description": "An overview of culture and social life in Latin America with some historical context. Topics to be examined include the legacy of European colonialism, indigenous cultures, and the influence of the contemporary global economy and transnational migration. Both ethnographic representations and hands-on research will be used to learn about this diverse and fascinating region.",
+      "institution": "Hendrix College"
+    },
+    {
+      "course_id": "ANTH 240",
+      "course_title": "Applying Anthropology",
+      "credits": "3.00",
+      "description": "An examination of the ways anthropology is used outside of a pure academic context. Students will study how anthropological theory and methods are used in a variety of contexts and how they benefit society. This course also emphasizes the impact of applied anthropology on the development of American anthropology as a whole, and how it has advanced our theoretical knowledge of culture and human behavior.",
+      "institution": "Hendrix College"
+    },
+    {
+      "course_id": "ANTH 250",
+      "course_title": "Visual Anthropology",
+      "credits": "3.00",
+      "description": "In an increasingly visually-oriented world, this course focuses on the use of photographs and film to represent people from various cultures, as well as the use of film by indigenous groups to represent themselves. We learn about cultures through visual and narrative means, and critically analyze the filmmaking process, as well as other forms of visual media.",
+      "institution": "Hendrix College"
+    }
+  ],
+  "timestamp": "2025-08-10T04:33:53.826320"
+}

@@ -1,0 +1,116 @@
+{
+  "timestamp": "2025-08-06T16:01:34.533907",
+  "analysis": {
+    "total_universities": 5,
+    "discovery_success_rate": 0.8,
+    "avg_discovery_confidence": 0.89625,
+    "validation_success_rate": 0.4,
+    "avg_validation_confidence": 0.30000000000000004,
+    "course_finding_rate": 0.5,
+    "avg_discovery_time": 23.8085476398468,
+    "avg_validation_time": 2.4175859451293946,
+    "successful_discoveries": [
+      {
+        "university": "Harvard University",
+        "url": "https://courses.my.harvard.edu/psp/courses/EMPLOYEE/EMPL/h/?tab=HU_CLASS_SEARCH",
+        "discovery_confidence": 0.935,
+        "validation_confidence": 0.0,
+        "courses_found": "0/0"
+      },
+      {
+        "university": "Ohio State University - Columbus",
+        "url": "https://classes.osu.edu/#/",
+        "discovery_confidence": 0.935,
+        "validation_confidence": 0.0,
+        "courses_found": "0/0"
+      },
+      {
+        "university": "Saint Mary's University of Minnesota",
+        "url": "https://stmary.edu/registrar/class-schedules",
+        "discovery_confidence": 0.8,
+        "validation_confidence": 0.4,
+        "courses_found": "1/5"
+      },
+      {
+        "university": "Stanford University",
+        "url": "https://navigator.stanford.edu/classes?classes%5BrefinementList%5D%5BtermOffered%5D%5B0%5D=Summer%202025",
+        "discovery_confidence": 0.915,
+        "validation_confidence": 0.2,
+        "courses_found": "4/5"
+      }
+    ],
+    "failed_discoveries": [
+      {
+        "university": "The University of Texas at Rio Grande Valley",
+        "error": "No search results found with any strategy"
+      }
+    ]
+  },
+  "detailed_results": [
+    {
+      "university_name": "The University of Texas at Rio Grande Valley",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No search results found with any strategy",
+      "discovery_time": 21.540587902069092,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "Harvard University",
+      "discovered_url": "https://courses.my.harvard.edu/psp/courses/EMPLOYEE/EMPL/h/?tab=HU_CLASS_SEARCH",
+      "discovery_success": true,
+      "discovery_confidence": 0.935,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No test courses found in CollegeTransfer.net",
+      "discovery_time": 26.810883045196533,
+      "validation_time": 3.291555643081665
+    },
+    {
+      "university_name": "Ohio State University - Columbus",
+      "discovered_url": "https://classes.osu.edu/#/",
+      "discovery_success": true,
+      "discovery_confidence": 0.935,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No test courses found in CollegeTransfer.net",
+      "discovery_time": 22.2502658367157,
+      "validation_time": 4.549385070800781
+    },
+    {
+      "university_name": "Saint Mary's University of Minnesota",
+      "discovered_url": "https://stmary.edu/registrar/class-schedules",
+      "discovery_success": true,
+      "discovery_confidence": 0.8,
+      "validation_success": true,
+      "validation_confidence": 0.4,
+      "test_courses_found": 1,
+      "total_test_courses": 5,
+      "error_message": null,
+      "discovery_time": 22.70223331451416,
+      "validation_time": 2.174027919769287
+    },
+    {
+      "university_name": "Stanford University",
+      "discovered_url": "https://navigator.stanford.edu/classes?classes%5BrefinementList%5D%5BtermOffered%5D%5B0%5D=Summer%202025",
+      "discovery_success": true,
+      "discovery_confidence": 0.915,
+      "validation_success": true,
+      "validation_confidence": 0.2,
+      "test_courses_found": 4,
+      "total_test_courses": 5,
+      "error_message": null,
+      "discovery_time": 25.738768100738525,
+      "validation_time": 2.0729610919952393
+    }
+  ]
+}

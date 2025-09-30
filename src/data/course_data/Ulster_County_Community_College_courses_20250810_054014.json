@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Ulster County Community College",
+    "successful_variation": "Ulster County Community College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Ulster+County+Community+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACC 100",
+      "course_title": "Fund of Accounting",
+      "credits": "3.00",
+      "description": "3 Credits Business,Professional Studies Accounting (transfer) Students are introduced to the basic principles of accounting appropriate for the needs of the office assistant or business office worker. Topics covered include the accounting equation, the accounting cycle, financial statements, special journals and ledgers, and payroll procedures.",
+      "institution": "Ulster County Community College"
+    },
+    {
+      "course_id": "ACC 101",
+      "course_title": "Prin of Accounting I",
+      "credits": "4.00",
+      "description": "4 Credits Business,Professional Studies Accounting (transfer) Students are introduced to the basic principles and concepts of accounting in this course. The accounting cycle, accounting systems, financial statements, current assets and liabilities, and deferrals and accruals are studied in depth. Prerequisite: MAT 098 or high school Regents Mathematics Course I. Corequisite: ENG 101.",
+      "institution": "Ulster County Community College"
+    },
+    {
+      "course_id": "ACC 102",
+      "course_title": "Prin of Accounting II",
+      "credits": "3.00",
+      "description": "3 Credits Business,Professional Studies Accounting (transfer) A continuation of developing accounting principles and concepts, this course provides for study of the equity of corporations, current and long-term liabilities, plant and long-term assets, the cash flow statement and financial ratios. Prerequisites: ACC 101 and MAT 100 with a grade of C or better.",
+      "institution": "Ulster County Community College"
+    },
+    {
+      "course_id": "ACC 200",
+      "course_title": "Financial Accounting",
+      "credits": "4.00",
+      "description": "4 Credits Business,Professional Studies Accounting (transfer) Basic concepts and principles of financial accounting are introduced in this course. Students study the accounting equation, the accounting cycle, accruals and deferrals, financial statements, accounting systems, current assets and liabilities, long-term assets and debt, stocks, and cash flow. Prerequisites: MAT 115 or Regents Mathematics Course II and ENG 101.",
+      "institution": "Ulster County Community College"
+    },
+    {
+      "course_id": "ACC 204",
+      "course_title": "Managerial Accounting",
+      "credits": "4.00",
+      "description": "4 Credits Business,Professional Studies Accounting (transfer) Fundamental accounting concepts that are useful to management in planning and controlling its operation are covered in this course. Topics include a review of financial statements, analysis of cash flow, the measurement of cost, cost behavior and profitability analysis, cost allocation, budgeting, and performance evaluation. Prerequisite: ACC 102 or 200 with a grade of C or better and MAT 105 or higher.",
+      "institution": "Ulster County Community College"
+    },
+    {
+      "course_id": "ACT 205",
+      "course_title": "Federal Income Tax Prep I",
+      "credits": "3.00",
+      "description": "3 Credits Business,Professional Studies Accounting (career) Career-oriented students are introduced to the federal income tax system in this course. Form 1040 and accompanying schedules for individuals and sole proprietors will be studied. Upon completion of the course, students will demonstrate competency by preparing a tax return. Prerequisite: ACC 101 or ACC 200 or by advisement.",
+      "institution": "Ulster County Community College"
+    },
+    {
+      "course_id": "ACT 210",
+      "course_title": "Computerized Accounting",
+      "credits": "4.00",
+      "description": "4 Credits Business,Professional Studies Accounting (career) The establishment and maintenance of computerized accounting systems for service and merchandising businesses are emphasized in this course. Students will utilize a current commercial software package. Prerequisite: ACC 102 or ACC 200 with a grade of C- or better or by advisement.",
+      "institution": "Ulster County Community College"
+    },
+    {
+      "course_id": "ACT 215",
+      "course_title": "Taxes in Bus Environment",
+      "credits": "3.00",
+      "description": "3 Credits Business,Professional Studies Accounting (career) Students will be introduced to the procedures used in determining payroll tax liability and the preparation of quarterly and annual payroll tax reports as required by government agencies. Also covered will be maintenance of accurate sales tax records in order to determine sales tax liability and the preparation of state sales tax reports and report preparation for insurance, retirement, and pension plans. Prerequisite: ACC 101 or ACC 200 with a grade of C- or better.",
+      "institution": "Ulster County Community College"
+    },
+    {
+      "course_id": "ART 101",
+      "course_title": "Intro To Visual Arts I",
+      "credits": "3.00",
+      "description": "3 Credits Visual Arts, MUS, & THE Art A basic introduction to concepts and philosophical theories underlying the organization of art forms is provided in this course. Through the study of line, form, space, value, color, and texture, as interpreted in both historical and contemporary contexts, the course stresses an understanding of the elements and principles of design in the visual arts.",
+      "institution": "Ulster County Community College"
+    },
+    {
+      "course_id": "ART 103",
+      "course_title": "Drawing & Composition I",
+      "credits": "3.00",
+      "description": "3 Credits Visual Arts, MUS, & THE Art Students are introduced to drawing elements and principles through an analysis of form and space. Emphasis is on the organization of line, value, mass, and structure in the development of disciplined draftsmanship and imaginative composition. Using a variety of drawing media, students create from still life, landscape, and the figure. 1 hr. lect.; 4 hrs. studio. Prerequisite: Enrollment by advisement. This course is reserved for art majors.",
+      "institution": "Ulster County Community College"
+    }
+  ],
+  "timestamp": "2025-08-10T05:40:14.583557"
+}

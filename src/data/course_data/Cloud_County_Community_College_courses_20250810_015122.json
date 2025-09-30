@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Cloud County Community College",
+    "successful_variation": "Cloud County Community College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Cloud+County+Community+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "AG 100",
+      "course_title": "Agriculture in Our Society",
+      "credits": "1.00",
+      "description": "Is a study of the development of the agricultural industry in the United States, the purposes of higher education within the industry. Outside speakers are used to inform students of career opportunities.",
+      "institution": "Cloud County Community College"
+    },
+    {
+      "course_id": "AG 101",
+      "course_title": "Plant Science",
+      "credits": "4.00",
+      "description": "Is a transfer course designed to acquaint students with the botanical principles underlying plant growth, development and reproduction. Three hours lecture and one laboratory each week.",
+      "institution": "Cloud County Community College"
+    },
+    {
+      "course_id": "AG 102",
+      "course_title": "Introduction to Plant Pest Control",
+      "credits": "4.00",
+      "description": "Plant Pest Control covers the techniques of preventing damage to agricultural crops due to weeds, insects, diseases and nematodes. Three hours lecture and one and a half hours of lab per week.",
+      "institution": "Cloud County Community College"
+    },
+    {
+      "course_id": "AG 103",
+      "course_title": "Plant And Soils For Crop Production",
+      "credits": "3.00",
+      "description": "Covers the biological factors governing crop yield and the culture of major crops in the area. Prerequisite: Plant Science and Soils.",
+      "institution": "Cloud County Community College"
+    },
+    {
+      "course_id": "AG 104",
+      "course_title": "Soils",
+      "credits": "4.00",
+      "description": "Covers fundamental principles underlying the formation, fertility and management of soils. Three hours lecture and one extended laboratory per week are required. Prerequisite: Chemistry I or General Chemistry.",
+      "institution": "Cloud County Community College"
+    },
+    {
+      "course_id": "AG 105",
+      "course_title": "Range Management",
+      "credits": "3.00",
+      "description": "An in-depth look at the management of grazing resources including ecology, economics, burning, brush and weed control, grazing systems and complementary grazing crops.",
+      "institution": "Cloud County Community College"
+    },
+    {
+      "course_id": "AG 106",
+      "course_title": "Soil Classification And Evaluation",
+      "credits": "1.00",
+      "description": "An exercise in classifying and evaluating soils according to criteria recognized by USDA soil scientists. Soils are evaluated for their usefulness for agriculture and engineering purposes.",
+      "institution": "Cloud County Community College"
+    },
+    {
+      "course_id": "AG 107",
+      "course_title": "Agronomy Identification And Experimentation",
+      "credits": "1.00",
+      "description": "Is designed to develop in students an ability to quickly and accurately identify plants and diagnose problems in field crops, and prepare for national competition in agronomy.",
+      "institution": "Cloud County Community College"
+    },
+    {
+      "course_id": "AG 108",
+      "course_title": "Environmental Quality",
+      "credits": "3.00",
+      "description": "Is designed to acquaint land managers with the impact of various practices on such environmental parameters as groundwater, fish and wildlife, as well as to introduce methods of improving the environment on a local scale. Means of utilizing underused natural resources in a profitable and ecologically sound manner will be stressed. (Dual listing with Science.)",
+      "institution": "Cloud County Community College"
+    },
+    {
+      "course_id": "AG 109",
+      "course_title": "Environmental Quality Lab",
+      "credits": "1.00",
+      "description": "Is designed to allow students to experience concepts discussed in Environmental Quality lecture class. One extended laboratory per week, with frequent field trips. Prerequisite: concurrent enrollment in Environmental Quality. (Dual listing with Science.)",
+      "institution": "Cloud County Community College"
+    }
+  ],
+  "timestamp": "2025-08-10T01:51:22.441686"
+}

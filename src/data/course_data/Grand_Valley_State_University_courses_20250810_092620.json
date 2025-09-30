@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Grand Valley State University",
+    "successful_variation": "Grand Valley State University",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Grand+Valley+State+University&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "AAA 180",
+      "course_title": "Special Topics in African American Studies",
+      "credits": "9.00",
+      "description": "Study of selected topics in AAA.",
+      "institution": "Grand Valley State University"
+    },
+    {
+      "course_id": "AAA 200",
+      "course_title": "Understanding Africa",
+      "credits": "3.00",
+      "description": "An introduction to the theoretical, conceptual, and historical framework that has shaped the study of Africa and a multidisciplinary survey of the main topics and issues facing the African continent as a vehicle for understanding African studies and making sense of Africa's evolution. Fulfills Foundations - Social and Behavioral Sciences. Fulfills Cultures - Global Perspectives. Offered fall and winter semesters.",
+      "institution": "Grand Valley State University"
+    },
+    {
+      "course_id": "AAA 201",
+      "course_title": "Introduction to African American Studies",
+      "credits": "3.00",
+      "description": "Traces the historical development and examines the scope, theories, discourses, and methodologies defining African American studies and the critical responses to these studies. Surveys perspectives on African American history, religion, social organization, politics, economy, literature, and culture and social ideology. Fulfills Foundations - Social and Behavioral Sciences. Fulfills Cultures - U.S. Diversity. Offered fall and winter semesters.",
+      "institution": "Grand Valley State University"
+    },
+    {
+      "course_id": "AAA 231",
+      "course_title": "Early African American Literature",
+      "credits": "3.00",
+      "description": "Analysis and discussion of discourse primarily written by African Americans during the formative years of this nation. Emphasis on literary discourse as a means of defining African American consciousness and community, understanding representations of African American's community of origin, and investigating how the communities African Americans inhabit shaped their discursive expression. Cross-listed with ENG 231. Students may not receive credit for both. Offered fall semester. Prerequisite: Fulfillment of general education Foundations - Writing. Prerequisite: Prerequisite: Fulfillment of general education Foundations - Writing.",
+      "institution": "Grand Valley State University"
+    },
+    {
+      "course_id": "AAA 232",
+      "course_title": "Modern African American Literature",
+      "credits": "3.00",
+      "description": "Analysis and discussion of discourse by and about African Americans written primarily during the 20th century. Emphasis on literary discourse as a means of defining African American consciousness and community and understanding how the communities African Americans inhabit shaped their discursive expression. Cross-listed with ENG 232. Offered winter semester. Prerequisite: Fulfillment of general education Foundations - Writing. Prerequisite: Prerequisite: Fulfillment of general education Foundations - Writing.",
+      "institution": "Grand Valley State University"
+    },
+    {
+      "course_id": "AAA 300",
+      "course_title": "U.S. - Africa Relations",
+      "credits": "3.00",
+      "description": "Examines the historical development of the relationship between the United States and Africa, and the broad range of issues, cultural, economic, political, security and social, that condition and shape the relationship. Fulfills Cultures - Global Perspectives. Offered every year.",
+      "institution": "Grand Valley State University"
+    },
+    {
+      "course_id": "AAA 302",
+      "course_title": "African Diaspora",
+      "credits": "3.00",
+      "description": "Overview of the history and culture of African societies throughout the world and the persistence of African culture among black populations outside of Africa. Chronicle of major events in the diasporic experience. Examines ethnocultural debate, African cultural values, artistic and intellectual traditions, and cultural continua of African forms in the New World. Fulfills Cultures - Global Perspectives. Offered winter semester.",
+      "institution": "Grand Valley State University"
+    },
+    {
+      "course_id": "AAA 319",
+      "course_title": "African Politics",
+      "credits": "3.00",
+      "description": "A study of social and economic forces that shape the political processes in Africa through a combination of individual cases and general themes. Topics include colonization, regional integration, democratic transitions, state collapse and violence, politics of ethnicity, religion, gender and class, civil society, development, and Africa's role in world affairs. Fulfills Cultures - Global Perspectives. Part of the Globalization Issue. Cross-listed with PLS 319. Offered fall semester. Prerequisite: Junior standing. Prerequisite: Prerequisite: Junior standing.",
+      "institution": "Grand Valley State University"
+    },
+    {
+      "course_id": "AAA 333",
+      "course_title": "Study Abroad - African/African American Studies",
+      "credits": "6.00",
+      "description": "Of varying focus, the course makes use of the history, culture, and society of a host country in order to highlight disciplinary perspectives in context. To be taught in that country (or countries) as part of an approved study abroad program. By permit only. Credits may vary. Offered as needed. Prerequisites: Specific to course and instructor. Prerequisite: Prerequisites: Specific to course and instructor.",
+      "institution": "Grand Valley State University"
+    },
+    {
+      "course_id": "AAA 337",
+      "course_title": "Contemporary Black Literature",
+      "credits": "3.00",
+      "description": "Studies the importance and variety of literature by Black authors from Africa, the Americas and/or Afro-Europe since 1975. Texts written earlier than 1975 are used to consider influential historical and/or social events, trends and themes, literary styles, innovative uses of popular culture, and/or expression of the experience of marginality. Fulfills Cultures - Global Perspectives. Part of the Identity Issue. Cross-listed with ENG 337. Prerequisite: Junior standing. Prerequisite: Prerequisite: Junior standing.",
+      "institution": "Grand Valley State University"
+    }
+  ],
+  "timestamp": "2025-08-10T09:26:20.096875"
+}

@@ -1,0 +1,32 @@
+{
+  "search_query": {
+    "institution": "Linn-Benton Community College",
+    "successful_variation": "Linn-Benton Community College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Linn-Benton+Community+College&distance=5"
+  },
+  "total_results": 3,
+  "courses": [
+    {
+      "course_id": "AA 198",
+      "course_title": "Independent Studies",
+      "credits": "3.00",
+      "description": "(2-6 class hrs/wk, 1-4 cr) F/W/Sp Individual instruction in advanced problems relevant to the student's interests and needs. Prerequisite: Instructor's approval.",
+      "institution": "Linn-Benton Community College"
+    },
+    {
+      "course_id": "AA 221",
+      "course_title": "Graphic Design I",
+      "credits": "3.00",
+      "description": "(6 class hrs/wk, 4 cr) F Introduction to graphic design. Examines visual communication through the application of the elements and principles of art. Studies static vs. dynamic, visual centering, design systems, metamorphosis and continuums. Instills critical analysis and good design judgment. Prerequisites: AA 239 Illustration III or instructor's approval.",
+      "institution": "Linn-Benton Community College"
+    },
+    {
+      "course_id": "AA 222",
+      "course_title": "Graphic Design II",
+      "credits": "3.00",
+      "description": "(6 class hrs/wk, 4 cr) W Studies publication design. Includes examination of formula vs. format, direct mail, poster, magazine and book design. Environmental implications are discussed. Teamwork and interaction are stressed. Instills critical analysis and good design judgment. Prerequisite: AA 221 Graphic Design I.",
+      "institution": "Linn-Benton Community College"
+    }
+  ],
+  "timestamp": "2025-08-10T16:59:23.242105"
+}

@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Elizabethtown College",
+    "successful_variation": "Elizabethtown College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Elizabethtown+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "AC 480",
+      "course_title": "Independent Study in Accounting",
+      "credits": "9.00",
+      "description": "Independent study and research on a problem or topic in the field of accounting. *Prerequisite(s): Approval of the Independent Study Committee. Register by Instructor.",
+      "institution": "Elizabethtown College"
+    },
+    {
+      "course_id": "AN 498",
+      "course_title": "Senior Seminar",
+      "credits": "3.00",
+      "description": "The seminar is an integrative capstone course that allows students to engage in discussion and criticism of theoretical, ethical and practical issues in anthropology. The course requires a senior thesis that is presented and defended in a public setting.",
+      "institution": "Elizabethtown College"
+    },
+    {
+      "course_id": "ART 310",
+      "course_title": "Art Education Methodologies & Curriculum Development - Elementary",
+      "credits": "4.00",
+      "description": "This course prepares Art Certification candidates to develop a visual arts curriculum for kindergarten through sixth grade that meets Pennsylvania Standards for the Arts & Humanities. Child-centered, society-centered and discipline-based theories of art education will be discussed in the elementary school context. Students write age-appropriate lesson plans and test their effectiveness in a classroom under the supervision of a certified art teacher. They learn to manage a sage instructional environment conducive to learning for a diverse population of students, including those with special needs. *Prerequisite(s): (ED 105 and ED 150 ) or (ED 106 and ED 151 ); SED 282 ; and formal acceptance into the Fine Arts - Art Education program. Fall semester. Register by Instructor.",
+      "institution": "Elizabethtown College"
+    },
+    {
+      "course_id": "ART 315",
+      "course_title": "Art Education Methodologies & Curriculum Development - Secondary",
+      "credits": "4.00",
+      "description": "This course prepares Art Certification candidates to develop a visual arts curriculum for the seventh through the 12th grades that meets Pennsylvania Standards for the Arts & Humanities. Students will develop age-appropriate lesson plans for middle and secondary school that include two- and three-dimensional works of art, aesthetics and multicultural traditions of art history. They learn appropriate instructional methodologies and assessment strategies for a diverse population of adolescents, including those with special needs. Methods of managing a safe instructional environment conducive to creativity will be taught. Students will have the opportunity to participate in a classroom under the supervision of a certified art teacher. *Prerequisite(s): (ED 105 and ED 150 ) or (ED 106 and ED 151 ); SED 282 ; and formal acceptance into the Fine Arts - Art Education program. Spring semester. Register by Instructor.",
+      "institution": "Elizabethtown College"
+    },
+    {
+      "course_id": "ART 360",
+      "course_title": "Italian Renaissance (HI 360)",
+      "credits": "4.00",
+      "description": "The Italian Renaissance seminar is an in-Departmenth cultural history of the humanist movement in Italy from 1250 to 1550 and its impact on the fine arts, literature, politics, religion, education and science. The course includes reading and discussion of primary texts by Petrarch, Dante, Boccaccio, Alberti, Machiavelli, Da Vinci, Michelangelo and Vasari. Topics include the revival of Antiquity, the discovery of Nature, Statecraft, scientific innovation and new concepts of genius and creativity. *Prerequisite(s): ART 155 , ART 157 or HI 115 .",
+      "institution": "Elizabethtown College"
+    },
+    {
+      "course_id": "BA 255A",
+      "course_title": "Advanced Ethics: Business (PH 255A)",
+      "credits": "4.00",
+      "description": "Business Ethics is part of a four-course sequence in Applied Ethics. In each course, a theoretical foundation for ethical discourse within the respective field is established. This course then proceeds to a detailed treatment of central ethical dilemmas in the actual practice of business.",
+      "institution": "Elizabethtown College"
+    },
+    {
+      "course_id": "BA 360",
+      "course_title": "Washington Institute (PS 360)",
+      "credits": "4.00",
+      "description": "The course highlights relationships between the legislative, executive, independent agencies, and third-party institutions that directly affect how policy is made in the United States. The course exposes students to the mechanism that is used to formulate policy for the United States. The Institute will focus heavily on international policy and the inner workings of the various institutional agents that participate in the process of making policy. Students will observe and develop a critical sense of how to weigh the various interests before policy is ultimately made. Students will learn to examine the purpose of policy and evaluate how it will impact on various industries. *Prerequisite(s): BA 101 . Register by Instructor.",
+      "institution": "Elizabethtown College"
+    },
+    {
+      "course_id": "BA 479",
+      "course_title": "Internship / Co-op in Business",
+      "credits": "12.00",
+      "description": "Students gain work experience with a business organization or government agency on a full-time basis, either during the regular semester or the summer. *Prerequisite(s): Junior or senior standing; Business or International Business major; approval of instructor; and pre-approved placement. Register by Instructor.",
+      "institution": "Elizabethtown College"
+    },
+    {
+      "course_id": "BA 484",
+      "course_title": "Independent Study in Business",
+      "credits": "9.00",
+      "description": "Opportunity for students to engage in independent study in some area of business administration. *Prerequisite(s): Approval of Department Chair and the Independent Study Committee. Register by Instructor.",
+      "institution": "Elizabethtown College"
+    },
+    {
+      "course_id": "BIO 220",
+      "course_title": "Nutrition",
+      "credits": "4.00",
+      "description": "This course serves as an introduction to nutrition as it relates to biology and science. We will focus on the importance and role of the major nutrients and discuss how these nutrients are acquired and analyzed by the body. In addition, we will discuss the role of nutrition in the development, health and well-being of the individual. These concepts will be applied to personal health through nutritional assessment and dietary planning. *Prerequisite(s): BIO 111 . Hours: lecture 3, discussion 1. Spring semester, alternate years. Register by Instructor.",
+      "institution": "Elizabethtown College"
+    }
+  ],
+  "timestamp": "2025-08-10T09:40:39.831688"
+}

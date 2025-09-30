@@ -1,0 +1,116 @@
+{
+  "timestamp": "2025-08-08T17:37:57.911021",
+  "analysis": {
+    "total_universities": 5,
+    "discovery_success_rate": 0.8,
+    "avg_discovery_confidence": 0.9025,
+    "validation_success_rate": 0.6,
+    "avg_validation_confidence": 0.26666666666666666,
+    "course_finding_rate": 0.5333333333333333,
+    "avg_discovery_time": 2.8162543296813967,
+    "avg_validation_time": 2.21222825050354,
+    "successful_discoveries": [
+      {
+        "university": "Bay Path University",
+        "url": "https://classes.berkeley.edu/",
+        "discovery_confidence": 0.89,
+        "validation_confidence": 0.2,
+        "courses_found": "4/5"
+      },
+      {
+        "university": "St. Lawrence University",
+        "url": "https://classes.berkeley.edu/",
+        "discovery_confidence": 0.89,
+        "validation_confidence": 0.0,
+        "courses_found": "0/0"
+      },
+      {
+        "university": "Community College of Philadelphia",
+        "url": "https://classes.berkeley.edu/",
+        "discovery_confidence": 0.89,
+        "validation_confidence": 0.2,
+        "courses_found": "3/5"
+      },
+      {
+        "university": "Wichita State University",
+        "url": "https://www.wichita.edu/services/registrar/schedule_of_courses.php",
+        "discovery_confidence": 0.94,
+        "validation_confidence": 0.4,
+        "courses_found": "1/5"
+      }
+    ],
+    "failed_discoveries": [
+      {
+        "university": "Bluffton College",
+        "error": "No search results found with any strategy"
+      }
+    ]
+  },
+  "detailed_results": [
+    {
+      "university_name": "Bay Path University",
+      "discovered_url": "https://classes.berkeley.edu/",
+      "discovery_success": true,
+      "discovery_confidence": 0.89,
+      "validation_success": true,
+      "validation_confidence": 0.2,
+      "test_courses_found": 4,
+      "total_test_courses": 5,
+      "error_message": null,
+      "discovery_time": 2.133897066116333,
+      "validation_time": 2.198323965072632
+    },
+    {
+      "university_name": "St. Lawrence University",
+      "discovered_url": "https://classes.berkeley.edu/",
+      "discovery_success": true,
+      "discovery_confidence": 0.89,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No test courses found in CollegeTransfer.net",
+      "discovery_time": 2.088594913482666,
+      "validation_time": 3.3700950145721436
+    },
+    {
+      "university_name": "Community College of Philadelphia",
+      "discovered_url": "https://classes.berkeley.edu/",
+      "discovery_success": true,
+      "discovery_confidence": 0.89,
+      "validation_success": true,
+      "validation_confidence": 0.2,
+      "test_courses_found": 3,
+      "total_test_courses": 5,
+      "error_message": null,
+      "discovery_time": 1.857874870300293,
+      "validation_time": 3.2846930027008057
+    },
+    {
+      "university_name": "Wichita State University",
+      "discovered_url": "https://www.wichita.edu/services/registrar/schedule_of_courses.php",
+      "discovery_success": true,
+      "discovery_confidence": 0.94,
+      "validation_success": true,
+      "validation_confidence": 0.4,
+      "test_courses_found": 1,
+      "total_test_courses": 5,
+      "error_message": null,
+      "discovery_time": 8.00036883354187,
+      "validation_time": 2.208029270172119
+    },
+    {
+      "university_name": "Bluffton College",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No search results found with any strategy",
+      "discovery_time": 0.0005359649658203125,
+      "validation_time": 0.0
+    }
+  ]
+}

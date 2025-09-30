@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Syracuse University",
+    "successful_variation": "Syracuse University",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Syracuse+University&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "AAS 112",
+      "course_title": "Introduction to African American Studies in Social Sciences",
+      "credits": "3.00",
+      "description": "S Historical and sociopolitical materials. Approaches to studying the African American experience, antecedents from African past, and special problems.",
+      "institution": "Syracuse University"
+    },
+    {
+      "course_id": "AAS 138",
+      "course_title": "Writing About Black Culture",
+      "credits": "3.00",
+      "description": "S Expository writing based on cogent analysis of African American literature, art, music, and history ideas.",
+      "institution": "Syracuse University"
+    },
+    {
+      "course_id": "AAS 200",
+      "course_title": "Selected Topics in African American Studies",
+      "credits": "3.00",
+      "description": "103 Y",
+      "institution": "Syracuse University"
+    },
+    {
+      "course_id": "AAS 202",
+      "course_title": "Caribbean Society Since Independence",
+      "credits": "3.00",
+      "description": "3 Y Issues of self determination and emancipation in region. From the period of the invasions of explorers after the European renaissance to the present.",
+      "institution": "Syracuse University"
+    },
+    {
+      "course_id": "AAS 206",
+      "course_title": "Introduction to African American Music",
+      "credits": "3.00",
+      "description": "3 Introduces students to the contributions and transformations made in the music that the enslaved African brought to the western hemisphere.",
+      "institution": "Syracuse University"
+    },
+    {
+      "course_id": "AAS 207",
+      "course_title": "A Survey of African Music",
+      "credits": "3.00",
+      "description": "3 Survey music from Morocco to South Africa using diverse media to illuminate this vast area. The concentration will be on the lifestyle of the people who create music.",
+      "institution": "Syracuse University"
+    },
+    {
+      "course_id": "AAS 231",
+      "course_title": "African American Literature to 1900- An Introduction",
+      "credits": "3.00",
+      "description": "Y African American literature and orature from colonial days to 1900. Slave narrative, autobiography, Wheatly, Douglass, Harper, Dunbar, Sojourner Truth.",
+      "institution": "Syracuse University"
+    },
+    {
+      "course_id": "AAS 232",
+      "course_title": "African American Literature 20th and 21st Centuries",
+      "credits": "3.00",
+      "description": "Y African American literary practices in the twentieth century. Baldwin, Hughes, Wright, Hurston, Morrison, Naylor, and Walker.",
+      "institution": "Syracuse University"
+    },
+    {
+      "course_id": "AAS 233",
+      "course_title": "The Caribbean Novel",
+      "credits": "3.00",
+      "description": "3 Y Fiction from the Caribbean area. Hodge, Lamming, Barrett, Roumain, James, Mais, and Conde.",
+      "institution": "Syracuse University"
+    },
+    {
+      "course_id": "AAS 234",
+      "course_title": "African Fiction",
+      "credits": "3.00",
+      "description": "3 Y Fiction by leading African novelists. Achebe, Aidoo, Ba, Dadie, Head, Ngugi, Sembene, and Soyinka.",
+      "institution": "Syracuse University"
+    }
+  ],
+  "timestamp": "2025-08-10T20:09:22.310173"
+}

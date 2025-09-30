@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Jacksonville State University",
+    "successful_variation": "Jacksonville State University",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Jacksonville+State+University&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACC 398",
+      "course_title": "Governmental Accounting",
+      "credits": "3.00",
+      "description": "Prerequisite: ACC 210, 310 with minimum grade of C. Accounting procedures for all governmental units, and nonprofit service organizations. Analysis of fund accounting and procedures to prepare government-wide entity statements.",
+      "institution": "Jacksonville State University"
+    },
+    {
+      "course_id": "ACC 401",
+      "course_title": "Advanced Accounting Information Systems",
+      "credits": "3.00",
+      "description": "Prerequisite: ACC 301 with minimum grade of C. A continuation of the transaction cycles of a business with emphasis placed on flowcharting, context diagrams, and data flow diagrams. Risk assessment of inadequate internal controls in an Electronic Data Processing environment.",
+      "institution": "Jacksonville State University"
+    },
+    {
+      "course_id": "ACC 410",
+      "course_title": "Financial Accounting III",
+      "credits": "3.00",
+      "description": "Prerequisite: ACC 310 with minimum grade of C. A detailed study of business expansion including combinations and international operations, and an overview of partnership accounting.",
+      "institution": "Jacksonville State University"
+    },
+    {
+      "course_id": "ACC 476",
+      "course_title": "Advanced Income Tax Accounting",
+      "credits": "3.00",
+      "description": "Prerequisite: ACC 372 with minimum grade of C. Advanced federal income tax topics including property transactions and international taxation issues. The course also focuses on the taxation of corporation, S corporations, and partnerships. Limited coverage is provided on the taxation of trusts and estates as well as the alternative minimum tax. Understanding the implementation of the current regulations as well as tax planning strategies are discussed.",
+      "institution": "Jacksonville State University"
+    },
+    {
+      "course_id": "ACC 477",
+      "course_title": "Auditing",
+      "credits": "3.00",
+      "description": "Prerequisites: ACC 301, 310, and 360 (minimum grade of C required for all prerequisites). An overview of the theory and process of performing external audits and other attestation services. Courses coverage includes a study of professional standards, the independence of the external auditor, ethical issues, legal liability, internal controls, statistical sampling, auditing with computers, and the internal audit process.",
+      "institution": "Jacksonville State University"
+    },
+    {
+      "course_id": "ACC 478",
+      "course_title": "Accounting Theory",
+      "credits": "3.00",
+      "description": "Prerequisites: ACC 360 and 410 (minimum grade of C required for all prerequisites). The function of accounting in society including the conceptual framework of accounting and its application to current financial reporting requirements.",
+      "institution": "Jacksonville State University"
+    },
+    {
+      "course_id": "ACC 489",
+      "course_title": "Accounting Internship",
+      "credits": "3.00",
+      "description": "Prerequisites: Senior status and consent of the instructor and the Accounting Department Head. Provides the accounting major with practical experience in the field via an internship arrangement. (PASS/FAIL grade only).",
+      "institution": "Jacksonville State University"
+    },
+    {
+      "course_id": "ACC 490",
+      "course_title": "Advanced Auditing",
+      "credits": "3.00",
+      "description": "Prerequisites: Senior standing and ACC 477 with a minimum grade of C. The practical application of auditing concepts and standards. An understanding of auditing principles is reinforced and explained by exposure to problems and cases.",
+      "institution": "Jacksonville State University"
+    },
+    {
+      "course_id": "ACC 497",
+      "course_title": "Seminar in Accounting",
+      "credits": "3.00",
+      "description": "Prerequisite: Senior accounting majors only. Examines critical accounting topics through intensive review of current literature and pronouncements. Assesses student's ability to effectively communicate accounting information.",
+      "institution": "Jacksonville State University"
+    },
+    {
+      "course_id": "AN 224",
+      "course_title": "Introduction to Anthropology",
+      "credits": "3.00",
+      "description": "Surveys the field of anthropology, including cultural anthropology, archaeology, physical anthropology, and anthropological linguistics.",
+      "institution": "Jacksonville State University"
+    }
+  ],
+  "timestamp": "2025-08-10T14:22:57.357553"
+}

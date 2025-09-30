@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Brunswick Community College",
+    "successful_variation": "Brunswick Community College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Brunswick+Community+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACA 111",
+      "course_title": "College Student Success",
+      "credits": "3.00",
+      "description": "Prerequisites: None Corequisites: None This course introduces the college's physical, academic, and social environment and promotes the personal development essential for success. Topics include campus facilities and resources; policies, procedures, and programs; study skills; and life management issues such as health, self-esteem, motivation, goal-setting, diversity, and communication. Upon completion, students should be able to function effectively within the college environment to meet their educational objectives.",
+      "institution": "Brunswick Community College"
+    },
+    {
+      "course_id": "ACA 115",
+      "course_title": "Success & Study Skills",
+      "credits": "3.00",
+      "description": "Prerequisites: None Corequisites: None This course provides an orientation to the campus resources and academic skills necessary to achieve educational objectives. Emphasis is placed on an exploration of facilities and services, study skills, library skills, self-assessment, wellness, goal-setting, and critical thinking. Upon completion, students should be able to manage their learning experiences to successfully meet educational goals.",
+      "institution": "Brunswick Community College"
+    },
+    {
+      "course_id": "ACA 118",
+      "course_title": "College Study Skills",
+      "credits": "3.00",
+      "description": "Prerequisites: None Corequisites: ENG 070, RED 070, or ENG 085 This course covers skills and strategies designed to improve study behaviors. Topics include time management, note taking, test taking, memory techniques, active reading strategies, critical thinking, communication skills, learning styles, and other strategies for effective learning. Upon completion, students should be able to apply appropriate study strategies and techniques to the development of an effective study plan.",
+      "institution": "Brunswick Community College"
+    },
+    {
+      "course_id": "ACC 120",
+      "course_title": "Prin of Financial Acct",
+      "credits": "3.00",
+      "description": "Prerequisites: ENG 095 and MAT 060 Corequisites: MAT 070 This course introduces business decision-making accounting information systems. Emphasis is placed on analyzing, summarizing, reporting, and interpreting financial information. Upon completion, students should be able to prepare financial statements, understand the role of financial information in decision-making and address ethical considerations. This course has been approved to satisfy the Comprehensive Articulation Agreement pre-major and/or elective course requirement.",
+      "institution": "Brunswick Community College"
+    },
+    {
+      "course_id": "ACC 121",
+      "course_title": "Prin of Managerial Acct",
+      "credits": "3.00",
+      "description": "Prerequisites: ACC 120 Corequisites: None This course includes a greater emphasis on managerial and cost accounting skills. Emphasis is placed on managerial accounting concepts for external and internal analysis, reporting and decision-making. Upon completion, students should be able to analyze and interpret transactions relating to managerial concepts including product-costing systems. This course has been approved to satisfy the Comprehensive Articulation Agreement pre-major and/or elective course requirement.",
+      "institution": "Brunswick Community College"
+    },
+    {
+      "course_id": "ACC 122",
+      "course_title": "Prin of Financial Acct II",
+      "credits": "3.00",
+      "description": "Prerequisites: ACC 120 Corequisites: None This course provides additional instruction in the financial accounting concepts and procedures introduced in ACC 120. Emphasis is placed on the analysis of specific balance sheet accounts, with in-depth instruction of the accounting principles applied to these accounts. Upon completion, students should be able to analyze data, prepare journal entries, and prepare reports in compliance with generally accepted accounting principles.",
+      "institution": "Brunswick Community College"
+    },
+    {
+      "course_id": "ACC 130",
+      "course_title": "Business Income Taxes",
+      "credits": "3.00",
+      "description": "Prerequisites: ACC 120 Corequisites: None This course introduces the relevant laws governing business and fiduciary income taxes. Topics include tax law relating to business organizations, electronic research and methodologies, and the use of technology for the preparation of business tax returns. Upon completion, students should be able to analyze basic tax scenarios, research applicable tax law, and complete various business tax forms.",
+      "institution": "Brunswick Community College"
+    },
+    {
+      "course_id": "ACC 150",
+      "course_title": "Acct Software Appl",
+      "credits": "3.00",
+      "description": "Prerequisites: ACC 120 Corequisites: None This course introduces microcomputer applications related to accounting systems. Topics include general ledger, accounts receivable, accounts payable, inventory, payroll, and correcting, adjusting, and closing entries. Upon completion, students should be able to use a computer accounting package to solve accounting problems.",
+      "institution": "Brunswick Community College"
+    },
+    {
+      "course_id": "ACC 180",
+      "course_title": "Practices in Bookkeeping",
+      "credits": "3.00",
+      "description": "Prerequisites: ACC 120 Corequisites: None This course provides advanced instruction in bookkeeping and record-keeping functions. Emphasis is placed on mastering adjusting entries, correction of errors, depreciation, payroll, and inventory. Upon completion, students should be able to conduct all key bookkeeping functions for small business.",
+      "institution": "Brunswick Community College"
+    },
+    {
+      "course_id": "ACC 215",
+      "course_title": "Ethics in Accounting",
+      "credits": "3.00",
+      "description": "Prerequisites: ACC 121 Corequisites: None This course introduces students to professional codes of conduct and ethics adopted by professional associations and state licensing boards for accountants, auditors, and fraud examiners. Topics include research and discussions of selected historical and contemporary ethical cases and issues as they relate to accounting and business. Upon completion, students should be able to apply codes, interpret facts and circumstances, as they relate to accounting firms and business activities.",
+      "institution": "Brunswick Community College"
+    }
+  ],
+  "timestamp": "2025-08-09T22:50:23.859563"
+}

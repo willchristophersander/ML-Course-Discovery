@@ -1,0 +1,107 @@
+{
+  "timestamp": "2025-08-08T18:29:01.225863",
+  "analysis": {
+    "total_universities": 5,
+    "discovery_success_rate": 0.2,
+    "avg_discovery_confidence": 0.925,
+    "validation_success_rate": 0.2,
+    "avg_validation_confidence": 0.2,
+    "course_finding_rate": 0.8,
+    "avg_discovery_time": 1.505767011642456,
+    "avg_validation_time": 0.5392734050750733,
+    "successful_discoveries": [
+      {
+        "university": "Winthrop University",
+        "url": "https://www.winthrop.edu/classes",
+        "discovery_confidence": 0.925,
+        "validation_confidence": 0.2,
+        "courses_found": "4/5"
+      }
+    ],
+    "failed_discoveries": [
+      {
+        "university": "Coahoma Community College",
+        "error": "No search results found with any strategy"
+      },
+      {
+        "university": "Northland College",
+        "error": "No search results found with any strategy"
+      },
+      {
+        "university": "Northwestern College of Iowa",
+        "error": "No search results found with any strategy"
+      },
+      {
+        "university": "Columbus Technical College",
+        "error": "No search results found with any strategy"
+      }
+    ]
+  },
+  "detailed_results": [
+    {
+      "university_name": "Coahoma Community College",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No search results found with any strategy",
+      "discovery_time": 8.702278137207031e-05,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "Northland College",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No search results found with any strategy",
+      "discovery_time": 0.000492095947265625,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "Northwestern College of Iowa",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No search results found with any strategy",
+      "discovery_time": 0.0009629726409912109,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "Winthrop University",
+      "discovered_url": "https://www.winthrop.edu/classes",
+      "discovery_success": true,
+      "discovery_confidence": 0.925,
+      "validation_success": true,
+      "validation_confidence": 0.2,
+      "test_courses_found": 4,
+      "total_test_courses": 5,
+      "error_message": null,
+      "discovery_time": 7.5271618366241455,
+      "validation_time": 2.696367025375366
+    },
+    {
+      "university_name": "Columbus Technical College",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No search results found with any strategy",
+      "discovery_time": 0.00013113021850585938,
+      "validation_time": 0.0
+    }
+  ]
+}

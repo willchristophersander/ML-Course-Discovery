@@ -1,0 +1,74 @@
+{
+  "search_query": {
+    "institution": "Jacksonville University",
+    "successful_variation": "Jacksonville University",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Jacksonville+University&distance=5"
+  },
+  "total_results": 9,
+  "courses": [
+    {
+      "course_id": "ACCT 100",
+      "course_title": "Introduction to Accounting",
+      "credits": "3.00",
+      "description": "Three hours per week. ACCT 100 cannot be taken for academic credit after academic credit has been received for ACCT 201 and ACCT 202. An introductory financial accounting course in the use, interpretation, and analysis of published financial statements as used by management, creditors, investors and government agencies.",
+      "institution": "Jacksonville University"
+    },
+    {
+      "course_id": "ACCT 201",
+      "course_title": "Principles of Accounting I",
+      "credits": "3.00",
+      "description": "Three hours per week. Prerequisite: Placement in MATH course numbered above 112. A \"C\" or better must beearned in ACCT 201 and in ACCT 202 as a prerequisite for all upper-level accounting courses except ACCT 310. An introduction to the use of accounting information and to the language of business as found in reports and financial statements as a basis for measuring performances and making business decisions. Topics covered include accounting for receivables, inventories, depreciation, current liabilities and partnerships.",
+      "institution": "Jacksonville University"
+    },
+    {
+      "course_id": "ACCT 202",
+      "course_title": "Principles of Accounting II",
+      "credits": "3.00",
+      "description": "Three hours per week. Prerequisite: ACCT 201 and MATH 112 or higher. A \"C\" or better must be earned inACCT 201 and in ACCT 202 as a prerequisite for all upper-level accounting courses except ACCT 310. A continuation of ACCT 201. Topics covered include accounting for long-term liabilities, stockholders equity, EPS, investments, the cash flow statement, job order and process cost systems, cost behavior analysis, budgeting, standard costs, differential analysis and capital investment analysis. A spreadsheet project must be satisfactorily completed to pass this course.",
+      "institution": "Jacksonville University"
+    },
+    {
+      "course_id": "ACCT 305",
+      "course_title": "Financial Statement Analysis",
+      "credits": "3.00",
+      "description": "Three hours per week. Prerequisite: FIN 301. This course is an in-depth analysis of financial statements and the accounting principles that underlie their preparation. Topics include the process of income determination, liability recognition, and asset valuation, along with financial ratio analysis and pro-forma financial statement preparation. Case analysis approach is used in addition to readings and problems. This course assumes a good background in financial accounting and in the principles of finance. (Cross-listed as FIN 305)",
+      "institution": "Jacksonville University"
+    },
+    {
+      "course_id": "ACCT 310",
+      "course_title": "Managerial Accounting I",
+      "credits": "3.00",
+      "description": "Three hours per week. Prerequisite: ACCT 202. A study of the managerial uses of accounting data. Topics include cost behavioral patterns, budgets and short-term profit planning tools, decentralized control reporting, pricing and relevant costs, capital budgeting, and microcomputer applications. Students majoring in accounting cannot take this course for academic credit.",
+      "institution": "Jacksonville University"
+    },
+    {
+      "course_id": "ACCT 311",
+      "course_title": "Intermediate Accounting I",
+      "credits": "3.00",
+      "description": "Three hours per week. Prerequisite: ACCT 202. A \"C\" orbetter is required in order to use this course as part of the accounting major. A detailed, intensive study of generally accepted accounting principles (GAAP) that relate to financial statement preparation, including analysis of cash, receivables, inventories, plant assets, intangible assets, and current liabilities.",
+      "institution": "Jacksonville University"
+    },
+    {
+      "course_id": "ACCT 312",
+      "course_title": "Intermediate Accounting II",
+      "credits": "3.00",
+      "description": "Three hours per week. Prerequisite: ACCT 311. A \"C\" orbetter is required in order to use this course as part of the accounting major. A continuation of ACCT 311, including problems that relate to long-term liabilities, owners equity, investments, taxes, pensions, leases, and the statement of cash flows.",
+      "institution": "Jacksonville University"
+    },
+    {
+      "course_id": "ACCT 314",
+      "course_title": "Cost-Based Decision Making",
+      "credits": "3.00",
+      "description": "Three hours per week. Prerequisite: ACCT 202. A study of cost accounting as a quantitative device for aiding management through analysis of cost behavior, costvolume- profit relationships, standards costs, and budgets.",
+      "institution": "Jacksonville University"
+    },
+    {
+      "course_id": "ACCT 315",
+      "course_title": "Managerial & Cost Analysis",
+      "credits": "3.00",
+      "description": "Three hours per week. Prerequisites: ACCT 314 or ACCT 310. A detailed study of managerial accounting. Topics include budgets and short-term profit planning tools, pricing and relevant costs, and capital budgeting techniques.",
+      "institution": "Jacksonville University"
+    }
+  ],
+  "timestamp": "2025-08-10T13:25:13.741771"
+}

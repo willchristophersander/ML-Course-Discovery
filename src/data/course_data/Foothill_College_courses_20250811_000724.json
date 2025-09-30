@@ -1,0 +1,67 @@
+{
+  "search_query": {
+    "institution": "Foothill College",
+    "successful_variation": "Foothill College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Foothill+College&distance=5"
+  },
+  "total_results": 8,
+  "courses": [
+    {
+      "course_id": "ACAD 102",
+      "course_title": "Punctuation Improvement",
+      "credits": "1.00",
+      "description": "Computerized or text-based instruction in punctuation skills. Students begin at their own level, based on diagnostic assessment. Areas covered can include analysis and application of punctuation rules, usage and grammar. Materials available at beginning, intermediate and advanced levels. Advisory: Pass/No Pass. Repeatability: May be taken three times for credit. Three hours laboratory. GE Area: Non-GE Applicable",
+      "institution": "Foothill College"
+    },
+    {
+      "course_id": "ACAD 104",
+      "course_title": "Spelling Improvement",
+      "credits": "1.00",
+      "description": "Computerized or text-based course designed to improve spelling skills. Students begin at their own level, based on diagnostic assessment. Areas covered can include review of phonics, homonyms and analysis, and application of spelling rules. Emphasis on integrating these rules into writing. Materials available at beginning and intermediate levels. Advisory: Pass/No Pass. Repeatability: May be taken three times for credit. Three hours laboratory. GE Area: Non-GE Applicable",
+      "institution": "Foothill College"
+    },
+    {
+      "course_id": "ACAD 105",
+      "course_title": "Writing Better Sentences",
+      "credits": "1.00",
+      "description": "Computerized or text-based instruction in improving sentence skills. Areas covered can include review of grammar and punctuation rules as relevant to the writing process and introduction to simple, compound, complex and embedded sentence structures. Emphasis on integrating subskills into the whole writing process. Materials available at beginning, intermediate and advanced levels. Advisory: Pass/No Pass. Repeatability: May be taken three times for credit. Three hours laboratory. GE Area: Non-GE Applicable",
+      "institution": "Foothill College"
+    },
+    {
+      "course_id": "ACAD 108",
+      "course_title": "Research Paper Assistance",
+      "credits": "1.00",
+      "description": "Individualized course designed to teach basic techniques for the research paper. Skills include selection of topic, collection of data, requirements of form, MLA documentation, and production of a short research paper. One-on-one instruction, conferences, and on-going assessment are the methods used. Advisory: Pass/No Pass. Repeatability: May be taken three times for credit. Three hours laboratory. GE Area: Non-GE Applicable",
+      "institution": "Foothill College"
+    },
+    {
+      "course_id": "ACAD 110",
+      "course_title": "Grammar Improvement",
+      "credits": "1.00",
+      "description": "Computerized or text-based instruction in grammar. Students begin at their own level, based on diagnostic assessment. Areas covered can include analysis and application of structural elements, punctuation rules and sentence boundaries. Materials available at beginning, intermediate and advanced levels. Advisory: Pass/No Pass. Repeatability: May be taken three times for credit. Three hours laboratory. GE Area: Non-GE Applicable",
+      "institution": "Foothill College"
+    },
+    {
+      "course_id": "ACAD 112",
+      "course_title": "Vocabulary Improvement",
+      "credits": "1.00",
+      "description": "Computerized or text-based instruction in improving vocabulary skills. Students begin at their own level, based on diagnostic assessment. Areas covered can include understanding of word parts, analysis of context clues, and learning of new words. Materials available at beginning, intermediate and advanced levels. Advisory: Pass/No Pass. Repeatability: May be taken three times for credit. Three hours laboratory. GE Area: Non-GE Applicable",
+      "institution": "Foothill College"
+    },
+    {
+      "course_id": "ACAD 122",
+      "course_title": "Listening & Pronunciation Skills For Esl",
+      "credits": "1.00",
+      "description": "Computerized or text-based instruction in improving listening comprehension and pronunciation skills for non-native speakers of English. Materials available at beginning, intermediate and advanced levels. Advisory: Pass/No Pass. Repeatability: May be taken three times for credit. Three hours laboratory. GE Area: Non-GE Applicable",
+      "institution": "Foothill College"
+    },
+    {
+      "course_id": "ACAD 123",
+      "course_title": "Word Processing & Keyboarding Skills",
+      "credits": "1.00",
+      "description": "Computerized course in basic to intermediate word processing skills and keyboarding. Focus on increasing speed and accuracy using touch typing, entering and editing text, saving files, blocking and manipulating text, using spell check, and inserting graphics. Advisory: Pass/No Pass. Repeatability: May be taken three times for credit. Three hours laboratory. GE Area: Non-GE Applicable",
+      "institution": "Foothill College"
+    }
+  ],
+  "timestamp": "2025-08-11T00:07:24.729153"
+}

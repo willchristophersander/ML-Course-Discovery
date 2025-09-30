@@ -1,0 +1,74 @@
+{
+  "search_query": {
+    "institution": "New River Community College",
+    "successful_variation": "New River Community College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=New+River+Community+College&distance=5"
+  },
+  "total_results": 9,
+  "courses": [
+    {
+      "course_id": "ACC 124",
+      "course_title": "Payroll Accounting",
+      "credits": "2.00",
+      "description": "Presents accounting systems and methods used in computing and recording payroll to include payroll taxes and compliance with federal and state legislation. Lecture 2 hours per week. Students are strongly encouraged to complete ACC 211 prior to enrolling in (or during the same semester as) this course.",
+      "institution": "New River Community College"
+    },
+    {
+      "course_id": "ACC 134",
+      "course_title": "Small Business Taxes",
+      "credits": "3.00",
+      "description": "Introduces taxes most frequently encountered in business. Includes payroll, sales, property, and income tax. Lecture 3 hours per week.",
+      "institution": "New River Community College"
+    },
+    {
+      "course_id": "ACC 198",
+      "course_title": "Seminar and Project in Accounting",
+      "credits": "5.00",
+      "description": "Requires completion of a project or research report related to the student's occupational objective and a study of approaches to the selection and pursuit of career opportunities in the field. May be repeated for credit. Variable hours.",
+      "institution": "New River Community College"
+    },
+    {
+      "course_id": "ACC 211",
+      "course_title": "Principles of Accounting I",
+      "credits": "4.00",
+      "description": "Presents accounting principles/application to various businesses. Covers the accounting cycle, income determination, and financial reporting. Lecture 4 hours per week.",
+      "institution": "New River Community College"
+    },
+    {
+      "course_id": "ACC 212",
+      "course_title": "Principles of Accounting II",
+      "credits": "4.00",
+      "description": "Emphasizes partnerships, corporations and the study of financial analysis. Includes and introduces cost/ managerial accounting concepts. Prerequisite: ACC 211. Lecture 4 hours per week.",
+      "institution": "New River Community College"
+    },
+    {
+      "course_id": "ACC 215",
+      "course_title": "Computerized Accounting",
+      "credits": "3.00",
+      "description": "Introduces the computer in solving accounting problems. Focuses on operation of computers. Presents the accounting cycle and financial statement preparation in a computerized system and other applications for financial and managerial accounting. Prerequisite or co-requisite ACC 212 or equivalent. Lecture 3 hours per week.",
+      "institution": "New River Community College"
+    },
+    {
+      "course_id": "ACC 219",
+      "course_title": "Government and Non-Profit Accounting",
+      "credits": "3.00",
+      "description": "Introduces fund accounting as used by governmental and nonprofit entities. Stresses differences between accounting principles of for-profit and not-for-profit organizations. Prerequisite ACC 212 or equivalent. Lecture 3 hours per week.",
+      "institution": "New River Community College"
+    },
+    {
+      "course_id": "ACC 221",
+      "course_title": "Intermediate Accounting I",
+      "credits": "4.00",
+      "description": "Covers accounting principles and theory, including a review of the accounting cycle and accounting for current assets, current liabilities and investments. Introduces various accounting approaches and demonstrates the effect of these approaches on the financial statement users. Prerequisite ACC 212 or equivalent. Lecture 4 hours per week.",
+      "institution": "New River Community College"
+    },
+    {
+      "course_id": "ACC 222",
+      "course_title": "Intermediate Accounting II",
+      "credits": "4.00",
+      "description": "Continues accounting principles and theory with emphasis on accounting for fixed assets, intangibles, corporate capital structure, long-term liabilities, and investments. Prerequisite ACC 212 or equivalent. Lecture 4 hours per week.",
+      "institution": "New River Community College"
+    }
+  ],
+  "timestamp": "2025-08-11T00:21:11.638152"
+}

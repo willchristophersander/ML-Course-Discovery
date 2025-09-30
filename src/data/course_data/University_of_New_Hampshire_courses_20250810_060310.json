@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "University of New Hampshire",
+    "successful_variation": "University of New Hampshire",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=University+of+New+Hampshire&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ADM 400",
+      "course_title": "Introduction to Business",
+      "credits": "4.00",
+      "description": "Introduces the study of business: examines the origins and development of American business, its place in a global economy, and its legal and ethical roles in modern society. Includes an overview of the functional areas of business such as fi nance, marketing, and organizational behavior. Designed for business majors as well as for students considering a major in business. 4 cr.",
+      "institution": "University of New Hampshire"
+    },
+    {
+      "course_id": "ADM 430",
+      "course_title": "Introduction to Business Statistics",
+      "credits": "4.00",
+      "description": "Th e use of statistical methods for managerial decision making. Emphasis is on understanding concepts, including inferences from sample data and model formulation, as aids in decision-making. Lab: Using class-focused statistics problems, designed to provide opportunity to develop course-specifi c problem solving strategies; to adapt from mathematical to statistical thinking; to analyze and communicate signifi cance and meaning of numerical outcomes; to develop coursespecifi c test taking prowess. No credit for students who have received credit for BIOL 528; ADMN 420; EREC 525; HHS 540; MATH 439; MATH 539; MATH 644; PSYC 402; SOC 502. Group 2. 0/4 cr.",
+      "institution": "University of New Hampshire"
+    },
+    {
+      "course_id": "ADM 532",
+      "course_title": "Introduction to Financial Accounting",
+      "credits": "3.00",
+      "description": "Fundamental concepts of accounting and their impact on the business world and society as a whole. Emphasis on the recording of economic transactions, and preparation and analysis of fi nancial statements. No credit for students who have had ACFI 501, 502, ADMN 502. 4 cr.",
+      "institution": "University of New Hampshire"
+    },
+    {
+      "course_id": "ADM 533",
+      "course_title": "Introduction to Managerial Accounting",
+      "credits": "3.00",
+      "description": "Emphasizes how organizational managers use accounting information to support their functions of planning, control, and decision making. Examples taken from corporations, small business, and not-for-profi t organizations. No credit for students who have received credit for ACFI 503, ADMN 503. Prereq: ADM 532. 4 cr.",
+      "institution": "University of New Hampshire"
+    },
+    {
+      "course_id": "ADM 601",
+      "course_title": "Financial Management",
+      "credits": "3.00",
+      "description": "Study of investment, fi nance, and dividend decisions of the business fi rm. Topics include capital budgeting, designing and issuing securities, management of working capital and evaluating manager performance. Prereq: completion of Introductory Business Core or permission. 4 cr.",
+      "institution": "University of New Hampshire"
+    },
+    {
+      "course_id": "ADM 610",
+      "course_title": "Marketing Principles and Applications",
+      "credits": "3.00",
+      "description": "Studies the process of planning and distributing goods and services to the marketplace. Topics include product planning, pricing, promotion, and distribution. Emphasis on the application of marketing principles to real world business cases. Prereq: ADM 400, ECN 412. 4 cr.",
+      "institution": "University of New Hampshire"
+    },
+    {
+      "course_id": "ADM 620",
+      "course_title": "Organizational Behavior",
+      "credits": "3.00",
+      "description": "Applications of behavioral science concepts to work settings. Topics include worker incentives and perceptions toward work, group versus individual decision making, confl ict resolution, interpersonal and leadership skills, and the study of other behaviors relevant to eff ective managing of a business organization. Prereq: Completion of Introductory Business Core or permission. Special fee. Writing intensive. 4 cr.",
+      "institution": "University of New Hampshire"
+    },
+    {
+      "course_id": "ADM 650",
+      "course_title": "Operations Management",
+      "credits": "3.00",
+      "description": "Studies the operational issues and problems related to the design and implementation of an organization's production process. Topics include production planning and analysis, inventory and quality control, scheduling, and methods for evaluating production performance in both the goods and service sectors of the economy. Prereq: Completion of Introductory Business Core or permission. 4 cr.",
+      "institution": "University of New Hampshire"
+    },
+    {
+      "course_id": "ADM 675",
+      "course_title": "Special Topics Business Admn",
+      "credits": "3.00",
+      "description": "Provides students with an opportunity to explore a topic in business administration such as marketing, management, fi nance, or accounting. Topics will vary. Barring duplication of subject, may be repeated for credit. Prereq: Completion of Introductory Business Core or permission. 4 cr.",
+      "institution": "University of New Hampshire"
+    },
+    {
+      "course_id": "ADM 685",
+      "course_title": "Applications in Business Management",
+      "credits": "4.00",
+      "description": "Selected topics. Topics will vary. Barring duplication of subject, may be repeated for credit. 4 cr.",
+      "institution": "University of New Hampshire"
+    }
+  ],
+  "timestamp": "2025-08-10T06:03:10.910139"
+}

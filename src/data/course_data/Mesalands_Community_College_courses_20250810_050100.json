@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Mesalands Community College",
+    "successful_variation": "Mesalands Community College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Mesalands+Community+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ABM 265",
+      "course_title": "Agriculture Marketing",
+      "credits": "3.00",
+      "description": "This course explores the principles of marketing agricultural products and commodities. Instruction in the techniques of marketing services provided to agriculture related fields is also provided in this course. Development, analysis and decision making associated with marketing of agricultural products and services are studied.",
+      "institution": "Mesalands Community College"
+    },
+    {
+      "course_id": "ABM 266",
+      "course_title": "Agriculture Finance",
+      "credits": "3.00",
+      "description": "Characteristics of agriculture in relation to financial costs, risks and returns are reviewed. Practices and procedures of agricultural credit institutions are also considered. The principles of financial management in agriculture are also covered.",
+      "institution": "Mesalands Community College"
+    },
+    {
+      "course_id": "ABM 290",
+      "course_title": "Internship in Applied Agri-Business",
+      "credits": "3.00",
+      "description": "This course is designed to provide on the job work experience. Students gain hands-on work experience by working with an expert in agri-business. Knowledge of technical skills, business management, and customer relations are realized in this course. The internship can be done in the fall or spring semester or during the summer session.",
+      "institution": "Mesalands Community College"
+    },
+    {
+      "course_id": "ACCT 110",
+      "course_title": "Office Accounting",
+      "credits": "3.00",
+      "description": "An investigation of the basic principles of accounting as they pertain to petty cash, payroll, a service enterprise, bank reconciliation, and preparation of financial statements. This course will provide students with a basic understanding of accounting procedures for administrative support staff.",
+      "institution": "Mesalands Community College"
+    },
+    {
+      "course_id": "ACCT 111",
+      "course_title": "Principles of Accounting I",
+      "credits": "3.00",
+      "description": "This course introduces basic accounting principles as applied to proprietorships and partnerships. The concepts and methods underlying the development and preparation of the income statement and balance sheet will be emphasized. Topics covered are income measurement; accounting for current assets, current liabilities, and property, plant, and equipment; and information-processing systems.",
+      "institution": "Mesalands Community College"
+    },
+    {
+      "course_id": "ACCT 210",
+      "course_title": "Principles of Accounting II",
+      "credits": "3.00",
+      "description": "This course is a continuation of the study of accounting as an information system with emphasis on corporate financial accounting and managerial uses of accounting data. This course will include accounting for corporate equity, long-term liabilities, and long-term investments; preparation and analysis of financial statements; manageABM 264 Agriculture Economics (3) This course provides students with an introduction to the basic concepts and issues in economics. Topics will include the microeconomic forces influencing the decisions of producers and consumers in the market place. Additionally, this course introduces factors affecting industry and firms, demand, supply, cost, pricing and output policies.",
+      "institution": "Mesalands Community College"
+    },
+    {
+      "course_id": "ACS 100",
+      "course_title": "Student College Success",
+      "credits": "3.00",
+      "description": "This course is designed to enhance student success in college. Topics include career and life planning, decision making, time planning, test-taking, communication skills, study techniques, question-asking skills, library use, and personal issues that face many college students.",
+      "institution": "Mesalands Community College"
+    },
+    {
+      "course_id": "ACS 200",
+      "course_title": "Planning for Career Success",
+      "credits": "3.00",
+      "description": "Planning for Career Success will familiarize students with concepts, ideas and activities designed to develop individual motivation and self-esteem to achieve future career success and satisfaction. The student will be introduced to methods of self-assessment, interest assessment, career exploration, job skills, life skills, and work/career readiness. The student will be engaged in dynamic and interesting activities.",
+      "institution": "Mesalands Community College"
+    },
+    {
+      "course_id": "AHS 102",
+      "course_title": "Introduction to Anatomy and Physiology",
+      "credits": "3.00",
+      "description": "Introduction to Anatomy and Physiology provides students with a basic knowledge of the structure and function of the human body. The course includes an overview of each body system and discussions of common disorders and diseases of each anatomical system.",
+      "institution": "Mesalands Community College"
+    },
+    {
+      "course_id": "AHS 103",
+      "course_title": "Medical Terminology",
+      "credits": "3.00",
+      "description": "This course involves an integrated anatomy and physiology system approach for teaching medical terminology to the health care student. This assists students in learning terminology and to incorporate this knowledge through an understanding of anatomy and physiology. In this way beginning students discover the purpose and use of medical terms they are learning and using. This course assists students who are learning medical terminology for the first time as well as providing a broader knowledge of terminology as related to anatomy and physiology.",
+      "institution": "Mesalands Community College"
+    }
+  ],
+  "timestamp": "2025-08-10T05:01:00.945335"
+}

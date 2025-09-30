@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Winthrop University",
+    "successful_variation": "Winthrop University",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Winthrop+University&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "AAMS 300",
+      "course_title": "Introduction to African American Studies (3).",
+      "credits": "3.00",
+      "description": "Description: A chronological study of the African/Black experience from a number of perspectives: history, politics, economics, sociology, psychology, religion, art, music, including a study of the evolution of black political and social thought, political engagement and protest, and the struggle to enact social change. Notes: Offered in fall and spring.",
+      "institution": "Winthrop University"
+    },
+    {
+      "course_id": "AAMS 300H",
+      "course_title": "Introduction to African American Studies (3).",
+      "credits": "3.00",
+      "description": "Description: A chronological study of the African/Black experience from a number of perspectives: history, politics, economics, sociology, psychology, religion, art, music, including a study of the evolution of black political and social thought, political engagement and protest, and the struggle to enact social change. Notes: Offered in fall and spring.",
+      "institution": "Winthrop University"
+    },
+    {
+      "course_id": "AAMS 302",
+      "course_title": "Modern Civil Rights Movement (3).",
+      "credits": "3.00",
+      "description": "Description: A reading intensive, discussion-based seminar that examines African Americans' 20th century struggles for racial equality and full citizenship and how that struggle interacted with the economic, political, and cultural forces that have shaped modern America. Prerequisite for all 300 and 500 level courses in History: Sophomore status or permission of the Department Chair. Notes: Cross-listed with HIST 302. Offered variable times.",
+      "institution": "Winthrop University"
+    },
+    {
+      "course_id": "AAMS 302H",
+      "course_title": "Modern Civil Rights Movement (3).",
+      "credits": "3.00",
+      "description": "Description: A reading intensive, discussion-based seminar that examines African Americans' 20th century struggles for racial equality and full citizenship and how that struggle interacted with the economic, political, and cultural forces that have shaped modern America. Prerequisite for all 300 and 500 level courses in History: Sophomore status or permission of the Department Chair. Notes: Cross-listed with HIST 302. Offered variable times.",
+      "institution": "Winthrop University"
+    },
+    {
+      "course_id": "AAMS 303",
+      "course_title": "Geography of Africa (3).",
+      "credits": "3.00",
+      "description": "Description: Geography of Africa presents Africa's physical environment, its sociocultural diversity, its colonial heritage, and its economic development. Notes: Cross-listed with GEOG 303. Offered in fall. Prerequisites: GEOG 101 or 103. Sophomore status or permission of the instructor.",
+      "institution": "Winthrop University"
+    },
+    {
+      "course_id": "AAMS 308",
+      "course_title": "American Ethnic History (3).",
+      "credits": "3.00",
+      "description": "Description: A study of the experiences of Indians, Jews, European immigrants, Afro-Americans, Chinese, Japanese, Mexicans, and Puerto Ricans in the United States. Notes: Cross-listed with HIST 308.",
+      "institution": "Winthrop University"
+    },
+    {
+      "course_id": "AAMS 314",
+      "course_title": "Race and Ethnic Relations (3).",
+      "credits": "3.00",
+      "description": "Description: Review of sociological concepts, theories, and evidence pertaining to race and ethnicity in crosscultural, historical, and modern settings. Notes: Cross listed with SOCL 314: Race and Ethnic Relations. Offered in fall and spring. Prerequisites: SOCL 101, or SOCL 201, or AAMS 300.",
+      "institution": "Winthrop University"
+    },
+    {
+      "course_id": "AAMS 317",
+      "course_title": "African American Politics & Policy (3).",
+      "credits": "3.00",
+      "description": "Description: This course is designed to provide students with a thorough understanding of the Black political experience in the United States. It considers relevant historical background and context, the constitutional framework of American government, and the nature of interactions with the main institutions of government. What is more, the course focuses on the role and participation of Blacks in US government and politics as well as the role of political parties, independent group politics, and social movements. In the process, the course highlights the black struggle for freedom, justice, equality, and full inclusion in the American political community. The role of race, class, and gender in African American politics is a concomitant focus of the course. Notes: Cross-listed with PLSC 317. Offered periodically.",
+      "institution": "Winthrop University"
+    },
+    {
+      "course_id": "AAMS 318",
+      "course_title": "African American Literature (3).",
+      "credits": "3.00",
+      "description": "Description: Chronological survey of the writings of African Americans with emphasis on contemporary writers. Notes: Cross-listed with ENGL 312. Offered in spring. Prerequisites: ENGL 211 or AAMS 300 or Permission of Instructor.",
+      "institution": "Winthrop University"
+    },
+    {
+      "course_id": "AAMS 319",
+      "course_title": "Race and Ethnic Politics in the United States (3).",
+      "credits": "3.00",
+      "description": "Description: This course is designed to provide students with a thorough understanding of the significance of race and ethnicity in American politics and policymaking. Rooted in theories of race, racism, and political economy, the course considers relevant historical background, the constitutional framework of American government, and the nature of interactions between whites, blacks, Latinos, Asian and Pacific Islanders, and Indians peoples and the main institutions of government. Notes: Cross-listed with PLSC 319. Offered periodically.",
+      "institution": "Winthrop University"
+    }
+  ],
+  "timestamp": "2025-08-08T18:28:54.831227"
+}

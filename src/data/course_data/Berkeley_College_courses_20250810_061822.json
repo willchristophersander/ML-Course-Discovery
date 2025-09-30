@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Berkeley College",
+    "successful_variation": "Berkeley College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Berkeley+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACC 101",
+      "course_title": "Financial Accounting I",
+      "credits": "4.00",
+      "description": "The basic structure of accounting terminology and procedures, including recording and reporting functions, is introduced. Adjusting and closing entries, working papers, and the preparation of financial statements are presented.",
+      "institution": "Berkeley College"
+    },
+    {
+      "course_id": "ACC 104",
+      "course_title": "Managerial Accounting",
+      "credits": "4.00",
+      "description": "The use of accounting information for management planning and control in budget preparation and in evaluating cost behavior is introduced. Making managerial decisions based upon financial statement analysis and accounting for the operations of multiple locations are developed. The preparation and interpretation of the statement of cash flow and the impact of taxes on business decisions are presented. Prerequisite: ACC101",
+      "institution": "Berkeley College"
+    },
+    {
+      "course_id": "ACC 105",
+      "course_title": "Financial Accounting II",
+      "credits": "4.00",
+      "description": "The partnership and corporate form of a business organization are covered including formation, capital stock, distribution of earnings, debt, and investments. Accounting principles for the valuation of merchandise inventory and the recording of plant assets, intangible assets, depreciation, current liabilities, and payroll by the accrual method are presented. Prerequisite: ACC104",
+      "institution": "Berkeley College"
+    },
+    {
+      "course_id": "ACC 107",
+      "course_title": "Computerized Accounting And Spreadsheets",
+      "credits": "3.00",
+      "description": "Students use a major accounting software application, such as Quickbooks, to input data into books of original entry; maintain accounts receivable and payable, general ledger, payroll and charts of account; interface with general ledger; and generate financial statements. They also use a major spreadsheet application to analyze financial and accounting information and to generate and analyze reports produced from this data. Prerequisite: CIS120 Corequisite: ACC105",
+      "institution": "Berkeley College"
+    },
+    {
+      "course_id": "ACC 201",
+      "course_title": "Intermediate Accounting I",
+      "credits": "4.00",
+      "description": "An in-depth study of accounting concepts, principles, and processes. Includes development and purpose of working papers, cost and revenue apportionments, and adjusting and reversing entries. Emphasis is placed on contemporary accounting theory. Prerequisite: ACC105",
+      "institution": "Berkeley College"
+    },
+    {
+      "course_id": "ACC 202",
+      "course_title": "Intermediate Accounting II",
+      "credits": "4.00",
+      "description": "A continuation of Intermediate Accounting I with special attention given to classifications in the balance sheet. Accounting for fixed assets, current and long-term liabilities, and stockholders' equity are studied. Prerequisite: ACC201",
+      "institution": "Berkeley College"
+    },
+    {
+      "course_id": "ACC 203",
+      "course_title": "Intermediate Accounting III",
+      "credits": "4.00",
+      "description": "This course delves into specialized contemporary accounting topics as enumerated in FASB pronouncements. Topics include investments in marketable securities and other financial instruments; accounting for income taxes, pensions, and post-retirement benefits; accounting for leases, accounting changes, and error analysis as well as Statements of Cash Flow. Prerequisite: ACC202",
+      "institution": "Berkeley College"
+    },
+    {
+      "course_id": "ACC 240",
+      "course_title": "Cost Accounting",
+      "credits": "4.00",
+      "description": "Study of accounting procedures and concepts applicable to the distribution of costs of a business enterprise. The determination of unit cost using job order and process cost systems is emphasized. The valuation of expenses and distribution of overhead are studied to facilitate preparation of statements. Prerequisite: ACC105",
+      "institution": "Berkeley College"
+    },
+    {
+      "course_id": "ACC 310",
+      "course_title": "Advanced Accounting",
+      "credits": "4.00",
+      "description": "Discussion of advanced theory and problemsolving for corporations and partnerships. An analytical overview of the accounting problems associated with mergers, acquisitions, and the preparation and interpretation of financial reports with respect to the resultant combined corporate entities. Coverage of international financial statements also is provided. Current statements and pronouncements by the American Institute of Certified Public Accountants, Financial Accounting Standards Board, and the Securities and Exchange Commission are introduced and referred to throughout the course. Prerequisite: ACC203",
+      "institution": "Berkeley College"
+    },
+    {
+      "course_id": "ACC 320",
+      "course_title": "Auditing",
+      "credits": "4.00",
+      "description": "The role and function of the independent auditor in the profit-directed sector of the economy is emphasized. The ethical, social, economic, and political forces that have influenced the philosophy and conceptual foundations of auditing are covered in-depth. Pronouncements by the American Institute of Certified Public Accountants, rulings by other regulatory agencies, and court decisions are analyzed. Standards that guide the auditor and the methodology used in conducting an audit are covered and illustrated, including audit considerations regarding computerized management information systems. Prerequisite: ACC203",
+      "institution": "Berkeley College"
+    }
+  ],
+  "timestamp": "2025-08-10T06:18:22.278762"
+}

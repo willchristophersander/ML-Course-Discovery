@@ -1,0 +1,67 @@
+{
+  "search_query": {
+    "institution": "North Idaho College",
+    "successful_variation": "North Idaho College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=North+Idaho+College&distance=5"
+  },
+  "total_results": 8,
+  "courses": [
+    {
+      "course_id": "ACCT 110",
+      "course_title": "Small Business Accounting",
+      "credits": "3.00",
+      "description": "3 Credits Offered Each Semester ACCT 110 is an introduction to accounting procedures for individual proprietorship businesses. Emphasis is on the accounting cycle, double-entry accounting system, special journals, payroll, and systems and procedures for handling accounting problems associated with small businesses. Accounting for both service and merchandising businesses will be included in this course. Students will practice proper accounting procedures manually, on spreadsheet software, and accounting software. This course is required for students in all Business and Office Technology programs and the Accounting Assistant program. It is also helpful to those who want to upgrade business skills for improved employability. Students may not receive duplicate credit for ACCT 110 and 201. Lecture/Lab: 3 hours per week Corequisite: CAOT 130, CAOT 131, CAOT 132",
+      "institution": "North Idaho College"
+    },
+    {
+      "course_id": "ACCT 111",
+      "course_title": "Small Business Accounting II",
+      "credits": "3.00",
+      "description": "3 Credits Offered Spring Semester ACCT 111 is a continuation of ACCT 110 with an introduction to accounting procedures for partnerships and corporations. Emphasis will include asset valuation, inventory valuation, and financial statement analysis for small businesses. This course is required for students in the Accounting Assistant Program and others who want to upgrade business skills for improved employability. Lecture/Lab: 3 hours per week Prerequisite: ACCT 110",
+      "institution": "North Idaho College"
+    },
+    {
+      "course_id": "ACCT 113",
+      "course_title": "Payroll Accounting",
+      "credits": "3.00",
+      "description": "3 Credits Offered Spring Semester ACCT 113 provides an in-depth study of payroll procedures. Included are a discussion of employees and independent contractors, how to calculate gross wages for hourly and salaried employees, mandatory and voluntary withholdings, employer taxes, recording payroll, and state and federal record keeping requirements. Current tax rates and current tax forms will be used. Some emphasis will be placed on computerized payroll accounting. Completion of a payroll practice set is required. Lecture/Lab: 3 hours per week Prerequisite: ACCT 110",
+      "institution": "North Idaho College"
+    },
+    {
+      "course_id": "ACCT 138",
+      "course_title": "Accounting for Managers",
+      "credits": "3.00",
+      "description": "3 Credits Offered Fall Semester This course is an introduction to accounting from a user's perspective. Students will explore accounting information's role in the decision-making process and how to use various types of accounting information found in financial statements and annual reports. This course will emphasize what accounting information is, why it is important, and how it is used by economic decision makers. This course is required in the Resort/Recreation Management program. Understanding how accounting information can be used to make better business decisions can benefit all students, regardless of their major course of study or chosen career. Prior completion of other courses is not required.",
+      "institution": "North Idaho College"
+    },
+    {
+      "course_id": "ACCT 140",
+      "course_title": "QuickBooks Pro",
+      "credits": "3.00",
+      "description": "3 Credits Offered Fall Semester ACCT 140 is an introduction to accounting and computers using QuickBooks. The course will focus on accounting for service and merchandising businesses with emphasis on sales and receivables, purchases and payables, general accounting, payroll accounting, and end-of-period procedures. Computerizing a manual accounting system will also be discussed. Lecture/Lab: 4 hours per week Prerequisite: ACCT 110",
+      "institution": "North Idaho College"
+    },
+    {
+      "course_id": "ACCT 201",
+      "course_title": "Principles of Accounting",
+      "credits": "3.00",
+      "description": "3 Credits Offered Each Semester ACCT 201 is an introduction to contemporary financial accounting. It emphasizes basic terminology and concepts, the theoretical framework of double entry accounting, and descriptions and derivation of the primary financial statements prepared by accountants. This course is included in the Business Education and Business Administration curricula. It fulfills the accounting course requirement for all Business and Office Technology programs. Upon completion of ACCT 201 students may not receive credit for ACCT 110 and/or 111. Lecture/Lab: 3 hours per week",
+      "institution": "North Idaho College"
+    },
+    {
+      "course_id": "ACCT 202",
+      "course_title": "Managerial Accounting",
+      "credits": "3.00",
+      "description": "3 Credits Offered Each Semester ACCT 202 is a continuation of ACCT 201 with emphasis on accounting theory and procedures relating to corporations. Manufacturing accounting and accounting for managerial decision making, including analysis and interpretations of financial statements and introduction to cost behavior is emphasized. This course is included in the Business Education and Business Administration curricula. Lecture/Lab: 3 hours per week Prerequisite: ACCT 201",
+      "institution": "North Idaho College"
+    },
+    {
+      "course_id": "ACCT 244",
+      "course_title": "Credit and Collections",
+      "credits": "3.00",
+      "description": "3 Credits Offered Fall Semester ACCT 244 is an introduction to credit and its role in the economy. The topics to be covered will include understanding consumer and business credit, management and analysis of consumer and business credit, international trade credit, and collection management and control. Focus will be on decision making in granting credit and collection policies and procedures including current laws affecting collections. Lecture: 3 hours per week Prerequisite: ACCT 111",
+      "institution": "North Idaho College"
+    }
+  ],
+  "timestamp": "2025-08-10T23:20:51.302561"
+}

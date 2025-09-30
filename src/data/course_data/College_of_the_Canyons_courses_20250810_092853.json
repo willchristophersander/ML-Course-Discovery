@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "College of the Canyons",
+    "successful_variation": "College of the Canyons",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=College+of+the+Canyons&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ADMJUS 098",
+      "course_title": "Advanced Officer Training",
+      "credits": "4.30",
+      "description": "Units: 0.25-5.00 4.25 - 90.0 hours lecture maximum, 13.5 - 270.0 hours lab maximum Variable format depending on subject matter. Course content includes refresher material from all areas of law enforcement responsibility such as law, firearms, first aid, and patrol procedures. Each course will have its own title and letter designation in the class schedule. Designed for upgrading currently employed law enforcement personnel. Unlimited repeats allowed.",
+      "institution": "College of the Canyons"
+    },
+    {
+      "course_id": "ADMJUS 101",
+      "course_title": "Introduction to Law Enforcement",
+      "credits": "3.00",
+      "description": "Units: 3.00 - UC:CSU 54.0 hours lecture maximum Introduces the history, philosophy and practical aspects of the U.S. Criminal Justice System, including related subsystems, concepts, terms and theories of law enforcement, the judiciary and correctional systems. UC credit limitation: ADMJUS-101 and 110 combined maximum credit one course.",
+      "institution": "College of the Canyons"
+    },
+    {
+      "course_id": "ADMJUS 110",
+      "course_title": "Principles And Procedures of The Justice System",
+      "credits": "3.00",
+      "description": "Units: 3.00 - UC:CSU 54.0 hours lecture maximum An in-depth study of the history, role and responsibility of each primary segment within the administration of justice system: law enforcement, judicial and corrections. Each subsystem is examined from the initial entry to final disposition and the relationship each segment maintains with its system members. UC credit limitation: ADMJUS 101 and 110 combined maximum credit one course.",
+      "institution": "College of the Canyons"
+    },
+    {
+      "course_id": "ADMJUS 125",
+      "course_title": "Criminal Law",
+      "credits": "3.00",
+      "description": "Units: 3.00 - UC:CSU 54.0 hours lecture maximum Presents the historical development, philosophy of law, and constitutional provisions. Covers definitions, classification of crimes, concepts of legal research, including case law, & concepts of law as a social force. Discusses various elements of crimes and relates common law to current California law.",
+      "institution": "College of the Canyons"
+    },
+    {
+      "course_id": "ADMJUS 126",
+      "course_title": "Substantive Criminal Law",
+      "credits": "3.00",
+      "description": "Units: 3.00 - CSU 54.0 hours lecture maximum A study of the substantive laws most often encountered by municipal, county, or state police officers. Includes an in-depth examination of the most commonly encountered misdemeanor and felony violations of the California law.",
+      "institution": "College of the Canyons"
+    },
+    {
+      "course_id": "ADMJUS 130",
+      "course_title": "Report Writing For Law Enforcement",
+      "credits": "3.00",
+      "description": "Units: 3.00 - CSU 54.0 hours lecture maximum Prerequisite: ENGL-091 or ENGL-094. Reviews basic investigation principles, note-taking techniques and rules for writing police reports, warrants and memos. Specifically designed for individuals considering law enforcement, security work or those currently employed in these fields.",
+      "institution": "College of the Canyons"
+    },
+    {
+      "course_id": "ADMJUS 135",
+      "course_title": "Evidence",
+      "credits": "3.00",
+      "description": "Units: 3.00 - CSU 54.0 hours lecture maximum Introduces the basics of law enforcement and the study of law while reviewing relevant constitutional issues, Supreme Court decisions, and the federal Rules of Evidence. Also discusses types, kinds and preservation of evidence, the Hearsay Rule, admissibility, privileges, identification, and search and consent.",
+      "institution": "College of the Canyons"
+    },
+    {
+      "course_id": "ADMJUS 150",
+      "course_title": "Police Field Operations",
+      "credits": "3.00",
+      "description": "Units: 3.00 - CSU 54.0 hours lecture maximum Explores the theories, philosophies, and concepts related to the role expectations of the line enforcement officer, including patrol, traffic, and public service responsibilities and their relationship to the administration of justice.",
+      "institution": "College of the Canyons"
+    },
+    {
+      "course_id": "ADMJUS 155",
+      "course_title": "Criminal Investigation",
+      "credits": "3.00",
+      "description": "Units: 3.00 - CSU 54.0 hours lecture maximum Introduces the basic principles of investigation utilized in the justice system, including how to deal with the public, knowledge of crime scenes, interviews, evidence, surveillance, follow-up, technical resources and case preparation.",
+      "institution": "College of the Canyons"
+    },
+    {
+      "course_id": "ADMJUS 160",
+      "course_title": "Traffic: Enforcement And Investigation",
+      "credits": "3.00",
+      "description": "Units: 3.00 - CSU 54.0 hours lecture maximum Examines traffic law enforcement, accident investigation, and traffic control, specifically emphasizing the California Vehicle Code. Basic accident reporting and classification and determination of cause and prevention are also reviewed.",
+      "institution": "College of the Canyons"
+    }
+  ],
+  "timestamp": "2025-08-10T09:28:53.431243"
+}

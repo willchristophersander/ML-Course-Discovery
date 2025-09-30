@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Danville Area Community College",
+    "successful_variation": "Danville Area Community College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Danville+Area+Community+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ABED 001",
+      "course_title": "Basic Education",
+      "credits": "1.00",
+      "description": "Basic instruction provided in English grammar, spelling, composition, literature, science, social studies, and mathematics. Course content is provided through multi-level classes and is designed to accommodate students with an assessed reading grade equivalent 8.9 or lower as determined by standardized testing.",
+      "institution": "Danville Area Community College"
+    },
+    {
+      "course_id": "ABED 002",
+      "course_title": "Basic Education",
+      "credits": "2.00",
+      "description": "See ABED001 on this page. Notes: 0 This course is not available for web registration.",
+      "institution": "Danville Area Community College"
+    },
+    {
+      "course_id": "ABED 003",
+      "course_title": "Basic Education",
+      "credits": "6.00",
+      "description": "See ABED001 on this page. Notes: 0 This course is not available for web registration.",
+      "institution": "Danville Area Community College"
+    },
+    {
+      "course_id": "ABED 004",
+      "course_title": "Basic Education",
+      "credits": "6.00",
+      "description": "See ABED001 on this page. Notes: 0 This course is not available for web registration.",
+      "institution": "Danville Area Community College"
+    },
+    {
+      "course_id": "ABED 005",
+      "course_title": "Basic Education",
+      "credits": "6.00",
+      "description": "See ABED001 on this page. Notes: 0 This course is not available for web registration.",
+      "institution": "Danville Area Community College"
+    },
+    {
+      "course_id": "ABED 007",
+      "course_title": "Basic Education",
+      "credits": "3.00",
+      "description": "See ABED001 on this page. Notes: 0 This course is not available for web registration.",
+      "institution": "Danville Area Community College"
+    },
+    {
+      "course_id": "ABED 008",
+      "course_title": "Basic Education",
+      "credits": "4.00",
+      "description": "See ABED001 on this page. Notes: 0 This course is not available for web registration.",
+      "institution": "Danville Area Community College"
+    },
+    {
+      "course_id": "ABED 009",
+      "course_title": "Basic Education",
+      "credits": "6.00",
+      "description": "See ABED001 on this page. Notes: 0 This course is not available for web registration.",
+      "institution": "Danville Area Community College"
+    },
+    {
+      "course_id": "ABED 011",
+      "course_title": "Basic Reading",
+      "credits": "1.00",
+      "description": "Instruction and development of basic reading skills; vocabulary, word attack skills, word recognition, comprehension, and speed. Course content is provided through multi-level classes and is designed to accommodate students with an assessed reading grade equivalent of 8.9 or lower as determined by standardized testing. Course is intended to be taken in conjunction with a Basic Education class.",
+      "institution": "Danville Area Community College"
+    },
+    {
+      "course_id": "ABED 012",
+      "course_title": "Basic Reading",
+      "credits": "2.00",
+      "description": "See ABED011 on this page. Notes: 0 This course is not available for web registration.",
+      "institution": "Danville Area Community College"
+    }
+  ],
+  "timestamp": "2025-08-09T19:53:40.185205"
+}

@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Lincoln Land Community College",
+    "successful_variation": "Lincoln Land Community College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Lincoln+Land+Community+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ABE 050",
+      "course_title": "Career/ Job Preparation/ Beginning",
+      "credits": "5.00",
+      "description": "This course provides guidance-oriented, pre-employment skills to help prepare individuals who have limited or no previous work experience to make career choices. Students are introduced to relevant topics leading to job preparation. Students are administered assessments of personal and career interests. Students are exposed to basic career information.",
+      "institution": "Lincoln Land Community College"
+    },
+    {
+      "course_id": "ABE 051",
+      "course_title": "Adult Basic Education/ Beginning",
+      "credits": "5.00",
+      "description": "This course is designed to offer low-level readers the background and instruction necessary to begin preparation for the GED exam. Emphasis is placed on increasing reading capabilities, understanding and recognizing the parts of speech, composing complete sentences within given topical areas and organizing and sequencing information. Students receive instruction in basic mathematical concepts with an emphasis on computational skills and an introduction to fractions.",
+      "institution": "Lincoln Land Community College"
+    },
+    {
+      "course_id": "ABE 061",
+      "course_title": "Orientation to Adult Basic Education",
+      "credits": "5.00",
+      "description": "This course is designed to introduce basic education students to adult education and vocational courses. Learners in this introductory course begin to grasp the importance of eliminating barriers to educational success and understanding their own learning style. They understand their level of academic skills and begin to plan for their participation and success in adult basic education courses.",
+      "institution": "Lincoln Land Community College"
+    },
+    {
+      "course_id": "ABE 070",
+      "course_title": "Career/ Job Preparation- Intermediate",
+      "credits": "5.00",
+      "description": "This course is designed to provide continuing skills in career/job preparation. Career exploration is supplemented with an introduction to educational and training opportunities. Students are introduced to the different methods of searching for a job. Basic information regarding applications and interviews is presented.",
+      "institution": "Lincoln Land Community College"
+    },
+    {
+      "course_id": "ABE 071",
+      "course_title": "Adult Basic Education/ Intermediate",
+      "credits": "5.00",
+      "description": "Students enrolled at this level of instruction will receive continuing assistance in preparation for the GED exam. A strong emphasis is placed on developing comprehension skills, identifying factual data, making inferences and drawing conclusions. Effective paragraph construction and essay format techniques are presented. Mathematical focus continues with fractions and introduces both decimal and percent calculations. Informational and comparative graphing are introduced. Social studies, science and literature topics are covered with an overview of the basic principles, concepts, definitions and vocabulary presented.",
+      "institution": "Lincoln Land Community College"
+    },
+    {
+      "course_id": "ABE 085",
+      "course_title": "Citizenship Test Preparation",
+      "credits": "5.00",
+      "description": "Citizenship Test Preparation is a multi-level class designed to prepare qualified immigrants and refugees for the written and oral sections of the USCIS (United States Citizenship & Immigration Services) citizenship test administered in English. Prerequisite: Ability to read and write English, understand and communicate basic oral communication and read and write common sight words and basic personal information. Note: If skills are at or above the 9th grade reading level from the TABE (Test of Adult Basic Education) test, students will be advised to enroll in a short-term citizenship workshop. Although this is an open-entry class, students are advised to attend class from the beginning session for best results.",
+      "institution": "Lincoln Land Community College"
+    },
+    {
+      "course_id": "ABM 103",
+      "course_title": "Soils",
+      "credits": "3.00",
+      "description": "This course is a study of soils with emphasis on evaluating properties of central Illinois soils which affect their conservation and management in agricultural use. R ( 2 lecture hours and 2 laboratory hours)",
+      "institution": "Lincoln Land Community College"
+    },
+    {
+      "course_id": "ABM 104",
+      "course_title": "Fertilizers",
+      "credits": "3.00",
+      "description": "This course is the study of fertilizer selection, use and application with emphasis on needs of central Illinois soils and crops. Students become familiar with common nitrogen, phosphorous and potassium fertilizer materials and further study the secondary and micronutrients and the conditions which require their use. R ( 2 lecture hours and 2 laboratory hours)",
+      "institution": "Lincoln Land Community College"
+    },
+    {
+      "course_id": "ABM 105",
+      "course_title": "Crop Production",
+      "credits": "4.00",
+      "description": "This course is the study of production of agronomic crops raised in the Midwest. Attention is given to tillage seed selection, fertility, growth stages, harvesting methods and pest control methods. Costs of production for profitable corn, soybeans, small grains and forage production are also emphasized. R ( 3 lecture hours and 2 laboratory hours)",
+      "institution": "Lincoln Land Community College"
+    },
+    {
+      "course_id": "ABM 106",
+      "course_title": "Farm Management",
+      "credits": "3.00",
+      "description": "This course provides a study of the economical organization and operation of farms including planning and budgeting labor capital, machinery, crops and livestock systems. Students evaluate and plan actual farm situations as part of this course. R ( 3 lecture hours)",
+      "institution": "Lincoln Land Community College"
+    }
+  ],
+  "timestamp": "2025-08-10T14:36:12.574127"
+}

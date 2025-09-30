@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Virginia Highlands Community College",
+    "successful_variation": "Virginia Highlands Community College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Virginia+Highlands+Community+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACC 115",
+      "course_title": "Applied Accounting",
+      "credits": "3.00",
+      "description": "Presents practical accounting procedures for retail stores, professional individuals in firms, and personal service occupations. Covers the accounting cycle, journals, ledgers, preparation of financial statements and payrolls, and checking account management. Lecture 2 hours, Laboratory 2 hours, Total 4 hours per week.",
+      "institution": "Virginia Highlands Community College"
+    },
+    {
+      "course_id": "ACC 197",
+      "course_title": "Co-op",
+      "credits": "5.00",
+      "description": "Requires curriculum advisor and co-op advisor approval. Cooperative education in bookkeeping. Designed to provide practical work experience for the accounting student. Minimum on-the-job training is 10 hours per week.",
+      "institution": "Virginia Highlands Community College"
+    },
+    {
+      "course_id": "ACC 215",
+      "course_title": "Computerized Accounting",
+      "credits": "4.00",
+      "description": "Prerequisite or corequisite: ACC 211 or equivalent Introduces the computer in solving accounting problems. Focuses on operation of computers. Presents the accounting cycle and financial statement preparation in a computerized system and other applications for financial and managerial accounting. Lecture 4 hours per week.",
+      "institution": "Virginia Highlands Community College"
+    },
+    {
+      "course_id": "ACC 217",
+      "course_title": "Analyzing Financial Statements",
+      "credits": "3.00",
+      "description": "Prerequisite: ACC 211 Explains how financial data are generated and limitations of the data, techniques for analyzing the flow of a business's funds, and the methods for selecting and interpreting financial ratios. Highlights the conceptual framework for analysis, offers basic and advanced analytical techniques through the use of comprehensive case studies. (AIB Approved). Lecture 3 hours per week.",
+      "institution": "Virginia Highlands Community College"
+    },
+    {
+      "course_id": "ACC 222",
+      "course_title": "Intermediate Accounting II",
+      "credits": "4.00",
+      "description": "Prerequisite: ACC 221 or equivalent Continues accounting principles and theory with emphasis on accounting for fixed assets, intangibles, corporate capital structure, long-term liabilities, and investments. Lecture 4 hours per week.",
+      "institution": "Virginia Highlands Community College"
+    },
+    {
+      "course_id": "ACC 225",
+      "course_title": "Managerial Accounting",
+      "credits": "3.00",
+      "description": "Prerequisite: ACC 212 or equivalent Present the preparation, analysis and interpretation of accounting data for managerial decision making. Includes cost control, capital budgeting and pricing decisions. Lecture 3 hours per week.",
+      "institution": "Virginia Highlands Community College"
+    },
+    {
+      "course_id": "ACC 231",
+      "course_title": "Cost Accounting I",
+      "credits": "3.00",
+      "description": "Prerequisite: ACC 212 or equivalent Presents cost accounting methods and reporting as applied to job order, process, and standard cost accounting systems. Includes cost control, and other topics. Lecture 3 hours per week.",
+      "institution": "Virginia Highlands Community College"
+    },
+    {
+      "course_id": "ACC 241",
+      "course_title": "Auditing",
+      "credits": "3.00",
+      "description": "Prerequisite or corequisite: ACC 222 or equivalent Presents techniques of investigating, interpreting, and appraising accounting records and assertions. Studies internal control design and evaluation, evidence-gathering techniques and other topics. Lecture 3 hours per week.",
+      "institution": "Virginia Highlands Community College"
+    },
+    {
+      "course_id": "ACC 261",
+      "course_title": "Principles of Federal Taxation I",
+      "credits": "3.00",
+      "description": "Presents the study of federal taxation as it relates to individuals and other tax entities. Including tax planning, compliance and reporting. Lecture 3 hours per week.",
+      "institution": "Virginia Highlands Community College"
+    },
+    {
+      "course_id": "ACC 297",
+      "course_title": "Co-op",
+      "credits": "5.00",
+      "description": "Requires curriculum advisor and co-op advisor approval. Cooperative education in accounting. Designed to provide practical work experience for the accounting student. Minimum on-the-job training is 10 hours per week.",
+      "institution": "Virginia Highlands Community College"
+    }
+  ],
+  "timestamp": "2025-08-10T21:36:13.347017"
+}

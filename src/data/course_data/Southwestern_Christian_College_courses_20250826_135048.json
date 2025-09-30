@@ -1,0 +1,18 @@
+{
+  "search_query": {
+    "institution": "Southwestern Christian College",
+    "successful_variation": "Southwestern Christian College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Southwestern+Christian+College&distance=5"
+  },
+  "total_results": 1,
+  "courses": [
+    {
+      "course_id": "ART 111",
+      "course_title": "Introduction to Art",
+      "credits": "1.00",
+      "description": "Introduction to terminology, technique and the various forms of the visual arts. An investigation of the nature, scope, and purpose of painting, sculpture, and architecture as distinct medium of expression and as examples of culture and historic patterns.",
+      "institution": "Southwestern Christian College"
+    }
+  ],
+  "timestamp": "2025-08-26T13:50:48.172717"
+}

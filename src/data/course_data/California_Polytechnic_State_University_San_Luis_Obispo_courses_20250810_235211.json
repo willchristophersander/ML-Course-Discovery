@@ -1,0 +1,74 @@
+{
+  "search_query": {
+    "institution": "California Polytechnic State University, San Luis Obispo",
+    "successful_variation": "California Polytechnic State University-San Luis Obispo",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=California+Polytechnic+State+University-San+Luis+Obispo&distance=5"
+  },
+  "total_results": 9,
+  "courses": [
+    {
+      "course_id": "AERO 102",
+      "course_title": "General Aviation",
+      "credits": "4.00",
+      "description": "Fundamentals of flight aerodynamics and principles. Introduction to power systems, instrumentation, flight planning, modern air navigation, weather data interpretation, flight computer uses, meteorology. Hands-on cockpit/taxi familiarization. Private pilot's examination preparation. Not a technical elective for engineering students. Field trip may be required. 4 lectures.",
+      "institution": "California Polytechnic State University, San Luis Obispo"
+    },
+    {
+      "course_id": "AERO 103",
+      "course_title": "Instrument Aviation",
+      "credits": "4.00",
+      "description": "Introduction to advanced aircraft instrumentation, flight planning, interpretation of weather data, and meteorology. Instrument navigation, uses of flight computer, subjects covered in instrument pilot's examination. Not acceptable as technical elective to engineering students. 4 lectures. Prerequisite: Private pilot certification.",
+      "institution": "California Polytechnic State University, San Luis Obispo"
+    },
+    {
+      "course_id": "AERO 121",
+      "course_title": "Aerospace Fundamentals",
+      "credits": "2.00",
+      "description": "Introduction to the engineering profession including the aeronautical and aerospace fields. Engineering approach to problem-solving and analysis of data obtained from experiments. Basic nomenclature and design criteria used in the aerospace industry. Applications to basic problems in the field. 1 lecture, 1 laboratory.",
+      "institution": "California Polytechnic State University, San Luis Obispo"
+    },
+    {
+      "course_id": "AERO 200",
+      "course_title": "Special Problems for Undergraduates",
+      "credits": "4.00",
+      "description": "Individual investigation, research, studies, or surveys of selected problems. Total credit limited to 4 units. Prerequisite: Consent of department head.",
+      "institution": "California Polytechnic State University, San Luis Obispo"
+    },
+    {
+      "course_id": "AERO 215",
+      "course_title": "Introduction to Aerospace Design",
+      "credits": "2.00",
+      "description": "Introduction to problem solving techniques and team-centered design projects in aerospace engineering. Primary emphasis on the solution of design problems in aerospace engineering using computers. 2 laboratories. Prerequisite: AERO 121, MATH 143. Recommended: CSC 111, IME 144.",
+      "institution": "California Polytechnic State University, San Luis Obispo"
+    },
+    {
+      "course_id": "AERO 240",
+      "course_title": "Additional Engineering Laboratory",
+      "credits": "4.00",
+      "description": "Total credit limited to four units. Credit/No Credit grading. 1-4 laboratories.",
+      "institution": "California Polytechnic State University, San Luis Obispo"
+    },
+    {
+      "course_id": "AERO 300",
+      "course_title": "Aerospace Engineering Analysis",
+      "credits": "5.00",
+      "description": "Analytical methods for aerospace engineering problems. Topics include vector calculus, linear algebra, differential equations, Laplace transforms and Fourier series. Computer tools and numerical methods as applied to problems in aerodynamics, structures, stability and control and astronautics. 4 lectures, 1 laboratory. Prerequisite: PHYS 133, ME 211. Corequisite: MATH 244.",
+      "institution": "California Polytechnic State University, San Luis Obispo"
+    },
+    {
+      "course_id": "AERO 304",
+      "course_title": "Experimental Aerothermodynamics",
+      "credits": "2.00",
+      "description": "Laboratory experiments verify the momentum and energy equations. Fan performance, boundary layer measurements, diffuser performance, and induction pump performance experiments are evaluated. 1 lecture, 1 laboratory. Prerequisite: ENGL 149. Concurrent: AERO 302.",
+      "institution": "California Polytechnic State University, San Luis Obispo"
+    },
+    {
+      "course_id": "AERO 306",
+      "course_title": "Aerodynamics and Flight Performance",
+      "credits": "4.00",
+      "description": "Introduction to theoretical aerodynamics. Primary emphasis in the subsonic region, including compressibility effects. Basic aerodynamic theory: Airfoil theory, wing theory, lift and drag. Team-centered aerodynamic design. Flight performance. 4 lectures. Prerequisite: AERO 215, AERO 301. Concurrent: AERO 302.",
+      "institution": "California Polytechnic State University, San Luis Obispo"
+    }
+  ],
+  "timestamp": "2025-08-10T23:52:11.299423"
+}

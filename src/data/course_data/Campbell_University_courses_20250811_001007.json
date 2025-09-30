@@ -1,0 +1,60 @@
+{
+  "search_query": {
+    "institution": "Campbell University",
+    "successful_variation": "Campbell University",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Campbell+University&distance=5"
+  },
+  "total_results": 7,
+  "courses": [
+    {
+      "course_id": "ACCT 325",
+      "course_title": "Managerial Accounting",
+      "credits": "3.00",
+      "description": "A study of the uses of accounting information for decision making inside and outside the business firm. The study is related to the nature and objectives of business decisions, what information is necessary to make them, what data are relevant, and the uses and limitations of these data. Prerequisite: ACCT 213.",
+      "institution": "Campbell University"
+    },
+    {
+      "course_id": "ACCT 326",
+      "course_title": "Accounting Theory",
+      "credits": "3.00",
+      "description": "An analysis of the logical foundations of accounting. Special emphasis on recent developments. Includes student presentations that evaluate recent accounting changes. Case studies will be used to examine applications of theory to financial, cost, and ethical accounting situations. Prerequisite: ACCT 323.",
+      "institution": "Campbell University"
+    },
+    {
+      "course_id": "ACCT 335",
+      "course_title": "Cost Accounting",
+      "credits": "3.00",
+      "description": "The principles and procedures followed in the assembling and recording of materials, labor, and manufacturing expenses to ascertain production costs, costing for joint products, job costing, budgeting, standard costs, direct costs, and pricing joint products are studied. Prerequisite: ACCT 214.",
+      "institution": "Campbell University"
+    },
+    {
+      "course_id": "ACCT 336",
+      "course_title": "Accounting for Improved Performance",
+      "credits": "3.00",
+      "description": "An integration of cost accounting, statistical quality control, and quality management principles for the purpose of measuring and improving an organization\u2019s productivity and product and service quality. Investigation includes case study analysis of efforts by industrial and service organizations to improve productivity and quality. Prerequisites: ACCT 325 or 335 and MATH 160.",
+      "institution": "Campbell University"
+    },
+    {
+      "course_id": "ACCT 443",
+      "course_title": "Auditing",
+      "credits": "3.00",
+      "description": "A course in auditing theory and practice. Auditing objectives, standards, ethics, terminology, procedures, and reports are studied. The place and responsibility of both the internal auditor and the public auditor are studied. Prerequisite: ACCT 324.",
+      "institution": "Campbell University"
+    },
+    {
+      "course_id": "ACCT 444",
+      "course_title": "Advanced Accounting",
+      "credits": "3.00",
+      "description": "A comprehensive study of special problems relating to partnerships and corporations, dealing with liquidations, consolidations and mergers, and international accounting issues, including foreign currency translation. Prerequisite: ACCT 324.",
+      "institution": "Campbell University"
+    },
+    {
+      "course_id": "ACCT 450",
+      "course_title": "CPA Problems",
+      "credits": "3.00",
+      "description": "A review and analysis of problems encountered in a public accounting practice and on the CPA examination. Prerequisite: ACCT 444.",
+      "institution": "Campbell University"
+    }
+  ],
+  "timestamp": "2025-08-11T00:10:07.427161"
+}

@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "University of Delaware",
+    "successful_variation": "University of Delaware",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=University+of+Delaware&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACCT 166",
+      "course_title": "SPECIAL PROBLEM",
+      "credits": "3.00",
+      "description": "No course description available.",
+      "institution": "University of Delaware"
+    },
+    {
+      "course_id": "ACCT 200",
+      "course_title": "Survey of Accounting",
+      "credits": "4.00",
+      "description": "Survey of financial and managerial accounting concepts for the non-business major. Students learn about financial statements for merchandising, manufacturing, and service companies. Topics include: accounting cycle, budgeting, standard costing, contribution margins, cost-volume-profit analysis, and decision making. RESTRICTIONS: Students within accounting and/or business degree programs who have received credit for ACCT 207 are not eligible to take this course without permission.",
+      "institution": "University of Delaware"
+    },
+    {
+      "course_id": "ACCT 201",
+      "course_title": "The Accounting Experience",
+      "credits": "1.00",
+      "description": "How do you know whether the job you seek is a good match when you don't completely understand what the job entails? It may be three years before you have the opportunity to take a tax class, but you may be selected to interview with a firm's tax practice. Do you want a big firm or a small firm? Does the position require technology skills you currently possess or plan on acquiring? At the end of this class, you should be equipped to make well-informed choices during that first round of interviews, which will lead to initial internship and subsequent job offers that fit your goals, your preferences, and your skills.",
+      "institution": "University of Delaware"
+    },
+    {
+      "course_id": "ACCT 207",
+      "course_title": "Accounting I",
+      "credits": "3.00",
+      "description": "An introduction to financial accounting. Topics: the accounting cycle, merchandise accounting, accounting procedures for cash, receivables, payables, inventories, plant and equipment, stocks and bonds. RESTRICTIONS: Not open to freshmen.",
+      "institution": "University of Delaware"
+    },
+    {
+      "course_id": "ACCT 208",
+      "course_title": "Accounting II",
+      "credits": "3.00",
+      "description": "Introduction to managerial accounting. Topics: manufacturing accounting, cost-volume-profit analysis, job-order accounting, budgeting, standard costs and variance analysis, contribution approach to decision analysis, absorption and variable costing. PREREQ: ACCT207. RESTRICTIONS: Not open to freshmen. Requires a grade of C- or better in ACCT207.",
+      "institution": "University of Delaware"
+    },
+    {
+      "course_id": "ACCT 266",
+      "course_title": "SPECIAL PROBLEM",
+      "credits": "3.00",
+      "description": "No course description available.",
+      "institution": "University of Delaware"
+    },
+    {
+      "course_id": "ACCT 267",
+      "course_title": "SEMINAR",
+      "credits": "6.00",
+      "description": "No course description available.",
+      "institution": "University of Delaware"
+    },
+    {
+      "course_id": "ACCT 302",
+      "course_title": "Accounting Information Systems",
+      "credits": "3.00",
+      "description": "Accounting information and its place within an organization's overall management information system. Emphasis on information and document flow, internal control, data organization, and analysis, design, development, and audit of computer-based accounting systems. Includes some computer work. PREREQ: ACCT208, MISY160 or CISC101. RESTRICTIONS: Requires sophomore status.",
+      "institution": "University of Delaware"
+    },
+    {
+      "course_id": "ACCT 305",
+      "course_title": "Information Security and Risk Management",
+      "credits": "3.00",
+      "description": "This course introduces the fundamental concepts of information and cybersecurity. It covers how to protect the confidentiality, integrity, and availability of data and information systems that modern organizations depend upon. The domains examined include network security, risk management, governance, physical security, cryptography, business continuity, and legal issues. Special consideration is given to studying major information security incidents and cybersecurity trends. You will learn about the threats and vulnerabilities facing computer systems and tools and techniques used to secure them. PREREQ: MISY160 and MISY 250. RESTRICTIONS: Not open to freshmen.",
+      "institution": "University of Delaware"
+    },
+    {
+      "course_id": "ACCT 313",
+      "course_title": "Taxation for Business and Investment Planning",
+      "credits": "3.00",
+      "description": "Explores taxable entities, tax aspects of selecting a business form, income concepts, business deductions, tax factors in the acquisition, use, and disposition of fixed assets, nontaxable transactions, capital gains and losses, and tax planning. PREREQ: ACCT200 or ACCT207. RESTRICTIONS: Not open to accounting majors.",
+      "institution": "University of Delaware"
+    }
+  ],
+  "timestamp": "2025-08-26T13:48:54.820249"
+}

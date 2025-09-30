@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Western Connecticut State University",
+    "successful_variation": "Western Connecticut State University",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Western+Connecticut+State+University&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "AAS 100",
+      "course_title": "The Black Experience in Amer",
+      "credits": "3.00",
+      "description": "This is an interdisciplinary course that examines major historical and contemporary conditions that have contributed to shaping the experiences of black people in America. The course utilizes a variety of original source material in history, literature, art, music, film, sociology, and politics in order to understand the thinking of and reaction to African Americans over nearly 400 years.",
+      "institution": "Western Connecticut State University"
+    },
+    {
+      "course_id": "AAS 109",
+      "course_title": "Equatorial African Cultures",
+      "credits": "3.00",
+      "description": "A multidisciplinary approach examining the geographical, historical and socio-political aspects of contemporary equatorial Africa (including East and West Africa). Topics discussed include early state formation, colonial policies, \"traditional\" vs. \"modern\" societies, and political and economic development problems. Spring semester.",
+      "institution": "Western Connecticut State University"
+    },
+    {
+      "course_id": "AAS 113",
+      "course_title": "Southern African Cultures",
+      "credits": "3.00",
+      "description": "Multidisciplinary approach to the study of the Republic of South Africa and its neighbors. Includes ethnography, history, economic development, the growth of Apartheid, the spreading of the South African problem to its contiguous countries and current political and foreign policy implications. Fall semester.",
+      "institution": "Western Connecticut State University"
+    },
+    {
+      "course_id": "AAS 212",
+      "course_title": "Peoples and Cultures of Africa",
+      "credits": "3.00",
+      "description": "Designed to acquaint the student with the cultures and peoples of Africa as they existed before European colonization. Attention will also be directed to the problem of cultural change. Fall semester of odd-numbered years. Designed to acquaint the student with the cultures and peoples of Africa as they existed before European colonization. Attention will also be directed to the problem of cultural change. Spring semesters of odd-numbered years.",
+      "institution": "Western Connecticut State University"
+    },
+    {
+      "course_id": "AAS 219",
+      "course_title": "African-American His & Culture",
+      "credits": "3.00",
+      "description": "A study of the history and the sociocultural pattern of the African-American in the United States, with particular emphasis on how such factors relate to current conditions and problems.",
+      "institution": "Western Connecticut State University"
+    },
+    {
+      "course_id": "AAS 251",
+      "course_title": "Africa:A Regional Study",
+      "credits": "3.00",
+      "description": "A study of the interrelationships between the general physical and cultural aspects of continental Africa. Certain areas within selected regions will be used for more detailed analysis. Offered periodically. Not open to first year students.",
+      "institution": "Western Connecticut State University"
+    },
+    {
+      "course_id": "AAS 284",
+      "course_title": "Africa:From Antqy to Colonial",
+      "credits": "3.00",
+      "description": "A critical study of the major developments in the history of the continent of Africa from ancient times to the beginning of the colonial era in the nineteenth century. The concept of periodization of African history is heavily stressed. Within this framework, the emphasis is on the three-pronged heritage of African history: traditional (indigenous), semitic (Hebrew and Arabic-Islamic) and European ( Christianity, slavery and colonialism). Alternate spring semesters.",
+      "institution": "Western Connecticut State University"
+    },
+    {
+      "course_id": "AAS 285",
+      "course_title": "Modern Africa",
+      "credits": "3.00",
+      "description": "A history of the continent of Africa in the nineteenth and twentieth centuries. Topics include African response to European penetration (collaboration vs. resistance), theories and practices of colonial rule, ideologies and organizational forms of African nationalism, and problems of development in present-day Africa. The major part of this course will cover twentieth century African history, with emphasis on colonial administration of the African continent , the development of the various African nationalist movements and their struggle for independence. Conditions in independent African states, inter-African relations as well as African relations with the outside world will be emphasized. Alternate spring semesters.",
+      "institution": "Western Connecticut State University"
+    },
+    {
+      "course_id": "AAS 350",
+      "course_title": "Topics in African-Amer Studies",
+      "credits": "3.00",
+      "description": "Arranged around different topics each semester, this course analyzes a significant social, economic, and political event which has shaped African-American life. (A subtitle will indicate the topic to be studied: e.g., the the Africa- American family in history). May be taken no more than twice for academic credit.",
+      "institution": "Western Connecticut State University"
+    },
+    {
+      "course_id": "ACC 202",
+      "course_title": "Managerial Accounting",
+      "credits": "3.00",
+      "description": "A basic study of the concepts of managerial accounting. Emphasis is placed on the cost-planning process, cost effectiveness, the evaluation tools available for performance measurement, and the budgeting process. Spreadsheet software will be used to prepare reports and analyze accounting data. Every semester. Summer Session II and III.",
+      "institution": "Western Connecticut State University"
+    }
+  ],
+  "timestamp": "2025-08-11T00:14:22.439019"
+}

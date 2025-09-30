@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Goldey-Beacom College",
+    "successful_variation": "Goldey-Beacom College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Goldey-Beacom+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACC 206",
+      "course_title": "ACCOUNTING PRINCIPLES I",
+      "credits": "3.00",
+      "description": "A concentration in financial accounting theory and practice. Topics include service and merchandising cycles, internal control principles, systems including payroll, the valuation of cash, receivables, inventories, plant assets, and current liabilities.   It is recommended that accounting majors earn a minimum grade of 70% for successful completion of this course.",
+      "institution": "Goldey-Beacom College"
+    },
+    {
+      "course_id": "ACC 207",
+      "course_title": "ACCOUNTING PRINCIPLES II",
+      "credits": "3.00",
+      "description": "A continuation of financial accounting including cash flow and statement analysis and the introduction of managerial topics used in cost analysis and control.   Prerequisite: ACC 206",
+      "institution": "Goldey-Beacom College"
+    },
+    {
+      "course_id": "ACC 220",
+      "course_title": "ACCOUNTING APPS USING QUICKBOOKS",
+      "credits": "3.00",
+      "description": "This course introduces the student to QuickBooks.  QuickBooks software is used for daily bookkeeping in the small business environment.  Throughout this course accounting concepts are reinforced.  Rather than focusing on traditional journal entries to record transactions, QuickBooks approaches recording transactions much like completing forms. This course prepares students for QuickBooks certification.  Prerequisites: ACC 206 and 207",
+      "institution": "Goldey-Beacom College"
+    },
+    {
+      "course_id": "ACC 297",
+      "course_title": "ACCTG CPT INTERNSHIP",
+      "credits": "1.00",
+      "description": "Curricular Practical Training (CPT) internships complement an international student's major course of study and the student cannot exceed working 20 hours per week.  The CPT internship is coordinated with and monitored by the College's Career Services Department.",
+      "institution": "Goldey-Beacom College"
+    },
+    {
+      "course_id": "ACC 301",
+      "course_title": "FEDERAL TAXES I",
+      "credits": "3.00",
+      "description": "An introduction to the Federal Tax System for the individual taxpayer.  Topics include filing requirements, determination of income, computations of taxes, and special tax problems of proprietorships.   Prerequisite: ACC 206",
+      "institution": "Goldey-Beacom College"
+    },
+    {
+      "course_id": "ACC 302",
+      "course_title": "FEDERAL TAXES II",
+      "credits": "3.00",
+      "description": "ACC 302 - Federal Taxes II   (3 Credits)   A more advanced study of topics in income taxes including partnerships, corporations, estates and trusts. Tax research is required.   Prerequisites: ACC 206, ACC 301",
+      "institution": "Goldey-Beacom College"
+    },
+    {
+      "course_id": "ACC 306",
+      "course_title": "INTERMEDIATE ACCOUNTING I",
+      "credits": "3.00",
+      "description": "This course provides the accounting major with a full review of concepts and principles underlying accounting and their application in the accounting process. Valuation of cash, receivables, inventories, tangible and intangible fixed assets, and current liabilities are studied. FASB statements are emphasized.Prerequisite: ACC 207. It is recommended that accounting majors earn a minimum grade of 70% for successful completion of this course.",
+      "institution": "Goldey-Beacom College"
+    },
+    {
+      "course_id": "ACC 307",
+      "course_title": "INTERMEDIATE ACCOUNTING II",
+      "credits": "3.00",
+      "description": "A continuation of Intermediate Accounting I. The remaining balance sheet accounts and their related effect on operations are studied including the accounting for taxes, pensions, leases and accounting changes and the preparation of the statement of cash flows.Prerequisite: ACC 306",
+      "institution": "Goldey-Beacom College"
+    },
+    {
+      "course_id": "ACC 378",
+      "course_title": "COST ACCOUNTING",
+      "credits": "3.00",
+      "description": "An introduction to procedures and systems used to gather, summarize, and report cost information. It addresses product or service cost determination in various settings to include the new manufacturing environment. Topics include cost systems, activity based costing, spoilage, joint and by-product accounting, cost control, variable costing, standard costs, and cost allocation.Prerequisites: ACC 207, CIS 149 or ITG 149",
+      "institution": "Goldey-Beacom College"
+    },
+    {
+      "course_id": "ACC 450",
+      "course_title": "ADVANCED ACCOUNTING I",
+      "credits": "3.00",
+      "description": "This course is a study of specialized areas of accounting including mergers, consolidations, and acquisitions; partnership accounting; multinational transactions; and fund accounting for governmental and not-for profit organizations.Prerequisite: ACC 307",
+      "institution": "Goldey-Beacom College"
+    }
+  ],
+  "timestamp": "2025-09-29T01:48:16.996365"
+}

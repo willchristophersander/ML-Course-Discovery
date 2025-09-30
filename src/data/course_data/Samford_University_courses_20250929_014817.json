@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Samford University",
+    "successful_variation": "Samford University",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Samford+University&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACCT 211",
+      "course_title": "Accounting Concepts I",
+      "credits": "3.00",
+      "description": "Introduction to the preparation and use of financial statements for business entities, focusing on the uses and limitations of accounting information for external reporting, and emphasizing accounting as a provider of financial information. Prereq: BUSA 160 and a college-level math course. (Prereq of BUSA 160 not required for business minors.) Offered: Fall, Spring, and Summer I.",
+      "institution": "Samford University"
+    },
+    {
+      "course_id": "ACCT 212",
+      "course_title": "Accounting Concepts II",
+      "credits": "3.00",
+      "description": "Examination of accounting as an information provider with emphasis on the use of information for managerial decision-making. Includes an introduction to cost behavior, budgeting, responsibility accounting cost control, and product costing. Prereq: ACCT 211. Offered: Fall, Spring, and Summer 2",
+      "institution": "Samford University"
+    },
+    {
+      "course_id": "ACCT 310",
+      "course_title": "Income Tax I",
+      "credits": "3.00",
+      "description": "Study of concepts of taxation applied in a client-oriented setting with a planning emphasis. Includes income, exclusions, deductions, credits, tax research, and policy. Prereq: ACCT 212. Offered: Spring.",
+      "institution": "Samford University"
+    },
+    {
+      "course_id": "ACCT 311",
+      "course_title": "Financial Accounting and Reporting I",
+      "credits": "3.00",
+      "description": "Study of financial accounting and reporting practices. Particular emphasis on theoretical foundations, concepts, and principles underlying financial statements with emphasis on assets and current liabilities. Prereq: ACCT 212. Offered: Fall.",
+      "institution": "Samford University"
+    },
+    {
+      "course_id": "ACCT 312",
+      "course_title": "Financial Accounting and Reporting II",
+      "credits": "3.00",
+      "description": "Study of concepts and principles underlying financial statements with emphasis on long-term liabilities and stockholders' equity. Prereq: ACCT 311. Offered: Spring.",
+      "institution": "Samford University"
+    },
+    {
+      "course_id": "ACCT 313",
+      "course_title": "Cost Accounting",
+      "credits": "3.00",
+      "description": "Study of the concepts, analyses, and techniques needed to effectively use accounting data for management planning and control decisions. Topics include product costing, cost-volume-profit analysis, budgeting, cost estimation, responsibility accounting, differential analysis, and cost allocation. Prereq: ACCT 212. Offered: Spring.",
+      "institution": "Samford University"
+    },
+    {
+      "course_id": "ACCT 410",
+      "course_title": "Income Tax II",
+      "credits": "3.00",
+      "description": "Study of tax aspects of operating a corporation, partnership, estate, trust, or limited- liability entity. Client service-oriented course that includes review of exempt organizations, international organizations, international and multi-state topics, and development of tax planning and communication skills. Prereq: ACCT 310. Offered: Fall.",
+      "institution": "Samford University"
+    },
+    {
+      "course_id": "ACCT 415",
+      "course_title": "Governmental and Not-for-Profit Accounting",
+      "credits": "3.00",
+      "description": "Introduction to governmental and non-profit accounting and auditing, including accounting methods used at hospitals, universities, and other not-for-profit entities. Prereq: ACCT 212. Offered: Spring.",
+      "institution": "Samford University"
+    },
+    {
+      "course_id": "ACCT 420",
+      "course_title": "Auditing I",
+      "credits": "3.00",
+      "description": "Introduction to the independent-auditing process. Includes review of accepted and commonly used auditing standards and procedures, with emphasis on the professional, ethical, and legal obligations of auditors. Prereq: ACCT 312 and ACCT 470. Offered: Fall.",
+      "institution": "Samford University"
+    },
+    {
+      "course_id": "ACCT 470",
+      "course_title": "Accounting Information Systems",
+      "credits": "3.00",
+      "description": "Study of how accounting information is recorded, summarized, and reported in both manual and computerized systems. Emphasis on internal control features necessary to produce accurate and reliable accounting data. Includes description of methods used to develop accounting systems and auditor involvement in the process. Prereq: ACCT 212. Offered: Fall.",
+      "institution": "Samford University"
+    }
+  ],
+  "timestamp": "2025-09-29T01:48:17.019360"
+}

@@ -1,0 +1,73 @@
+{
+  "timestamp": "2025-08-08T18:29:44.387476",
+  "analysis": {
+    "total_universities": 3,
+    "discovery_success_rate": 0.3333333333333333,
+    "avg_discovery_confidence": 0.94,
+    "validation_success_rate": 0.0,
+    "avg_validation_confidence": 0,
+    "course_finding_rate": 0,
+    "avg_discovery_time": 1.7418106396993,
+    "avg_validation_time": 1.1139203707377117,
+    "successful_discoveries": [
+      {
+        "university": "Rutgers University",
+        "url": "https://classes.rutgers.edu/soc/#home",
+        "discovery_confidence": 0.94,
+        "validation_confidence": 0.0,
+        "courses_found": "0/0"
+      }
+    ],
+    "failed_discoveries": [
+      {
+        "university": "Itasca Community College",
+        "error": "No search results found with any strategy"
+      },
+      {
+        "university": "Texas College",
+        "error": "No search results found with any strategy"
+      }
+    ]
+  },
+  "detailed_results": [
+    {
+      "university_name": "Itasca Community College",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No search results found with any strategy",
+      "discovery_time": 0.07896900177001953,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "Rutgers University",
+      "discovered_url": "https://classes.rutgers.edu/soc/#home",
+      "discovery_success": true,
+      "discovery_confidence": 0.94,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No test courses found in CollegeTransfer.net",
+      "discovery_time": 5.104895830154419,
+      "validation_time": 3.3417611122131348
+    },
+    {
+      "university_name": "Texas College",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No search results found with any strategy",
+      "discovery_time": 0.041567087173461914,
+      "validation_time": 0.0
+    }
+  ]
+}

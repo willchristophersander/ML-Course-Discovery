@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Geneva College",
+    "successful_variation": "Geneva College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Geneva+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACC 151",
+      "course_title": "PRINCIPLES OF ACCOUNTING I",
+      "credits": "3.00",
+      "description": "ACC 151 , 152 is a two semester introduction to accounting. Accounting application is critical to this course as the preparation of trial balances, adjusting and other journal entries, and financial statements are the focus. Financial and managerial decision making techniques are discussed and applied in detail during the second semester. Every semester. Prerequisite for ACC 152: ACC 151.",
+      "institution": "Geneva College"
+    },
+    {
+      "course_id": "ACC 152",
+      "course_title": "PRINCIPLES OF ACCOUNTING II",
+      "credits": "3.00",
+      "description": "ACC 151, 152 is a two semester introduction to accounting. Accounting application is critical to this course as the preparation of trial balances, adjusting and other journal entries, and financial statements are the focus. Financial and managerial decision making techniques are discussed and applied in detail during the second semester. Every semester. Prerequisite for ACC 152: ACC 151.",
+      "institution": "Geneva College"
+    },
+    {
+      "course_id": "ACC 256",
+      "course_title": "MANAGERIAL ACCOUNTING",
+      "credits": "3.00",
+      "description": "Industrial accounting fundamentals with a managerial emphasis; process; job order; standard costs and direct costing; cost reports and control; budgets; cost analysis; profit planning; and the uses of cost accounting by management. Every semester. Prerequisites: ACC 151.",
+      "institution": "Geneva College"
+    },
+    {
+      "course_id": "ACC 261",
+      "course_title": "INTERMEDIATE ACCOUNTING I",
+      "credits": "3.00",
+      "description": "is a two semester intermediate accounting course where financial statement components are examined in detail and more complex financial concepts such as bond accounting, deferred income taxes, pensions, leases, and securities are studied. ACC 261: Fall semester. ACC 262: Spring semester. Prerequisite for ACC 261: ACC 151; Prerequisite for ACC 262: ACC 261",
+      "institution": "Geneva College"
+    },
+    {
+      "course_id": "ACC 262",
+      "course_title": "INTERMEDIATE ACCOUNTING II",
+      "credits": "3.00",
+      "description": "is a two semester intermediate accounting course where financial statement components are examined in detail and more complex financial concepts such as bond accounting, deferred income taxes, pensions, leases, and securities are studied. ACC 261: Fall semester. ACC 262: Spring semester. Prerequisite for ACC 261: ACC 151; Prerequisite for ACC 262: ACC 261",
+      "institution": "Geneva College"
+    },
+    {
+      "course_id": "ACC 292",
+      "course_title": "APPLIED FIELD EXPERIENCE",
+      "credits": "3.00",
+      "description": "The practicum is an introductory, hands-on experience in an applied area, with guidance from a faculty member or other professional. The practicum should be connected to the mission and objectives of the department. The student outcomes and requirements will be generated with and assessed by a faculty member. A student can enroll in a maximum of 4 credits with no more than 2 credits per semester.",
+      "institution": "Geneva College"
+    },
+    {
+      "course_id": "ACC 350",
+      "course_title": "ACCOUNTING SYSTEMS AND APPLICATION",
+      "credits": "3.00",
+      "description": "Using QuickBooks to perform and understand accounting transactions, controls, and procedures in a simulation-type setting. Fall Semester. Prerequisite: ACC 151.",
+      "institution": "Geneva College"
+    },
+    {
+      "course_id": "ACC 357",
+      "course_title": "TAXATION",
+      "credits": "3.00",
+      "description": "Underlying principles and concepts of income taxation as they relate to the preparation of federal income tax returns for individuals, partnerships, and corporations. Fall semester. Prerequisite: ACC 151.",
+      "institution": "Geneva College"
+    },
+    {
+      "course_id": "ACC 358",
+      "course_title": "ADVANCED TAXATION",
+      "credits": "3.00",
+      "description": "In-depth consideration of corporate income taxation, including the principles of estate and gift taxation. On demand. Prerequisite: ACC 357.",
+      "institution": "Geneva College"
+    },
+    {
+      "course_id": "ACC 363",
+      "course_title": "ADVANCED ACCOUNTING",
+      "credits": "3.00",
+      "description": "Covers advanced topics such as purchase accounting, consolidations, partnership, governmental and not-for-profit accounting. Fall semester. Prerequisite: ACC 151.",
+      "institution": "Geneva College"
+    }
+  ],
+  "timestamp": "2025-08-10T06:17:00.038105"
+}

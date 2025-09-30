@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Caldwell University",
+    "successful_variation": "Caldwell University",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Caldwell+University&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "AH 122",
+      "course_title": "Language of World Art",
+      "credits": "3.00",
+      "description": "Introduces students to the issues and meanings of a wide variety of art through writing and visual analysis. Learning the social and historical context of art is emphasized in order to understand and appreciate cultural diversity.",
+      "institution": "Caldwell University"
+    },
+    {
+      "course_id": "AH 206",
+      "course_title": "Design History",
+      "credits": "3.00",
+      "description": "A survey of design in the twentieth century. Emphasizes a wide range of design production in Europe and the U.S. and examines a variety of work including furniture, interiors, and product design. A special emphasis is placed on graphic design.",
+      "institution": "Caldwell University"
+    },
+    {
+      "course_id": "AH 212",
+      "course_title": "World Art I",
+      "credits": "3.00",
+      "description": "An introduction to artistic traditions before 1400. Includes the art of Egypt, Greece, Rome, India, China and Europe.",
+      "institution": "Caldwell University"
+    },
+    {
+      "course_id": "AH 214",
+      "course_title": "Modern Art",
+      "credits": "3.00",
+      "description": "Investigates the historical and theoretical premises of modernism. Surveys the visual arts from the late nineteenth century through the 1960's. Includes stylistic movements such as Cubism, Expressionism, and Surrealism.",
+      "institution": "Caldwell University"
+    },
+    {
+      "course_id": "AH 215",
+      "course_title": "World Art II",
+      "credits": "3.00",
+      "description": "An introduction to artistic traditions from 1400 to 1800. Topics include European Renaissance and Baroque, and the artistic conventions of Africans, Native Americans, and Islamic peoples.",
+      "institution": "Caldwell University"
+    },
+    {
+      "course_id": "AH 303",
+      "course_title": "Contemporary Art",
+      "credits": "3.00",
+      "description": "Explores issues and developments since the 1960s in the visual arts with special emphasis on trends and artistic process.",
+      "institution": "Caldwell University"
+    },
+    {
+      "course_id": "AH 312",
+      "course_title": "Nineteenth Century Art",
+      "credits": "3.00",
+      "description": "Analyzes European and American painting and sculpture of the nineteenth century. Topics include Neoclassicism, Romanticism, Realism, Impressionism and Symbolism.",
+      "institution": "Caldwell University"
+    },
+    {
+      "course_id": "AH 339",
+      "course_title": "Women Artists and Modernism",
+      "credits": "3.00",
+      "description": "Examines the work and issues of women artists using a variety of theoretical approaches. Emphasis is on artists of the late nineteenth and twentieth centuries.",
+      "institution": "Caldwell University"
+    },
+    {
+      "course_id": "AH 346",
+      "course_title": "African/African American Art",
+      "credits": "3.00",
+      "description": "This course surveys African American art and its context, including case studies of relevant African art. Social history is emphasized.",
+      "institution": "Caldwell University"
+    },
+    {
+      "course_id": "AH 347",
+      "course_title": "Latin American Art",
+      "credits": "3.00",
+      "description": "Surveys the visual art of Latin America, from colonial times to the present, with an emphasis on the twentieth century. Issues such as colonialism and nationalism, modernism vs. tradition, and contemporary identity are included.",
+      "institution": "Caldwell University"
+    }
+  ],
+  "timestamp": "2025-08-26T13:49:39.084086"
+}

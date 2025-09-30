@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Miles Community College",
+    "successful_variation": "Miles Community College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Miles+Community+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "AA 090",
+      "course_title": "Beginning Keyboarding",
+      "credits": "1.00",
+      "description": "This course is for students with very little or no previous keyboarding experience. The alphabetic keyboard, numbers, and symbols are introduced. Course is graded P (pass)/W (withdraw).",
+      "institution": "Miles Community College"
+    },
+    {
+      "course_id": "AA 100",
+      "course_title": "Computer Calculator",
+      "credits": "1.00",
+      "description": "This course introduces the computer ten-key pad by touch with an emphasis on speed and accuracy. Ten-key functions will be used to solve common mathematical problems.",
+      "institution": "Miles Community College"
+    },
+    {
+      "course_id": "AA 102",
+      "course_title": "Advanced Keyboarding",
+      "credits": "3.00",
+      "description": "This course is designed to develop students' keyboarding skills through the application of prescribed speed and accuracy drills. Students will also develop speed and accuracy on the ten-key number pad. Pre-requisite: Ability to keyboard at least 35 words per minute.",
+      "institution": "Miles Community College"
+    },
+    {
+      "course_id": "AA 112",
+      "course_title": "Recor ds Management",
+      "credits": "3.00",
+      "description": "Basic records management concepts are covered. All aspects of the records cycle are included in this course. Students learn to file correspondence by using the ARMA alphabetic filing rules. Numeric, terminal digit, geographic, and subject filing methods are also covered in this course. In addition, students receive hands-on training through the completion of filing simulations.",
+      "institution": "Miles Community College"
+    },
+    {
+      "course_id": "AA 115",
+      "course_title": "Word Processing",
+      "credits": "3.00",
+      "description": "This course introduces students to word processing software. Basic and advanced word processing functions are covered. Emphasis is on formatting business documents using proper grammar, punctuation, and spelling. Prerequisites: AA 102 (or permission of instructor) and IT 120.",
+      "institution": "Miles Community College"
+    },
+    {
+      "course_id": "AA 119",
+      "course_title": "Machine Transcription",
+      "credits": "3.00",
+      "description": "This course teaches the development of skills in using transcription machines with an emphasis on mechanics including grammar, spelling, and punctuation. Basic business vocabulary is taught and then applied by using transcription tapes. Production transcription tests and written exams are given. Pre-requisite: AA 102 with a keyboarding speed of 45 wpm, 5 minutes, 5 or less errors.",
+      "institution": "Miles Community College"
+    },
+    {
+      "course_id": "AA 221",
+      "course_title": "Medical Terminology I",
+      "credits": "3.00",
+      "description": "This course is an introduction to word building/analysis of medical terms using word elements. Study of medical terms, abbreviations, anatomy, procedures, etc. are included. Sections on pharmacology, radiology, and psychiatry will be covered.",
+      "institution": "Miles Community College"
+    },
+    {
+      "course_id": "AA 222",
+      "course_title": "Medical Terminology II",
+      "credits": "3.00",
+      "description": "This course is a continuation of AA 221. Students will continue with building/analysis of medical terms, systems, abbreviations, diseases, anatomy, etc. Spelling of terms included. Pre-requisite: AA 221.",
+      "institution": "Miles Community College"
+    },
+    {
+      "course_id": "AA 223",
+      "course_title": "Medical Transcription Applications",
+      "credits": "2.00",
+      "description": "This course is for students taking the medical options by independent study. Development of skill in using transcription machines with emphasis on mechanics including grammar, spelling, and punctuation will be emphasized. Word processing concepts that are necessary for transcribing medical documents are also covered.",
+      "institution": "Miles Community College"
+    },
+    {
+      "course_id": "AA 224",
+      "course_title": "Medical Transcription I",
+      "credits": "6.00",
+      "description": "This course covers transcribing a variety of medical reports including chart notes, letters, consultations, hospital summaries, history and physicals, etc. Emphasis placed on producing error-free documents, spelling, punctuation, and proper usage of medical reference materials. Co-requisite AA 221.",
+      "institution": "Miles Community College"
+    }
+  ],
+  "timestamp": "2025-08-10T14:35:38.694020"
+}

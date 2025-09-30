@@ -1,0 +1,110 @@
+{
+  "timestamp": "2025-08-08T18:30:51.733922",
+  "analysis": {
+    "total_universities": 5,
+    "discovery_success_rate": 0.4,
+    "avg_discovery_confidence": 0.935,
+    "validation_success_rate": 0.4,
+    "avg_validation_confidence": 0.30000000000000004,
+    "course_finding_rate": 0.7142857142857143,
+    "avg_discovery_time": 5.377624988555908,
+    "avg_validation_time": 0.8888581752777099,
+    "successful_discoveries": [
+      {
+        "university": "Yale University",
+        "url": "https://courses.yale.edu/",
+        "discovery_confidence": 0.935,
+        "validation_confidence": 0.2,
+        "courses_found": "1/2"
+      },
+      {
+        "university": "Rocky Mountain College",
+        "url": "https://rocky.edu/academics/course-catalog/catalog-curriculum-course-descriptions/",
+        "discovery_confidence": 0.935,
+        "validation_confidence": 0.4,
+        "courses_found": "4/5"
+      }
+    ],
+    "failed_discoveries": [
+      {
+        "university": "Grambling State University",
+        "error": "No search results found with any strategy"
+      },
+      {
+        "university": "Vernon College",
+        "error": "No search results found with any strategy"
+      },
+      {
+        "university": "Kanawha Valley Community and Technical College",
+        "error": "No search results found with any strategy"
+      }
+    ]
+  },
+  "detailed_results": [
+    {
+      "university_name": "Grambling State University",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No search results found with any strategy",
+      "discovery_time": 0.08749198913574219,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "Yale University",
+      "discovered_url": "https://courses.yale.edu/",
+      "discovery_success": true,
+      "discovery_confidence": 0.935,
+      "validation_success": true,
+      "validation_confidence": 0.2,
+      "test_courses_found": 1,
+      "total_test_courses": 2,
+      "error_message": null,
+      "discovery_time": 3.4924020767211914,
+      "validation_time": 2.192440986633301
+    },
+    {
+      "university_name": "Vernon College",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No search results found with any strategy",
+      "discovery_time": 0.06840705871582031,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "Rocky Mountain College",
+      "discovered_url": "https://rocky.edu/academics/course-catalog/catalog-curriculum-course-descriptions/",
+      "discovery_success": true,
+      "discovery_confidence": 0.935,
+      "validation_success": true,
+      "validation_confidence": 0.4,
+      "test_courses_found": 4,
+      "total_test_courses": 5,
+      "error_message": null,
+      "discovery_time": 23.142037868499756,
+      "validation_time": 2.251849889755249
+    },
+    {
+      "university_name": "Kanawha Valley Community and Technical College",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No search results found with any strategy",
+      "discovery_time": 0.09778594970703125,
+      "validation_time": 0.0
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Clark University",
+    "successful_variation": "Clark University",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Clark+University&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ARTH 010",
+      "course_title": "From the Stone Age to Our Age: Monuments and Masterpieces of Western Art",
+      "credits": "1.00",
+      "description": "Begins with a reach back in time to the dawn of history 20,000 years ago when the earliest creators in the western world painted powerful images of animals on walls located in the eerie, dank depths of cave interiors. This startling act marked the beginning of communication through visual images. We will move chronologically through history, exploring the major monuments and masterpieces of painting, sculpture and architecture, and the cultures that produced them. By focusing primarily, although not exclusively, on select key monuments\u2014the Pyramids, the Parthenon, the Pantheon\u2014and on the masterpieces of major artists\u2014Raphael, Rembrandt, Renoir, Rothko (among others)\u2014from prehistoric times to our own computer age, we will gain an understanding of visual culture and of the needs and asprations that are expressed.",
+      "institution": "Clark University"
+    },
+    {
+      "course_id": "ARTH 125",
+      "course_title": "Art in the Age of Michelangelo",
+      "credits": "1.00",
+      "description": "Focuses on the art of the 1500s in Italy, an era comprising the High Renaissance and Mannerism, perhaps the single most influential period in Western art after classical times. Investigates painting, sculpture and architecture in the major Italian cultural centers of Florence, Rome, Milan, Parma, Mantua and Venice. Considers questions of style, influence, patronage, art theory and scholarly and religious developments. Highlights the work of Michelangelo, including the recently restored Sistine Chapel frescoes, the Medici Tombs, the David and the Piet\u00e0. Also considers the work of Leonardo da Vinci, Raphael, Correggio, Giorgione and Titian, and their relationship to Michelangelo and his legacy. Looks at the rise of papal Rome and the building of St. Peter's basilica and the Vatican palaces. Field trips to area museums.",
+      "institution": "Clark University"
+    },
+    {
+      "course_id": "ARTH 131",
+      "course_title": "Baroque Art in the Age of Bernini",
+      "credits": "1.00",
+      "description": "Considers European art and architecture from around 1580 to 1680, the age known as the Baroque. An era of astonishing artistic activity, it was marked by lavish patronage by popes, cardinals and princes, centering on the cosmopolitan capital of Rome. This period was characterized by fundamental changes in society, a re-examining of religious imagery and orthodoxy, new and revolutionary scientific discoveries, a new global awareness and the growth of political absolutism. Explores how these developments informed the style, iconography and patronage of art. Analyzes works by some of the best-known \u201cOld Masters,\u201d including Bernini, Borromini, Caravaggio, Rubens, and Rembrandt. Topics include developments in optics and drama, the rise of landscape painting, still life and genre painting, as well as the concept of the Baroque unity of the arts. Field trips to area museums.",
+      "institution": "Clark University"
+    },
+    {
+      "course_id": "ARTH 140",
+      "course_title": "Modern Art: 19th Century",
+      "credits": "1.00",
+      "description": "Examines neoclassicism, romanticism, realism and impressionism. Studies the development of landscape painting in England, France, and the United States in relation to the rise of urbanization and industrialization, and the origins of an \u201cavant-garde.\u201d",
+      "institution": "Clark University"
+    },
+    {
+      "course_id": "ARTH 210",
+      "course_title": "The Art of Art History: Teaching and Methods",
+      "credits": "1.00",
+      "description": "This seminar and practicum is the capstone experience for majors in art history. Students enrolled in this course will serve as PLAs (Peer Learning Assistants) for the art history survey, Arth 010, Stone Age to Our Age. This seminar has two primary goals:1) to explore some of the major critical questions that art historians have asked, and attempted to answer, about our discipline; and 2) to provide guidance and critical support for teaching art history discussion sections. Among the questions that our seminar readings will address: how do we talk and write about art, which is by definition non-verbal, and how do we help others learn to talk and write about art? what is the influence of social and political context on a work of art, and how can we guide others to an appropriate use of this historical information? what makes for an effective discussion group experience?",
+      "institution": "Clark University"
+    },
+    {
+      "course_id": "ARTH 248",
+      "course_title": "Gender and Representation",
+      "credits": "1.00",
+      "description": "An exploration of the manifold ways gender affects the production and reception of art. The course will consider the role of gender in art from three perspectives: 1) how gender affects the artist's sense of self; 2) how gender affects pictorial representation; and 3) how gender impacts the way one views a work of art. The course will focus primarily on late-19th-, 20th-, and 21st-century art, with individual classes devoted to selected artists or thematic issues.",
+      "institution": "Clark University"
+    },
+    {
+      "course_id": "ARTH 249",
+      "course_title": "Special Topics: Modern Art/Seminar",
+      "credits": "1.00",
+      "description": "Introduces specific Topics in the study of modern art. Research and writing intensive. Qualifies students from other disciplines are welcomed.",
+      "institution": "Clark University"
+    },
+    {
+      "course_id": "ARTH 297",
+      "course_title": "Honors in Art History: Senior Year",
+      "credits": "1.00",
+      "description": "Qualified students who want to pursue Honors in Art History should identify an area of interest, select an appropriate advisor, and apply for eligibility to the art history faculty before April 1 of their junior year. The honors thesis is a year-long project, and the student registers for one section of ARTH 297 each semester. During the first semester, the student completes research and begins the writing process. No grade is given in the fall. In the second semeseter, the thesis is completed, and is submitted no later than April 15. A second reader, chosen by the student and advisor, will participate in the final evaluation. Credit is given for course work completed, even if a student is not recommended for honors. The honors in art history fulfills two area requirement courses for the art history major.",
+      "institution": "Clark University"
+    },
+    {
+      "course_id": "ARTH 298",
+      "course_title": "Internship",
+      "credits": "1.00",
+      "description": "Academic experience taking place in the field with an opportunity to earn credit.",
+      "institution": "Clark University"
+    },
+    {
+      "course_id": "ARTH 299",
+      "course_title": "Directed Study",
+      "credits": "1.00",
+      "description": "Undergraduates, typically juniors & seniors, construct an independent study course on a topic approved & directed by a facutly member.",
+      "institution": "Clark University"
+    }
+  ],
+  "timestamp": "2025-09-29T01:39:58.336586"
+}

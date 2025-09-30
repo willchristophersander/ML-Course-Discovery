@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Central Oregon Community College",
+    "successful_variation": "Central Oregon Community College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Central+Oregon+Community+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "AH 100",
+      "course_title": "Introduction to Healt h Occupat Ions",
+      "credits": "2.00",
+      "description": "Introduces current issues in the health care professions, including medical, dental, complementary, and community health. Includes an overview of the health care delivery system, medical ethics, legal issues such as HIPAA legislation, holistic and alternative medicine, confidentiality and human relations in health care, communication as a member of a health care team, and resources available in community health care. Working professionals in the health care industry will speak on selected topics. Credits: 2 Lecture: 2",
+      "institution": "Central Oregon Community College"
+    },
+    {
+      "course_id": "AH 111",
+      "course_title": "Medical Terminology I",
+      "credits": "3.00",
+      "description": "Covers terminology pertaining to medical term construction, body structure, integumentary, hematopoietic/lymph, cardiovascular, oncology, respiratory and musculoskeletal systems. Includes standard abbreviations, anatomic, diagnostic, symptomatic and operative terms related to these body systems. Credits: 3 Lecture: 3",
+      "institution": "Central Oregon Community College"
+    },
+    {
+      "course_id": "AH 112",
+      "course_title": "Medical Terminology II",
+      "credits": "3.00",
+      "description": "Covers terminology pertaining to pharmacology, nervous, mental health, special senses (eye and ear), reproductive (male and female), obstetrics, digestive, urinary and endocrine systems. Includes standard abbreviations, anatomic, diagnostic, symptomatic and operative terms related to these body systems. Recommended prerequisite: AH 111. Credits: 3 Lecture: 3",
+      "institution": "Central Oregon Community College"
+    },
+    {
+      "course_id": "AH 113",
+      "course_title": "Introduction to The Study of Disease",
+      "credits": "5.00",
+      "description": "Reviews abnormal pathological changes that occur within individual organs and body systems as the result of a disease process. Disease processes are studied in detail with regard to the cause, pathological features, physical signs and symptoms, diagnostic procedures, current preferred treatment, prognosis and pertinent public health issues. Fulfills program requirements for Health Information Technology and Medical Assisting. Recommended prerequisites: BI 121, BI 122 or BI 231, 232 and 233. Course is offered winter and spring terms. Credits: 5 Lecture: 5",
+      "institution": "Central Oregon Community College"
+    },
+    {
+      "course_id": "AH 199",
+      "course_title": "Special Topics: Alied Healt h",
+      "credits": "3.00",
+      "description": "Reserved for courses that cover topics of general interest in health occupations. Credits: 1 to 3",
+      "institution": "Central Oregon Community College"
+    },
+    {
+      "course_id": "AH 283",
+      "course_title": "Integrat Ive Medicine",
+      "credits": "4.00",
+      "description": "Introduces the historical and sociopolitical context of biomedicine and \"alternative\" medical systems as they relate to medicalpluralism in the United States. Alternative medical practices are examined in the context of class, race, gender, ethnicity and power within the larger structure of the dominant health care system in America. Recommended prerequisite: WR 121. Credits: 4 Lecture: 4",
+      "institution": "Central Oregon Community College"
+    },
+    {
+      "course_id": "AH 299",
+      "course_title": "Selected Topics: Alied Healt h",
+      "credits": "4.00",
+      "description": "Credits: 1 to 4",
+      "institution": "Central Oregon Community College"
+    },
+    {
+      "course_id": "ANTH 102",
+      "course_title": "Archaeology",
+      "credits": "4.00",
+      "description": "Provides an introduction to archaeological method and theory along with a survey of human world prehistory through the rise of great civilizations. Topics include archaeological concepts, survey, excavation, analysis and interpretation of data, dating techniques, research methods, and theories of cultural change. Offered spring term. Credits: 4 Lecture: 4",
+      "institution": "Central Oregon Community College"
+    },
+    {
+      "course_id": "ANTH 103",
+      "course_title": "Cultural Anthropology",
+      "credits": "4.00",
+      "description": "Provides an introduction to the diversity of human beliefs and behaviors around the world. Explores cross cultural similarities and differences in systems of values, family, religion, economics, politics, and social structure, including issues of race and ethnicity. The goals of this course are to foster an appreciation of cultural diversity, to use this appreciation to better understand the student's culture(s), and to learn to be active and aware participants of local and global communities. Offered fall and winter term. Credits: 4 Lecture: 4",
+      "institution": "Central Oregon Community College"
+    },
+    {
+      "course_id": "ANTH 141",
+      "course_title": "Film & Society: Race, Gender, And Class",
+      "credits": "2.00",
+      "description": "Examines the representation of race, social class, and gender in film. Special attention is given to how particular representations reflect the broader historical context surrounding when the films were produced and culturally based audience sentiments. Anthropological and sociological analyses of the films will be provided to give a multi-disciplinary account of how films reflect, create and support various ideological positions regarding race, class and gender. Offered spring term. Credits: 2 Lecture: 1 Lab: 3",
+      "institution": "Central Oregon Community College"
+    }
+  ],
+  "timestamp": "2025-08-09T21:18:52.775102"
+}

@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Chesapeake College",
+    "successful_variation": "Chesapeake College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Chesapeake+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACC 003",
+      "course_title": "Principles of Accounting I",
+      "credits": "2.00",
+      "description": "Designed for those students who have completed the beginning Principles of Accounting I course competencies in high school. Topics include accounting for inventories and other current assets, plant assets, current and long-term liabilities, and time value of money concepts. Successful completion will allow the student to articulate credit toward ACC 103. Two hours lecture per week. [AS NEEDED] 0 credits PREREQUISITE: Successful completion of beginning ACC 103 course competencies in high school.",
+      "institution": "Chesapeake College"
+    },
+    {
+      "course_id": "ACC 105",
+      "course_title": "Personal Income Tax",
+      "credits": "3.00",
+      "description": "An analysis of federal taxation. Topics will include federal taxation as it relates to individuals, partnerships, and corporations, and the use of federal and state forms. Three hours lecture per week. [FALL] 3 credits",
+      "institution": "Chesapeake College"
+    },
+    {
+      "course_id": "ACC 106",
+      "course_title": "Corporate Tax",
+      "credits": "3.00",
+      "description": "An advanced study of federal taxes. Emphasis will be placed on federal taxes involving corporations, and state and local taxes. Three hours lecture per week. [SPRING] 3 credits PREREQUISITE: ACC 103, ACC 105.",
+      "institution": "Chesapeake College"
+    },
+    {
+      "course_id": "ACC 110",
+      "course_title": "Computerized Accounting",
+      "credits": "3.00",
+      "description": "An introductory course into the use of commercial accounting software. Students will use a hands-on approach to carry out accounting functions on a computer. Topics will include sales, receivables, purchases, payables and payroll. Three hours lecture per week. [SPRING] 3 credits",
+      "institution": "Chesapeake College"
+    },
+    {
+      "course_id": "ACC 203",
+      "course_title": "Intermediate Accounting I",
+      "credits": "3.00",
+      "description": "An in-depth study of the nature and values of a firm's cash and temporary investments, receivables, inventories, long-term investments, tangible fixed assets, and intangible assets. Emphasis is given to the measurement of financial income in accordance with generally accepted accounting principles. Three hours lecture per week. [FALL] 3 credits PREREQUISITE: ACC 104.",
+      "institution": "Chesapeake College"
+    },
+    {
+      "course_id": "ACC 204",
+      "course_title": "Intermediate Accounting II",
+      "credits": "3.00",
+      "description": "An in-depth study of the special accounting problems of corporate organizations. Areas such as stockholder's equity and long-term debt sections of the balance sheet will be emphasized. Other topics include funds flow, income tax allocation, consignments, installment sales, and financial statement analysis. Three hours lecture per week. [SPRING] 3 credits PREREQUISITE: ACC 203.",
+      "institution": "Chesapeake College"
+    },
+    {
+      "course_id": "ACC 205",
+      "course_title": "Cost Accounting",
+      "credits": "3.00",
+      "description": "A study of cost accounting. Topics include cost accounting fundamentals, budgets and standards, cost allocation, and cost systems. Three hours lecture per week. [FALL] 3 credits PREREQUISITE: ACC 104.",
+      "institution": "Chesapeake College"
+    },
+    {
+      "course_id": "ACC 206",
+      "course_title": "Auditing",
+      "credits": "3.00",
+      "description": "A study of the audit function. Topics include planning the audit, auditor consideration of internal controls, substantive testing, reporting and audit sampling. Emphasis is also placed on professional ethics and auditor legal liability. Three hours lecture per week. [SPRING] 3 credits PREREQUISITE: ACC 104.",
+      "institution": "Chesapeake College"
+    },
+    {
+      "course_id": "ACC 212",
+      "course_title": "Governmental and Not-For-Profit Accounting",
+      "credits": "3.00",
+      "description": "An introduction to governmental and not-for-profit accounting. Topics include financial reporting, principles of accounting for state and local governments, budgetary accounting, capital project funds, debt service funds, and fiduciary activities. Three hours lecture per week. [SPRING] 3 credits PREREQUISITE: ACC 103, 104.",
+      "institution": "Chesapeake College"
+    },
+    {
+      "course_id": "ACH 100",
+      "course_title": "Architectural Drawing I/CAD",
+      "credits": "3.00",
+      "description": "An introductory course in basic architectural drafting and design using computer-aided drafting techniques. Floor plans, elevations, plot plans and detail drawings will be prepared. PC-based AutoCAD software is used in this course. Two hours lecture, two hours laboratory per week. [SPRING] 3 credits PREREQUISITE: CAD 100.",
+      "institution": "Chesapeake College"
+    }
+  ],
+  "timestamp": "2025-08-10T06:13:47.572739"
+}

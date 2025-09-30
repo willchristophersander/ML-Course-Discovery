@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Drexel University",
+    "successful_variation": "Drexel University",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Drexel+University&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACCT 115",
+      "course_title": "Financial Accounting Foundations",
+      "credits": "4.00",
+      "description": "Introduces preparation of the income statement and the balance sheet. Covers analysis and recording of business transactions and a detailed study of accounting for assets, liabilities, and equity.",
+      "institution": "Drexel University"
+    },
+    {
+      "course_id": "ACCT 116",
+      "course_title": "Managerial Accounting Foundations",
+      "credits": "4.00",
+      "description": "Introduces the managerial accounting tools and models available for planning, controlling, and decision-making. Covers budgeting, product costing, and analysis of financial statements for internal purposes. Prerequisite: ACCT 115 [Min Grade: D]",
+      "institution": "Drexel University"
+    },
+    {
+      "course_id": "ACCT 120",
+      "course_title": "Accounting Essentials for New Ventures",
+      "credits": "4.00",
+      "description": "The course covers essential accounting topics specific to new entrepreneurial ventures. Topics include: Financial Statement, cash flow issues, cost accounting, tax calculations, and choice of business entity.",
+      "institution": "Drexel University"
+    },
+    {
+      "course_id": "ACCT 195",
+      "course_title": "Financial Accounting 115 Practicum",
+      "credits": "0.50",
+      "description": "The course provides students with tools and resources to supplement the Financial Accounting Foundations course, ACCT 115, an essential course for success in most business programs of study. The Financial Accounting 115 Practicum course will provide a variety of study strategies and employ various skill development exercises to assist the student in improving their understanding of financial accounting and assimilating fundamental learning competencies.",
+      "institution": "Drexel University"
+    },
+    {
+      "course_id": "ACCT 196",
+      "course_title": "Managerial Accounting 116 Practicum",
+      "credits": "0.50",
+      "description": "The course provides students with tools and resources to supplement the Managerial Accounting Foundations course, ACCT 116, an essential course for success in most business programs of study. The Managerial Accounting 116 Recitation course will provide a variety of study strategies and employ various skill development exercises to assist the student in improving their understanding of managerial accounting and assimilating fundamental learning competencies.",
+      "institution": "Drexel University"
+    },
+    {
+      "course_id": "ACCT 320",
+      "course_title": "Fundamentals of Accounting for New Ventures",
+      "credits": "4.00",
+      "description": "This course helps students develop an understanding of the key elements of designing an accounting system and support policies and procedures for a new business venture. Prerequisite: ACCT 115 [Min Grade: C] and ACCT 116 [Min Grade: C]",
+      "institution": "Drexel University"
+    },
+    {
+      "course_id": "ACCT 321",
+      "course_title": "Financial Reporting I",
+      "credits": "4.00",
+      "description": "Provides intensive review of current accounting practice in light of authoritative pronouncements and critical study of theory and practice relating to preparing financial statements. Prerequisite: ACCT 115 [Min Grade: C]",
+      "institution": "Drexel University"
+    },
+    {
+      "course_id": "ACCT 322",
+      "course_title": "Financial Reporting II",
+      "credits": "4.00",
+      "description": "Continues critical study of accounting theory and practice relating to financial statement items and selected accounting topics. Prerequisite: ACCT 321 [Min Grade: C]",
+      "institution": "Drexel University"
+    },
+    {
+      "course_id": "ACCT 323",
+      "course_title": "Financial Reporting III",
+      "credits": "4.00",
+      "description": "Covers theory and practice relating to advanced accounting topics, with emphasis on consolidated financial statements. Prerequisite: ACCT 322 [Min Grade: C]",
+      "institution": "Drexel University"
+    },
+    {
+      "course_id": "ACCT 329",
+      "course_title": "Advanced Accounting",
+      "credits": "4.00",
+      "description": "Study of theory and practice related to advanced accounting topics. Prerequisite: ACCT 323 [Min Grade: C]",
+      "institution": "Drexel University"
+    }
+  ],
+  "timestamp": "2025-08-09T20:39:32.835214"
+}

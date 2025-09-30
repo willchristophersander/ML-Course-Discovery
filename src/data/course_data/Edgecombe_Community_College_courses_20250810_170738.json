@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Edgecombe Community College",
+    "successful_variation": "Edgecombe Community College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Edgecombe+Community+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACA 090",
+      "course_title": "Study Skills",
+      "credits": "3.00",
+      "description": "No Pre/Corequisites This course is intended for those who placed into credit-level course work but who are not maintaining satisfactory academic progress toward meeting program goals. Topics include study skills, note taking, learning styles and strategies, test taking, goal setting, and self-assessment skills. Upon completion, students should be able to manage their learning experiences to successfully meet educational goals.",
+      "institution": "Edgecombe Community College"
+    },
+    {
+      "course_id": "ACA 111",
+      "course_title": "College Student Success",
+      "credits": "3.00",
+      "description": "No Pre/Corequisites This course introduces the college's physical, academic, and social environment and promotes the personal development essential for success. Topics include campus facilities and resources; policies, procedures, and programs; study skills; and life management issues such as health, self-esteem, motivation, goal-setting, diversity, and communication. Upon completion, students should be able to function effectively within the college environment to meet their educational objectives.",
+      "institution": "Edgecombe Community College"
+    },
+    {
+      "course_id": "ACC 120",
+      "course_title": "Principles of Financial Accounting",
+      "credits": "3.00",
+      "description": "Prerequisite: MAT 060 This course introduces business decision-making accounting information systems. Emphasis is placed on analyzing, summarizing, reporting, and interpreting financial information. Upon completion, students should be able to prepare financial statements, understand the role of financial information in decision-making and address ethical considerations. This course has been approved to satisfy the Comprehensive Articulation Agreement pre-major and/or elective course requirement.",
+      "institution": "Edgecombe Community College"
+    },
+    {
+      "course_id": "ACC 121",
+      "course_title": "Principles of Managerial Accounting",
+      "credits": "3.00",
+      "description": "Prerequisite: ACC 120 This course includes a greater emphasis on managerial and cost accounting skills. Emphasis is placed on managerial accounting concepts for external and internal analysis, reporting and decision-making. Upon completion, students should be able to analyze and interpret transactions relating to managerial concepts including product-costing systems. This course has been approved to satisfy the Comprehensive Articulation Agreement pre-major and/or elective course requirement.",
+      "institution": "Edgecombe Community College"
+    },
+    {
+      "course_id": "ACC 122",
+      "course_title": "Principles of Financial Accounting II",
+      "credits": "3.00",
+      "description": "Prerequisite: ACC 120 This course provides additional instruction in the financial accounting concepts and procedures introduced in ACC 120. Emphasis is placed on the analysis of specific balance sheet accounts, with in-depth instruction of the accounting principles applied to these accounts. Upon completion, students should be able to analyze data, prepare journal entries, and prepare reports in compliance with generally accepted accounting principles.",
+      "institution": "Edgecombe Community College"
+    },
+    {
+      "course_id": "ACC 131",
+      "course_title": "Federal Income Taxes",
+      "credits": "3.00",
+      "description": "No Pre/Corequisites This course provides an overview of federal income taxes for individuals, partnerships, and corporations. Topics include tax law, electronic research and methodologies and the use of technology for the preparation of individual and business tax returns. Upon completion, students should be able to analyze basic tax scenarios, research applicable tax laws, and complete federal tax returns for individuals, partnerships, and corporations.",
+      "institution": "Edgecombe Community College"
+    },
+    {
+      "course_id": "ACC 140",
+      "course_title": "Payroll Accounting",
+      "credits": "3.00",
+      "description": "Prerequisite: ACC 115 or ACC 120 This course covers federal and state laws pertaining to wages, payroll taxes, payroll tax forms, and journal and general ledger transactions. Emphasis is placed on computing wages; calculating social security, income, and unemployment taxes; preparing appropriate payroll tax forms; and journalizing/posting transactions. Upon completion, students should be able to analyze data, make appropriate computations, complete forms, and prepare accounting entries using appropriate technology.",
+      "institution": "Edgecombe Community College"
+    },
+    {
+      "course_id": "ACC 149",
+      "course_title": "Intro to Accounting Spreadsheets",
+      "credits": "3.00",
+      "description": "Prerequisite: ACC 115 or ACC 120 This course provides a working knowledge of computer spreadsheets and their use in accounting. Topics include pre-programmed problems, model-building problems, beginning-level macros, graphics, and what-if analysis enhancements of template problems. Upon completion, students should be able to use a computer spreadsheet to complete many of the tasks required in accounting.",
+      "institution": "Edgecombe Community College"
+    },
+    {
+      "course_id": "ACC 150",
+      "course_title": "Accounting Software Applications",
+      "credits": "3.00",
+      "description": "Prerequisite: ACC 115 or ACC 120 This course introduces microcomputer applications related to accounting systems. Topics include general ledger, accounts receivable, accounts payable, inventory, payroll, and correcting, adjusting, and closing entries. Upon completion, students should be able to use a computer accounting package to solve accounting problems.",
+      "institution": "Edgecombe Community College"
+    },
+    {
+      "course_id": "ACC 151",
+      "course_title": "Accounting Spreadsheet Applications",
+      "credits": "3.00",
+      "description": "Prerequisite: ACC 149 This course is designed to facilitate the use of spreadsheet technology as applied to accounting principles. Emphasis is placed on using spreadsheet software as a problem-solving and decision-making tool. Upon completion, students should be able to demonstrate an understanding of the principles involved and display an analytical problem-solving ability for the topics covered.",
+      "institution": "Edgecombe Community College"
+    }
+  ],
+  "timestamp": "2025-08-10T17:07:38.327919"
+}

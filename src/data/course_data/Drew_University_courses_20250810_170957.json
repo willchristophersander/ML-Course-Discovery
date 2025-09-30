@@ -1,0 +1,60 @@
+{
+  "search_query": {
+    "institution": "Drew University",
+    "successful_variation": "Drew University",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Drew+University&distance=5"
+  },
+  "total_results": 7,
+  "courses": [
+    {
+      "course_id": "ANTH 101",
+      "course_title": "Archaeological Method and Theory",
+      "credits": "4.00",
+      "description": "Archaeology relies on a body of theories and methods for reading human prehistory from the incomplete record left by past cultures. This course offers a counterpoint to ANTH 12/Prehistory in examining how questions asked by archaeologists are addressed. Topics include techniques of excavation and artifact analysis and the major theoretical approaches to archaeological inference. The course is divided between lecture and laboratory sessions in which students analyze archaeological data. Prerequisite: ANTH 3. Offered fall semester.",
+      "institution": "Drew University"
+    },
+    {
+      "course_id": "ANTH 102",
+      "course_title": "Ethnographic Research Methods",
+      "credits": "4.00",
+      "description": "A graduated course offering an introduction to qualitative work in cultural anthropology-participant-observation, ethnographic interviewing, and the roles of surveys and questionnaires. Writing a research proposal and conducting in-situ work on the Drew campus form the core of assignments. Prerequisite: ANTH 4 or permission of instructor. Offered spring semester.",
+      "institution": "Drew University"
+    },
+    {
+      "course_id": "ANTH 113",
+      "course_title": "Psychological Anthropology",
+      "credits": "4.00",
+      "description": "A study of the interrelationships of biological, cultural, and psychological factors affecting personality and behavior with emphasis on states of consciousness from the perspectives of ethnopsychology. Prerequisite: ANTH 4 and junior or senior standing, or permission of instructor. Offered spring semester.",
+      "institution": "Drew University"
+    },
+    {
+      "course_id": "ANTH 119",
+      "course_title": "Religions of Africa",
+      "credits": "4.00",
+      "description": "An introduction to the basic themes within the traditional religions of Africa, including the nature of God, the significance of creation myths, the role of ancestors, the importance of religious leaders, and the problem of evil, sickness, and death. Explores the problematic Christian encounter with African religions, the Semitic connection and African Islam, and the role and function of the Independent African-Christian Churches. Offering to be determined.",
+      "institution": "Drew University"
+    },
+    {
+      "course_id": "ANTH 124",
+      "course_title": "Human Osteology",
+      "credits": "4.00",
+      "description": "A study of human skeletal biology and bioarcheology. The purpose of the course is to familiarize students with the bones and anatomical landmarks of the human skeleton and how stress, disease, injury, and lifestyle affect them. The course includes some instruction in paleopathology and forensic anthropology, with laboratory exercises providing direct examination of skeletal material. Prerequisite: ANTH 3 or permission of instructor. Offered fall semester.",
+      "institution": "Drew University"
+    },
+    {
+      "course_id": "ANTH 125",
+      "course_title": "Medical Anthropology",
+      "credits": "4.00",
+      "description": "The cross-cultural study of health and healing in ecological, evolutionary, and political-economic perspectives. Surveys cultural differences in health, reproduction, nutrition, disease ecology, medical systems, and mortality. Also considers the evolution of human disease and the efficacy of different medical systems. Prerequisite: ANTH 4 or permission of instructor. Offered fall semester.",
+      "institution": "Drew University"
+    },
+    {
+      "course_id": "ANTH 126",
+      "course_title": "Evolution and Human Behavior",
+      "credits": "4.00",
+      "description": "A study of the basic principles of evolutionary theory as applied to the study of human social behavior. The course examines competing views on the importance of biology for understanding human behavior and considers the relationship between genes and culture. Prerequisite: ANTH 3 or permission of instructor. Offered spring semester in even-numbered years.",
+      "institution": "Drew University"
+    }
+  ],
+  "timestamp": "2025-08-10T17:09:57.246855"
+}

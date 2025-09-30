@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Golden Gate University",
+    "successful_variation": "Golden Gate University",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Golden+Gate+University&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACCTG 100A",
+      "course_title": "Intermediate Accounting I",
+      "credits": "3.00",
+      "description": "Examines current pronouncements and practical applications. You will read, discuss and implement the most current accounting requirements as prescribed in the FASB statements and other current accounting pronouncements. Topics include statement presentation, required disclosures, in-depth study of current assets, the time value of money, inventories and problem solving using computer spreadsheets. Prerequisites: Undergraduate students, ACCTG 1A and MATH 20; Masters of Accountancy students, ACCTG 50. A knowledge of spreadsheets is recommended.",
+      "institution": "Golden Gate University"
+    },
+    {
+      "course_id": "ACCTG 100B",
+      "course_title": "Intermediate Accounting II",
+      "credits": "3.00",
+      "description": "Continues intermediate accounting with an emphasis on current pronouncements and practical applications. You will read, discuss and implement the most current accounting requirements as prescribed in the FASB statements and other current accounting pronouncements. Topics include plant and equipment, intangible assets, current liabilities, long-term debt, stockholders' equity, investments, and problem solving using computer spreadsheets. Prerequisite: ACCTG 100A.",
+      "institution": "Golden Gate University"
+    },
+    {
+      "course_id": "ACCTG 100C",
+      "course_title": "Intermediate Accounting III",
+      "credits": "3.00",
+      "description": "Continues intermediate accounting with an emphasis on current pronouncements and practical applications. You will read, discuss and implement the most current accounting requirements as prescribed in the FASB statements and other current accounting pronouncements. Topics include earnings per share, leases, pensions, deferred taxes, accounting changes, statement of cash flows, financial statement analysis, full disclosure and problem solving using computer spreadsheets. Professional writing is emphasized through various assignments. This course is required for students in the BS in accounting and the MBA with a concentration in accounting degree programs. Master of accountancy students must take ACCTG 305. Prerequisite: ACCTG 100B.",
+      "institution": "Golden Gate University"
+    },
+    {
+      "course_id": "ACCTG 103",
+      "course_title": "Advanced Accounting: Consolidations",
+      "credits": "3.00",
+      "description": "Presents advanced accounting topics related to partnerships; simple and complex business combinations; foreign operations including consolidation into US GAAP financial statements; and accounting issues related to the formation, consolidation and liquidation of corporations. Prerequisite: ACCTG 100C.",
+      "institution": "Golden Gate University"
+    },
+    {
+      "course_id": "ACCTG 104",
+      "course_title": "Governmental and Not- for- Profit Accounting",
+      "credits": "3.00",
+      "description": "Focuses on accounting theory, techniques and reporting requirements for local governmental units, colleges and universities, healthcare providers, voluntary health and welfare organizations, and other notfor- profits. Prerequisite: ACCTG 100C.",
+      "institution": "Golden Gate University"
+    },
+    {
+      "course_id": "ACCTG 105",
+      "course_title": "Cost Management",
+      "credits": "3.00",
+      "description": "Surveys the methods and procedures used in determining cost for manufacturing, including cost-volume-profit relationships, costing systems in the manufacturing and merchandising sectors, process and job costing, master and flexible budgeting, variances and responsibility accounting, and allocation of overhead. Prerequisites: ACCTG 1A or ACCTG 201, and MATH 20.",
+      "institution": "Golden Gate University"
+    },
+    {
+      "course_id": "ACCTG 106",
+      "course_title": "Strategic Uses of Accounting Information",
+      "credits": "3.00",
+      "description": "Examines advanced cost accounting techniques including decisionmaking theory and problem solving using computer spreadsheets. Topics include budgets, standard costs, distribution costs and direct costing. Prerequisite: ACCTG 105.",
+      "institution": "Golden Gate University"
+    },
+    {
+      "course_id": "ACCTG 108A",
+      "course_title": "Federal Income Tax I",
+      "credits": "3.00",
+      "description": "Introduces federal taxation for individuals. You will study taxable income, gross income exclusions and inclusions, capital gains, depreciation, business and itemized deductions, personal exemptions, passive activity losses, tax credits and methods of accounting. This course is required for students in the BS in accounting and the MBA with a concentration in accounting degree programs. Master of accountancy students must take ACCTG 360. Prerequisite: ACCTG 1A. Students who have passed the Enrolled Agents Exam are not required to take this course; another upper division accounting course must be substituted for those students in the bachelor's degree program. Satisfies part of the educational requirements to sit for the CFP",
+      "institution": "Golden Gate University"
+    },
+    {
+      "course_id": "ACCTG 108B",
+      "course_title": "Federal Income Tax II",
+      "credits": "3.00",
+      "description": "Introduces taxation of installment and deferred payment sales, partnership taxation, income taxation of estates and trusts, corporations (\"S\" and \"C\"), and other specialized corporate tmatters. Prerequisite: ACCTG 108A.",
+      "institution": "Golden Gate University"
+    },
+    {
+      "course_id": "ACCTG 108C",
+      "course_title": "Tax Strategy and Research",
+      "credits": "3.00",
+      "description": "Examines advanced topics through research of California and federal taxation. Prerequisite: ACCTG 108B.",
+      "institution": "Golden Gate University"
+    }
+  ],
+  "timestamp": "2025-08-11T00:12:15.787786"
+}

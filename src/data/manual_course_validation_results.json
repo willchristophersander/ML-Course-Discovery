@@ -1,0 +1,33 @@
+[
+  {
+    "valid": true,
+    "search_page_url": "https://classes.berkeley.edu/",
+    "course_info": {
+      "name": "Introduction to Computer Science",
+      "code": "CS101",
+      "college": "University of California Berkeley"
+    },
+    "course_found": true,
+    "message": "Course search page validated successfully"
+  },
+  {
+    "valid": false,
+    "error": "No search forms found",
+    "search_page_url": "https://globalsearch.cuny.edu/",
+    "course_info": {
+      "name": "Calculus I",
+      "code": "MATH 201",
+      "college": "CUNY"
+    }
+  },
+  {
+    "valid": false,
+    "error": "No working search forms found",
+    "search_page_url": "https://go.illinois.edu/courseexplorer",
+    "course_info": {
+      "name": "Physics for Scientists and Engineers",
+      "code": "PHYS 211",
+      "college": "University of Illinois"
+    }
+  }
+]

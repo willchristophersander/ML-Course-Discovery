@@ -1,0 +1,58 @@
+{
+  "timestamp": "2025-08-09T20:03:48.805286",
+  "analysis": {
+    "total_universities": 2,
+    "discovery_success_rate": 0.5,
+    "avg_discovery_confidence": 0.935,
+    "ct_availability_rate": 0.5,
+    "colleges_with_ct_courses": 1,
+    "validation_success_rate": 1.0,
+    "avg_validation_confidence": 0.2,
+    "course_finding_rate": 0.4,
+    "avg_discovery_time": 46.92777943611145,
+    "avg_validation_time": 1.2326719760894775,
+    "successful_discoveries": [
+      {
+        "university": "Colorado Mesa University",
+        "url": "https://classes.colorado.edu/",
+        "discovery_confidence": 0.935,
+        "validation_confidence": 0.2,
+        "courses_found": "2/5"
+      }
+    ],
+    "failed_discoveries": [
+      {
+        "university": "Clover Park Technical College",
+        "error": "Page.click: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"a[href='https://www.cptc.edu/programs/search']\")\n    - locator resolved to <a href=\"https://www.cptc.edu/programs/search\">Program Search</a>\n  - attempting click action\n    2 \u00d7 waiting for element to be visible, enabled and stable\n      - element is not visible\n    - retrying click action\n    - waiting 20ms\n    2 \u00d7 waiting for element to be visible, enabled and stable\n      - element is not visible\n    - retrying click action\n      - waiting 100ms\n    58 \u00d7 waiting for element to be visible, enabled and stable\n       - element is not visible\n     - retrying click action\n       - waiting 500ms\n"
+      }
+    ]
+  },
+  "detailed_results": [
+    {
+      "university_name": "Clover Park Technical College",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "Page.click: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"a[href='https://www.cptc.edu/programs/search']\")\n    - locator resolved to <a href=\"https://www.cptc.edu/programs/search\">Program Search</a>\n  - attempting click action\n    2 \u00d7 waiting for element to be visible, enabled and stable\n      - element is not visible\n    - retrying click action\n    - waiting 20ms\n    2 \u00d7 waiting for element to be visible, enabled and stable\n      - element is not visible\n    - retrying click action\n      - waiting 100ms\n    58 \u00d7 waiting for element to be visible, enabled and stable\n       - element is not visible\n     - retrying click action\n       - waiting 500ms\n",
+      "discovery_time": 63.14405798912048,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "Colorado Mesa University",
+      "discovered_url": "https://classes.colorado.edu/",
+      "discovery_success": true,
+      "discovery_confidence": 0.935,
+      "validation_success": true,
+      "validation_confidence": 0.2,
+      "test_courses_found": 2,
+      "total_test_courses": 5,
+      "error_message": null,
+      "discovery_time": 30.711500883102417,
+      "validation_time": 2.465343952178955
+    }
+  ]
+}

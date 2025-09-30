@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Marshalltown Community College",
+    "successful_variation": "Marshalltown Community College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Marshalltown+Community+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACC 111",
+      "course_title": "Introduction to Accounting",
+      "credits": "3.00",
+      "description": "STANDARD CREDIT TYPE Fundamental accounting principles, cash control, payroll accounting, notes and interest, accruals, financial records, and end-of-theaccounting- period procedures.",
+      "institution": "Marshalltown Community College"
+    },
+    {
+      "course_id": "ACC 112",
+      "course_title": "Intro to Accounting II",
+      "credits": "3.00",
+      "description": "Prerequisite: ACC111 STANDARD CREDIT TYPE Provides an advanced understanding and application of accounting concepts in business and personal applications.",
+      "institution": "Marshalltown Community College"
+    },
+    {
+      "course_id": "ACC 122",
+      "course_title": "Principles of Accounting II",
+      "credits": "3.00",
+      "description": "Prerequisite: ACC121 STANDARD CREDIT TYPE Managerial accounting based on analysis and reports; cost procedures; departmental accounting; financial reporting analysis; planning and control; decision-making.",
+      "institution": "Marshalltown Community College"
+    },
+    {
+      "course_id": "ACC 161",
+      "course_title": "Payroll Accounting",
+      "credits": "3.00",
+      "description": "STANDARD CREDIT TYPE Numerous federal, state, and local laws affecting the payroll system of business firms. Students will complete the necessary payroll forms and deal with federal income taxes.",
+      "institution": "Marshalltown Community College"
+    },
+    {
+      "course_id": "ACC 211",
+      "course_title": "Intermediate Accounting I",
+      "credits": "3.00",
+      "description": "Prerequisite: ACC122 STANDARD CREDIT TYPE Analysis of and theories regarding financial and operating statements for proprietorships, partnerships, and corporations; a study of areas of accrual basis accounting, inventories, contingencies, present value analysis, plant asset accounting, current and long-term liabilities, and general required financial statement disclosures.",
+      "institution": "Marshalltown Community College"
+    },
+    {
+      "course_id": "ACC 212",
+      "course_title": "Intermediate Accounting II",
+      "credits": "3.00",
+      "description": "Prerequisite: ACC211 STANDARD CREDIT TYPE Continuation of accounting theory and applications in the specific areas of equity transaction, investments, revenue recognition, income taxes for corporate reporting, pension accounting, leases, and financial statement values. Detailed review of the preparation of the statement of cash flows.",
+      "institution": "Marshalltown Community College"
+    },
+    {
+      "course_id": "ACC 221",
+      "course_title": "Cost Accounting",
+      "credits": "3.00",
+      "description": "Prerequisite: ACC122 STANDARD CREDIT TYPE Process cost; job-order cost; activity base costing; materials, labor and manufacturing expenses; and application of costs to the product.",
+      "institution": "Marshalltown Community College"
+    },
+    {
+      "course_id": "ACC 261",
+      "course_title": "Income Tax Accounting",
+      "credits": "3.00",
+      "description": "Prerequisite: ACC122 STANDARD CREDIT TYPE Primarily individual taxes on the federal level, general review of tax theory for individuals, income tax calculations, and limited form preparation.",
+      "institution": "Marshalltown Community College"
+    },
+    {
+      "course_id": "ACC 311",
+      "course_title": "Computer Accounting",
+      "credits": "3.00",
+      "description": "Prerequisite: ACC121 or instructor's approval STANDARD CREDIT TYPE Integrated accounting on microcomputers. Manual versus computerized accounting. Initial start-up and system selection. Computerized: General ledger, accounts payable, accounts receivable, depreciation, payroll, financial statement analysis, and inventory.",
+      "institution": "Marshalltown Community College"
+    },
+    {
+      "course_id": "ACC 907",
+      "course_title": "Co-op Field Experience",
+      "credits": "3.00",
+      "description": "STANDARD CREDIT TYPE Individually designed job experience/related assignment.",
+      "institution": "Marshalltown Community College"
+    }
+  ],
+  "timestamp": "2025-09-29T01:48:19.387510"
+}

@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Enterprise State Community College",
+    "successful_variation": "Enterprise State Community College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Enterprise+State+Community+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACC 129",
+      "course_title": "Individual Income Taxes",
+      "credits": "3.00",
+      "description": "This course introduces the relevant laws governing individual income taxation. Emphasis is placed on filing status, exemptions for dependents, gross income, adjustments, deductions, and computation of tax. Upon completion students should be able to complete various tax forms pertaining to the topics covered in the course.",
+      "institution": "Enterprise State Community College"
+    },
+    {
+      "course_id": "ACC 140",
+      "course_title": "Payroll Accounting",
+      "credits": "2.00",
+      "description": "PREREQUISITE: BUS 241. This course covers federal and state laws pertaining to wages, payroll taxes, payroll tax forms, and journal and general ledger transactions. Emphasis is placed on computing wages, preparing appropriate payroll tax forms, and journalizing/posting transactions. Upon completion students should be able to analyze data, make appropriate computations, complete forms, and prepare accounting entries.",
+      "institution": "Enterprise State Community College"
+    },
+    {
+      "course_id": "ACC 149",
+      "course_title": "Introduction to Accounting Spreadsheets",
+      "credits": "3.00",
+      "description": "PREREQUISITE: BUS 241. This course provides a working knowledge of computer spreadsheets and their use in accounting. Topics include pre-programmed problems, model-building problems, beginning-level macros, graphics, and what-if analysis enhancements of template problems. Upon completion students should be able to use a computer spreadsheet to complete many of the tasks required in accounting.",
+      "institution": "Enterprise State Community College"
+    },
+    {
+      "course_id": "ACC 150",
+      "course_title": "Computerized General Ledger",
+      "credits": "2.00",
+      "description": "PREREQUISITE: BUS 241. This course introduces microcomputer applications related to the major accounting systems. Topics include general ledger, accounts receivable, accounts payable, inventory, payroll, and correcting, adjusting, and closing entries. Upon completion students should be able to use a computer accounting package to solve accounting problems.",
+      "institution": "Enterprise State Community College"
+    },
+    {
+      "course_id": "AMP 120",
+      "course_title": "Engine Theory And Propellers",
+      "credits": "5.00",
+      "description": "PREREQUISITES: AMT 100, AMT 101, and AMT 102. This course provides an overview of the theory, construction, and operation of aircraft reciprocating engines and the physical laws and characteristics governing propeller operation. Gaining a basic understanding of reciprocating engines and fixed and variable pitch propellers is emphasized. Upon completion students should understand the inspection, service, and repair requirements of reciprocating engines; be able to demonstrate an understanding of propeller fundamentals; and remove, troubleshoot, and install propellers.",
+      "institution": "Enterprise State Community College"
+    },
+    {
+      "course_id": "AMP 121",
+      "course_title": "Reciprocating Engine Systems",
+      "credits": "5.00",
+      "description": "PREREQUISITES: AMT 100, AMT 101, and AMT 102. This course focuses on the inspection, troubleshooting, and repair of reciprocating engine systems. Inspection, troubleshooting, and repair of ignition systems, fuel and induction systems, lubrication systems, and cooling and exhaust systems are emphasized. Upon completion students should be able to inspect, service, troubleshoot, and repair ignition, lubrication, fuel, induction, and cooling and exhaust systems.",
+      "institution": "Enterprise State Community College"
+    },
+    {
+      "course_id": "AMP 122",
+      "course_title": "Reciprocating Engine Overhaul",
+      "credits": "5.00",
+      "description": "PREREQUISITES: AMT 100, AMT 101, and AMT 102. This course is a study of theory, construction, operation, and timing mechanisms associated with aircraft reciprocating powerplants. It emphasizes overhauling a reciprocating engine, to include disassembly, cleaning, measuring, inspecting, reassembly, and troubleshooting in accordance with appropriate FAA and manufacturers' regulations and practices. Upon completion students should be able to overhaul a reciprocating engine.",
+      "institution": "Enterprise State Community College"
+    },
+    {
+      "course_id": "AMP 123",
+      "course_title": "Reciprocating Engine Inspections",
+      "credits": "5.00",
+      "description": "PREREQUISITES: AMT 100, AMT 101, and AMT 102. This course is a study of engine instruments, electrical systems, and ignition systems as well as a study of aircraft powerplant inspections. Theory of operation of these systems, analysis of system performance and faults, interpretations of instrument indications, and the performance of powerplant conformity and airworthiness inspections are emphasized. Upon completion students should be able to read and interpret instrument readings, analyze faults in instruments and electrical and ignition systems, and perform conformity and airworthiness inspections of reciprocating engines.",
+      "institution": "Enterprise State Community College"
+    },
+    {
+      "course_id": "AMP 124",
+      "course_title": "Turbine Engine Theory And Inspections",
+      "credits": "5.00",
+      "description": "PREREQUISITES: AMT 100, AMT 101, and AMT 102. This course introduces the turbine engine. Turbine engine development, application, theory, components, materials and construction, and operating and power extraction principles are emphasized. Upon completion students should be able to explain turbine engine theory and operating principles, describe procedures for 100-hour and borescope inspections, and perform a hot section inspection by disassembling and reassembling a turbine engine.",
+      "institution": "Enterprise State Community College"
+    },
+    {
+      "course_id": "AMP 125",
+      "course_title": "Turbine Engine Systems Overhaul",
+      "credits": "5.00",
+      "description": "PREREQUISITES: AMT 100, AMT 101, and AMT 102. This course provides a study of turbine engine systems. Starter, ignition, anti-ice, fire detection, and fire extinguishing systems are emphasized. Upon completion students should be able to troubleshoot and repair turbine engine systems, remove and install engines in test cells and airframes, explain engine analysis and troubleshooting techniques, and describe correct procedures for rigging and running a turbine engine.",
+      "institution": "Enterprise State Community College"
+    }
+  ],
+  "timestamp": "2025-08-10T09:41:04.649494"
+}

@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "College of Alameda",
+    "successful_variation": "College of Alameda",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=College+of+Alameda&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ADAM 101",
+      "course_title": "Apparel Textiles",
+      "credits": "2.00",
+      "description": "2 units, 2 hours lecture (GR or CR/NC) Acceptable for credit: CSU, UC Introduction to the components of fabrics: Emphasis on the composition and relationship of fibers, yarns, construction, and finishes used in the creation of apparel textiles. 1303.10",
+      "institution": "College of Alameda"
+    },
+    {
+      "course_id": "ADAM 103",
+      "course_title": "Apparel History",
+      "credits": "2.00",
+      "description": "2 units, 2 hours lecture (GR or CR/NC) Acceptable for credit: CSU Overview of ethnic and fashion apparel history: Emphasis on historic costume as a source of influence and inspiration to the clothing of current as well as past cultures. 1303.10",
+      "institution": "College of Alameda"
+    },
+    {
+      "course_id": "ADAM 210A",
+      "course_title": "Millinery",
+      "credits": "2.00",
+      "description": "3 units, 2 hours lecture, 4 hours laboratory (GR or CR/ NC) Recommended preparation: Hand and machine sewing skills Course is not required for ADAM Certificate of Completion. Introduction to millinery: Design and blocking of felt and straw hats with emphasis on straw styling. 1303.10",
+      "institution": "College of Alameda"
+    },
+    {
+      "course_id": "ADAM 210B",
+      "course_title": "Millinery",
+      "credits": "2.00",
+      "description": "3 units, 2 hours lecture, 4 hours laboratory (GR or CR/ NC) Prerequisite: ADAM 210A Course is not required for ADAM Certificate of Completion. Continuation of ADAM 210A: Construction and finishing techniques for delicate fabric hats such as velvet and satin. 1303.10",
+      "institution": "College of Alameda"
+    },
+    {
+      "course_id": "ADAM 210C",
+      "course_title": "Millinery",
+      "credits": "2.00",
+      "description": "3 units, 2 hours lecture, 4 hours laboratory (GR or CR/ NC) Prerequisite: ADAM 210B Course is not required for ADAM Certificate of Completion. Continuation of ADAM 210B: Creation of draped hats and advanced trim constructions. 1303.10",
+      "institution": "College of Alameda"
+    },
+    {
+      "course_id": "ADAM 210D",
+      "course_title": "Millinery",
+      "credits": "2.00",
+      "description": "3 units, 2 hours lecture, 4 hours laboratory (GR or CR/ NC) Prerequisite: ADAM 210C Course is not required for ADAM Certificate of Completion. Continuation of ADAM 210C: Construction techniques for hats with fake fur, feathers, and beading. 1303.10",
+      "institution": "College of Alameda"
+    },
+    {
+      "course_id": "ADAM 211",
+      "course_title": "Apparel Design and Sketching I",
+      "credits": "2.00",
+      "description": "2 units, 2 hours lecture (GR or CR/NC) Recommended preparation: ENGL 201A or ability to speak, read, and write English Survey of the structure and relationship of the three major divisions of the apparel industry - raw materials production, design and manufacturing, and retail merchandising: Beginning instruction in fashion sketching with emphasis placed on accurate standard body proportions and clearly defined apparel construction details needed to create sample-room work sketches. 1303.10",
+      "institution": "College of Alameda"
+    },
+    {
+      "course_id": "ADAM 212",
+      "course_title": "Apparel Design and Sketching II",
+      "credits": "2.00",
+      "description": "2 units, 2 hours lecture (GR or CR/NC) Prerequisite: ADAM 211 Recommended preparation: ENGL 201A or ability to speak, read, and write English Continuation of ADAM 211: Continuing sketch exercises in various black and white and color media; execution of specific design projects with emphasis on the organization of original design concepts within a variety of assigned industry price, size, style and selling-season categories. 1303.10",
+      "institution": "College of Alameda"
+    },
+    {
+      "course_id": "ADAM 214",
+      "course_title": "Advanced Design and Line Development I",
+      "credits": "2.00",
+      "description": "5 units, 2 hours lecture, 9 hours laboratory (GR or CR/ NC) Prerequisite: ADAM 212, 222, 225, and 232 Development of simulated apparel industry exercises: Designing, sketching, costing, merchandising, pattern making, cutting, fitting, and construction of sample garments for the wholesale market; original concepts in a fabric/trim group for the wholesale market; original design concepts in assigned categories to fit standard-size industry body-form measurements. 1303.10",
+      "institution": "College of Alameda"
+    },
+    {
+      "course_id": "ADAM 215",
+      "course_title": "Advanced Design and Line Development II",
+      "credits": "2.00",
+      "description": "5 units, 2 hours lecture, 9 hours laboratory (GR or CR/ NC) Prerequisite: ADAM 214 Continuation of ADAM 214: Continued development of simulated apparel industry exercises with completion of a term project and development of a portfolio of design concepts. 1303.10",
+      "institution": "College of Alameda"
+    }
+  ],
+  "timestamp": "2025-08-08T21:09:29.751744"
+}

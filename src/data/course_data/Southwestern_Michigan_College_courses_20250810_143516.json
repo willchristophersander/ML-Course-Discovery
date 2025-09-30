@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Southwestern Michigan College",
+    "successful_variation": "Southwestern Michigan College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Southwestern+Michigan+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACCO 101",
+      "course_title": "Elementary Accounting I",
+      "credits": "2.00",
+      "description": "Prerequisite: Minimum grade of C in MATH 100P or satisfactory test score. This course is an introductory accounting course which will help small business owners or potential small business owners understand the financial aspects of their business. Note: Elementary Accounting I and II equate to ACCO 201. ACCO 101 and 102 will cover two semesters instead of one semester and may be beneficial to students who have never had accounting courses in the past. ACCO 101 and 102 will also cover some minor topics specifically related to small businesses. [Semesters Offered: Fall]",
+      "institution": "Southwestern Michigan College"
+    },
+    {
+      "course_id": "ACCO 102",
+      "course_title": "Elementary Accounting II",
+      "credits": "2.00",
+      "description": "Prerequisites: Minimum grade of C in ACCO 101. This is the second introductory course in accounting. It is meant to help small business owners or potential small business owners understand the financial aspects of their business. Note: Elementary Accounting I and II equate to ACCO 201. ACCO 101 and 102 will cover two semesters instead of one semester and may be beneficial to students who have never had accounting courses in the past. ACCO 101 and 102 will also cover some minor topics specifically related to small businesses. [Semesters Offered: Winter]",
+      "institution": "Southwestern Michigan College"
+    },
+    {
+      "course_id": "ACCO 201",
+      "course_title": "Principles of Accounting I",
+      "credits": "4.00",
+      "description": "Prerequisite: Minimum grade of C in READ 100 and MATH 100P or satisfactory test scores; and BUSI 101, concurrent enrollment allowed. Covers the principles of accounting with an emphasis on financial accounting for sole proprietorships, also including partnerships and corporations, the accounting cycle, financial statements, worksheets, adjusting and closing entries, service and merchandising enterprises, special journals, subsidiary ledgers, cash, voucher system, receivables, inventory, plant assets, payables, payroll and theory. [Semesters Offered: Fall, Winter, Spring]",
+      "institution": "Southwestern Michigan College"
+    },
+    {
+      "course_id": "ACCO 202",
+      "course_title": "Principles of Accounting II",
+      "credits": "4.00",
+      "description": "Prerequisite: Minimum grade of C in ACCO 201. A continuation of ACCO 201, with emphasis on financial and managerial accounting, corporate accounting, stocks, bonds, long-term investments, consolidations, cash flow statements, financial statement analysis, job order and process cost systems, standard cost systems, budgeting, cost-volume-profit relationships, responsibility accounting, differential analysis, and capital investment analysis. [Semesters Offered: Fall, Winter, Spring]",
+      "institution": "Southwestern Michigan College"
+    },
+    {
+      "course_id": "ACCO 203",
+      "course_title": "Federal Income Tax",
+      "credits": "1.00",
+      "description": "Allowable Times for Credit: 1.00 Maximum Credits Allowed: ACH: 52.80-53.00 Lab: 0.00- Credits: 3.00- Contact Hrs: 3.00- Lecture: 3.00- Prerequisite: Minimum grade of C in ACCO 201 or permission of appropriate instructional Dean. Places an emphasis on theory and practice on the Federal Income Tax as it applies to individuals. Principles and theory are stressed, but practice is given in realistic problems and the use of correct tax forms. [Semesters Offered: Winter]",
+      "institution": "Southwestern Michigan College"
+    },
+    {
+      "course_id": "ACCO 204",
+      "course_title": "Microcomputer Accounting Applications",
+      "credits": "1.00",
+      "description": "Allowable Times for Credit: 1.00 Maximum Credits Allowed: ACH: 49.20-55.60 Lab: 0.00- Credits: 3.00- Contact Hrs: 3.00- Lecture: 3.00- Prerequisite: Minimum grade of C in ACCO 201 and computer competency. Uses the operation of a microcomputer-based accounting system to maintain a general ledger, accounts receivable and payable, inventory, and payrolls as well as preparing computerized financial statements and reports. [Semesters Offered: Winter]",
+      "institution": "Southwestern Michigan College"
+    },
+    {
+      "course_id": "ACCO 205",
+      "course_title": "Applied Accounting",
+      "credits": "1.00",
+      "description": "Allowable Times for Credit: 1.00 Maximum Credits Allowed: ACH: 49.20-54.60 Lab: 0.00- Credits: 3.00- Contact Hrs: 3.00- Lecture: 3.00- Prerequisite: Minimum grade of C in ACCO 201. Provides the student with practical experience in the completion of common forms and reports. The areas of payroll, plant assets, and financial statements are emphasized along with other accounting forms and reports. [Semesters Offered: Fall]",
+      "institution": "Southwestern Michigan College"
+    },
+    {
+      "course_id": "ACCO 211",
+      "course_title": "Intermediate Accounting I",
+      "credits": "1.00",
+      "description": "Allowable Times for Credit: 1.00 Maximum Credits Allowed: ACH: 57.00-74.40 Lab: 0.00- Credits: 4.00- Contact Hrs: 4.00- Lecture: 4.00- Prerequisite: Minimum grade of C in ACCO 202. A study of the valuation of current assets, current liabilities, plant equipment and depreciation techniques with their affect on income. [Semesters Offered: Fall]",
+      "institution": "Southwestern Michigan College"
+    },
+    {
+      "course_id": "ACCO 212",
+      "course_title": "Intermediate Accounting II",
+      "credits": "1.00",
+      "description": "Allowable Times for Credit: 1.00 Maximum Credits Allowed: ACH: 62.40-72.00 Lab: 0.00- Credits: 4.00- Contact Hrs: 4.00- Lecture: 4.00- Prerequisite: Minimum grade of C in ACCO 211. Covers the measurement of liabilities, stockholders' equity and reserves, cash flow, analysis of internal profits, ratios and reserves, and financial statement analysis. [Semesters Offered: Winter]",
+      "institution": "Southwestern Michigan College"
+    },
+    {
+      "course_id": "ACCO 214",
+      "course_title": "Cost Accounting",
+      "credits": "1.00",
+      "description": "Allowable Times for Credit: 1.00 Maximum Credits Allowed: ACH: 49.20-56.40 Lab: 0.00- Credits: 3.00- Contact Hrs: 3.00- Lecture: 3.00- Prerequisite: None. Minimum grade of C in ACCO 202. Covers elements of cost, materials, labor manufacturing expenses, including job order cost accounting, process cost accounting, and standard cost accounting. For Ferris State University transfer. [Semesters Offered: Fall]",
+      "institution": "Southwestern Michigan College"
+    }
+  ],
+  "timestamp": "2025-08-10T14:35:16.491240"
+}

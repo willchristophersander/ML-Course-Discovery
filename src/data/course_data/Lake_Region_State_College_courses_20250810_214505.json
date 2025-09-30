@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Lake Region State College",
+    "successful_variation": "Lake Region State College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Lake+Region+State+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACCT 200",
+      "course_title": "Elements of Accounting I",
+      "credits": "3.00",
+      "description": "Basic principles of the complete accounting cycle. (3 cr)",
+      "institution": "Lake Region State College"
+    },
+    {
+      "course_id": "ACCT 201",
+      "course_title": "Elements of Accounting II",
+      "credits": "3.00",
+      "description": "Special emphasis on corporate accounting and the uses of accounting information by managers. Prerequisite: ACCT 200. (3 cr)",
+      "institution": "Lake Region State College"
+    },
+    {
+      "course_id": "ACCT 207",
+      "course_title": "Managerial Accounting",
+      "credits": "3.00",
+      "description": "Interpretation of financial statements, budgeting, and accounting reports used for administrative control. Prerequisite: ACCT 200. (3 cr)",
+      "institution": "Lake Region State College"
+    },
+    {
+      "course_id": "ACCT 212",
+      "course_title": "Payroll Accounting",
+      "credits": "3.00",
+      "description": "Introduction to Study of payroll, property, and sales taxes. (2 cr)",
+      "institution": "Lake Region State College"
+    },
+    {
+      "course_id": "ACCT 215",
+      "course_title": "Business in the Legal Environment",
+      "credits": "3.00",
+      "description": "Legal environment of business, governmental regulation, contracts, and property. (3 cr)",
+      "institution": "Lake Region State College"
+    },
+    {
+      "course_id": "ACCT 231",
+      "course_title": "Income Tax Procedures",
+      "credits": "3.00",
+      "description": "Federal income tax relating to individuals and partnerships. (2 cr)",
+      "institution": "Lake Region State College"
+    },
+    {
+      "course_id": "ACCT 299",
+      "course_title": "Special Topics",
+      "credits": "3.00",
+      "description": "Approval of instructor. (1-3 cr)",
+      "institution": "Lake Region State College"
+    },
+    {
+      "course_id": "AGRI 241",
+      "course_title": "Farm Management Education",
+      "credits": "3.00",
+      "description": "Practical study of the farming business for farm families currently engaged in managing their farms or ranches. (3 cr)",
+      "institution": "Lake Region State College"
+    },
+    {
+      "course_id": "AGRI 242",
+      "course_title": "Advanced Adult Farm Management",
+      "credits": "3.00",
+      "description": "Continue application of farm management principles for decision making. Prerequisite: AGRI 241. (3 cr)",
+      "institution": "Lake Region State College"
+    },
+    {
+      "course_id": "AGRI 299",
+      "course_title": "Special Topics",
+      "credits": "3.00",
+      "description": "Approval of instructor. (1 3 cr)",
+      "institution": "Lake Region State College"
+    }
+  ],
+  "timestamp": "2025-08-10T21:45:05.815635"
+}

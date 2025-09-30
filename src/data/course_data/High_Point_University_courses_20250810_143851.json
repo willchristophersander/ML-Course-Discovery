@@ -1,0 +1,74 @@
+{
+  "search_query": {
+    "institution": "High Point University",
+    "successful_variation": "High Point University",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=High+Point+University&distance=5"
+  },
+  "total_results": 9,
+  "courses": [
+    {
+      "course_id": "ACC 205",
+      "course_title": "Managerial Accounting",
+      "credits": "3.00",
+      "description": "An introduction to managerial accounting with an emphasis on using accounting information to make business decisions. Cost concepts and practices for the purposes of managerial control and decision making. Three hours credit. Prerequisite: ACC 203.",
+      "institution": "High Point University"
+    },
+    {
+      "course_id": "ACC 208",
+      "course_title": "Accounting Information Systems",
+      "credits": "3.00",
+      "description": "This course provides a broad overview of information systems issues and practices as they relate to accounting. This course familiarizes students with methods used to identify, capture, process, report, and interpret information from major business processes. Given the dynamic nature of technology, the focus will be on giving students learning tools to apply as technology changes in the future. Three hours credit. Prerequisite: ACC 203.",
+      "institution": "High Point University"
+    },
+    {
+      "course_id": "ACC 305",
+      "course_title": "Intermediate Accounting I",
+      "credits": "3.00",
+      "description": "An understanding of accounting theory and practice which underlies statement preparation is emphasized through analysis and interpretation of financial statements. The practical application of accounting theory to the more difficult areas of proprietorship, partnership and the corporation is also emphasized. Three hours credit. Prerequisites: ACC 203 and 205.",
+      "institution": "High Point University"
+    },
+    {
+      "course_id": "ACC 306",
+      "course_title": "Intermediate Accounting II",
+      "credits": "3.00",
+      "description": "A continuation of the study of intermediate accounting. An understanding of account ing theory and practice which underlies statement preparation is emphasized through analysis and interpretation of financial statements. The practical application of accounting theory to the more difficult areas of proprietorship, partnership and the corporation is also emphasized. Three hours credit. Prerequisite: ACC 305.",
+      "institution": "High Point University"
+    },
+    {
+      "course_id": "ACC 307",
+      "course_title": "Fundamentals of Cost Accounting",
+      "credits": "3.00",
+      "description": "The fundamentals of job order, process, and standard cost accounting are taught through the use of problems and practice sets. Decision making for management is stressed. Three hours credit. Prerequisites: ACC 203 and 205.",
+      "institution": "High Point University"
+    },
+    {
+      "course_id": "ACC 310",
+      "course_title": "Auditing",
+      "credits": "3.00",
+      "description": "The study of objectives and methods of Independent Certified Public Accountants in exercising the attest function. Topics include meaning and quality of evidence, development of audit program, statistical sampling, audit reports, and auditor responsibilities. Three hours credit. Prerequisites: ACC 305 and 306.",
+      "institution": "High Point University"
+    },
+    {
+      "course_id": "ACC 317",
+      "course_title": "Intermediate Accounting III",
+      "credits": "3.00",
+      "description": "A continuation of ACC 306 featuring specialized topics related to financial accounting and reporting. Topics include special revenue recognition issues, deferred taxes, pensions, leases, and accounting changes. Three hours credit. Prerequisites: ACC 305 and 306.",
+      "institution": "High Point University"
+    },
+    {
+      "course_id": "ACC 341",
+      "course_title": "Individual and Fiduciary Taxation",
+      "credits": "3.00",
+      "description": "Study and application of current federal income tax laws, with emphasis placed on comprehension of basic tax terminology, problem solving, and compliance. Students will be introduced to the primary sources of tax law and fundamentals of tax research, as well as professional responsibilities of tax return preparers. Issues related to tax procedures for practice before the IRS are also presented. Three hours credit. Prerequisite: Junior standing or permission of instructor.",
+      "institution": "High Point University"
+    },
+    {
+      "course_id": "ACC 342",
+      "course_title": "Corporate Taxation",
+      "credits": "3.00",
+      "description": "Study and application of current federal income tax law related to the taxation of C and S corporations, partnerships, and special entities. The tax treatment of property transactions, including gain/loss calculations, basis determination, and depreciation is also covered. Three hours credit. Prerequisite: Junior standing or permission of instructor.",
+      "institution": "High Point University"
+    }
+  ],
+  "timestamp": "2025-08-10T14:38:51.759819"
+}

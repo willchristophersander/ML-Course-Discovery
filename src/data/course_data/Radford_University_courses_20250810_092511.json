@@ -1,0 +1,74 @@
+{
+  "search_query": {
+    "institution": "Radford University",
+    "successful_variation": "Radford University",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Radford+University&distance=5"
+  },
+  "total_results": 9,
+  "courses": [
+    {
+      "course_id": "ACTG 211",
+      "course_title": "Fundamentals of Financial Accounting",
+      "credits": "3.00",
+      "description": "Three hours lecture. Prerequisite: Sophomore standing. A comprehensive introduction to the fundamental concepts and procedures in accounting for proprietorships, partnerships and corporations. Emphasis is on the user perspective. ACTG 211 is a business core requirement.",
+      "institution": "Radford University"
+    },
+    {
+      "course_id": "ACTG 212",
+      "course_title": "Fundamentals of Managerial Accounting",
+      "credits": "3.00",
+      "description": "Three hours lecture. Prerequisite: ACTG 211. Comprehensive introduction to the fundamental principles and procedures of accounting for managerial decision making, planning, control and performance evaluation; ACTG 212 is a business core requirements. Note: Business majors must have completed the Pre-business Program and have been admitted to a business major, in addition to having completed any specific prerequisite or corequisite courses to be eligible to take 300- or 400-level accounting courses.",
+      "institution": "Radford University"
+    },
+    {
+      "course_id": "ACTG 311",
+      "course_title": "Cost Accounting",
+      "credits": "3.00",
+      "description": "Three hours lecture. Prerequisite: ACTG 212. Principles and procedures of determining cost in a manufacturing concern. Course devoted primarily to a study of job order, process and standard costing.",
+      "institution": "Radford University"
+    },
+    {
+      "course_id": "ACTG 312",
+      "course_title": "Accounting Information",
+      "credits": "3.00",
+      "description": "Three hours lecture and computer lab. Prerequisites: ACTG 212 and ITEC 100 or ITEC 110. Introduces students to Accounting Information Systems (AIS). Includes hands-on use of accounting software as well as theoretical study of the various accounting modules such as general ledger, accounts receivable and payroll. Software selections and current trends in AIS development also are discussed.",
+      "institution": "Radford University"
+    },
+    {
+      "course_id": "ACTG 313",
+      "course_title": "Intermediate Accounting I",
+      "credits": "3.00",
+      "description": "Three hours lecture each. Prerequisite: ACTG 212. ACTG 313 treats topics of financial accounting such as future and present value concepts, cash, receivables, short-term investments and fixed assets. ACTG 314 is a comprehensive study of corporate equity accounts, long-term investments, pensions and leases, financial statement analysis and price level reporting.",
+      "institution": "Radford University"
+    },
+    {
+      "course_id": "ACTG 314",
+      "course_title": "Intermediate Accounting II",
+      "credits": "3.00",
+      "description": "Three hours lecture each. Prerequisite: ACTG 212. ACTG 313 treats topics of financial accounting such as future and present value concepts, cash, receivables, short-term investments and fixed assets. ACTG 314 is a comprehensive study of corporate equity accounts, long-term investments, pensions and leases, financial statement analysis and price level reporting.",
+      "institution": "Radford University"
+    },
+    {
+      "course_id": "ACTG 401",
+      "course_title": "International Accounting",
+      "credits": "3.00",
+      "description": "Three hours lecture. Prerequisites: ACTG 212 and FINC 331. An introduction to the international dimensions of accounting, including the environment of international fi nancial reporting, comparative accounting, international accounting standards, and accounting for multinational operations.",
+      "institution": "Radford University"
+    },
+    {
+      "course_id": "ACTG 411",
+      "course_title": "Federal Taxation",
+      "credits": "3.00",
+      "description": "Three hours lecture each. Prerequisite: ACTG 212. An introduction to the basic concepts and systems of federal income taxation applicable to individuals, corporations, and partnerships. Emphases on the role taxes play in fi nancial and managerial decision-making.",
+      "institution": "Radford University"
+    },
+    {
+      "course_id": "ACTG 412",
+      "course_title": "Advanced Taxation",
+      "credits": "3.00",
+      "description": "Three hours lecture. Prerequisite: ACTG 411. Examines advanced topics relating to individual and entity taxation, tax research, exempt entities, and multi jurisdictional tax issues.",
+      "institution": "Radford University"
+    }
+  ],
+  "timestamp": "2025-08-10T09:25:11.583092"
+}

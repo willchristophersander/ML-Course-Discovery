@@ -1,0 +1,67 @@
+{
+  "search_query": {
+    "institution": "Flathead Valley Community College",
+    "successful_variation": "Flathead Valley Community College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Flathead+Valley+Community+College&distance=5"
+  },
+  "total_results": 8,
+  "courses": [
+    {
+      "course_id": "ACCT 101",
+      "course_title": "Vocational Accounting I",
+      "credits": "4.00",
+      "description": "4 credits (Fall and Spring Semesters) A practical course in the foundations of accounting. Empha-sizes the complete accounting cycle for a sole-proprietor-ship service business as well as the cycle for a merchan-dising firm. Covers receivables and payables as well as banking transactions and payroll.",
+      "institution": "Flathead Valley Community College"
+    },
+    {
+      "course_id": "ACCT 102",
+      "course_title": "Vocational Accounting II",
+      "credits": "4.00",
+      "description": "4 credits (Spring Semester) Prerequisite: ACCT 101 or instructor's consent. A continuation of ACCT 101. Covers notes payable and receivable, valuation of receivables, inventories, plant and equipment, the voucher system, accounting for partner-ships and corporations, financial statement analysis, and cash flow statements.",
+      "institution": "Flathead Valley Community College"
+    },
+    {
+      "course_id": "ACCT 121",
+      "course_title": "Payroll Accounting",
+      "credits": "2.00",
+      "description": "2 credits (Fall and Spring Semesters) Prerequisite: ACCT 101 or ACCT 201. An introduction to payroll accounting including relevant federal and state income tax laws and labor laws, pension plans, worker's compensation, unemployment insurance and necessary records and reports. ACCT 122 Accounting and Business Decisions 2 credits (Spring Semester) This course covers: selecting a financial entity, registering with the tax authorities, reviewing financial statements and accounting concepts, calculating payroll taxes, selecting a year end, calculating income taxes, cash planning and financing a business. ACCT 123 Computerized Payroll Accounting 2 credits (Spring Semester) Prerequisite: ACCT 121. Corequisite: ACCT 124. This course covers federal and state laws pertaining to wag-es, payroll taxes, payroll tax forms and journal and general ledger transaction. Emphasis is placed on software applica-tion in computation of wages: calculating social security, income and unemployment taxes; preparing appropriate payroll tax forms; and journalizing/posting transactions. ACCT 124 Payroll Accounting Applications 2 credits (Spring Semester) Prerequisite: ACCT 121. Corequisite: ACCT 123. This course covers federal and state laws pertaining to wages, payroll taxes, payroll tax forms and journal and general ledger transactions. Emphasis is placed on manual computations of wages; calculating social security, income and unemployment taxes; preparing appropriate payroll tax forms; and journalizing/posting transactions. ACCT 150 Accounting on Microcomputers 3 credits (Spring Semester) Prerequisites: ACCT 101 or ACCT 201; CMPA 130T or CMPA 131T. Corequisites: ACCT 102 or ACCT 202. This course provides students with a realistic approach to computerized accounting principles using QuickBooks Pro. Students will learn QuickBooks functions while completing accounting problems using this software. In addition, stu-dents will also complete accounting functions using Access and Excel. ACCT 201 Principles of Accounting I 4 credits (Fall and Spring Semesters) An introduction to the theory and application of account-ing covering double entry accounting, the accounting cycle, merchandising operations, control accounts and subsidiary ledgers, internal control, cash, short-term investments, accounts receivable, merchandise inventory, plant assets, current liabilities, payroll, financial statement disclosures and long-term liability.",
+      "institution": "Flathead Valley Community College"
+    },
+    {
+      "course_id": "ACCT 202",
+      "course_title": "Principles of Accounting II",
+      "credits": "4.00",
+      "description": "4 credits (Spring Semester) Prerequisite: a grade of \"C-\" or better in ACCT 201 . A continuation of ACCT 201 including partnerships, cor-porate organization, dividends, retained earnings, earn-ings per share, long-term liabilities, long-term investments and consolidations, statement of cash flows, analysis and interpretation of financial statements, accounting for manu-facturing operations, job order costing, process costing, cost-volume-profit relationships, business segments and departmental reporting, planning and budgeting.",
+      "institution": "Flathead Valley Community College"
+    },
+    {
+      "course_id": "ACCT 211",
+      "course_title": "Introduction to Federal Taxation",
+      "credits": "4.00",
+      "description": "4 credits (Fall Semester) Prerequisite: ACCT 201. A course designed to introduce the basic principles of federal taxation for the sole proprietor, partnership or corporation. Includes income determination, deductions, sales of proper-ties, depreciation and its recapture, nontaxable exchanges, dividends, corporate liquidations and S Corporations.",
+      "institution": "Flathead Valley Community College"
+    },
+    {
+      "course_id": "ACCT 212",
+      "course_title": "State Income Tax,Estates and Trusts",
+      "credits": "4.00",
+      "description": "4 credits (Fall Semester) Prerequisite: ACCT 201. A course designed to introduce the basic principles of state taxation for the sole proprietor, partnership or corporation, as well as trust and estate tax.",
+      "institution": "Flathead Valley Community College"
+    },
+    {
+      "course_id": "ACCT 220",
+      "course_title": "Cost and Advanced Accounting",
+      "credits": "4.00",
+      "description": "4 credits (Spring Semester) Prerequisite: ACCT 241 or instructor's consent. The use of relevant accounting data and techniques in mak-ing management decisions. Covers types of costs and their relationships, present value techniques, budgets, break- even computations, costing systems and cost allocations. Also covers work-paper presentation techniques, long-term debt, correction of accounting errors and preparation of cash flow statements.",
+      "institution": "Flathead Valley Community College"
+    },
+    {
+      "course_id": "ACCT 231",
+      "course_title": "Applied Accounting",
+      "credits": "2.00",
+      "description": "2 credits (Fall Semester) Prerequisite: ACCT 202. Corequisite: ACCT 251. This course applies terminology, concepts and techniques learned in accounting, to accounting software packages. It also covers setting up inventory, creating invoices, custom-izing forms, creating reports and graphs, payroll, process-ing payments and using all other accounts. ACCT 241 Intermediate Accounting I 4 credits (Fall Semester) Prerequisite: ACCT 202. This course is aimed at those students wishing to pursue accounting: environmental and conceptual framework of financial accounting, review of the accounting process and financial statements, time value of money, cash and receiv-ables, advanced inventory issues, advanced problems in long-term assets, and intangible assets.",
+      "institution": "Flathead Valley Community College"
+    }
+  ],
+  "timestamp": "2025-08-11T00:20:53.395162"
+}

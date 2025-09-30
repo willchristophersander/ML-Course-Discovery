@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Cosumnes River College",
+    "successful_variation": "Cosumnes River College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Cosumnes+River+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACCT 101",
+      "course_title": "Fundamentals of College Accounting",
+      "credits": "3.00",
+      "description": "Prerequisite: None. General Education: AA/AS Area II(b) Hours: 54 hours LEC This course emphasizes a practical approach to the use of accounts, journals, ledgers, and financial statements. The course is recommended for students who intend to seek employment in a small service or merchandising business and is an excellent preparation course for further study in accounting and business.",
+      "institution": "Cosumnes River College"
+    },
+    {
+      "course_id": "ACCT 103",
+      "course_title": "Intermediate Accounting- Part I",
+      "credits": "4.00",
+      "description": "Prerequisite: ACCT 301 with a grade of \"C\" or better. Hours: 72 hours LEC This course provides a continuing study of the measurement and reporting of the results of operations and the financial condition of profit-directed business entities. Special emphasis will be given to the valuation of assets using the Financial Accounting Standards Board (FASB) as authority. Completion of ACCT 103 and 104 is required to complete the \"advanced accounting\" requirement for accounting classifications in state service. This course is not intended for transfer to a four-year college.",
+      "institution": "Cosumnes River College"
+    },
+    {
+      "course_id": "ACCT 104",
+      "course_title": "Intermediate Accounting- Part II",
+      "credits": "4.00",
+      "description": "Prerequisite: ACCT 103 with a grade of \"C\" or better. Hours: 72 hours LEC This course is a continuing study of the measurement and reporting of the results of operations and the financial position of profitdirected business entities. An emphasis is placed on accounting for stockholder's equity, long-term liabilities, retained earnings, and dividends. This course and ACCT 103 constitute the \"advanced accounting\" requirement for some professional-level accounting classifications in California state service. This course is not intended for transfer to a four-year college.",
+      "institution": "Cosumnes River College"
+    },
+    {
+      "course_id": "ACCT 107",
+      "course_title": "Auditing",
+      "credits": "3.00",
+      "description": "Prerequisite: ACCT 301 with a grade of \"C\" or better. Advisory: ACCT 311. Hours: 54 hours LEC The procedures and practices used in the verification of financial statement balances and accounting transactions will be the focus of the course. The types of audits and audit occupations as well as the legal liabilities of the auditor will be discussed. This course is acceptable as elective units toward civil service professional accounting education requirements.",
+      "institution": "Cosumnes River College"
+    },
+    {
+      "course_id": "ACCT 111",
+      "course_title": "Cost Accounting",
+      "credits": "3.00",
+      "description": "Prerequisite: None Advisory: ACCT 311. Hours: 54 hours LEC This course is an introduction to cost accounting methods, including job order, process and standard cost system. Special attention will be given to managerial uses of cost accounting. This course is not intended for transfer to a four-year college.",
+      "institution": "Cosumnes River College"
+    },
+    {
+      "course_id": "ACCT 121",
+      "course_title": "Payroll Accounting",
+      "credits": "3.00",
+      "description": "Prerequisite: None Advisory: ACCT 101. Hours: 54 hours LEC This is a study of payroll and personnel records, procedures and regulations. The course will include a study of the various California and Federal laws pertaining to the computation of earnings and withholdings. Payroll tax payment requirements and preparation of the employer's California and Federal payroll tax reports will be included. A comprehensive simulation project will be completed as part of the course. The project will include one quarterly payroll reporting cycle.",
+      "institution": "Cosumnes River College"
+    },
+    {
+      "course_id": "ACCT 125",
+      "course_title": "Federal and State Taxation",
+      "credits": "4.00",
+      "description": "Prerequisite: None Hours: 72 hours LEC This course is a study of basic Federal and State Income Tax regulations with an emphasis on the skills necessary for the preparation of individual income tax returns. Included are filing requirements, determination of taxable income, allowable deductions, tax computation, tax credits, other taxes, payment methods, and audit procedures. The course is acceptable as elective for civil service professional accounting operations and recommended for accounting majors.",
+      "institution": "Cosumnes River College"
+    },
+    {
+      "course_id": "ACCT 127",
+      "course_title": "Volunteer Income Tax Assistance",
+      "credits": "2.00",
+      "description": "Prerequisite: None. Hours: 18 hours LEC; 54 hours LAB This hands-on course provides training and a service learning opportunity in the preparation of federal and California individual income tax returns. After successfully completing 18 hours of IRSapproved training and passing the IRS and California individual income tax exams, the student volunteer will provide a minimum of 54 hours of free tax assistance to community clients who meet qualifying criteria for the service as set by the IRS. The Basic level is intended for the volunteer who will assist working taxpayers with individual and family tax concerns. The Intermediate level covers tax law as it applies to wage earners who have more complex income issues. The Military level covers tax law that pertains to military tax situations. The Advanced level addresses complex issues that are generally encountered by pension earners and prepare the student to assist taxpayers-clients across the full VITA spectrum. This course may be taken four times as long the course is taken at a different level.",
+      "institution": "Cosumnes River College"
+    },
+    {
+      "course_id": "ACCT 128",
+      "course_title": "Taxation of Corporations, Partnerships, Estates, and Trusts",
+      "credits": "4.00",
+      "description": "Prerequisite: ACCT 125 with a grade of \"C\" or better Hours: 72 hours LEC This course provides a continuing study of federal and state income tax compliance with an emphasis on the taxation of business entities including corporations, partnerships, limited liability companies, S corporations, estates and fiduciary trusts. Included is coverage of related party transactions, filing requirements, differences in book and taxable income, tax computation, available credits, tax elections, and working with the Internal Revenue Service on tax administration matters. This course is designed for persons seeking civil service advancement, those who are currently or will be involved with company accounting operations, and persons engaged in tax preparation. It is recommended for accounting majors.",
+      "institution": "Cosumnes River College"
+    },
+    {
+      "course_id": "ACCT 153",
+      "course_title": "Governmental Accounting",
+      "credits": "3.00",
+      "description": "Prerequisite: ACCT 301 with a grade of \"C\" or better Hours: 54 hours LEC This course covers accounting and financial reporting for governmental units and institutions with emphasis on the principles of fund accounting and the comprehensive annual financial report as prescribed by the Governmental Accounting Standards Board. Additional topics include the accounting aspects of budgeting and budgetary control for governmental entities and accounting for nonprofit organizations.",
+      "institution": "Cosumnes River College"
+    }
+  ],
+  "timestamp": "2025-08-26T13:40:22.786768"
+}

@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Morgan State University",
+    "successful_variation": "Morgan State University",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Morgan+State+University&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACCT 001",
+      "course_title": "Accounting Comprehensive Exam",
+      "credits": "0.00",
+      "description": "No course description available.",
+      "institution": "Morgan State University"
+    },
+    {
+      "course_id": "ACCT 002",
+      "course_title": "Senior Level Examination",
+      "credits": "0.00",
+      "description": "No course description available.",
+      "institution": "Morgan State University"
+    },
+    {
+      "course_id": "ACCT 151",
+      "course_title": "Principles of Accounting",
+      "credits": "3.00",
+      "description": "No course description available.",
+      "institution": "Morgan State University"
+    },
+    {
+      "course_id": "ACCT 152",
+      "course_title": "Prin of Accounting II",
+      "credits": "3.00",
+      "description": "No course description available.",
+      "institution": "Morgan State University"
+    },
+    {
+      "course_id": "ACCT 201",
+      "course_title": "Prin of Accounting I",
+      "credits": "3.00",
+      "description": "Course description unavailable",
+      "institution": "Morgan State University"
+    },
+    {
+      "course_id": "ACCT 202",
+      "course_title": "Prin of Accounting II",
+      "credits": "3.00",
+      "description": "Course description unavailable",
+      "institution": "Morgan State University"
+    },
+    {
+      "course_id": "ACCT 251",
+      "course_title": "Intermediate Accounting II",
+      "credits": "3.00",
+      "description": "No course description available.",
+      "institution": "Morgan State University"
+    },
+    {
+      "course_id": "ACCT 252",
+      "course_title": "Intermediate Accounting II",
+      "credits": "3.00",
+      "description": "No course description available.",
+      "institution": "Morgan State University"
+    },
+    {
+      "course_id": "ACCT 300",
+      "course_title": "Cost Accounting",
+      "credits": "3.00",
+      "description": "Course description unavailable",
+      "institution": "Morgan State University"
+    },
+    {
+      "course_id": "ACCT 307",
+      "course_title": "International Accounting",
+      "credits": "3.00",
+      "description": "Course description unavailable",
+      "institution": "Morgan State University"
+    }
+  ],
+  "timestamp": "2025-08-10T06:08:35.690008"
+}

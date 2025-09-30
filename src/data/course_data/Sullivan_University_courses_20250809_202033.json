@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Sullivan University",
+    "successful_variation": "Sullivan University",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Sullivan+University&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "PBS 504",
+      "course_title": "Anatomy and Physiology",
+      "credits": "4.00",
+      "description": "A review of the basic principles of human physiology and anatomy with applications to disease states. Pre-requisite: Admission to the College of Pharmacy",
+      "institution": "Sullivan University"
+    },
+    {
+      "course_id": "PBS 505",
+      "course_title": "Pharmaceutics I",
+      "credits": "3.00",
+      "description": "An introduction to different drug delivery systems and formulations. An overview of the drug physical and chemical properties will be emphasized. Pre-requisite: Admission to the College of Pharmacy",
+      "institution": "Sullivan University"
+    },
+    {
+      "course_id": "PBS 506",
+      "course_title": "Pharmaceutical Calculations w/lab",
+      "credits": "3.00",
+      "description": "Students will be prepared to perform accurate dosage calculations for the preparation of solid and liquid dosage forms, injectable medications, isotonic solutions and extemporaneously compounded prescription products to ensure patients' safety. Students will have time reserved to practice calculation techniques in the laboratory sessions. Pre-requisite: Admission to the College of Pharmacy",
+      "institution": "Sullivan University"
+    },
+    {
+      "course_id": "PBS 511",
+      "course_title": "Biotechnology",
+      "credits": "2.00",
+      "description": "An introduction to the techniques of preparing and formulating the various biotechnological products. The pharmaceutical aspect of the production will be introduced. Pre-requisite: Admission to the College of Pharmacy",
+      "institution": "Sullivan University"
+    },
+    {
+      "course_id": "PBS 513",
+      "course_title": "Biochemistry",
+      "credits": "4.00",
+      "description": "A review of the structure, physical/chemical properties, function and interactions of amino acids, peptides and proteins, nucleotides, and nucleic acids, carbohydrates, lipids, and hybrid molecules with an emphasis on its application to medication and clinical uses will be presented. Pre-requisite: Admission to the College of Pharmacy",
+      "institution": "Sullivan University"
+    },
+    {
+      "course_id": "PBS 514",
+      "course_title": "Microbiology/Immunology",
+      "credits": "4.00",
+      "description": "A review of the principles of microbiology and immunology with an emphasis in health care will be presented. Pre-requisite: Admission to the College of Pharmacy",
+      "institution": "Sullivan University"
+    },
+    {
+      "course_id": "PBS 515",
+      "course_title": "Biopharmaceutics II/Clinical Pharmacokinetics",
+      "credits": "4.00",
+      "description": "An integrated course between basic science and clinical science. Principles in how drugs perform in a human being and how a physiology system affects the drugs as they relate to absorption, distribution, metabolism, and excretion. Clinical Pharmacokinetics will build on those concepts to teach how to design a safe and effective drug regimen to patients based on their physiological conditions and disease states and how to monitor therapy regiment for adjustment if needed. Pre-requisite: Passing grade in Pharmaceutics I",
+      "institution": "Sullivan University"
+    },
+    {
+      "course_id": "PBS 524",
+      "course_title": "Pharmaceutics III w/lab",
+      "credits": "3.00",
+      "description": "An introduction to drug delivery systems and their physical and chemical properties. Emphasis will be placed on solid and semi-solid dosage forms. Quality control guidelines and standards of practice will be covered. Pre-requisite: Passing grade in Pharmaceutics II",
+      "institution": "Sullivan University"
+    },
+    {
+      "course_id": "PBS 534",
+      "course_title": "Pharmacology/Medicinal Chemistry I",
+      "credits": "5.00",
+      "description": "This is a first in a sequence of Pharmacology/Medicinal Chemistry designed to match with the sequence of Pharmacotherapeutics sequence which will be presented by organ systems. The molecular, cellular, and physiologic basis of drug action, the influence of chemical and physical properties in structural activity relationships, and drug design as it relates to drug metabolism and drug action. Chemistry and quantitative structural activity relationships, mechanisms of action, toxicity profiles, and pharmacokinetics associated with these drugs will be emphasized. General principles and drugs that are used to treat the disorders affecting the central nervous system will be studied in this sequence. Pre-requisites: Passing grade Biochemistry",
+      "institution": "Sullivan University"
+    },
+    {
+      "course_id": "PBS 537",
+      "course_title": "Introduction to Pharmacogenomics",
+      "credits": "1.00",
+      "description": "An integrated course between basic science and clinical science. An introduction to the human genome, the science of genetics and how it relates to medication and treatments will be presented. Pre-requisite: Admission to the College of Pharmacy",
+      "institution": "Sullivan University"
+    }
+  ],
+  "timestamp": "2025-08-09T20:20:33.818086"
+}

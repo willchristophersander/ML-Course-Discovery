@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Coastal Carolina University",
+    "successful_variation": "Coastal Carolina University",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Coastal+Carolina+University&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACCT 330",
+      "course_title": "Intermediate Accounting I",
+      "credits": "3.00",
+      "description": "(3 credits)(Prereq: A grade of 'C' or better in CBAD*201 and CBAD*202) Theoretical foundation of generally accepting accounting principles, review of the accounting cycle leading to preparation of financial statements, accounting recognition of assets with special emphasis on cash and receivables, revenue recognition, and the time value of money. F,S Prerequisite: Take CBAD*201(5615) CBAD*202(5636); Minimum grade C;",
+      "institution": "Coastal Carolina University"
+    },
+    {
+      "course_id": "ACCT 331",
+      "course_title": "Intermediate Accounting II",
+      "credits": "3.00",
+      "description": "(3 credits)(Prereq: A grade of 'C' or better in ACCT*330) Accounting recognition of inventory, depreciable assets, intagnible assets, investments, current liabilities, and long-term liabilities. F,S,Su Prerequisite: Take ACCT*330; Minimum grade C;",
+      "institution": "Coastal Carolina University"
+    },
+    {
+      "course_id": "ACCT 332",
+      "course_title": "Intermediate Accounting III",
+      "credits": "3.00",
+      "description": "(3 credits)(Prereq: A grade of 'C' or better in ACCT*331) Advanced financial accounting topics including earnings per share, leases, pensions, accounting for income taxes, preparation of cash flow statements, and the accounting treatment of errors and corrections. F,S,Su Prerequisite: Take ACCT*331; Minimum grade C;",
+      "institution": "Coastal Carolina University"
+    },
+    {
+      "course_id": "ACCT 333",
+      "course_title": "Cost Accounting",
+      "credits": "3.00",
+      "description": "(3 credits)(Prereq: A grade of 'C' or better in CBAD*202) Cost accounting for manufacturing operations. Topics include cost-volume profit analysis, job-order, standard costing; budgeting, and decision making under uncertainty. F,S,Su Prerequisite: Take CBAD*202(CBAD_202); Minimum grade C;",
+      "institution": "Coastal Carolina University"
+    },
+    {
+      "course_id": "ACCT 336",
+      "course_title": "Accounting Systems & Analytics",
+      "credits": "3.00",
+      "description": "(3 credits)(Prereq: A grade of 'C' or better in CBAD*201 and CBAD*292) Analysis and design of standard accounting systems with business and financial risk considerations and application of data analytics and visualization tools. Emphasis on computerized systems and internal control issues. F,S Prerequisite: Take CBAD*201(5615) CBAD*292; Minimum grade C;",
+      "institution": "Coastal Carolina University"
+    },
+    {
+      "course_id": "ACCT 339",
+      "course_title": "Individual Income Taxation",
+      "credits": "3.00",
+      "description": "(3 credits)(Prereq: A grade of 'C' or better in CBAD*201 and CBAD*202) Introduction to sources of income tax law, basic concepts, property transactions, and research with consideration of filing status, exemptions, gross income, deductions, and computations leading to preparation of individual tax returns. F,S Prerequisite: Take CBAD*201(5615) CBAD*202(5636); Minimum grade C;",
+      "institution": "Coastal Carolina University"
+    },
+    {
+      "course_id": "ACCT 437",
+      "course_title": "Auditing Theory",
+      "credits": "3.00",
+      "description": "(3 credits)(Prereq: A grade of 'C' or better in CBAD*291, ACCT*331, and ACCT*333)(Coreq: ACCT*331) Generally accepted auditing standards governing external financial audits, audit techniques and procedures, evaluation of internal control system and the audit option. F,S,Su Prerequisite: Take CBAD*291 ACCT*333; Minimum grade C; Corequisite: Take ACCT*331; Minimum grade C,TR;",
+      "institution": "Coastal Carolina University"
+    },
+    {
+      "course_id": "ACCT 439",
+      "course_title": "Income Taxation Bus. Entities",
+      "credits": "3.00",
+      "description": "(3 credits)(Prereq: ACCT*339) Introduction to the income taxation of business entities including sole proprietorships, partnerships, and corporations. Basic concepts of the federal income tax system, gross income, business deductions, property transactions, comparison of business entities, on-line tax research and tax return preparation. F,S,Su Prerequisite: Take ACCT*339(5427);",
+      "institution": "Coastal Carolina University"
+    },
+    {
+      "course_id": "ACCT 497",
+      "course_title": "Accounting Internship",
+      "credits": "12.00",
+      "description": "(0-12 credits)(Prereq: 54 or more hours, minimum GPA of 2.5, and approval of the Department Chair) The Accounting Internship is a supervised work experience in an accounting setting. The specific work environment and student's job responsibilities must be approved, in advance, by supervising faculty. Students will be required to maintain a detailed journal relative to their workplace activities, establish specific learning goals, complete a reflective essay regarding the experience, and will be evaluated by their workplace supervisor. Students must work a minimum of sixty (60) hours in the internship environment per credit hour earned. Students may receive from zero to twelve (0-12) credit hours for the Accounting Internship course, which may be repeated up to three (3) times for credit; however, student cannot earn more than a total of twelve (12) accounting internship credit hours over the course of a single undergraduate program and only six (6) credit hours may be applied toward the minimum credit hours required for a single Coastal Carolina University degree. F,S,Su. Prerequisite: Take 54 credits;",
+      "institution": "Coastal Carolina University"
+    },
+    {
+      "course_id": "ACED 101",
+      "course_title": "Academic Strategy Development",
+      "credits": "0.00",
+      "description": "(0 credits) This action-orientated, skill-based course is designed to assist students in developing a better understanding of their individualized academic and personal areas of strength and challenge and develop the skills and strategies necessary to improve their academic and personal performance. Critical skill development covered in this course include, but are not limited to, course assessment, reflection and self-regulation. F,S",
+      "institution": "Coastal Carolina University"
+    }
+  ],
+  "timestamp": "2025-08-26T13:36:46.289060"
+}

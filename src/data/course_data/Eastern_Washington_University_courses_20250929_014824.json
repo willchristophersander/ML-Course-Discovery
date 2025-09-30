@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Eastern Washington University",
+    "successful_variation": "Eastern Washington University",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Eastern+Washington+University&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACCT 359",
+      "course_title": "Accounting Systems",
+      "credits": "4.00",
+      "description": "FALL/SPRING Prerequisites: ACCT 351, MISC 311 or permission of the instructor. Application of concepts and techniques for the design, function, separation and evaluation of accounting systems. Focus on accounting system design and evaluation in providing timely information. Problems in accounting-system installation and revision.",
+      "institution": "Eastern Washington University"
+    },
+    {
+      "course_id": "ACCT 399",
+      "course_title": "Directed Study",
+      "credits": "5.00",
+      "description": "Directed Study",
+      "institution": "Eastern Washington University"
+    },
+    {
+      "course_id": "ACCT 422",
+      "course_title": "Advanced Business Law",
+      "credits": "4.00",
+      "description": "Prerequisites: ACCT 261 or 308; Senior standing. Business ethics and social responsibility; public law and regulation including securities law, antitrust law, consumer law, labor law and debtor/creditor relations.",
+      "institution": "Eastern Washington University"
+    },
+    {
+      "course_id": "ACCT 450",
+      "course_title": "Auditing",
+      "credits": "4.00",
+      "description": "FALL/WINTER Prerequisites: ACCT 353, 356, 359. Generally accepted auditing standards and principles; auditing objectives and methodology; ethical responsibility of the CPA in financial reporting and auditing.",
+      "institution": "Eastern Washington University"
+    },
+    {
+      "course_id": "ACCT 451",
+      "course_title": "Advanced Auditing",
+      "credits": "4.00",
+      "description": "WINTER/SPRING Prerequisite: ACCT 450. Special topics in auditing with emphasis on EDP and statistical auditing. Auditing objectives, methodology and generally accepted auditing standards as they relate to EDP and statistical auditing. Practical audit experience through hands-on computer use on audit cases.",
+      "institution": "Eastern Washington University"
+    },
+    {
+      "course_id": "ACCT 452",
+      "course_title": "Contemporary Accounting Theory",
+      "credits": "4.00",
+      "description": "WINTER/SPRING Prerequisites: ACCT 353, 356. Contemporary accounting issues and their theoretical implications; review of accounting literature and research studies and pronouncements of the FASB and other professional organizations.",
+      "institution": "Eastern Washington University"
+    },
+    {
+      "course_id": "ACCT 454",
+      "course_title": "Federal Income Tax I",
+      "credits": "4.00",
+      "description": "FALL/WINTER Prerequisite: ACCT 251. Provisions and principles of federal income tax laws affecting the determination of taxable income, tax liability and tax planning for individuals. Dual MBA/MPA Degree Program A dual-degree program is available with the Master of Public Administration (MPA) program. This dual-degree program combines the requisite supervisory and administrative education for career advancement in either the public or private sectors and bridges the regulatory and supplier aspects of business and government relationships. Those enrolling in the dual-degree program must be admitted through the Graduate Studies Office and by both the MBA program and the Graduate program in Public Administration (MPA). The student also must have satisfied the undergraduate background (prerequisite) course requirements of both programs at the time of entry or soon thereafter. Students interested in the specific requirements of this dual-degree program must contact either the MPA program director at 509.358.2247 or the MBA program director at 509.358.2270 to be advised in advance of consideration for admission.",
+      "institution": "Eastern Washington University"
+    },
+    {
+      "course_id": "ACCT 455",
+      "course_title": "Federal Income Tax II",
+      "credits": "4.00",
+      "description": "WINTER/SPRING Prerequisite: ACCT 454. Provisions and principles of federal income tax laws affecting the determination of taxable income and tax liability of corporations and information returns and tax planning for partnerships.",
+      "institution": "Eastern Washington University"
+    },
+    {
+      "course_id": "ACCT 495",
+      "course_title": "Internships",
+      "credits": "15.00",
+      "description": "Internships",
+      "institution": "Eastern Washington University"
+    },
+    {
+      "course_id": "ACCT 498",
+      "course_title": "Seminar",
+      "credits": "5.00",
+      "description": "Seminar",
+      "institution": "Eastern Washington University"
+    }
+  ],
+  "timestamp": "2025-09-29T01:48:24.607689"
+}

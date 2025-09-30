@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "United States Merchant Marine Academy",
+    "successful_variation": "United States Merchant Marine Academy",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=United+States+Merchant+Marine+Academy&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "DB 300",
+      "course_title": "Fundamentals of Business and Maritime Law",
+      "credits": "3.00",
+      "description": "Credits: 3 An introduction to the American legal system and business law and an analysis of the public policy behind the law. A presentation of fundamental concepts of law to give the students an understanding of the role and importance of maritime law in shipping and transportation. Topics include: nature and sources of the law, jurisdiction, constitutional law, administrative law, torts, contracts, rights of seamen cargo, collision, salvage and maritime pollution. 3 Class hours a week",
+      "institution": "United States Merchant Marine Academy"
+    },
+    {
+      "course_id": "DB 410",
+      "course_title": "International Business and Ocean Shipping",
+      "credits": "3.00",
+      "description": "Credits: 3 A comprehensive course covering the international environmental forces and their influence on all of the functional areas of the international firm - marketing, finance, management and operations - with special emphasis on the international ocean shipping firm and its central role in international trade and global logistics. This survey course is designed to help midshipmen develop an increased awareness and understanding of international business and global business issues, as well as their impact on international ocean shipping firms.",
+      "institution": "United States Merchant Marine Academy"
+    },
+    {
+      "course_id": "DB 498",
+      "course_title": "Maritime Economics",
+      "credits": "3.00",
+      "description": "Credits: 3 An analysis of the Economics of the Maritime Industry. The course covers the various sectors of the industry: Dry Bulk, Liquid Bulk and General Cargo. Costs of providing shipping services and the demand for these services are studied. This leads to an analysis of the pricing of ships and shipping services. The regulatory framework of the industry is also considered. For someone planning a career in the shipping industry, the course seeks to provide an understanding of the economic forces at work Elective Prerequisite: DB210 Economics 3 Class hours a week",
+      "institution": "United States Merchant Marine Academy"
+    },
+    {
+      "course_id": "DL 200",
+      "course_title": "Integrated Logistics Management",
+      "credits": "3.00",
+      "description": "Credits: 3 This course examines the theory and practice of logistics management in the modern business environment, with attention to parallels between business and military logistics. Key objectives of the course are to provide midshipmen with an in-depth understanding of the operation of key elements in logistics systems, comprehension of the interrelationships among individual components of supply chains, awareness of the structure and purpose of logistics information systems, knowledge of how the logistics function interfaces with other business functions, and a grasp of the principal tools and techniques used in the analysis of logistics systems. Emphasis is on system optimization for the purpose of achieving competitive advantage, cost reduction, and customer satisfaction.",
+      "institution": "United States Merchant Marine Academy"
+    },
+    {
+      "course_id": "DL 300",
+      "course_title": "Intermodal Transportation Systems",
+      "credits": "3.00",
+      "description": "Credits: 3 This course explores the important concepts and operational specifics of commercial and military intermodal transportation, primarily as they pertain to the movement of freight. It is designed to provide students with an appreciation of the development and characteristics of the present intermodal transportation system, comprehension of the advantages and disadvantages of intermodalism, awareness of the intermodal services, terminals, equipment, and information systems currently in operation and under development, and understanding of how individual modes and intermediaries interact in intermodal systems, and a grasp of the key challenges faced by commercial and military intermodal transportation managers and knowledge of some of the strategies that can be employed in dealing with these concerns.",
+      "institution": "United States Merchant Marine Academy"
+    },
+    {
+      "course_id": "DL 340",
+      "course_title": "Management of Transportation Enterprises",
+      "credits": "3.00",
+      "description": "Credits: 3 Building on the foundation laid in earlier logistics and intermodal transportation major courses, this elective will be examine the challenges inherent in managing today's businesses operating both modally and in intermodal service. the course will focus on the regulatory, financial, economic, and global environments impacting such businesses. Particular attention will be paid to intermodal issues where appropriate. The course will be conducted under the case analysis method, and will be augmented by speakers from transport management, financial institutions, and relevant government agencies. Because the case method will be used, class participation will provide a significant part of the final grade, and class preparation will be closely monitored. this course fulfills the elective requirement for Logistics and Intermodal Transportation majors. Elective Prerequisite: DB110 Principles of Logistics and Transportation 3 Class hours a week",
+      "institution": "United States Merchant Marine Academy"
+    },
+    {
+      "course_id": "DL 350",
+      "course_title": "Introduction To Railroad Operations",
+      "credits": "3.00",
+      "description": "Credits: 3 This course is designed to introduce the student to the operational aspects of that segment of the nation's infrastructure that moves passengers and freight over steel rails. Sufficient detail is provided to ensure an understanding of the physical plant, operational capabilities and limitations, the maritime interface, comparative advantages and limitations of rail transportation, and its niche in intermodal transportation. Elective Prerequisite: DB110 Principles of Logistics and Transportation 3 Class hours a week",
+      "institution": "United States Merchant Marine Academy"
+    },
+    {
+      "course_id": "DL 400",
+      "course_title": "Intermodal Port and Terminal Operations",
+      "credits": "3.00",
+      "description": "Credits: 3 A detailed analysis of the economic, legal, and practical dimensions of intermodal terminal operations. Subjects covered include gate operations, yard management, cargo-handling equipment, terminal information systems, maintenance and repair, documentation, port administration, and labor-management relations. Challenges related to productivity, infrastructure constraints, increasing vessel size, and new technologies are addressed. Emphasis is on the central role of intermodal ports and marine transportation in achieving the goal of \"seamless\" transportation.",
+      "institution": "United States Merchant Marine Academy"
+    },
+    {
+      "course_id": "DL 420",
+      "course_title": "Global Supply Chain Management",
+      "credits": "3.00",
+      "description": "Credits: 3 Designed to provide students with an understanding of the unique functional, legal, cultural, and strategic issues that characterize international freight logistics. Topics addressed include global sourcing, international inventory management, system optimization, global transportation options, international terms of sale and documentation, global information management, international logistics strategies, and organizing the firm to achieve effective global logistics management. The development of managerial decision-making skill in the global context is facilitated through the use of case studies and computer simulation exercises.",
+      "institution": "United States Merchant Marine Academy"
+    },
+    {
+      "course_id": "DL 440",
+      "course_title": "Introduction to Air Transportation",
+      "credits": "3.00",
+      "description": "Credits: 3 This course will examine the background, operations and future of the commercial domestic and international air transport industry and U.S. military aviation. Through the perspective of shippers, passengers, carriers, facilitators, airports, and government, the course surveys the services provided, equipment used, airports, cost and rate structures, documentation, government policies and regulations, independent and alliance business arrangements, insurance, routing techniques and optimization, analysis of operations and competitive alternatives, and plans for the future. The course will also provide a better understanding of the growing importance that the communication of information has on purchasing and operating commercial and military air transportation services. Elective Prerequisite: DB110 Principles of Logistics and Transportation 3 Class hours a week",
+      "institution": "United States Merchant Marine Academy"
+    }
+  ],
+  "timestamp": "2025-08-09T20:30:05.506280"
+}

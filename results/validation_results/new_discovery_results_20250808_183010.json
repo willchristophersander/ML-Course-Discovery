@@ -1,0 +1,107 @@
+{
+  "timestamp": "2025-08-08T18:30:10.810671",
+  "analysis": {
+    "total_universities": 5,
+    "discovery_success_rate": 0.2,
+    "avg_discovery_confidence": 0.925,
+    "validation_success_rate": 0.2,
+    "avg_validation_confidence": 0.2,
+    "course_finding_rate": 0.8,
+    "avg_discovery_time": 1.1768056869506835,
+    "avg_validation_time": 0.4345553874969482,
+    "successful_discoveries": [
+      {
+        "university": "Stanford University",
+        "url": "https://navigator.stanford.edu/classes?classes%5BrefinementList%5D%5BtermOffered%5D%5B0%5D=Autumn%202025",
+        "discovery_confidence": 0.925,
+        "validation_confidence": 0.2,
+        "courses_found": "4/5"
+      }
+    ],
+    "failed_discoveries": [
+      {
+        "university": "Great Basin College",
+        "error": "No search results found with any strategy"
+      },
+      {
+        "university": "Anne Arundel Community College",
+        "error": "No search results found with any strategy"
+      },
+      {
+        "university": "George Fox University",
+        "error": "No search results found with any strategy"
+      },
+      {
+        "university": "Saint Leo University",
+        "error": "No search results found with any strategy"
+      }
+    ]
+  },
+  "detailed_results": [
+    {
+      "university_name": "Great Basin College",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No search results found with any strategy",
+      "discovery_time": 0.08064389228820801,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "Anne Arundel Community College",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No search results found with any strategy",
+      "discovery_time": 0.08360123634338379,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "Stanford University",
+      "discovered_url": "https://navigator.stanford.edu/classes?classes%5BrefinementList%5D%5BtermOffered%5D%5B0%5D=Autumn%202025",
+      "discovery_success": true,
+      "discovery_confidence": 0.925,
+      "validation_success": true,
+      "validation_confidence": 0.2,
+      "test_courses_found": 4,
+      "total_test_courses": 5,
+      "error_message": null,
+      "discovery_time": 5.595917224884033,
+      "validation_time": 2.172776937484741
+    },
+    {
+      "university_name": "George Fox University",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No search results found with any strategy",
+      "discovery_time": 0.09378695487976074,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "Saint Leo University",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No search results found with any strategy",
+      "discovery_time": 0.030079126358032227,
+      "validation_time": 0.0
+    }
+  ]
+}

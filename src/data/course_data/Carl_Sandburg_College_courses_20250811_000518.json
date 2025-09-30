@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Carl Sandburg College",
+    "successful_variation": "Carl Sandburg College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Carl+Sandburg+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACC 100",
+      "course_title": "Procedural Accounting",
+      "credits": "3.00",
+      "description": "This is a fundamental course for the occupationally-oriented student that emphasizes how to keep records rather than how to analyze them. The course work will be devoted to developing procedures within the framework of acceptable record-keeping concepts. The student will also develop a vocabulary necessary to understand terminology in the accounting area. Any person who desires a basic understanding of bookkeeping prior to pursuing principles of accounting will find this course very helpful. Offered: Fall, Spring Applicable toward graduation at CSC where program structure permits: Degree or Certificate - AAS, AGE, All Certificates General Education - Not Applicable",
+      "institution": "Carl Sandburg College"
+    },
+    {
+      "course_id": "ACC 101",
+      "course_title": "Principles of Accounting",
+      "credits": "3.00",
+      "description": "This is the first of a two-course sequence designed to prepare students for a major in accounting. This course presents the following topics: concept of double-entry accounting, completing the accounting cycle, preparing financial statements, accounting for cash and charge transactions, accruals and deferrals, depreciation of physical assets, allowing for doubtful accounts, accounting for receivables and payables, inventories, payroll accounting, systems and controls, and concepts and principles. Offered: Fall, Spring, Summer Prerequisites: (1) A \"C\" or better in ENG 096 or a COMPASS reading score of 83 or higher; (2) A \"C\" or better in MAT 090 or a COMPASS pre-algebra score of 47 or higher (BOC 100 placement). Concurrent enrollment in ACC 111 is required for all certificate and AAS Accounting majors and is highly recommended for all other students enrolled in ACC 101. Applicable toward graduation where program structure permits: Degree or Certificate - AA, AS, AAS, AGE, All Certificates General Education - Not Applicable, Elective Only",
+      "institution": "Carl Sandburg College"
+    },
+    {
+      "course_id": "ACC 102",
+      "course_title": "Principles of Accounting",
+      "credits": "3.00",
+      "description": "This is the second of two courses in principles of accounting. During this course the basic accounting theory required for corporations, including accounting for merchandise, receivables, other assets, liabilities and capital will be covered. In addition, job costing, unit process costing, decision making, and statement analysis are introduced. Offered: Fall, Spring, Summer Prerequisite: ACC 101. Concurrent enrollment in ACC 112 is required for all certificate and AAS Accounting majors and is highly recommended for all other students enrolled in ACC 102. Applicable toward graduation where program structure permits: Degree or Certificate - AA, AS, AAS, AGE, All Certificates General Education - Not Applicable, Elective Only",
+      "institution": "Carl Sandburg College"
+    },
+    {
+      "course_id": "ACC 111",
+      "course_title": "Accounting Lab",
+      "credits": "1.00",
+      "description": "This course is designed to be taught in conjunction with ACC 101 (Principles of Accounting 1). It will focus on general ledger software uses and microcomputer spreadsheet applications as they relate to the concepts covered in that course. This course is required for all AAS and Certificate accounting majors. It is recommended for business and accounting AA/AS majors. Offered: Fall, Spring, Summer Prerequisites: Concurrent (and continuing) enrollment in ACC 101, AOP 101, or concurrent enrollment, or the ability to key 20 wpm Applicable toward graduation where program structure permits: Degree or Certificate - AAS, AGE, All Certificates General Education - Not Applicable",
+      "institution": "Carl Sandburg College"
+    },
+    {
+      "course_id": "ACC 112",
+      "course_title": "Accounting Lab",
+      "credits": "2.00",
+      "description": "This course is designed to be taught in conjunction with ACC 102 (Principles of Accounting 2). It will focus on general ledger software uses and microcomputer spreadsheet applications as they relate to the concepts covered in that course. This course is required for all AAS and Certificate accounting majors. It is recommended for business and accounting AA/AS majors. Offered: Fall, Spring, Summer Prerequisite: Concurrent (and continuing) enrollment in ACC 102 Applicable toward graduation where program structure permits: Degree or Certificate - AAS, AGE, All Certificates General Education - Not Applicable",
+      "institution": "Carl Sandburg College"
+    },
+    {
+      "course_id": "ACC 201",
+      "course_title": "Intermediate Accounting",
+      "credits": "4.00",
+      "description": "This is a course in intermediate accounting for students preparing for employment upon completion of their studies at CSC. Students will examine the balance sheet, income statement, and statement of cash flows in detail. The conceptual framework of accounting, concepts of future and present value, cash and receivables, inventory, and the acquisition and disposition of property, plant, and equipment will be given special emphasis. Various methods of presenting financial statements for external users will be studied. Offered: Fall Prerequisite: ACC 102 Applicable toward graduation at CSC where program structure permits: Degree or Certificate - AA, AS, AAS, AGE, All Certificates General Education - Not Applicable",
+      "institution": "Carl Sandburg College"
+    },
+    {
+      "course_id": "ACC 202",
+      "course_title": "Intermediate Accounting",
+      "credits": "4.00",
+      "description": "This course is a continuation of Intermediate Accounting 1. Students will examine the balance sheet and income statement in detail with special emphasis on the liability and stockholder's equity accounts. Various methods of presenting financial statements for external users will be studied. Offered: Spring Prerequisite: ACC 201 Applicable toward graduation at CSC where program structure permits: Degree or Certificate - AA, AS, AAS, AGE, All Certificates General Education - Not Applicable",
+      "institution": "Carl Sandburg College"
+    },
+    {
+      "course_id": "ACC 203",
+      "course_title": "Accounting Software",
+      "credits": "3.00",
+      "description": "This course will use a commercial business accounting software package to familiarize the student with the type of accounting software he/she could encounter in the business world. Service businesses, retail and wholesale merchandising businesses, and non-profit businesses will be used to demonstrate the various aspects of the accounting cycle including accounts receivable, accounts payable, payroll, inventory, and financial statements. A manual practice set will also be used to familiarize students with special journals, subsidiary ledgers, accounts receivable/payable tasks, and the flow of information in the accounting cycle. This course is appropriate for accounting students preparing for employment upon completion of their studies at Carl Sandburg College. Offered: Fall, Spring Prerequisites: ACC 102 or concurrent enrollment and CIS 112 or consent of instructor Applicable toward graduation at CSC where program structure permits: Degree or Certificate - AAS, AGE, All Certificates General Education - Not Applicable",
+      "institution": "Carl Sandburg College"
+    },
+    {
+      "course_id": "ACC 205",
+      "course_title": "Cost Accounting",
+      "credits": "3.00",
+      "description": "This is a one-semester course in practices and procedures of cost accounting. It presents job order, process cost and standard cost accounting principles. This course is designed for baccalaureate oriented students. It is also appropriate for persons preparing for employment without completing a bachelor's degree. Offered: Fall, Spring Prerequisite: ACC 102 Applicable toward graduation at CSC where program structure permits: Degree or Certificate - AA, AS, AAS, AGE, All Certificates General Education - Not Applicable, Elective Only",
+      "institution": "Carl Sandburg College"
+    },
+    {
+      "course_id": "ACC 206",
+      "course_title": "Federal Income Tax",
+      "credits": "3.00",
+      "description": "This is a course designed to give students a fundamental background of the individual income tax system. The course presents the following topics: the background of the federal income tax withholding system; basic individual income tax; individual income tax structure; identification of inclusions and exclusions from gross income; itemized deductions; business returns for self-employed individuals; special tax situations for individuals; and changes affecting current year's tax laws. Offered: Spring Applicable toward graduation at CSC where program structure permits: Degree or Certificate - AAS, AGE, All Certificates General Education - Not Applicable",
+      "institution": "Carl Sandburg College"
+    }
+  ],
+  "timestamp": "2025-08-11T00:05:18.934562"
+}

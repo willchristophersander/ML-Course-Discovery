@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Taylor University",
+    "successful_variation": "Taylor University",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Taylor+University&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACC 241",
+      "course_title": "Accounting Principles I",
+      "credits": "3.00",
+      "description": "An introduction to the language of business. Financial transactions are analyzed, recorded, summarized and reported in a meaningful manner to management. Also studied are basic financial statements and the various accounting and internal control procedures for recording and protecting assets. Offered fall semester and January interterm.",
+      "institution": "Taylor University"
+    },
+    {
+      "course_id": "ACC 242",
+      "course_title": "Accounting Principles II",
+      "credits": "3.00",
+      "description": "Continuation of ACC 241. Accounting problems and procedures pertaining to partnerships and corporations are studied. Also studied are various accounting procedures and reports used by management in acquiring fixed assets, budgeting and controlling manufacturing and departmental operations, reporting financial conditions, and analyzing the results of operations. Prerequisite: ACC 241. Offered spring semester.",
+      "institution": "Taylor University"
+    },
+    {
+      "course_id": "ACC 308",
+      "course_title": "Integrated Accounting Systems",
+      "credits": "3.00",
+      "description": "Explores the use of integrated accounting software in a variety of business types through hands on use. Reinforces accounting principles and financial analysis. Emphasizes the setup and maintenance of an integrated software system. Prerequisites: ACC242. Offered in the spring semester of odd calendar years.",
+      "institution": "Taylor University"
+    },
+    {
+      "course_id": "ACC 353",
+      "course_title": "Fraud Examination",
+      "credits": "3.00",
+      "description": "A study of how and why various types of frauds are committed and how they may be deterred. Topics studied include fraud prevention and detection, investigation, as well as the various types including employee, vendor, customer, management, consumer, e-commerce and investment. Recent public frauds will be investigated and analyzed. Prerequisites: ACC342 or permission of instructor. Offered in the spring semester of even calendar years.",
+      "institution": "Taylor University"
+    },
+    {
+      "course_id": "ACC 375",
+      "course_title": "Accounting Ethics",
+      "credits": "3.00",
+      "description": "This course develops students' knowledge of the codes of professional ethics for accountants (AICPA Professional Standards, CMA, CIA, etc.) covering various services (e.g., audit, attestation, review, compilation, tax). In addition, it will explore different theories of ethical behavior and development and Christian ethics.",
+      "institution": "Taylor University"
+    },
+    {
+      "course_id": "ACC 381",
+      "course_title": "Gov and Non-profit Accounting",
+      "credits": "3.00",
+      "description": "Introduces fund accounting and covers the theory and accounting process for state and municipal governments and non-profit organizations. Prerequisites: ACC 342.",
+      "institution": "Taylor University"
+    },
+    {
+      "course_id": "ACC 394",
+      "course_title": "Extended Accounting Internship",
+      "credits": "9.00",
+      "description": "Supervised learning involving an extended first-hand experience. Prerequisites: 15 accounting hours and SYS 101 for majors pursuing a systems curriculum. Offered primarily during spring semester.",
+      "institution": "Taylor University"
+    },
+    {
+      "course_id": "ACC 406",
+      "course_title": "Auditing II (with Data Analy)",
+      "credits": "3.00",
+      "description": "A continuation of the study of how professional auditors serve the public, stockholders and management by impartially examining the accounting records and financial statements of enterprises. Topics to be studied include: standards, ethics of the profession, internal control procedures, risk assessment and the nature of audit evidence. The course will include the use of various data analytics tools and techniques focusing on quantitative analysis, depicting data visually, managing large volumes of data, deriving insights for risk assessment, audit planning and documenting audit evidence. Prerequisite: ACC 405 or permission of instructor.",
+      "institution": "Taylor University"
+    },
+    {
+      "course_id": "ACC 443",
+      "course_title": "Federal Taxes 2",
+      "credits": "3.00",
+      "description": "In depth study of taxation of entities including the tax treatment of formation and liquidation of business entities, differences between book and tax income (loss). The course also includes tax treatment of C Corporations, S Corporations, and partnerships, limited liability companies, and trusts and estates. The types of tax exempt organizations. Other topics covered include tax consolidation, payroll taxes and international topics. Prerequisite: ACC442. Offered spring semester of even calendar years.",
+      "institution": "Taylor University"
+    },
+    {
+      "course_id": "ACC 475",
+      "course_title": "CPA Topics and Certification",
+      "credits": "6.00",
+      "description": "A study of the topics tested on the Uniform Certified Public Accountant examination as published by the American Institute of Certified Public Accountants in its Content Specification Outlines. The course is designed to study these topics at a deeper level than previously introduced in previous courses, and to improve research, communication and application of these topics to business situations, demonstrating critical thinking and problem-solving skills. Prerequisites: ACC405, ACC416, and ACC442 or permission of instructor.",
+      "institution": "Taylor University"
+    }
+  ],
+  "timestamp": "2025-08-10T23:54:47.853741"
+}

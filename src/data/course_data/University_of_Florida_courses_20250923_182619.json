@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "University of Florida",
+    "successful_variation": "Florida",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Florida&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACCT 205",
+      "course_title": "Principles of Accounting I",
+      "credits": "4.50",
+      "description": "This course introduces students to financial accounting. Students can learn the fundamentals of the accounting cycle. Prerequisite: MATH 133 or equivalent",
+      "institution": "University of Florida"
+    },
+    {
+      "course_id": "ACCT 210",
+      "course_title": "Principles of Accounting II",
+      "credits": "4.50",
+      "description": "This is the second course in accounting principles and is an introduction to managerial accounting concepts. The objective of this course is to help students develop a solid understanding of costs and cost behavior and the use of cost information for planning, controlling, and making managerial decisions. Prerequisite: ACCT 205",
+      "institution": "University of Florida"
+    },
+    {
+      "course_id": "ACCT 310",
+      "course_title": "Managerial Accounting",
+      "credits": "4.50",
+      "description": "This course is designed to provide students with an understanding of the role of accounting information in support of decision making and planning throughout the organization. Students will learn accounting methods for planning and controlling operations through budgets, responsibility centers and cost management. Furthermore, students will learn various measures and analysis techniques to evaluate the performance of the business.",
+      "institution": "University of Florida"
+    },
+    {
+      "course_id": "ACCT 311",
+      "course_title": "Principles of Financial Accounting",
+      "credits": "4.50",
+      "description": "This course focuses on the underlying concepts, ethical, regulatory and business environment of financial reporting with an emphasis on measurement, valuation and presentation of typical asset-related items. Prerequisite: ACCT 310",
+      "institution": "University of Florida"
+    },
+    {
+      "course_id": "ACCT 315",
+      "course_title": "Intermediate Accounting I",
+      "credits": "4.50",
+      "description": "Intermediate accounting I provides a combination of professional language and vibrant pedagogy to facilitate the transition from financial principles to the professional accounting world and beyond. This course links accounting principles to the central activities of a business. A user/decision making approach, combined with the necessary coverage of GAAP, prepares the student to understand accounting in terms of a business'' activities, which reflects the broadening definition of accounting today. Prerequisite: ACCT 310",
+      "institution": "University of Florida"
+    },
+    {
+      "course_id": "ACCT 320",
+      "course_title": "Intermediate Accounting II",
+      "credits": "4.50",
+      "description": "This course covers the fundamentals of management accounting, including cost accounting, how to develop and use information for costing products and services, decision making, operational budgeting, performance evaluation, and other important subjects and provides an update on recent developments in the field. Prerequisite: ACCT 315",
+      "institution": "University of Florida"
+    },
+    {
+      "course_id": "ACCT 420",
+      "course_title": "Cost Accounting",
+      "credits": "4.50",
+      "description": "An advanced study of the concepts and techniques used by management accountants to assist decision-makers within the organization. Areas covered include process accounting, job-order accounting, measuring quality costs, activity-based costing, and evaluating performance. Prerequisite: ACCT 310",
+      "institution": "University of Florida"
+    },
+    {
+      "course_id": "ACCT 430",
+      "course_title": "Taxation",
+      "credits": "4.50",
+      "description": "This course will provide the students the fundamentals of individual income taxation. A background of accounting courses is not essential for this course. The course may be of special interest to non-accounting majors. Topics include exemptions, exclusions, and deductions available to the individual. These concepts will aid the student in the preparation of an individual tax return. Prerequisite: ACCT 310",
+      "institution": "University of Florida"
+    },
+    {
+      "course_id": "ACCT 435",
+      "course_title": "Auditing",
+      "credits": "4.50",
+      "description": "This course presents concepts of auditing, outlining the standards and practices of today''s auditors, and preparing students to perform the Integrated Audit with a necessary understanding of enterprise risk management and professional judgment as the future of the auditing profession. Prerequisite: ACCT 310",
+      "institution": "University of Florida"
+    },
+    {
+      "course_id": "ACCT 440",
+      "course_title": "Accounting Information Systems",
+      "credits": "4.50",
+      "description": "This course focuses on the study of concepts and terminology of accounting information systems and their use in decision making in accounting and auditing. The course also covers Information Technology (IT) fundamentals, responsibilities and business implications. Prerequisite: ACCT 310",
+      "institution": "University of Florida"
+    }
+  ],
+  "timestamp": "2025-09-23T18:26:19.811715"
+}

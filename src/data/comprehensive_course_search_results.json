@@ -1,0 +1,46 @@
+{
+  "timestamp": "2025-08-04 20:33:37",
+  "total_universities": 5,
+  "successful_finds": 4,
+  "success_rate": 0.8,
+  "total_time_seconds": 31.05756902694702,
+  "average_time_per_university": 6.211513805389404,
+  "parallel_processing": true,
+  "results": [
+    {
+      "university": "University of Missouri - Kansas City",
+      "domain": "umkc.edu",
+      "course_catalog": "https://umkc.edu/catalog",
+      "confidence": 0.9999999999999964,
+      "method": "ml_guessing_parallel_validated"
+    },
+    {
+      "university": "Kean College",
+      "domain": "kean.edu",
+      "course_catalog": null,
+      "confidence": 0.0,
+      "method": null
+    },
+    {
+      "university": "Franklin and Marshall College",
+      "domain": "fandm.edu",
+      "course_catalog": "https://fandm.edu/catalog",
+      "confidence": 0.9999999997951228,
+      "method": "ml_guessing_parallel_validated"
+    },
+    {
+      "university": "Simpson College",
+      "domain": "simpson.edu",
+      "course_catalog": "https://ss.simpson.edu/student/courses",
+      "confidence": 0.9999999997479447,
+      "method": "ml_guessing_parallel_validated_with_search_link"
+    },
+    {
+      "university": "University of Texas at Arlington",
+      "domain": "uta.edu",
+      "course_catalog": "https://uta.edu/catalog",
+      "confidence": 0.9999999973175151,
+      "method": "ml_guessing_parallel_validated"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "search_query": {
+    "institution": "University of Virginia",
+    "successful_variation": "University of Virginia",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=University+of+Virginia&distance=5"
+  },
+  "total_results": 7,
+  "courses": [
+    {
+      "course_id": "ACCT 301",
+      "course_title": "Intermediate Accounting I",
+      "credits": "3.00",
+      "description": "Prerequisite: ACCT 202, BUAD 211 An intensive study of generally accepted accounting principles. Topics include an overview of accounting and in-depth study of assets.",
+      "institution": "University of Virginia"
+    },
+    {
+      "course_id": "ACCT 302",
+      "course_title": "Intermediate Accounting II",
+      "credits": "3.00",
+      "description": "Prerequisite: ACCT 301 A continuation of ACCT 301. Topics include in-depth study of liabilities and stockholders' equity.",
+      "institution": "University of Virginia"
+    },
+    {
+      "course_id": "ACCT 303",
+      "course_title": "Advanced Accounting I",
+      "credits": "3.00",
+      "description": "Prerequisite: ACCT 302 A continuation of ACCT 302. An intensive study of financial reporting which focuses on financial statements and related disclosures. Reporting and disclosure issues include earning per share for complex capital structures, post-employment benefits, accounting for income taxes, and new developments in financial reporting.",
+      "institution": "University of Virginia"
+    },
+    {
+      "course_id": "ACCT 310",
+      "course_title": "Cost Accounting",
+      "credits": "3.00",
+      "description": "Prerequisite: ACCT 202, MATH 112 A study of accounting methods and practice for generating business cost data. Topics include cost concepts, cost behavior, cost-volume-profit relationships, responsibility accounting, and costing techniques.",
+      "institution": "University of Virginia"
+    },
+    {
+      "course_id": "ACCT 315",
+      "course_title": "Managerial Accounting",
+      "credits": "3.00",
+      "description": "Prerequisite: ACCT 310 A continuation of ACCT 310, this course is a study of methods and analysis for using cost accounting data for business decision making. Topics include cost behavior analysis, cost-volume-profit analysis, inventory management, and budgeting analysis.",
+      "institution": "University of Virginia"
+    },
+    {
+      "course_id": "ACCT 410",
+      "course_title": "Auditing I",
+      "credits": "3.00",
+      "description": "Prerequisite: ACCT 302 and BUAD 325 An introduction to audit methodology and the auditing profession. Topics include generally accepted auditing standards, auditing procedures, and the AICPA Code of Professional Ethics.",
+      "institution": "University of Virginia"
+    },
+    {
+      "course_id": "ACCT 411",
+      "course_title": "Auditing II",
+      "credits": "3.00",
+      "description": "Prerequisite: ACCT 410 A continuation of ACCT 410. Topics include application of standards, procedures, advanced field-work problems, and auditing reports.",
+      "institution": "University of Virginia"
+    }
+  ],
+  "timestamp": "2025-08-06T15:41:37.414199"
+}

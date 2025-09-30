@@ -1,0 +1,60 @@
+{
+  "search_query": {
+    "institution": "Nicholls State University",
+    "successful_variation": "Nicholls State University",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Nicholls+State+University&distance=5"
+  },
+  "total_results": 7,
+  "courses": [
+    {
+      "course_id": "ACCT 205",
+      "course_title": "Introduction to Financial Accounting",
+      "credits": "3.00",
+      "description": "Prerequisites: Sophomore standing (completion of 30 hours of non-developmental coursework) and eligibility for MATH 106. Introduction to corporate financial accounting systems including preparing, interpreting, and using financial statements. (52.0301)",
+      "institution": "Nicholls State University"
+    },
+    {
+      "course_id": "ACCT 206",
+      "course_title": "Introduction to Managerial Accounting",
+      "credits": "3.00",
+      "description": "Prerequisite: ACCT 205 or permission of the department head. Introduction to managerial accounting theories, tools, and concepts. Emphasis is placed on the techniques used to provide information for management decisions. (52.0301)",
+      "institution": "Nicholls State University"
+    },
+    {
+      "course_id": "ACCT 221",
+      "course_title": "Intermediate Financial Accounting I",
+      "credits": "3.00",
+      "description": "Prerequisite: C or better in ACCT 205. Theory and application of generally accepted accounting principles with an emphasis on the accounting cycle and the preparation and analysis of the financial statements. (52.0301)",
+      "institution": "Nicholls State University"
+    },
+    {
+      "course_id": "ACCT 306",
+      "course_title": "Cost Accounting",
+      "credits": "3.00",
+      "description": "Prerequisite: C or better in ACCT 205 and completion of 30 hours of non-developmental coursework. Cost concepts, cost behavior, cost techniques, and the uses and limitations of cost data in planning and control. (52.0301)",
+      "institution": "Nicholls State University"
+    },
+    {
+      "course_id": "ACCT 315",
+      "course_title": "Governmental and Not for Profit Accounting",
+      "credits": "3.00",
+      "description": "Prerequisite: C or better in ACCT 221 and completion of 60 hours of non-developmental coursework. Theory and practice of budgeting, financial and managerial accounting, auditing, and reporting for governmental and non profit organizations. (52.0301)",
+      "institution": "Nicholls State University"
+    },
+    {
+      "course_id": "ACCT 322",
+      "course_title": "Intermediate Financial Accounting II",
+      "credits": "3.00",
+      "description": "Prerequisite: C or better in ACCT 221 and completion of 60 hours of non-developmental coursework. Continuation of ACCT 221 emphasizing accounting for the assets, liabilities, and stockholdersa_ equity of an entity. (52.0301)",
+      "institution": "Nicholls State University"
+    },
+    {
+      "course_id": "ACCT 323",
+      "course_title": "Intermediate Financial Accounting III",
+      "credits": "3.00",
+      "description": "Prerequisite: C or better in ACCT 322. Continuation of ACCT 322 emphasizing accounting for leases, pensions, income taxes, corporate equity, accounting changes, statement of cash flows, and financial disclosures. (52.0301)",
+      "institution": "Nicholls State University"
+    }
+  ],
+  "timestamp": "2025-08-10T12:38:12.956660"
+}

@@ -1,0 +1,234 @@
+{
+  "timestamp": "2025-08-06T15:41:57.275106",
+  "analysis": {
+    "total_pages": 8,
+    "validation_success_rate": 0.75,
+    "overall_course_finding_rate": 0.1509433962264151,
+    "avg_discovery_confidence": 0.94,
+    "avg_validation_time": 2.704248696565628,
+    "successful_pages": [
+      {
+        "university": "University of California, Berkeley",
+        "url": "https://classes.berkeley.edu/",
+        "discovery_confidence": 0.94,
+        "course_finding_rate": 0.14285714285714285,
+        "courses_found": "1/7",
+        "validation_time": 4.1937971115112305
+      },
+      {
+        "university": "University of New Hampshire",
+        "url": "https://courses.unh.edu/",
+        "discovery_confidence": 0.94,
+        "course_finding_rate": 0.1,
+        "courses_found": "1/10",
+        "validation_time": 2.0922491550445557
+      },
+      {
+        "university": "University of Virginia",
+        "url": "https://classes.virginia.edu/",
+        "discovery_confidence": 0.94,
+        "course_finding_rate": 0.14285714285714285,
+        "courses_found": "1/7",
+        "validation_time": 2.2219340801239014
+      },
+      {
+        "university": "University of Vermont",
+        "url": "https://catalogue.uvm.edu/",
+        "discovery_confidence": 0.94,
+        "course_finding_rate": 0.1,
+        "courses_found": "1/10",
+        "validation_time": 2.0967869758605957
+      },
+      {
+        "university": "Stanford University",
+        "url": "https://explorecourses.stanford.edu/",
+        "discovery_confidence": 0.94,
+        "course_finding_rate": 0.3,
+        "courses_found": "3/10",
+        "validation_time": 2.092756986618042
+      },
+      {
+        "university": "MIT",
+        "url": "https://catalog.mit.edu/",
+        "discovery_confidence": 0.94,
+        "course_finding_rate": 0.1111111111111111,
+        "courses_found": "1/9",
+        "validation_time": 2.2807488441467285
+      }
+    ],
+    "failed_pages": [
+      {
+        "university": "Ohio State University",
+        "url": "https://classes.osu.edu/",
+        "error": "No test courses found in CollegeTransfer.net"
+      },
+      {
+        "university": "Harvard University",
+        "url": "https://courses.my.harvard.edu/psp/courses/EMPLOYEE/EMPL/h/?tab=HU_CLASS_SEARCH",
+        "error": "No test courses found in CollegeTransfer.net"
+      }
+    ],
+    "total_test_courses": 53,
+    "total_courses_found": 8
+  },
+  "detailed_results": [
+    {
+      "university_name": "University of California, Berkeley",
+      "discovered_url": "https://classes.berkeley.edu/",
+      "discovery_confidence": 0.94,
+      "validation_success": true,
+      "test_courses_found": 1,
+      "total_test_courses": 7,
+      "course_finding_rate": 0.14285714285714285,
+      "validation_time": 4.1937971115112305,
+      "error_message": null,
+      "found_courses": [
+        {
+          "course_id": "AEROSPC 135A",
+          "course_title": "Air Force Leadership Studies",
+          "credits": "3.00",
+          "found_on_page": true,
+          "confidence": 0.16666666666666666
+        }
+      ]
+    },
+    {
+      "university_name": "University of New Hampshire",
+      "discovered_url": "https://courses.unh.edu/",
+      "discovery_confidence": 0.94,
+      "validation_success": true,
+      "test_courses_found": 1,
+      "total_test_courses": 10,
+      "course_finding_rate": 0.1,
+      "validation_time": 2.0922491550445557,
+      "error_message": null,
+      "found_courses": [
+        {
+          "course_id": "ADM 400",
+          "course_title": "Introduction to Business",
+          "credits": "4.00",
+          "found_on_page": true,
+          "confidence": 0.16666666666666666
+        }
+      ]
+    },
+    {
+      "university_name": "Ohio State University",
+      "discovered_url": "https://classes.osu.edu/",
+      "discovery_confidence": 0.94,
+      "validation_success": false,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "course_finding_rate": 0.0,
+      "validation_time": 3.3535640239715576,
+      "error_message": "No test courses found in CollegeTransfer.net",
+      "found_courses": null
+    },
+    {
+      "university_name": "University of Virginia",
+      "discovered_url": "https://classes.virginia.edu/",
+      "discovery_confidence": 0.94,
+      "validation_success": true,
+      "test_courses_found": 1,
+      "total_test_courses": 7,
+      "course_finding_rate": 0.14285714285714285,
+      "validation_time": 2.2219340801239014,
+      "error_message": null,
+      "found_courses": [
+        {
+          "course_id": "ACCT 301",
+          "course_title": "Intermediate Accounting I",
+          "credits": "3.00",
+          "found_on_page": true,
+          "confidence": 0.16666666666666666
+        }
+      ]
+    },
+    {
+      "university_name": "University of Vermont",
+      "discovered_url": "https://catalogue.uvm.edu/",
+      "discovery_confidence": 0.94,
+      "validation_success": true,
+      "test_courses_found": 1,
+      "total_test_courses": 10,
+      "course_finding_rate": 0.1,
+      "validation_time": 2.0967869758605957,
+      "error_message": null,
+      "found_courses": [
+        {
+          "course_id": "AIS 005",
+          "course_title": "Glimpses of Chinese Culture",
+          "credits": "6.00",
+          "found_on_page": true,
+          "confidence": 0.16666666666666666
+        }
+      ]
+    },
+    {
+      "university_name": "Harvard University",
+      "discovered_url": "https://courses.my.harvard.edu/psp/courses/EMPLOYEE/EMPL/h/?tab=HU_CLASS_SEARCH",
+      "discovery_confidence": 0.94,
+      "validation_success": false,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "course_finding_rate": 0.0,
+      "validation_time": 3.302152395248413,
+      "error_message": "No test courses found in CollegeTransfer.net",
+      "found_courses": null
+    },
+    {
+      "university_name": "Stanford University",
+      "discovered_url": "https://explorecourses.stanford.edu/",
+      "discovery_confidence": 0.94,
+      "validation_success": true,
+      "test_courses_found": 3,
+      "total_test_courses": 10,
+      "course_finding_rate": 0.3,
+      "validation_time": 2.092756986618042,
+      "error_message": null,
+      "found_courses": [
+        {
+          "course_id": "AA 100",
+          "course_title": "Introduction to Aeronautics and Astronautics",
+          "credits": "3.00",
+          "found_on_page": true,
+          "confidence": 0.3333333333333333
+        },
+        {
+          "course_id": "AA 113N",
+          "course_title": "Structures:Why Things Don't Fall Down",
+          "credits": "3.00",
+          "found_on_page": true,
+          "confidence": 0.3333333333333333
+        },
+        {
+          "course_id": "AA 190",
+          "course_title": "Directed Research and Writing in Aero/Astro",
+          "credits": "3.00",
+          "found_on_page": true,
+          "confidence": 0.3333333333333333
+        }
+      ]
+    },
+    {
+      "university_name": "MIT",
+      "discovered_url": "https://catalog.mit.edu/",
+      "discovery_confidence": 0.94,
+      "validation_success": true,
+      "test_courses_found": 1,
+      "total_test_courses": 9,
+      "course_finding_rate": 0.1111111111111111,
+      "validation_time": 2.2807488441467285,
+      "error_message": null,
+      "found_courses": [
+        {
+          "course_id": "AR 200",
+          "course_title": "Introduction to Fine Arts",
+          "credits": "3.00",
+          "found_on_page": true,
+          "confidence": 0.16666666666666666
+        }
+      ]
+    }
+  ]
+}

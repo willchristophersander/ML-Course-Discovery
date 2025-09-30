@@ -1,0 +1,107 @@
+{
+  "timestamp": "2025-08-08T18:32:12.482352",
+  "analysis": {
+    "total_universities": 5,
+    "discovery_success_rate": 0.2,
+    "avg_discovery_confidence": 0.905,
+    "validation_success_rate": 0.2,
+    "avg_validation_confidence": 0.2,
+    "course_finding_rate": 0.6,
+    "avg_discovery_time": 11.489646387100219,
+    "avg_validation_time": 0.43186397552490235,
+    "successful_discoveries": [
+      {
+        "university": "Bloomfield College",
+        "url": "https://www.bloomfield.edu/academics/catalogs/",
+        "discovery_confidence": 0.905,
+        "validation_confidence": 0.2,
+        "courses_found": "3/5"
+      }
+    ],
+    "failed_discoveries": [
+      {
+        "university": "Crafton Hills College",
+        "error": "No search results found with any strategy"
+      },
+      {
+        "university": "Delaware State University",
+        "error": "No search results found with any strategy"
+      },
+      {
+        "university": "Marion Military Institute",
+        "error": "No search results found with any strategy"
+      },
+      {
+        "university": "Northwestern University",
+        "error": "Page.click: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"a[href='https://www.it.northwestern.edu/support/researchers/index.html']\")\n"
+      }
+    ]
+  },
+  "detailed_results": [
+    {
+      "university_name": "Crafton Hills College",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No search results found with any strategy",
+      "discovery_time": 3.2611351013183594,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "Delaware State University",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No search results found with any strategy",
+      "discovery_time": 3.5094351768493652,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "Bloomfield College",
+      "discovered_url": "https://www.bloomfield.edu/academics/catalogs/",
+      "discovery_success": true,
+      "discovery_confidence": 0.905,
+      "validation_success": true,
+      "validation_confidence": 0.2,
+      "test_courses_found": 3,
+      "total_test_courses": 5,
+      "error_message": null,
+      "discovery_time": 11.241446018218994,
+      "validation_time": 2.1593198776245117
+    },
+    {
+      "university_name": "Marion Military Institute",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No search results found with any strategy",
+      "discovery_time": 3.564572811126709,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "Northwestern University",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "Page.click: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"a[href='https://www.it.northwestern.edu/support/researchers/index.html']\")\n",
+      "discovery_time": 35.87164282798767,
+      "validation_time": 0.0
+    }
+  ]
+}

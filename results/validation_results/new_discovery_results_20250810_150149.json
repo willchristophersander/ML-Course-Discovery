@@ -1,0 +1,40 @@
+{
+  "timestamp": "2025-08-10T15:01:49.894076",
+  "analysis": {
+    "total_universities": 1,
+    "discovery_success_rate": 1.0,
+    "avg_discovery_confidence": 0.765,
+    "ct_availability_rate": 1.0,
+    "colleges_with_ct_courses": 1,
+    "validation_success_rate": 1.0,
+    "avg_validation_confidence": 0.4,
+    "course_finding_rate": 0.8,
+    "avg_discovery_time": 4.377779960632324,
+    "avg_validation_time": 2.6433498859405518,
+    "successful_discoveries": [
+      {
+        "university": "Lorain County Community College",
+        "url": "https://www.lorainccc.edu/programs-and-careers/class-schedule/",
+        "discovery_confidence": 0.765,
+        "validation_confidence": 0.4,
+        "courses_found": "4/5"
+      }
+    ],
+    "failed_discoveries": []
+  },
+  "detailed_results": [
+    {
+      "university_name": "Lorain County Community College",
+      "discovered_url": "https://www.lorainccc.edu/programs-and-careers/class-schedule/",
+      "discovery_success": true,
+      "discovery_confidence": 0.765,
+      "validation_success": true,
+      "validation_confidence": 0.4,
+      "test_courses_found": 4,
+      "total_test_courses": 5,
+      "error_message": null,
+      "discovery_time": 4.377779960632324,
+      "validation_time": 2.6433498859405518
+    }
+  ]
+}

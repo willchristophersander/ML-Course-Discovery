@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Stillman College",
+    "successful_variation": "Stillman College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Stillman+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACC 231",
+      "course_title": "Principles of Accounting I",
+      "credits": "3.00",
+      "description": "This course describes to the student the fundamental concepts and principles that underlie accounting information and shows how accounting data are processed for decision making.",
+      "institution": "Stillman College"
+    },
+    {
+      "course_id": "ACC 232",
+      "course_title": "Principles of Accounting II",
+      "credits": "3.00",
+      "description": "This course is a continuation of the first semester of accounting with emphasis on valuation of balance sheet items and the effect of the income statement. Partnership and corporation accounting concepts are introduced. Prerequisite: ACC 231.",
+      "institution": "Stillman College"
+    },
+    {
+      "course_id": "ACC 331",
+      "course_title": "Intermediate Accounting I",
+      "credits": "3.00",
+      "description": "This course is an intensive study of accounting principles, developing ability to analyze accounting methods and procedures and to test their accuracy. Prerequisites: ACC 231, 232.",
+      "institution": "Stillman College"
+    },
+    {
+      "course_id": "ACC 332",
+      "course_title": "Intermediate Accounting II",
+      "credits": "3.00",
+      "description": "This course is a continuation of financial accounting theory, culminating with a review of special purpose statements. Prerequisite: ACC 331.",
+      "institution": "Stillman College"
+    },
+    {
+      "course_id": "ACC 430",
+      "course_title": "Computerized Accounting",
+      "credits": "3.00",
+      "description": "This course is designed for those who have had little or no exposure to computers and/or programming. The course will give the student a basic background in microcomputers as they relate to the fields of accounting and business. Prerequisite: ACC 232.",
+      "institution": "Stillman College"
+    },
+    {
+      "course_id": "ACC 434",
+      "course_title": "Income Tax Procedures",
+      "credits": "3.00",
+      "description": "This course presents managerial accounting concepts, theories, techniques and system that provide information for internal reporting, planning, controlling and interpreting accounting data for decision purposes Prerequisites ACC 234 with grade C or better.",
+      "institution": "Stillman College"
+    },
+    {
+      "course_id": "ACC 435",
+      "course_title": "Managerial Accounting",
+      "credits": "3.00",
+      "description": "This course presents internal reporting and control of operations from management's point of view with emphasis on product and service unit cost control. Prerequisites: ACC 232.",
+      "institution": "Stillman College"
+    },
+    {
+      "course_id": "ACC 436",
+      "course_title": "Governmental Accounting",
+      "credits": "3.00",
+      "description": "This course is an introduction to the accounting procedures associated with government appropriations and expenditures. Course also covers responsibility for funds of other non-profit institutions. Prerequisites: ACC 232.",
+      "institution": "Stillman College"
+    },
+    {
+      "course_id": "AFS 110",
+      "course_title": "The Foundations of the United States Air Force",
+      "credits": "1.00",
+      "description": "This is a survey course designed to introduce students to the United States Air Force and Air Force Reserve Officer Training Corps. Featured topics include: mission and organization of the Air Force, officer ship and professionalism, military customs and courtesies, Air Force officer opportunities, and an introduction to communication skills. Leadership Laboratory is mandatory for AFROTC cadets and complements this course by providing cadets with follower ship experiences. One hour of lecture and one and one-half hours of lab per week. Offered fall semester only. Corequisite: AFS 101 Leadership Laboratory.",
+      "institution": "Stillman College"
+    },
+    {
+      "course_id": "AFS 120",
+      "course_title": "The Foundations of the United States Air Force",
+      "credits": "1.00",
+      "description": "This is a survey course designed to introduce students to the United States Air Force and Air Force Reserve Officer Training Corps. Featured topics include: mission and organization of the Air Force, officer ship and professionalism, military customs and courtesies, Air Force officer opportunities, and an introduction to communication skills. Leadership Laboratory is mandatory for AFROTC cadets and complements this course by providing cadets with follower ship experiences. One hour of lecture and one and one-half hours of lab per week. This course is offered spring semester only. Co-requisite: AFS 102 Leadership Laboratory.",
+      "institution": "Stillman College"
+    }
+  ],
+  "timestamp": "2025-08-10T12:50:05.238080"
+}

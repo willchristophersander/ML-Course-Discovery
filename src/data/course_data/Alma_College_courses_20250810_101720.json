@@ -1,0 +1,25 @@
+{
+  "search_query": {
+    "institution": "Alma College",
+    "successful_variation": "Alma College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Alma+College&distance=5"
+  },
+  "total_results": 2,
+  "courses": [
+    {
+      "course_id": "AMS 101",
+      "course_title": "Introduction to American Studies",
+      "credits": "2.00",
+      "description": "Focuses on the multi-disciplinary perspectives needed to understand the complexity of \"the American experience(s).\" (Open only to freshmen and sophomores.)",
+      "institution": "Alma College"
+    },
+    {
+      "course_id": "AMS 102",
+      "course_title": "Perspectives on the American Experience(s)",
+      "credits": "2.00",
+      "description": "Focuses on seminal sources for deepening one's perspectives on \"America.\" (Open only to freshmen and sophomores.)",
+      "institution": "Alma College"
+    }
+  ],
+  "timestamp": "2025-08-10T10:17:20.761928"
+}

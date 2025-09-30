@@ -1,0 +1,67 @@
+{
+  "search_query": {
+    "institution": "Saint Xavier University",
+    "successful_variation": "Saint Xavier University",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Saint+Xavier+University&distance=5"
+  },
+  "total_results": 8,
+  "courses": [
+    {
+      "course_id": "AAS 101",
+      "course_title": "Introduction to African-American Studies",
+      "credits": "3.00",
+      "description": "This multidisciplinary course will survey the various theories, frameworks and methods currently employed in examining the collective history, experience, contributions and status of African-Americans in the United States and abroad.",
+      "institution": "Saint Xavier University"
+    },
+    {
+      "course_id": "AAS 129",
+      "course_title": "Jazz in Chicago",
+      "credits": "3.00",
+      "description": "Cross Ref: MUS 129 Offered during the spring term A survey course in the history of jazz and Chicago's influence on the development of jazz. Coursework will include lecture, discussion and field trips. Students attend musical performances together to share and discuss common musical experiences. Ticket fee.",
+      "institution": "Saint Xavier University"
+    },
+    {
+      "course_id": "AAS 219",
+      "course_title": "Culture and Race in America",
+      "credits": "3.00",
+      "description": "Cross Ref: POLSC 219 Offered alternate years Explores the historical and cultural influences of race relations in the United States from colonial times to the present. Central ideas will be examined through an analysis of treatises, literature, movies, plays, novels and speeches from a variety of disciplinary perspectives.",
+      "institution": "Saint Xavier University"
+    },
+    {
+      "course_id": "AAS 225",
+      "course_title": "Racial and Ethnic Relations",
+      "credits": "3.00",
+      "description": "Cross Ref: SOC 225, LS 275 Offered annually The sociological factors in racial and ethnic relations are examined. Consideration is given to the nature of institutional racism. The dynamics of prejudice and discrimination are analyzed.",
+      "institution": "Saint Xavier University"
+    },
+    {
+      "course_id": "AAS 228",
+      "course_title": "African-American History",
+      "credits": "3.00",
+      "description": "Cross Ref: HIST 228 Offered alternate years This course explores the history of African-Americans from slavery to freedom, beginning with the slave trade and concluding with the civil rights movement of the 1950s and 1960s. Topics include slave religions, abolitionism and the Harlem Renaissance, as well as leading African-American voices.",
+      "institution": "Saint Xavier University"
+    },
+    {
+      "course_id": "AAS 242",
+      "course_title": "History of Africa",
+      "credits": "3.00",
+      "description": "Cross Ref: HIST 242 Offered alternate years A survey of major historical themes that have shaped African life over long periods of time and across the continent. Topics include trade and migration, ecology, and human adaptation, the family and sexual division of labor, colonialism and the challenges of the Post-Colonial period.",
+      "institution": "Saint Xavier University"
+    },
+    {
+      "course_id": "AAS 260",
+      "course_title": "Special Topics",
+      "credits": "3.00",
+      "description": "Topics for this course will vary. Previous topics have included Arts of Africa, Black Catholic Experience, and African-American Women's History.",
+      "institution": "Saint Xavier University"
+    },
+    {
+      "course_id": "AAS 315",
+      "course_title": "Diversity in American Education",
+      "credits": "3.00",
+      "description": "Cross Ref: EDU 315 Examines the historical, philosophical and social foundations that have shaped diversity in American education. Critically analyzes personal biases that affect teaching and learning. In addition, explores the role of schools as social-change agents that transmit cultural values and promote multiculturalism. Includes a service-learning component.",
+      "institution": "Saint Xavier University"
+    }
+  ],
+  "timestamp": "2025-08-10T20:24:29.846356"
+}

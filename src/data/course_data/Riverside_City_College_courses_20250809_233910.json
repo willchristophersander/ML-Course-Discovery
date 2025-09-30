@@ -1,0 +1,18 @@
+{
+  "search_query": {
+    "institution": "Riverside City College",
+    "successful_variation": "Riverside City College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Riverside+City+College&distance=5"
+  },
+  "total_results": 1,
+  "courses": [
+    {
+      "course_id": "ACC 200",
+      "course_title": "Accounting Work Experience",
+      "credits": "4.00",
+      "description": "CSU* Prerequisite: None. Advisory: Students should have paid or voluntary employment. This course is designed to coordinate the student's occupational on-thejob training with related classroom instruction. Students enrolled in this occupational work experience course must be employed in a field related to the work experience subject area. Students may earn up to four (4) units each semester for a maximum of 16 units of work experience. No more than 20 hours per week may be applied toward the work requirement. 18 hours lecture. Additionally, 60 hours of volunteer work or 75 hours of paid work is required for each unit.",
+      "institution": "Riverside City College"
+    }
+  ],
+  "timestamp": "2025-08-09T23:39:10.959452"
+}

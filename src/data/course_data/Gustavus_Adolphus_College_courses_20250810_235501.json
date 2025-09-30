@@ -1,0 +1,67 @@
+{
+  "search_query": {
+    "institution": "Gustavus Adolphus College",
+    "successful_variation": "Gustavus Adolphus College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Gustavus+Adolphus+College&distance=5"
+  },
+  "total_results": 8,
+  "courses": [
+    {
+      "course_id": "ART 101",
+      "course_title": "Art History I",
+      "credits": "1.00",
+      "description": "A survey of painting, sculpture, and architecture from the ancient Near East, Egypt, Greece, and Rome through CE 1400. Non-Western art traditions will be included. Changes and developments in artistic styles and relationships between artistic concerns and cultural attitudes will be examined. ARTS, Fall semester.",
+      "institution": "Gustavus Adolphus College"
+    },
+    {
+      "course_id": "ART 102",
+      "course_title": "Art History II",
+      "credits": "1.00",
+      "description": "A survey of painting, sculpture, and architecture from CE 1400 through the present. Broad movements in style will be studied, the achievements of individual artists will be analyzed, and cultural contexts will be examined. While emphasizing the Western tradition, the course will also include non-Western art. ARTS, Spring semester.",
+      "institution": "Gustavus Adolphus College"
+    },
+    {
+      "course_id": "ART 110",
+      "course_title": "Drawing - Techniques and Theories",
+      "credits": "1.00",
+      "description": "This is an introductory studio arts course. The goal is to develop the ability to use the techniques, processes, and tools of drawing as investigation into meaning, intention, audience, craft, execution and presentation. The framework of this course is designed to demonstrate how the art of drawing is the mind's connective link to endless analytical and poetic perspectives. ARTS, Fall and Spring semesters.",
+      "institution": "Gustavus Adolphus College"
+    },
+    {
+      "course_id": "ART 117",
+      "course_title": "Studio Foundations",
+      "credits": "1.00",
+      "description": "This course serves as an introduction to the elements and principles of aesthetic language as they relate to basic design issues. It is an exercise in craftsmanship, presentation, and clear concept development to communicate ideas through perceptual, symbolic, and expressive relationships. Students will identify and describe the elements of art and principles of design and utilize these elements to create and execute designs. They also will use design terminology and vocabulary effectively in written and oral communication and will utilize the design process (research, studies/sketches, completed work) as a means of arriving at successful design solutions. ARTS, Fall and Spring semesters.",
+      "institution": "Gustavus Adolphus College"
+    },
+    {
+      "course_id": "ART 232",
+      "course_title": "Oil Painting",
+      "credits": "1.00",
+      "description": "An introduction to painting through the use of oil pigments on stretched canvas. Painting will be explored as a very adaptable medium open to a variety of subject matter, styles, content, and techniques. The tradition of painting will be explored through assignments using historical and contemporary approaches. Group and individual critiques will be used to evaluate technical and aesthetic growth during the semester. ARTS, Fall semester.",
+      "institution": "Gustavus Adolphus College"
+    },
+    {
+      "course_id": "ART 233",
+      "course_title": "Acrylic Painting",
+      "credits": "1.00",
+      "description": "Acrylic painting is an introduction to the use of the medium in a variety of subject matter, styles, and techniques. Concepts in the creative use of color, composition, paint handling, and the implications for content will be explored. Group and individual critiques during the semester will help encourage technical and aesthetic growth. ARTS, Spring semester.",
+      "institution": "Gustavus Adolphus College"
+    },
+    {
+      "course_id": "ART 234",
+      "course_title": "Sculpture",
+      "credits": "3.00",
+      "description": "- Clay Modeling/Bronze Casting (1) An intense exploration into three-dimensional form using wet clay on armatures. Projects include a series of object, portrait, and/or figure studies. All aspects of plaster moldmaking to different casting techniques will be addressed. Finished works will be cast in bronze. Lectures and critiques will address formal and contemporary issues related to sculpture. In terms of out-of-class work, emphasis will be placed on the creative process as it relates to personal growth and interest. ARTS, Fall and Spring semesters.",
+      "institution": "Gustavus Adolphus College"
+    },
+    {
+      "course_id": "ART 235",
+      "course_title": "Sculpture - Metal",
+      "credits": "1.00",
+      "description": "An exploration into three-dimensional form using metal as the medium. Students will learn how to fabricate sculpture using metal. Lectures and critiques will address formal and contemporary issues related to sculpture. In terms of out-of-class work, emphasis will be placed on the creative process as it relates to personal growth and interest. ARTS, Fall and Spring semesters.",
+      "institution": "Gustavus Adolphus College"
+    }
+  ],
+  "timestamp": "2025-08-10T23:55:01.947371"
+}

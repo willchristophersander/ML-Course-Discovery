@@ -1,0 +1,283 @@
+{
+  "timestamp": "2025-09-23T18:28:01.903540",
+  "analysis": {
+    "total_universities": 15,
+    "discovery_success_rate": 0.6666666666666666,
+    "validation_success_rate": 0.5333333333333333,
+    "avg_total_time": 7.772587807973226,
+    "overall_course_finding_rate": 0.2,
+    "total_test_courses": 40,
+    "total_courses_found": 8,
+    "successful_discoveries": [
+      {
+        "university": "University of Texas",
+        "url": "https://courses.utexas.edu",
+        "validation_success": false,
+        "course_finding_rate": 0.0,
+        "courses_found": "0/0",
+        "total_time": 14.960855960845947
+      },
+      {
+        "university": "University of Florida",
+        "url": "https://catalog.ufl.edu",
+        "validation_success": true,
+        "course_finding_rate": 0.2,
+        "courses_found": "1/5",
+        "total_time": 8.446511268615723
+      },
+      {
+        "university": "University of Washington",
+        "url": "https://courses.washington.edu",
+        "validation_success": true,
+        "course_finding_rate": 0.2,
+        "courses_found": "1/5",
+        "total_time": 10.353240013122559
+      },
+      {
+        "university": "University of Illinois",
+        "url": "https://courses.illinois.edu",
+        "validation_success": true,
+        "course_finding_rate": 0.2,
+        "courses_found": "1/5",
+        "total_time": 4.890588045120239
+      },
+      {
+        "university": "University of Minnesota",
+        "url": "https://catalog.umn.edu",
+        "validation_success": true,
+        "course_finding_rate": 0.2,
+        "courses_found": "1/5",
+        "total_time": 5.9886767864227295
+      },
+      {
+        "university": "University of Arizona",
+        "url": "https://catalog.arizona.edu",
+        "validation_success": true,
+        "course_finding_rate": 0.2,
+        "courses_found": "1/5",
+        "total_time": 6.62797212600708
+      },
+      {
+        "university": "University of Colorado",
+        "url": "https://classes.colorado.edu",
+        "validation_success": true,
+        "course_finding_rate": 0.2,
+        "courses_found": "1/5",
+        "total_time": 17.66721487045288
+      },
+      {
+        "university": "University of Oregon",
+        "url": "https://classes.uoregon.edu",
+        "validation_success": true,
+        "course_finding_rate": 0.2,
+        "courses_found": "1/5",
+        "total_time": 7.582626104354858
+      },
+      {
+        "university": "Texas A&M University",
+        "url": "https://catalog.tamu.edu",
+        "validation_success": false,
+        "course_finding_rate": 0.0,
+        "courses_found": "0/0",
+        "total_time": 6.80315899848938
+      },
+      {
+        "university": "Illinois State University",
+        "url": "https://www.ilstu.edu/catalog",
+        "validation_success": true,
+        "course_finding_rate": 0.2,
+        "courses_found": "1/5",
+        "total_time": 7.880177974700928
+      }
+    ],
+    "failed_discoveries": [
+      {
+        "university": "University of Michigan",
+        "error": "No course search pages found"
+      },
+      {
+        "university": "University of Wisconsin",
+        "error": "No course search pages found"
+      },
+      {
+        "university": "Michigan State University",
+        "error": "No course search pages found"
+      },
+      {
+        "university": "Florida State University",
+        "error": "No course search pages found"
+      },
+      {
+        "university": "Washington State University",
+        "error": "No course search pages found"
+      }
+    ]
+  },
+  "detailed_results": [
+    {
+      "university_name": "University of Michigan",
+      "discovered_url": "",
+      "discovery_success": false,
+      "validation_success": false,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "course_finding_rate": 0.0,
+      "total_time": 4.216271162033081,
+      "error_message": "No course search pages found"
+    },
+    {
+      "university_name": "University of Texas",
+      "discovered_url": "https://courses.utexas.edu",
+      "discovery_success": true,
+      "validation_success": false,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "course_finding_rate": 0.0,
+      "total_time": 14.960855960845947,
+      "error_message": "No test courses found in CollegeTransfer.net"
+    },
+    {
+      "university_name": "University of Florida",
+      "discovered_url": "https://catalog.ufl.edu",
+      "discovery_success": true,
+      "validation_success": true,
+      "test_courses_found": 1,
+      "total_test_courses": 5,
+      "course_finding_rate": 0.2,
+      "total_time": 8.446511268615723,
+      "error_message": null
+    },
+    {
+      "university_name": "University of Washington",
+      "discovered_url": "https://courses.washington.edu",
+      "discovery_success": true,
+      "validation_success": true,
+      "test_courses_found": 1,
+      "total_test_courses": 5,
+      "course_finding_rate": 0.2,
+      "total_time": 10.353240013122559,
+      "error_message": null
+    },
+    {
+      "university_name": "University of Illinois",
+      "discovered_url": "https://courses.illinois.edu",
+      "discovery_success": true,
+      "validation_success": true,
+      "test_courses_found": 1,
+      "total_test_courses": 5,
+      "course_finding_rate": 0.2,
+      "total_time": 4.890588045120239,
+      "error_message": null
+    },
+    {
+      "university_name": "University of Wisconsin",
+      "discovered_url": "",
+      "discovery_success": false,
+      "validation_success": false,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "course_finding_rate": 0.0,
+      "total_time": 2.9035468101501465,
+      "error_message": "No course search pages found"
+    },
+    {
+      "university_name": "University of Minnesota",
+      "discovered_url": "https://catalog.umn.edu",
+      "discovery_success": true,
+      "validation_success": true,
+      "test_courses_found": 1,
+      "total_test_courses": 5,
+      "course_finding_rate": 0.2,
+      "total_time": 5.9886767864227295,
+      "error_message": null
+    },
+    {
+      "university_name": "University of Arizona",
+      "discovered_url": "https://catalog.arizona.edu",
+      "discovery_success": true,
+      "validation_success": true,
+      "test_courses_found": 1,
+      "total_test_courses": 5,
+      "course_finding_rate": 0.2,
+      "total_time": 6.62797212600708,
+      "error_message": null
+    },
+    {
+      "university_name": "University of Colorado",
+      "discovered_url": "https://classes.colorado.edu",
+      "discovery_success": true,
+      "validation_success": true,
+      "test_courses_found": 1,
+      "total_test_courses": 5,
+      "course_finding_rate": 0.2,
+      "total_time": 17.66721487045288,
+      "error_message": null
+    },
+    {
+      "university_name": "University of Oregon",
+      "discovered_url": "https://classes.uoregon.edu",
+      "discovery_success": true,
+      "validation_success": true,
+      "test_courses_found": 1,
+      "total_test_courses": 5,
+      "course_finding_rate": 0.2,
+      "total_time": 7.582626104354858,
+      "error_message": null
+    },
+    {
+      "university_name": "Michigan State University",
+      "discovered_url": "",
+      "discovery_success": false,
+      "validation_success": false,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "course_finding_rate": 0.0,
+      "total_time": 6.4286088943481445,
+      "error_message": "No course search pages found"
+    },
+    {
+      "university_name": "Texas A&M University",
+      "discovered_url": "https://catalog.tamu.edu",
+      "discovery_success": true,
+      "validation_success": false,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "course_finding_rate": 0.0,
+      "total_time": 6.80315899848938,
+      "error_message": "No test courses found in CollegeTransfer.net"
+    },
+    {
+      "university_name": "Florida State University",
+      "discovered_url": "",
+      "discovery_success": false,
+      "validation_success": false,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "course_finding_rate": 0.0,
+      "total_time": 2.6078572273254395,
+      "error_message": "No course search pages found"
+    },
+    {
+      "university_name": "Washington State University",
+      "discovered_url": "",
+      "discovery_success": false,
+      "validation_success": false,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "course_finding_rate": 0.0,
+      "total_time": 9.231510877609253,
+      "error_message": "No course search pages found"
+    },
+    {
+      "university_name": "Illinois State University",
+      "discovered_url": "https://www.ilstu.edu/catalog",
+      "discovery_success": true,
+      "validation_success": true,
+      "test_courses_found": 1,
+      "total_test_courses": 5,
+      "course_finding_rate": 0.2,
+      "total_time": 7.880177974700928,
+      "error_message": null
+    }
+  ]
+}

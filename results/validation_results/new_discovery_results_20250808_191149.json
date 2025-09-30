@@ -1,0 +1,498 @@
+{
+  "timestamp": "2025-08-08T19:11:49.240735",
+  "analysis": {
+    "total_universities": 25,
+    "discovery_success_rate": 0.72,
+    "avg_discovery_confidence": 0.8652777777777778,
+    "validation_success_rate": 0.36,
+    "avg_validation_confidence": 0.3333333333333333,
+    "course_finding_rate": 0.6190476190476191,
+    "avg_discovery_time": 22.92117245674133,
+    "avg_validation_time": 1.8265166282653809,
+    "successful_discoveries": [
+      {
+        "university": "Texas A&M University - College Station",
+        "url": "https://catalog.tamu.edu/undergraduate/course-descriptions/",
+        "discovery_confidence": 0.78,
+        "validation_confidence": 0.0,
+        "courses_found": "0/0"
+      },
+      {
+        "university": "Minnesota State University Moorhead",
+        "url": "https://www.minnesota.edu/course-descriptions",
+        "discovery_confidence": 0.935,
+        "validation_confidence": 0.2,
+        "courses_found": "2/2"
+      },
+      {
+        "university": "Carleton College",
+        "url": "https://www.carleton.edu/catalog/current/search/",
+        "discovery_confidence": 0.935,
+        "validation_confidence": 0.4,
+        "courses_found": "2/5"
+      },
+      {
+        "university": "Western Technical College",
+        "url": "https://www.westerntc.edu/find-class",
+        "discovery_confidence": 0.69,
+        "validation_confidence": 0.0,
+        "courses_found": "0/0"
+      },
+      {
+        "university": "Bennington College",
+        "url": "https://www.bennington.edu/academics/curriculum/courses",
+        "discovery_confidence": 0.935,
+        "validation_confidence": 0.0,
+        "courses_found": "0/0"
+      },
+      {
+        "university": "Colorado Christian University",
+        "url": "https://classes.colorado.edu/",
+        "discovery_confidence": 0.935,
+        "validation_confidence": 0.2,
+        "courses_found": "5/5"
+      },
+      {
+        "university": "Schenectady County Community College",
+        "url": "https://sunysccc.edu/Academics/Register-for-Classes/Course-Schedule-and-Academic-Calendar.html",
+        "discovery_confidence": 0.81,
+        "validation_confidence": 0.6,
+        "courses_found": "3/5"
+      },
+      {
+        "university": "York College of Pennsylvania",
+        "url": "https://www.york.edu/classes",
+        "discovery_confidence": 0.925,
+        "validation_confidence": 0.2,
+        "courses_found": "1/5"
+      },
+      {
+        "university": "Harvard University",
+        "url": "https://courses.my.harvard.edu/psp/courses/EMPLOYEE/EMPL/h/?tab=HU_CLASS_SEARCH",
+        "discovery_confidence": 0.935,
+        "validation_confidence": 0.0,
+        "courses_found": "0/0"
+      },
+      {
+        "university": "Davidson College",
+        "url": "https://course-schedule.davidson.edu/#/",
+        "discovery_confidence": 0.78,
+        "validation_confidence": 0.4,
+        "courses_found": "4/5"
+      },
+      {
+        "university": "Marquette University",
+        "url": "https://www.marquette.edu/courses/",
+        "discovery_confidence": 0.915,
+        "validation_confidence": 0.0,
+        "courses_found": "0/0"
+      },
+      {
+        "university": "Northeast State Community College",
+        "url": "https://schedule.northeast.edu/classes/search",
+        "discovery_confidence": 0.935,
+        "validation_confidence": 0.0,
+        "courses_found": "0/0"
+      },
+      {
+        "university": "MTI College",
+        "url": "https://sacramento.campus.edu/admissions/class-schedules",
+        "discovery_confidence": 0.765,
+        "validation_confidence": 0.0,
+        "courses_found": "0/0"
+      },
+      {
+        "university": "Clarke College",
+        "url": "https://www.clarke.edu/academics/academic-resources/",
+        "discovery_confidence": 0.905,
+        "validation_confidence": 0.0,
+        "courses_found": "0/0"
+      },
+      {
+        "university": "Flathead Valley Community College",
+        "url": "https://www.fvcc.edu/academics/academic-resources/course-schedules",
+        "discovery_confidence": 0.7949999999999999,
+        "validation_confidence": 0.4,
+        "courses_found": "3/5"
+      },
+      {
+        "university": "Barry University",
+        "url": "https://my.barry.edu/classes/",
+        "discovery_confidence": 0.925,
+        "validation_confidence": 0.0,
+        "courses_found": "0/0"
+      },
+      {
+        "university": "Lorain County Community College",
+        "url": "https://www.lorainccc.edu/programs-and-careers/class-schedule/",
+        "discovery_confidence": 0.765,
+        "validation_confidence": 0.4,
+        "courses_found": "4/5"
+      },
+      {
+        "university": "Stark State College",
+        "url": "https://stark.edu/admissions/schedule-an-appointment/",
+        "discovery_confidence": 0.91,
+        "validation_confidence": 0.2,
+        "courses_found": "2/5"
+      }
+    ],
+    "failed_discoveries": [
+      {
+        "university": "Robert Morris University",
+        "error": "Page.click: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"a[href='https://en.wikipedia.org/wiki/Special:Search']\")\n"
+      },
+      {
+        "university": "Ashford University",
+        "error": "Page.goto: net::ERR_ABORTED at https://www.uagc.edu/sites/default/files/2025-02/UACG_Academic_Catalog_2020-2021.pdf?sourceid=16LOCMNAU\nCall log:\n  - navigating to \"https://www.uagc.edu/sites/default/files/2025-02/UACG_Academic_Catalog_2020-2021.pdf?sourceid=16LOCMNAU\", waiting until \"load\"\n"
+      },
+      {
+        "university": "University of Rochester",
+        "error": "Page.click: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"a[href='http://carnegieclassifications.iu.edu/classification_descriptions/enrollment_profile.php']\")\n"
+      },
+      {
+        "university": "Feather River Community College District",
+        "error": "Page.click: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"a[href='https://en.wikipedia.org/wiki/Special:Search']\")\n"
+      },
+      {
+        "university": "Sweet Briar College",
+        "error": "Page.click: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"a[href='https://www.sbc.edu/registrar/academic-catalog/']\")\n"
+      },
+      {
+        "university": "State University of New York System",
+        "error": "Timeout 30000ms exceeded."
+      },
+      {
+        "university": "Mid-South Community College",
+        "error": "Page.click: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"a[href='https://en.wikipedia.org/wiki/Special:Search']\")\n"
+      }
+    ]
+  },
+  "detailed_results": [
+    {
+      "university_name": "Texas A&M University - College Station",
+      "discovered_url": "https://catalog.tamu.edu/undergraduate/course-descriptions/",
+      "discovery_success": true,
+      "discovery_confidence": 0.78,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No test courses found in CollegeTransfer.net",
+      "discovery_time": 8.154883861541748,
+      "validation_time": 4.783280849456787
+    },
+    {
+      "university_name": "Robert Morris University",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "Page.click: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"a[href='https://en.wikipedia.org/wiki/Special:Search']\")\n",
+      "discovery_time": 36.00457501411438,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "Minnesota State University Moorhead",
+      "discovered_url": "https://www.minnesota.edu/course-descriptions",
+      "discovery_success": true,
+      "discovery_confidence": 0.935,
+      "validation_success": true,
+      "validation_confidence": 0.2,
+      "test_courses_found": 2,
+      "total_test_courses": 2,
+      "error_message": null,
+      "discovery_time": 8.34050989151001,
+      "validation_time": 2.325071096420288
+    },
+    {
+      "university_name": "Ashford University",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "Page.goto: net::ERR_ABORTED at https://www.uagc.edu/sites/default/files/2025-02/UACG_Academic_Catalog_2020-2021.pdf?sourceid=16LOCMNAU\nCall log:\n  - navigating to \"https://www.uagc.edu/sites/default/files/2025-02/UACG_Academic_Catalog_2020-2021.pdf?sourceid=16LOCMNAU\", waiting until \"load\"\n",
+      "discovery_time": 4.867933988571167,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "Carleton College",
+      "discovered_url": "https://www.carleton.edu/catalog/current/search/",
+      "discovery_success": true,
+      "discovery_confidence": 0.935,
+      "validation_success": true,
+      "validation_confidence": 0.4,
+      "test_courses_found": 2,
+      "total_test_courses": 5,
+      "error_message": null,
+      "discovery_time": 109.64316892623901,
+      "validation_time": 2.086320161819458
+    },
+    {
+      "university_name": "Western Technical College",
+      "discovered_url": "https://www.westerntc.edu/find-class",
+      "discovery_success": true,
+      "discovery_confidence": 0.69,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No test courses found in CollegeTransfer.net",
+      "discovery_time": 18.356418132781982,
+      "validation_time": 2.113445281982422
+    },
+    {
+      "university_name": "Bennington College",
+      "discovered_url": "https://www.bennington.edu/academics/curriculum/courses",
+      "discovery_success": true,
+      "discovery_confidence": 0.935,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No test courses found in CollegeTransfer.net",
+      "discovery_time": 31.705610990524292,
+      "validation_time": 2.200272798538208
+    },
+    {
+      "university_name": "University of Rochester",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "Page.click: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"a[href='http://carnegieclassifications.iu.edu/classification_descriptions/enrollment_profile.php']\")\n",
+      "discovery_time": 49.91230487823486,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "Colorado Christian University",
+      "discovered_url": "https://classes.colorado.edu/",
+      "discovery_success": true,
+      "discovery_confidence": 0.935,
+      "validation_success": true,
+      "validation_confidence": 0.2,
+      "test_courses_found": 5,
+      "total_test_courses": 5,
+      "error_message": null,
+      "discovery_time": 29.93924832344055,
+      "validation_time": 2.1934452056884766
+    },
+    {
+      "university_name": "Schenectady County Community College",
+      "discovered_url": "https://sunysccc.edu/Academics/Register-for-Classes/Course-Schedule-and-Academic-Calendar.html",
+      "discovery_success": true,
+      "discovery_confidence": 0.81,
+      "validation_success": true,
+      "validation_confidence": 0.6,
+      "test_courses_found": 3,
+      "total_test_courses": 5,
+      "error_message": null,
+      "discovery_time": 7.410227298736572,
+      "validation_time": 2.809169292449951
+    },
+    {
+      "university_name": "Feather River Community College District",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "Page.click: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"a[href='https://en.wikipedia.org/wiki/Special:Search']\")\n",
+      "discovery_time": 35.70304322242737,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "York College of Pennsylvania",
+      "discovered_url": "https://www.york.edu/classes",
+      "discovery_success": true,
+      "discovery_confidence": 0.925,
+      "validation_success": true,
+      "validation_confidence": 0.2,
+      "test_courses_found": 1,
+      "total_test_courses": 5,
+      "error_message": null,
+      "discovery_time": 7.17533802986145,
+      "validation_time": 2.3319268226623535
+    },
+    {
+      "university_name": "Harvard University",
+      "discovered_url": "https://courses.my.harvard.edu/psp/courses/EMPLOYEE/EMPL/h/?tab=HU_CLASS_SEARCH",
+      "discovery_success": true,
+      "discovery_confidence": 0.935,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No test courses found in CollegeTransfer.net",
+      "discovery_time": 11.996670961380005,
+      "validation_time": 3.3856348991394043
+    },
+    {
+      "university_name": "Davidson College",
+      "discovered_url": "https://course-schedule.davidson.edu/#/",
+      "discovery_success": true,
+      "discovery_confidence": 0.78,
+      "validation_success": true,
+      "validation_confidence": 0.4,
+      "test_courses_found": 4,
+      "total_test_courses": 5,
+      "error_message": null,
+      "discovery_time": 11.702471256256104,
+      "validation_time": 1.964285135269165
+    },
+    {
+      "university_name": "Sweet Briar College",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "Page.click: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"a[href='https://www.sbc.edu/registrar/academic-catalog/']\")\n",
+      "discovery_time": 36.283628940582275,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "Marquette University",
+      "discovered_url": "https://www.marquette.edu/courses/",
+      "discovery_success": true,
+      "discovery_confidence": 0.915,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No test courses found in CollegeTransfer.net",
+      "discovery_time": 5.352415084838867,
+      "validation_time": 3.465151071548462
+    },
+    {
+      "university_name": "Northeast State Community College",
+      "discovered_url": "https://schedule.northeast.edu/classes/search",
+      "discovery_success": true,
+      "discovery_confidence": 0.935,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No test courses found in CollegeTransfer.net",
+      "discovery_time": 9.449536085128784,
+      "validation_time": 2.0837242603302
+    },
+    {
+      "university_name": "MTI College",
+      "discovered_url": "https://sacramento.campus.edu/admissions/class-schedules",
+      "discovery_success": true,
+      "discovery_confidence": 0.765,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No test courses found in CollegeTransfer.net",
+      "discovery_time": 7.4870781898498535,
+      "validation_time": 2.0330469608306885
+    },
+    {
+      "university_name": "Clarke College",
+      "discovered_url": "https://www.clarke.edu/academics/academic-resources/",
+      "discovery_success": true,
+      "discovery_confidence": 0.905,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No test courses found in CollegeTransfer.net",
+      "discovery_time": 21.225367069244385,
+      "validation_time": 1.936115026473999
+    },
+    {
+      "university_name": "State University of New York System",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "Timeout 30000ms exceeded.",
+      "discovery_time": 34.962607860565186,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "Flathead Valley Community College",
+      "discovered_url": "https://www.fvcc.edu/academics/academic-resources/course-schedules",
+      "discovery_success": true,
+      "discovery_confidence": 0.7949999999999999,
+      "validation_success": true,
+      "validation_confidence": 0.4,
+      "test_courses_found": 3,
+      "total_test_courses": 5,
+      "error_message": null,
+      "discovery_time": 8.294844150543213,
+      "validation_time": 2.0914409160614014
+    },
+    {
+      "university_name": "Mid-South Community College",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "Page.click: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"a[href='https://en.wikipedia.org/wiki/Special:Search']\")\n",
+      "discovery_time": 36.01581287384033,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "Barry University",
+      "discovered_url": "https://my.barry.edu/classes/",
+      "discovery_success": true,
+      "discovery_confidence": 0.925,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No test courses found in CollegeTransfer.net",
+      "discovery_time": 12.868360996246338,
+      "validation_time": 3.3357739448547363
+    },
+    {
+      "university_name": "Lorain County Community College",
+      "discovered_url": "https://www.lorainccc.edu/programs-and-careers/class-schedule/",
+      "discovery_success": true,
+      "discovery_confidence": 0.765,
+      "validation_success": true,
+      "validation_confidence": 0.4,
+      "test_courses_found": 4,
+      "total_test_courses": 5,
+      "error_message": null,
+      "discovery_time": 4.857913255691528,
+      "validation_time": 2.203948974609375
+    },
+    {
+      "university_name": "Stark State College",
+      "discovered_url": "https://stark.edu/admissions/schedule-an-appointment/",
+      "discovery_success": true,
+      "discovery_confidence": 0.91,
+      "validation_success": true,
+      "validation_confidence": 0.2,
+      "test_courses_found": 2,
+      "total_test_courses": 5,
+      "error_message": null,
+      "discovery_time": 25.319342136383057,
+      "validation_time": 2.3208630084991455
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "University of Vermont",
+    "keyword": "history",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=University+of+Vermont&desc=history&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "POLS 168",
+      "course_title": "Middle East Politics",
+      "credits": "3.00",
+      "description": "",
+      "institution": "University of Vermont"
+    },
+    {
+      "course_id": "REL 027",
+      "course_title": "Integr Humanities",
+      "credits": "3.00",
+      "description": "",
+      "institution": "University of Vermont"
+    },
+    {
+      "course_id": "REL 028",
+      "course_title": "Integrated Humanities",
+      "credits": "3.00",
+      "description": "",
+      "institution": "University of Vermont"
+    },
+    {
+      "course_id": "HST 014",
+      "course_title": "Ideas in the Western Tradition",
+      "credits": "3.00",
+      "description": "",
+      "institution": "University of Vermont"
+    },
+    {
+      "course_id": "HST 183",
+      "course_title": "US Military History",
+      "credits": "3.00",
+      "description": "",
+      "institution": "University of Vermont"
+    },
+    {
+      "course_id": "HST 040",
+      "course_title": "D2:African History to C-1870",
+      "credits": "3.00",
+      "description": "",
+      "institution": "University of Vermont"
+    },
+    {
+      "course_id": "PBIO 260",
+      "course_title": "Plant Population Biology",
+      "credits": "3.00",
+      "description": "",
+      "institution": "University of Vermont"
+    },
+    {
+      "course_id": "HST 138",
+      "course_title": "History of Russia since 1917",
+      "credits": "3.00",
+      "description": "",
+      "institution": "University of Vermont"
+    },
+    {
+      "course_id": "HST 114",
+      "course_title": "East European Nationalism",
+      "credits": "3.00",
+      "description": "",
+      "institution": "University of Vermont"
+    },
+    {
+      "course_id": "FTS 008",
+      "course_title": "Dev Motion Pct II:1930-1960",
+      "credits": "3.00",
+      "description": "",
+      "institution": "University of Vermont"
+    }
+  ],
+  "timestamp": "2025-08-06T14:20:44.039455"
+}

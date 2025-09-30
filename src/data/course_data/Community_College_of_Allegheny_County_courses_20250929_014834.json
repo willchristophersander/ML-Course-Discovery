@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Community College of Allegheny County",
+    "successful_variation": "Community College of Allegheny County",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Community+College+of+Allegheny+County&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACC 100",
+      "course_title": "Introduction to Accounting",
+      "credits": "3.00",
+      "description": "This course introduces the fundamental concepts, procedures and terminology of accounting. Students learn the basic principles of the accounting cycle such as analyzing transactions, journal entries, worksheets, adjustments and closing entries. Bank reconciliations and petty cash processes are reviewed. This course is aimed toward students who have not had previous exposure to accounting principles. Students who have passed ACC 104 or higher may not schedule this course. This course may not be taken concurrently with ACC 104.",
+      "institution": "Community College of Allegheny County"
+    },
+    {
+      "course_id": "ACC 104",
+      "course_title": "Financial Accounting",
+      "credits": "4.00",
+      "description": "In this course, students are introduced to the fundamental principles of financial accounting. This includes concepts governing the recording and reporting of accounting data. Students examine receivables, payables, inventory, depreciation, fixed assets, current and long-term liabilities and stockholder's equity. Prerequisite: MAT 090 with a C grade or higher,\u00a0or completion of MAT 195\u00a0with a B grade or higher,\u00a0or completion of ACC 100\u00a0with a C grade or higher.",
+      "institution": "Community College of Allegheny County"
+    },
+    {
+      "course_id": "ACC 120",
+      "course_title": "Computer Applications in Accounting",
+      "credits": "3.00",
+      "description": "This course is designed for students to utllize computer spreadsheets and industry specific software as tools for the accountant. Emphasis is on linking accounting theory and practice. Prerequisite: CIT 100\u00a0and ACC 104",
+      "institution": "Community College of Allegheny County"
+    },
+    {
+      "course_id": "ACC 201",
+      "course_title": "Intermediate Accounting 1",
+      "credits": "3.00",
+      "description": "In this course, students explore the preparation and understanding of financial information and accounting theory and practice to gain an understanding of the framework of the United States Generally Accepted Accounting Principles (U.S. GAAP). Students focus on the recognition of economic transactions utilized in preparation of financial statements. Related disclosures as they pertain to cash, receivables, inventory, property, plant and equipment are explored. The time value of money, depreciation and asset impairment are also discussed. Prerequisite: ACC 203",
+      "institution": "Community College of Allegheny County"
+    },
+    {
+      "course_id": "ACC 202",
+      "course_title": "Intermediate Accounting 2",
+      "credits": "3.00",
+      "description": "In this course students explore the preparation and understanding of financial information, accounting theory and practice and the conceptual framework of United States Generally Accepted Accounting Principles (U.S. GAAP). Students focus on the recognition of economic transactions in preparation of the financial statements and related disclosures as they pertain to current and long-term liabilities, investments, stockholder's equity, the statement of cash flows, pensions, leases, income taxes, revenue recognition and accounting changes. Prerequisite: ACC 203",
+      "institution": "Community College of Allegheny County"
+    },
+    {
+      "course_id": "ACC 203",
+      "course_title": "Managerial Accounting",
+      "credits": "4.00",
+      "description": "In this course, students learn how to apply accounting data in preparation of reports used in managerial decision making. Topics include an analysis of financial statements, budget and performance reports, cash flow analysis and cost-volume-profit analysis. Prerequisite: ACC 104\u00a0with a C grade or higher",
+      "institution": "Community College of Allegheny County"
+    },
+    {
+      "course_id": "ACC 204",
+      "course_title": "Cost Accounting",
+      "credits": "3.00",
+      "description": "This course covers the basic techniques and procedures used in cost determination. Performance measurements, standard cost, job order methods, cost analysis and control are studied as management tools. Prerequisite: ACC 203",
+      "institution": "Community College of Allegheny County"
+    },
+    {
+      "course_id": "ACC 210",
+      "course_title": "Payroll Tax Accounting",
+      "credits": "3.00",
+      "description": "In this course students examine the theory and concepts underlying the mechanics of payroll accounting. Students review federal and state legislation and regulations, fringe benefits, recordkeeping and calculating gross and net pay using various methods. Emphasis is on the preparation of a complete payroll system and its required documentation.",
+      "institution": "Community College of Allegheny County"
+    },
+    {
+      "course_id": "ACC 211",
+      "course_title": "Principles of Tax 1",
+      "credits": "3.00",
+      "description": "The course provides an introduction to the fundamental tax concepts as they apply to individuals. Students learn the conceptual framework underlying the tax code including tax liability determination, inclusions and exclusions from gross compensation, as well as allowed deductions and credits for calculating taxable income. Additionally, students explore qualifying personal and business expenses. Prerequisite: ACC 104",
+      "institution": "Community College of Allegheny County"
+    },
+    {
+      "course_id": "ACC 221",
+      "course_title": "Principles of Tax 2",
+      "credits": "3.00",
+      "description": "This course is a continuation of ACC 211, Principles of Tax 1. The Internal Revenue Code, regulations, rulings and other tax references are used in problem solving. Topics covered include tax preparation and reporting for partnerships, S-corps, C-corps and fiduciaries. Also included is an overview of federal estate and gift taxation. Prerequisite: ACC 211",
+      "institution": "Community College of Allegheny County"
+    }
+  ],
+  "timestamp": "2025-09-29T01:48:34.381320"
+}

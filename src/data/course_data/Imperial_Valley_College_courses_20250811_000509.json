@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Imperial Valley College",
+    "successful_variation": "Imperial Valley College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Imperial+Valley+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACR 101",
+      "course_title": "Air Conditioning And Refrigeration Systems Term Lec, 54 Lab Letter Grade Only",
+      "credits": "36.00",
+      "description": "This is a course of study in heating, ventilation, air conditioning, and refrigeration trade. This course includes the study of the laws of thermodynamics, the refrigeration cycle, brazing of refrigerant lines, understanding the use of and maintenance of heating, ventilation, air conditioning, and refrigeration equipment, applicable safety practices, and the proper use of refrigerants. (CSU)",
+      "institution": "Imperial Valley College"
+    },
+    {
+      "course_id": "ACR 102",
+      "course_title": "Residential Air Conditioning Systems Term Lec, 54 Lab Letter Grade Only",
+      "credits": "36.00",
+      "description": "Recommended Preparation: Completion of ACR 101 and ACR 103 with a grade of \"C\" or better.This course of study includes the installation of residential heating, ventilation, air conditioning and refrigeration systems. This course is comprised of the study of building and electrical codes, HVAC/R installation materials, brazing of line sets, installing split systems, installing heat pumps, installing gas packs, and applicable safety practices. (CSU)",
+      "institution": "Imperial Valley College"
+    },
+    {
+      "course_id": "ACR 103",
+      "course_title": "Air Conditioning Electrical Circuits And Controls Term Lec, 54 Lab Letter Grade Only",
+      "credits": "36.00",
+      "description": "Recommended preparation: ACR 101. This is a course of study in electrical circuits and controls used in the heating, ventilation, air conditioning, and refrigeration industry. This course is comprised of the study of Ohms Law, electrical meters and test equipment, wiring materials, wiring diagrams and schematics, electrical components, installation of controls, layout of electrical circuits, and safety practices. (CSU)",
+      "institution": "Imperial Valley College"
+    },
+    {
+      "course_id": "ACR 104",
+      "course_title": "Air Conditioning Heating Systems Term Lec, 54 Lab Letter Grade Only",
+      "credits": "36.00",
+      "description": "Recommended Preparation: Completion of ACR 101, ACR 102 and ACR 103 with grades of \"C\" or better.This course of study includes heating systems used in the heating, ventilation, air conditioning and refrigeration industry. This course is comprised of the study of natural gas, fuel oil, propane, and electric burner assemblies and ignition systems, and heat exchangers, venting, control circuits, electric coils, installation practices, applicable building codes, and safety procedures. (CSU)",
+      "institution": "Imperial Valley College"
+    },
+    {
+      "course_id": "ACR 105",
+      "course_title": "Heat Load Calculation And Measurements Term Lec, 0 Lab Letter Grade Only",
+      "credits": "36.00",
+      "description": "Recommended Preparation: Completion of ACR 101, ACR 102, ACR 103, and ACR 104 with grades of \"C\" or better.This course of study includes theories and factors that affect heating and cooling loads, on residential and light commercial buildings. Calculations and measurement techniques of proper capacity and unit size will be studied and applied to residential and light commercial buildings. (CSU)",
+      "institution": "Imperial Valley College"
+    },
+    {
+      "course_id": "ACR 106",
+      "course_title": "Air Conditioning Ventilation Duct Systems Term Lec, 54 Lab Letter Grade Only",
+      "credits": "36.00",
+      "description": "Recommended Preparation: Completion of ACR 105 with a grade of \"C\" or better.This is a course of study covering duct systems used in the heating, ventilation, air conditioning, and refrigeration industry. This course is comprised of the study of designing duct systems, duct materials, layout procedures, shop and hand tools, sheet metal ducts and components, duct board and flex duct components, and safety practices. (CSU)",
+      "institution": "Imperial Valley College"
+    },
+    {
+      "course_id": "ADS 101",
+      "course_title": "Alcoholism Intervention Treatment And Recovery Term Lec, 0 Lab Letter Grade Only",
+      "credits": "54.00",
+      "description": "This course will serve as an introduction to assessment and treatment approaches to alcoholism and drug abuse. Alcoholism will be studied in its social and clinical context. Attention will be given to the basic theoretical approaches to the disease. This course will examine the various components of intervention, treatment, recovery, and resources. (CSU)",
+      "institution": "Imperial Valley College"
+    },
+    {
+      "course_id": "ADS 110",
+      "course_title": "Physiological Effects of Alcohol And Drugs Term Lec, 0 Lab Letter Grade Only",
+      "credits": "54.00",
+      "description": "The course is designed to provide the student with information on the processing systems of the body and how they react to alcohol and drugs. This course will seek to explain where and how drugs act and why. The course will bring about an understanding of how drugs influence consciousness, mood and feeling. It will enable students to understand that both the internal and external environments have important effects on the well-being of the individual. (CSU)",
+      "institution": "Imperial Valley College"
+    },
+    {
+      "course_id": "ADS 120",
+      "course_title": "Introduction to Counseling Term Lec, 0 Lab Letter Grade Only",
+      "credits": "54.00",
+      "description": "Recommended Preparation: PSY 101 and SOC 101. A study of the theory, process, and practice of interviewing and counseling in community service and other counseling situations. The course is designed to assist the student to gain knowledge and develop skills in order to help a client or interviewee in counseling situations. Theories of counseling and basic helping skills will be presented, demonstrated, and practiced. (Same as PSY 120) (CSU)",
+      "institution": "Imperial Valley College"
+    },
+    {
+      "course_id": "ADS 130",
+      "course_title": "Group Leadership And Group Process Term Lec, 0 Lab Letter Grade Only",
+      "credits": "54.00",
+      "description": "This course will introduce the student to group theory and process, and how groups affect the whole social scene. It will examine membership in and leadership of various kinds of groups, emphasizing group process. Consideration will be given to goals and strategies of social change and the necessity for social change in relation to personal and social values. The factors involved in problems of communications, effective emotional responses and personal growth also will be highlighted, emphasizing the group process as a means of changing behavior. (Same as PSY 130) (CSU)",
+      "institution": "Imperial Valley College"
+    }
+  ],
+  "timestamp": "2025-08-11T00:05:09.163692"
+}

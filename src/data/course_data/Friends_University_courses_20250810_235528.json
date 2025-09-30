@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Friends University",
+    "successful_variation": "Friends University",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Friends+University&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACCT 160",
+      "course_title": "Business Accounting",
+      "credits": "3.00",
+      "description": "Students receive instruction in the fundamentals of accounting from recording business transactions through financial statement preparation. Emphasis is placed on the fundamentals of double entry accounting and the basic accounting cycle for service and merchandising businesses.Delivery Methods: HYB",
+      "institution": "Friends University"
+    },
+    {
+      "course_id": "ACCT 201",
+      "course_title": "Financial Accounting",
+      "credits": "3.00",
+      "description": "Math 111 and CSIS 120 or 270 or consent of instructor. Preparation and use of accounting reports for business entities; focus is on uses of accounting for external reporting-emphasizing accounting as a provider of financial information.",
+      "institution": "Friends University"
+    },
+    {
+      "course_id": "ACCT 202",
+      "course_title": "Managerial Accounting",
+      "credits": "3.00",
+      "description": "ACCT 201 or consent of instructor. The uses of accounting reports in management decisions and in control of business operations; focus is on the internal use of accounting information.Course Delivery Method: TRA",
+      "institution": "Friends University"
+    },
+    {
+      "course_id": "ACCT 210",
+      "course_title": "Financial Accounting",
+      "credits": "3.00",
+      "description": "This course emphasizes the functions of accounting in a decision-making environment and the concepts on which accounting rests. Focusing on differences in the types of accounting information required by users inside and outside of the company this course provides the foundation to understand all accounting related concepts during the curriculum.Course Delivery Methods: WEBDCP Elective Course",
+      "institution": "Friends University"
+    },
+    {
+      "course_id": "ACCT 310",
+      "course_title": "Intermediate Accounting 1",
+      "credits": "3.00",
+      "description": "ACCT 201, 202. The first in a 2-course series in intermediate financial accounting, designed to deepenthe students\u2019 understanding of financial reporting practices and principles. The topical coverage includes an in-depth treatment of the elements of the income statement, statement of cash flows, and the assets section of the balance sheet. Attention is given to examples of current reporting practices and to the study of the reporting requirements promulgated by the FASB.Course Delivery Methods: TRA",
+      "institution": "Friends University"
+    },
+    {
+      "course_id": "ACCT 311",
+      "course_title": "Cost Accounting",
+      "credits": "3.00",
+      "description": "ACCT 202. Identifying relevant accounting data and organizing, summarizing, and analyzing that data into information useful for the planning and budgeting, decision making, controlling, and evaluating functions of management.Course Delivery Methods: TRA",
+      "institution": "Friends University"
+    },
+    {
+      "course_id": "ACCT 320",
+      "course_title": "Intermediate Accounting 2",
+      "credits": "3.00",
+      "description": "ACCT 310Second in a 2-course series in intermediate financial accounting. The topical coverage includes an in-depth analysis of liabilities and stockholders\u2019s equity, earnings per share calculations, investments, and the revenue recognition principle. In addition, three special topics are examined: accounting for income taxes, accounting for pensions, and accounting for leases. Course Delivery Methods: TRA",
+      "institution": "Friends University"
+    },
+    {
+      "course_id": "ACCT 340",
+      "course_title": "Accounting Information Systems",
+      "credits": "3.00",
+      "description": "CSIS 120 and ACCT 201 with grade of \u2018C\u2019 or better or consent of instructorDesign and implementation methods for accounting Information Systems emphasizing the Systems Development Life Cycle (SDLC) and internal controls.Course Delivery Methods: TRA",
+      "institution": "Friends University"
+    },
+    {
+      "course_id": "ACCT 362",
+      "course_title": "Accounting Systems and Data Processing",
+      "credits": "3.00",
+      "description": "This course will introduce the student to design and implementation methods for Accounting Information Systems emphasizing the Systems Development Life Cycle (SDLC) and internal controls. Upon successful completion of this course, a student will be able to use the microcomputer to create a chart of accounts, accounts receivable, and payable subidiary ledgers, transaction journals, general ledgers, financial statements, reports and forecasts.Course Delivery Methods: TRA, WEBDCP Elective Course",
+      "institution": "Friends University"
+    },
+    {
+      "course_id": "ACCT 363",
+      "course_title": "Accounting Information Systems",
+      "credits": "3.00",
+      "description": "In this course the student will study the design and implementation methods for Accounting Information Systems emphasizing the Systems Development Life Cycle (SDLC) and internal controls. Upon successful completion of this course, a student will be able to use the microcomputer for proficient use of a database.Course Delivery Methods: WEBDCP Elective Course",
+      "institution": "Friends University"
+    }
+  ],
+  "timestamp": "2025-08-10T23:55:28.315297"
+}

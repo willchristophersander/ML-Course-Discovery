@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Northeastern Technical College",
+    "successful_variation": "Northeastern Technical College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Northeastern+Technical+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACC 100",
+      "course_title": "Basic Accounting",
+      "credits": "3.00",
+      "description": "This course introduces basic accounting principles, including the accounting cycle, bookkeeping, the debit-credit procedure, journals, ledgers, and  trial balances.",
+      "institution": "Northeastern Technical College"
+    },
+    {
+      "course_id": "ACC 101",
+      "course_title": "Accounting Principles I",
+      "credits": "3.00",
+      "description": "This course introduces basic accounting procedures for analyzing, recording, and summarizing financial transactions, adjusting and closing the financial records at the end of the accounting cycle, and preparing financial statements.",
+      "institution": "Northeastern Technical College"
+    },
+    {
+      "course_id": "ACC 102",
+      "course_title": "Accounting Principles II",
+      "credits": "3.00",
+      "description": "This course emphasizes managerial accounting theory and practice in basic accounting and procedures for cost accounting, budgeting, cost-volume analysis, and financial statement analysis.",
+      "institution": "Northeastern Technical College"
+    },
+    {
+      "course_id": "ACC 111",
+      "course_title": "Accounting Concepts",
+      "credits": "3.00",
+      "description": "This course is a study of the principles of the basic accounting functions--collecting, recording, analyzing, and reporting information.",
+      "institution": "Northeastern Technical College"
+    },
+    {
+      "course_id": "ACC 112",
+      "course_title": "Organizational Accounting",
+      "credits": "3.00",
+      "description": "This course is a study of financial accounting with specific emphasis on partnerships and the corporate form of organization.",
+      "institution": "Northeastern Technical College"
+    },
+    {
+      "course_id": "ACC 115",
+      "course_title": "Managerial Accounting",
+      "credits": "3.00",
+      "description": "This course is a study of the types and uses of internal accounting information for management decision-making, including cost determination,  cost control, performance evaluation, and financial planning.",
+      "institution": "Northeastern Technical College"
+    },
+    {
+      "course_id": "ACC 116",
+      "course_title": "Practical Accounting Applications I",
+      "credits": "3.00",
+      "description": "This course is a study of the principles of  adjusting entries, correction of accounting  errors, and payroll in accounting practice.",
+      "institution": "Northeastern Technical College"
+    },
+    {
+      "course_id": "ACC 117",
+      "course_title": "Practical Accounting Applications II",
+      "credits": "3.00",
+      "description": "This course is a study of the pririnciples of  depreciation and inventory in accounting practice.",
+      "institution": "Northeastern Technical College"
+    },
+    {
+      "course_id": "ACC 120",
+      "course_title": "Federal Income Tax",
+      "credits": "3.00",
+      "description": "This course is a study of the Income Tax structure from the standpoint of the individual, partnership and corporation.",
+      "institution": "Northeastern Technical College"
+    },
+    {
+      "course_id": "ACC 130",
+      "course_title": "State Tax Procedures",
+      "credits": "1.00",
+      "description": "This course is a study of the basic state tax procedures pertaining to individuals  and business.",
+      "institution": "Northeastern Technical College"
+    }
+  ],
+  "timestamp": "2025-08-10T14:32:26.265420"
+}

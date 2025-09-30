@@ -1,0 +1,74 @@
+{
+  "search_query": {
+    "institution": "Northern State University",
+    "successful_variation": "Northern State University",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Northern+State+University&distance=5"
+  },
+  "total_results": 9,
+  "courses": [
+    {
+      "course_id": "ACCT 211",
+      "course_title": "Principles of Accounting II",
+      "credits": "3.00",
+      "description": "A continuation of ACCT 210 with emphasis on partnership and corporate structures, management decision-making, cost control, and other selected topics. Prerequisite: ACCT 210. 3 credits",
+      "institution": "Northern State University"
+    },
+    {
+      "course_id": "ACCT 291",
+      "course_title": "Independent Study",
+      "credits": "4.00",
+      "description": "Students complete individualized plans of study which include significant oneon- one student-teacher involvement. The faculty member and students negotiate the details of the study plans. Enrollments are usually 10 or fewer students. Meeting depending upon the requirements of the topic. 1-4 credits",
+      "institution": "Northern State University"
+    },
+    {
+      "course_id": "ACCT 292",
+      "course_title": "Topics",
+      "credits": "3.00",
+      "description": "A course devoted to a particular issue in a specified field. Course content is not wholly included in the regular curriculum. Guest artists or experts may serve as instructors. Enrollments are usually of 10 or fewer students with significant one-on-one student/teacher involvement. 1-3 credits",
+      "institution": "Northern State University"
+    },
+    {
+      "course_id": "ACCT 294",
+      "course_title": "Internship",
+      "credits": "12.00",
+      "description": "Applied, monitored and supervised, field-based learning experience for which the student may or may not be paid. Students gain practical experience; they follow a negotiated and or directed plan of study. A higher level of supervision is provided by the instructor in these courses than is the case with Field Experience courses. 1-12 credits",
+      "institution": "Northern State University"
+    },
+    {
+      "course_id": "ACCT 310",
+      "course_title": "Intermediate Accounting I",
+      "credits": "3.00",
+      "description": "Involves the intensive study of financial accounting standards, both in theory and practice, as they relate to the preparation and analysis of financial statements. Accounting problems and their impact on the financial statement are addressed in regard to current assets, fixed assets, intangible assets, liabilities, and other selected topics. Prerequisite: ACCT 211. 3 credits",
+      "institution": "Northern State University"
+    },
+    {
+      "course_id": "ACCT 311",
+      "course_title": "Intermediate Accounting II",
+      "credits": "3.00",
+      "description": "Provides an intensive study of accounting standards, both in theory and practice, as they relate to the preparation and analysis of financial statements. Accounting problems and their impact on the financial statements are addressed in regard to liabilities, investments, stockholders' equity, leases, pensions, tax allocation and other selected topics. Prerequisite: ACCT 310. 3 credits",
+      "institution": "Northern State University"
+    },
+    {
+      "course_id": "ACCT 320",
+      "course_title": "Cost Accounting",
+      "credits": "3.00",
+      "description": "The study of principles and techniques for accumulating, reporting, and analyzing cost information for decision-making and external reporting. The use of cost accounting systems for planning and controlling cost responsibility centers is emphasized. Consideration is given to the appropriate use of various cost accounting methods such as activity-based costing, target costing, and just-in-time management techniques in service and manufacturing industries. 3 credits",
+      "institution": "Northern State University"
+    },
+    {
+      "course_id": "ACCT 360",
+      "course_title": "Accounting Systems",
+      "credits": "3.00",
+      "description": "Provides an understanding of the patterns of flow of accounting information in business, principles of internal control, and the use of computers in current and future accounting systems. Topics include concepts of accounting information systems, flowcharting and analysis of manual and computerized transaction cycles, decision support systems, electronic commerce, management reporting systems, control and audit of complex computerized information systems, and the development of accounting information systems. Prerequisite: ACCT 211. 3 credits",
+      "institution": "Northern State University"
+    },
+    {
+      "course_id": "ACCT 421",
+      "course_title": "International Accounting",
+      "credits": "3.00",
+      "description": "Provides a discussion of the comparative accounting practices and problems in international environments. The course is designed to explore the concepts, principles, and practices underlying comparative international accounting systems. Prerequisite: ACCT 211 and senior standing. 3 credits",
+      "institution": "Northern State University"
+    }
+  ],
+  "timestamp": "2025-08-10T05:27:09.826552"
+}

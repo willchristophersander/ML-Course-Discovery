@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Case Western Reserve University",
+    "successful_variation": "Case Western Reserve University",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Case+Western+Reserve+University&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACCT 101",
+      "course_title": "Introduction to Financial Accounting",
+      "credits": "3.00",
+      "description": "Financial reports are the most significant means for an organization to communicate its management results to stockholders, creditors, and regulators. This course covers concepts, principles, and practices, including preparation and interpretation, of financial reports. The financial reporting system and basic internal controls for the balance sheet, income statement, and cash flow statements are discussed. A student may not receive credit for both ACCT 101 and ACCT 203.",
+      "institution": "Case Western Reserve University"
+    },
+    {
+      "course_id": "ACCT 102",
+      "course_title": "Management Accounting",
+      "credits": "3.00",
+      "description": "This course focuses on management accounting as a supporting system, helping managers to run businesses and other organizations. The course builds on knowledge of microeconomics, organizational design and behavior, production, and logistics as a foundation to explore how management accounting provides information for management planning, control and decision activities. Prereq: ACCT 101 or requisite not met permission.",
+      "institution": "Case Western Reserve University"
+    },
+    {
+      "course_id": "ACCT 203",
+      "course_title": "Survey of Accounting",
+      "credits": "3.00",
+      "description": "The course covers the principle of financial and managerial accounting for non-management students, including the framework that underlies financial and management accounting and how accounting information should be used by: (1) parties external to the firm, i.e., stockholders, creditors and government, to evaluate the financial performance of an organization; and (2) internal management to fulfill the planning, control and performance evaluation functions. Enrollment is limited to students who are neither management nor accounting majors nor enrolled in the Weatherhead School of Management. This course may be substituted for ACCT 101. A student may not receive credit for both ACCT 101 and ACCT 203. This course cannot be substituted for ACCT 102 without a waiver from the chairman. Offered as ACCT 203 and ACCT 403.",
+      "institution": "Case Western Reserve University"
+    },
+    {
+      "course_id": "ACCT 300",
+      "course_title": "Corporate Reporting I",
+      "credits": "3.00",
+      "description": "This course covers financial accounting theory, generally accepted accounting principles and reporting practices, including evaluation of current issues and practices related to asset valuation, including receivables, inventory and fixed assets. It also covers the users and uses of financial statements, the difference between cash-basis and accrual accounting, the determination of income, the financial statements, financial statement analysis, revenue recognition, and the role of financial information in valuation decisions and contracting. Prereq: ACCT 101 and ACCT 202 or requisite not met permission.",
+      "institution": "Case Western Reserve University"
+    },
+    {
+      "course_id": "ACCT 301",
+      "course_title": "Corporate Reporting II",
+      "credits": "3.00",
+      "description": "This course covers financial accounting theory, generally accepted accounting principles and reporting practices. Areas of focus include: liability determination, long-term debt, derivatives, leases, pensions and other postretirement benefits, accounting for income taxes, earnings per share, stock options, and investments. International aspects also are considered. Prereq: ACCT 300.",
+      "institution": "Case Western Reserve University"
+    },
+    {
+      "course_id": "ACCT 304",
+      "course_title": "Advanced Financial Reporting",
+      "credits": "3.00",
+      "description": "This course covers partnerships, consolidations, foreign exchange, international aspects of accounting, accounting for state and local governments and not-for-profit organizations, segment reporting and interim reporting. Prereq: ACCT 301.",
+      "institution": "Case Western Reserve University"
+    },
+    {
+      "course_id": "ACCT 305",
+      "course_title": "Income Tax: Concepts, Skills, Planning",
+      "credits": "3.00",
+      "description": "This course addresses U.S. Federal Income Taxation concepts and applications. The subject matter includes topics applicable to individuals, partnerships and corporations and various other entities required to file income tax returns. In addition the subject matter addressed includes a variety of business, legal and taxation concepts and practices related to effective tax planning. The purpose of the course is to provide the student with the appropriate knowledge and skill levels to \"speak the language of U.S. tax.\" Prereq: ACCT 202 or ACCT 401 or requisite not met permission.",
+      "institution": "Case Western Reserve University"
+    },
+    {
+      "course_id": "ACCT 314",
+      "course_title": "Attestation and Assurance Services",
+      "credits": "3.00",
+      "description": "This course covers the role of the auditor, the audit process, the public accounting profession, audit risk and materiality, fraud, audit methods and techniques, audit planning, internal control, the effects of information technology on the audit, auditing revenue, receivables and inventories, professional ethics, legal responsibilities, emerging assurance services, and recent developments in the auditing profession. Prereq: ACCT 301.",
+      "institution": "Case Western Reserve University"
+    },
+    {
+      "course_id": "ACCT 360",
+      "course_title": "Independent Study",
+      "credits": "18.00",
+      "description": "No course description available.",
+      "institution": "Case Western Reserve University"
+    },
+    {
+      "course_id": "ACCT 403",
+      "course_title": "Survey of Accounting",
+      "credits": "3.00",
+      "description": "The course covers the principle of financial and managerial accounting for non-management students, including the framework that underlies financial and management accounting and how accounting information should be used by: (1) parties external to the firm, i.e., stockholders, creditors and government, to evaluate the financial performance of an organization; and (2) internal management to fulfill the planning, control and performance evaluation functions. Enrollment is limited to students who are neither management nor accounting majors nor enrolled in the Weatherhead School of Management. This course may be substituted for ACCT 101. A student may not receive credit for both ACCT 101 and ACCT 203. This course cannot be substituted for ACCT 102 without a waiver from the chairman. Offered as ACCT 203 and ACCT 403.",
+      "institution": "Case Western Reserve University"
+    }
+  ],
+  "timestamp": "2025-08-11T00:10:17.822769"
+}

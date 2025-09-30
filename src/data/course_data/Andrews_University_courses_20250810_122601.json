@@ -1,0 +1,60 @@
+{
+  "search_query": {
+    "institution": "Andrews University",
+    "successful_variation": "Andrews University",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Andrews+University&distance=5"
+  },
+  "total_results": 7,
+  "courses": [
+    {
+      "course_id": "ACCT 320",
+      "course_title": "Business Communication",
+      "credits": "3.00",
+      "description": "Designed for the accounting major, this course focuses on techniques of successful communication in the business world. The course introduces strategies for various business situations including memos, letters, meetings, presentations, reports, and electronic correspondence. The course also examines methods of organizing and presenting information and of developing a professional communication style. Prerequisites: COMM104, ENGL215. Spring",
+      "institution": "Andrews University"
+    },
+    {
+      "course_id": "ACCT 330",
+      "course_title": "Cost and Managerial Accounting",
+      "credits": "3.00",
+      "description": "Study of cost determination, accumulation, and allocation procedures. Preparation and utilization of financial information for internal management purposes; emphasis on job order, process and standard costs systems cost-volume-profit relationship, relevant cost, budgeting, performance evaluation, and control. Prerequisite: ACCT122. Spring",
+      "institution": "Andrews University"
+    },
+    {
+      "course_id": "ACCT 365",
+      "course_title": "Individual Taxation",
+      "credits": "3.00",
+      "description": "Study of federal income taxation of individuals, of business expenses, and of property transactions. Prerequisite: ACCT121. Fall",
+      "institution": "Andrews University"
+    },
+    {
+      "course_id": "ACCT 456",
+      "course_title": "Advanced Accounting",
+      "credits": "3.00",
+      "description": "Study of accounting for business combinations and the preparation of consolidated financial statements; foreign currency financial statements; SEC reporting. Prerequisite: ACCT322. Spring",
+      "institution": "Andrews University"
+    },
+    {
+      "course_id": "ACCT 465",
+      "course_title": "Auditing",
+      "credits": "3.00",
+      "description": "Internal and external auditing; current professional standards, ethics of the auditor with emphasis on internal control and evidence gathering. Prerequisite: ACCT322. Fall",
+      "institution": "Andrews University"
+    },
+    {
+      "course_id": "ACCT 467",
+      "course_title": "Corporate Taxation",
+      "credits": "3.00",
+      "description": "Studies federal income taxation of corporations, partnerships, estates, and trusts. Prerequisite: ACCT365. Spring",
+      "institution": "Andrews University"
+    },
+    {
+      "course_id": "ACCT 476",
+      "course_title": "Accounting Information Systems",
+      "credits": "3.00",
+      "description": "Planning and operation of electronic data-processing systems in accounting and the use of the information generated for financial reporting and control. Prerequisites: ACCT122 and junior class standing. Spring",
+      "institution": "Andrews University"
+    }
+  ],
+  "timestamp": "2025-08-10T12:26:01.722387"
+}

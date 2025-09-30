@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "York Technical College",
+    "successful_variation": "York Technical College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=York+Technical+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ABR 100",
+      "course_title": "Intro to Autobody Hazard Mater",
+      "credits": "1.00",
+      "description": "This course is a basic study of the proper handling of hazardous materials found in auto body repair centers. Types of hazardous materials, handling of the materials, and their proper disposal will be covered.",
+      "institution": "York Technical College"
+    },
+    {
+      "course_id": "ABR 101",
+      "course_title": "Structural Repair I",
+      "credits": "5.00",
+      "description": "This course is an introduction to modern unibody and full frame structural repair and alignment.",
+      "institution": "York Technical College"
+    },
+    {
+      "course_id": "ABR 102",
+      "course_title": "MIG Welding",
+      "credits": "3.00",
+      "description": "This course is an introduction to the welding of high strength steels used in modern unibody vehicles.",
+      "institution": "York Technical College"
+    },
+    {
+      "course_id": "ABR 103",
+      "course_title": "Sheet Metal Repair I",
+      "credits": "4.00",
+      "description": "This course is an introduction to metal repair procedures and panel replacements on modern automotive vehicles.",
+      "institution": "York Technical College"
+    },
+    {
+      "course_id": "ABR 108",
+      "course_title": "Refinishing I",
+      "credits": "3.00",
+      "description": "This course is an introduction to automotive refinishing with emphasis placed on spot repair on panel painting.",
+      "institution": "York Technical College"
+    },
+    {
+      "course_id": "ABR 111",
+      "course_title": "Structural Repair II",
+      "credits": "5.00",
+      "description": "This course covers the application of procedures for measuring, straightening, aligning, and replacing necessary structural and cosmetic parts.",
+      "institution": "York Technical College"
+    },
+    {
+      "course_id": "ABR 113",
+      "course_title": "Sheet Metal Repair II",
+      "credits": "4.00",
+      "description": "This course covers the application of sheet metal replacement alignment.",
+      "institution": "York Technical College"
+    },
+    {
+      "course_id": "ABR 118",
+      "course_title": "Refinishing II",
+      "credits": "3.00",
+      "description": "This course covers overall refinishing with the newest type paints.",
+      "institution": "York Technical College"
+    },
+    {
+      "course_id": "ABR 119",
+      "course_title": "Estimating Repairs",
+      "credits": "2.00",
+      "description": "This course covers writing estimates on damaged vehicles using collision repair guides.",
+      "institution": "York Technical College"
+    },
+    {
+      "course_id": "ACC 101",
+      "course_title": "Accounting Principles I",
+      "credits": "3.00",
+      "description": "This course introduces basic accounting procedures for analyzing, recording, and summarizing financial transactions, adjusting and closing the financial records at the end of the accounting cycle, and preparing financial statements.",
+      "institution": "York Technical College"
+    }
+  ],
+  "timestamp": "2025-08-09T21:18:44.938089"
+}

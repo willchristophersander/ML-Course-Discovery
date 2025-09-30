@@ -1,0 +1,110 @@
+{
+  "timestamp": "2025-08-08T18:41:09.906309",
+  "analysis": {
+    "total_universities": 5,
+    "discovery_success_rate": 0.4,
+    "avg_discovery_confidence": 0.845,
+    "validation_success_rate": 0.2,
+    "avg_validation_confidence": 0.2,
+    "course_finding_rate": 0.6,
+    "avg_discovery_time": 20.50859851837158,
+    "avg_validation_time": 1.1058547496795654,
+    "successful_discoveries": [
+      {
+        "university": "Cornell University",
+        "url": "https://classes.cornell.edu/browse/roster/FA25",
+        "discovery_confidence": 0.935,
+        "validation_confidence": 0.2,
+        "courses_found": "3/5"
+      },
+      {
+        "university": "Bemidji State University",
+        "url": "https://www.bemidjistate.edu/mybsu/registration/registering-classes/",
+        "discovery_confidence": 0.755,
+        "validation_confidence": 0.0,
+        "courses_found": "0/0"
+      }
+    ],
+    "failed_discoveries": [
+      {
+        "university": "St. Andrews Presbyterian College",
+        "error": "Page.goto: net::ERR_ABORTED at https://www.sa.edu/wp-content/uploads/2019/09/Catalog2019.pdf\nCall log:\n  - navigating to \"https://www.sa.edu/wp-content/uploads/2019/09/Catalog2019.pdf\", waiting until \"load\"\n"
+      },
+      {
+        "university": "Creighton University",
+        "error": "Page.click: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"a[href='https://en.wikipedia.org/wiki/Research_university']\")\n"
+      },
+      {
+        "university": "St. Joseph's College (ME)",
+        "error": "Page.click: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"a[href='https://en.wikipedia.org/wiki/Special:Search']\")\n"
+      }
+    ]
+  },
+  "detailed_results": [
+    {
+      "university_name": "St. Andrews Presbyterian College",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "Page.goto: net::ERR_ABORTED at https://www.sa.edu/wp-content/uploads/2019/09/Catalog2019.pdf\nCall log:\n  - navigating to \"https://www.sa.edu/wp-content/uploads/2019/09/Catalog2019.pdf\", waiting until \"load\"\n",
+      "discovery_time": 4.809693098068237,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "Cornell University",
+      "discovered_url": "https://classes.cornell.edu/browse/roster/FA25",
+      "discovery_success": true,
+      "discovery_confidence": 0.935,
+      "validation_success": true,
+      "validation_confidence": 0.2,
+      "test_courses_found": 3,
+      "total_test_courses": 5,
+      "error_message": null,
+      "discovery_time": 11.180828332901001,
+      "validation_time": 2.143160820007324
+    },
+    {
+      "university_name": "Creighton University",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "Page.click: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"a[href='https://en.wikipedia.org/wiki/Research_university']\")\n",
+      "discovery_time": 42.104755878448486,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "St. Joseph's College (ME)",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "Page.click: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"a[href='https://en.wikipedia.org/wiki/Special:Search']\")\n",
+      "discovery_time": 37.536856174468994,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "Bemidji State University",
+      "discovered_url": "https://www.bemidjistate.edu/mybsu/registration/registering-classes/",
+      "discovery_success": true,
+      "discovery_confidence": 0.755,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No test courses found in CollegeTransfer.net",
+      "discovery_time": 6.910859107971191,
+      "validation_time": 3.386112928390503
+    }
+  ]
+}

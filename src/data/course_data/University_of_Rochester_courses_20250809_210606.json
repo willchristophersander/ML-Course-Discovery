@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "University of Rochester",
+    "successful_variation": "University of Rochester",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=University+of+Rochester&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "AAS 151",
+      "course_title": "The Blues",
+      "credits": "4.00",
+      "description": "The course covers the history and influence of the music called \"the Blues\"; the origins of blues in the context of African American culture in the late 19th and early 20th centuries, the blues' rapid rise to becoming the dominant popular music in the African American community, and the discovery of blues by white audiences. Class format combines lecture, listening and discussion.",
+      "institution": "University of Rochester"
+    },
+    {
+      "course_id": "AAS 158",
+      "course_title": "Gospel Choir",
+      "credits": "1.00",
+      "description": "One rehearsal per week. Two concerts per semester. In addition, there may be off-campus performances in local colleges, churches, and other venues in the greater-Rochester community. The Gospel Choir performs a varied repertoire of sacred music -- spirituals, hymns, traditional and contemporary Gospel, music of the praise-and-worship genre. Students may register for credit or simply sing as choir participants.",
+      "institution": "University of Rochester"
+    },
+    {
+      "course_id": "AAS 182",
+      "course_title": "West African Dance Forms 1A",
+      "credits": "2.00",
+      "description": "A continuation of Dance 181 that allows the student to deepen their experience and hone their skills in West African Dance.",
+      "institution": "University of Rochester"
+    },
+    {
+      "course_id": "AAS 202",
+      "course_title": "The Third World",
+      "credits": "4.00",
+      "description": "The concept of a Third World. The origins of colonialism and \"underdevelopment\" in the rise of European capitalism. The struggles of the colonial and postcolonial peoples for political independence, cultural autonomy, and economic development.",
+      "institution": "University of Rochester"
+    },
+    {
+      "course_id": "AAS 226",
+      "course_title": "Black Paris",
+      "credits": "4.00",
+      "description": "This course is a study of Black Paris, as imagined by three generations of Black cultural producers from the United States, the Caribbean and Africa. Paris is as a space of freedom and artistic glory that African American writers, solders and artists were denied back home. For colonized Africans, and Caribbeans, Paris was the birthace of the Negritude, the ultimate cultural renaissance influenced by the Harlem Renaissance. From Josephine Baker, Richard Wright, James Baldwin to Shay Youngblood's Black girl in Paris, from Aime Cesaire to Maryse Conde, from Bernard Dadie's An African in Paris and to contemporary Franco-African writing, we will investigate how the representation of Paris functions in the construction of a black identities. Readings include: Black Girl in Paris (Shay Youngblood), Desirada (Maryse Conde), The Josephine Baker Story. Paris Noir: African Americans in the City of Light (Tyler Stovall), An Aftrican in Paris.(Bernard Dadie).",
+      "institution": "University of Rochester"
+    },
+    {
+      "course_id": "AAS 241",
+      "course_title": "Major Authors:The Radical Narratives Of Toni Morrison",
+      "credits": "4.00",
+      "description": "Toni Morrison has emerged as one of the most influential writers and critics in contemporary American culture. This course will approach her work from a broad range of critical perspectives including black feminist thought, psychoanalysis, trauma theory, Biblical exegesis, postcolonial analysis, and critical race theory. Although this class will emphasize rigorous study of her literary work, we will also pay close attention to her contributions to literary criticism, her role in public life as well as her forays into political and national debates. In our study of her novels, we will explore such issues as the importance of history and myth in the creation of personal identity, constructions of race and gender, the dynamic nature of love, the role of the community in social life, and the pressures related to the development of adolescent girls.",
+      "institution": "University of Rochester"
+    },
+    {
+      "course_id": "AAS 243W",
+      "course_title": "Muhammad & The Qur'an",
+      "credits": "4.00",
+      "description": "The course studies the prophet Muhammad, the Qur\u00bfan, and their importance to medieval and modern Muslim culture. The prophet\u00bfs life and major themes of the Qur\u00bfan will be discussed together with interpretations of them found in Islamic legal, theological, philosophical, and mystical writings.",
+      "institution": "University of Rochester"
+    },
+    {
+      "course_id": "AAS 246",
+      "course_title": "Cry Freedom",
+      "credits": "4.00",
+      "description": "Since the 1960's certain Christian theologians have attempted to re-think and re-express their religious beliefs in ways that can lead to the radical transformation of people's lives and social institutions. The movement this group of diverse Christian thinkers has set in motion is often referred to as liberation theology. In this course we will look at the principal ideas of various liberation theologians -- Latin American, Asian, African, Afro-American, and feminist. As well as looking at the ideas of these thinkers, we will also examine the social worlds in which they think and write, thus trying to see the connection between their ideas and the social environments they want to liberate.",
+      "institution": "University of Rochester"
+    },
+    {
+      "course_id": "AAS 249",
+      "course_title": "The Civil War",
+      "credits": "4.00",
+      "description": "The course suggests that there existed two distinct views as to how the new nation would be structured. Once these views clashed and became sectional, the nation was thrown into a political, theological, and, ultimately, a military contest the demands of which led to the incorporation of structural changes that had the effect of resolving the very issues that had propelled the nation into war. As we identify and discuss the causes, conduct, and consequences of the Civil War, we will examine the changing ideas about nation, government, work, race, and gender, and ask: How different were Northern and Southern institutions and, to what extent were northern and southern Americans fundamentally different people?",
+      "institution": "University of Rochester"
+    },
+    {
+      "course_id": "AAS 254",
+      "course_title": "West African Dance Forms I",
+      "credits": "2.00",
+      "description": "Students will experience dancing African styles from the traditional cultures of Ghana and Guinea, West Africa. Technical emphasis will focus on foot patterns and placement, as well as developing the proper physical stance for African dance styles. Students will practice the dances and drum songs called Kpanlogo & Gota from Ghana, and Yankadi, Makru, & Kuku from Guinea, as well as various other selections. Outside work is required, including performance attendance, video viewing, article analysis, and journaling. Students can expect to gain a broadened perspective on contemporary West Africa and its cultural practices.",
+      "institution": "University of Rochester"
+    }
+  ],
+  "timestamp": "2025-08-09T21:06:06.117456"
+}

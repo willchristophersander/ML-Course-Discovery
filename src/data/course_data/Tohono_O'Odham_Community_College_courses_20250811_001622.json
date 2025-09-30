@@ -1,0 +1,74 @@
+{
+  "search_query": {
+    "institution": "Tohono O'Odham Community College",
+    "successful_variation": "Tohono O'Odham Community College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Tohono+O'Odham+Community+College&distance=5"
+  },
+  "total_results": 9,
+  "courses": [
+    {
+      "course_id": "ACC 100",
+      "course_title": "Practical Accounting Procedures",
+      "credits": "3.00",
+      "description": "Prerequisites: None 3 cr. hrs.(3 pds: 3 lee.) Programs: AAS-OAP GenEd: None Transfer NT (ASU & UA), Elective (NAU) Introduces accounting systems for small businesses. Includes the basic accounting cycle, the use of special journals, procedures for controlling cash, and payroll accounting.",
+      "institution": "Tohono O'Odham Community College"
+    },
+    {
+      "course_id": "ACC 101",
+      "course_title": "Financial Accounting",
+      "credits": "3.00",
+      "description": "Prerequisites: None 3 cr. hrs.(3 pds: 3 lee.) Programs: AAS-BUS, ABUS GenEd: None Transfer: ACC 231 (ASU), ACC 255 (NAU), ACCT 200 (UA) Introduces accounting as a service activity, analytical discipline, and information system. Includes quantitative information to make decisions, identification of events that characterize economic activity, and the collection and communication of economic activity. Also includes recording accounting data, internal control of assets, measurement and reporting of liabilities and owners' equity.",
+      "institution": "Tohono O'Odham Community College"
+    },
+    {
+      "course_id": "ACC 102",
+      "course_title": "Managerial Accounting",
+      "credits": "3.00",
+      "description": "Prerequisites: ACC 101 & MAT 92 3 cr. hrs. (3 pds: 3 lee.) Programs: AAS-BUS, ABUS GenEd: None Transfer: Elective (ASU), ACC 256 (NAU), ACCT 210 (UA) Accounting training for managers: Includes concepts for those who are inside an organization and who are responsible for planning, directing and controlling its operation. Also includes process costing, profit planning, overhead analysis, and capital budgeting decisions.",
+      "institution": "Tohono O'Odham Community College"
+    },
+    {
+      "course_id": "ANR 100",
+      "course_title": "Natural Resource Field Experience",
+      "credits": "3.00",
+      "description": "Under development.",
+      "institution": "Tohono O'Odham Community College"
+    },
+    {
+      "course_id": "ANR 101",
+      "course_title": "Horseshoeing",
+      "credits": "3.00",
+      "description": "Under development.",
+      "institution": "Tohono O'Odham Community College"
+    },
+    {
+      "course_id": "ANR 112",
+      "course_title": "Introduction to Animal Science",
+      "credits": "3.00",
+      "description": "Under development.",
+      "institution": "Tohono O'Odham Community College"
+    },
+    {
+      "course_id": "ANR 122",
+      "course_title": "Tohono O'odham Natural Resources and Conservation",
+      "credits": "3.00",
+      "description": "Prerequisites: None 3 cr. hrs. (3 pds: 3 lee.) Programs: AAS-ANR GenEd: AGEC/Soc-Beh, AGEC/C, AAS(Humanities), AAS(C) Note: This course is not a lab science. The cross-listed courses ANR I22N and BIO I05N are lab science courses. This course covers historical and contemporary uses of natural resources found on the Tohono O'odham Nation. Topics include history of Tohono O'odham natural resources use, the hydrologic cycle and water use, soils and soil qualities, agricultural production on the Tohono O'odham Nation, rangeland uses, plants, and livestock, wildlife on the Tohono O'odham Nation, land use policy, and natural resources and economic development. There will be a half-day field trip scheduled into the class, but the class has no formal lab.",
+      "institution": "Tohono O'Odham Community College"
+    },
+    {
+      "course_id": "ANR 128",
+      "course_title": "Plant Ecology of the Sonoran Desert",
+      "credits": "3.00",
+      "description": "Prerequisites: None 4 cr. hrs. (4 pds: 4 lee) Programs: AAS-ANR Plants and plant communities support much of the diversity of life in the Sonoran Desert and the surrounding regions. This course will cover the fundamentals of ecology from the perspective of plants including population, community and ecosystem ecology. This course will also include identification and classification of plants and plant communities in the Sonoran Desert region. This course incorporates practical field exercises designed to acquaint the student with plant community analysis, classification and description.",
+      "institution": "Tohono O'Odham Community College"
+    },
+    {
+      "course_id": "ANR 186",
+      "course_title": "Water Resources",
+      "credits": "3.00",
+      "description": "Prerequisites: None 4 cr. hrs. (4 pds: 4 lee,) Programs: All GenEd: AGEC/G, AAS(G) This course will introduce basic principles of hydrology with an emphasis on aspects that are useful in the practice of desert range management. Topics will include the hydrologic cycle, precipitation, evaporation, runoff, floods, drought, erosion, desert and riverine landforms, groundwater flow, types of range well pumps, traditional O'odham water use, water quality, and water law. These subjects will be taught using examples taken largely from within the Tohono O'odham Nation.",
+      "institution": "Tohono O'Odham Community College"
+    }
+  ],
+  "timestamp": "2025-08-11T00:16:22.893196"
+}

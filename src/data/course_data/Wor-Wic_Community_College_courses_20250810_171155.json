@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Wor-Wic Community College",
+    "successful_variation": "Wor-Wic Community College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Wor-Wic+Community+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACT 100",
+      "course_title": "Basic Accounting",
+      "credits": "3.00",
+      "description": "This course, designed for students with no bookkeeping experience who are seeking secretarial or clerical jobs, provides an orientation to the field of accounting and basic accounting fundamentals. Students learn payroll procedures, the accounting cycle of a proprietorship and the preparation of basic financial records. Accounting and business management students cannot use this course as an accounting or business elective. Three lecture hours per week. Prerequisite: MTH 091 with a grade of \"C\" or better, an acceptable mathematics diagnostic assessment score orpermission of the department head. Usually offered in the fall and spring.",
+      "institution": "Wor-Wic Community College"
+    },
+    {
+      "course_id": "ACT 151",
+      "course_title": "Principles of Accounting II",
+      "credits": "3.00",
+      "description": "This course applies basic principles of accounting to corporate settings. The focus of this course is on identifying the characteristics of corporations and recording transactions for the preparation, analysis and interpretation of financial statements. Included are elements of management accounting for planning, control, long-term strategy and decision making. Students identify characteristics of corporations and partnerships and complete accounting transactions related to the preparation and analysis of corporate financial statements. Students also apply management accounting techniques in the accounting control and decision-making process. Three lecture hours per week. Prerequisite: ACT 101 with a grade of \"C\" orbetter or permission of the department head. Usually offered in the fall and spring.",
+      "institution": "Wor-Wic Community College"
+    },
+    {
+      "course_id": "ACT 153",
+      "course_title": "Microcomputer Accounting",
+      "credits": "3.00",
+      "description": "This course covers set up, maintenance and recording accounting information using an accounting software package. The accounting cycle is completed by adjusting ledger accounts and performing year-end closing. Financial reports are created and modified. Three lecture hours per week. Prerequisites: ACT 101, and CMP 101 or OFT 160, with grades of \"C\" or better, or better or permission of the departmenthead. Materials fee: $15. Usually offered in the spring.",
+      "institution": "Wor-Wic Community College"
+    },
+    {
+      "course_id": "ACT 201",
+      "course_title": "Intermediate Accounting I",
+      "credits": "3.00",
+      "description": "This course provides a detailed analysis of current and noncurrent assets, standard financial statements and the conceptual framework on which they are built. Students learn the theoretical structure of accounting, gain an in-depth understanding of the role of accounting as an information-reporting system and account for organizational economic resources. Three lecture hours per week. Prerequisite: ACT 151 with a grade of \"C\" or better or permission of the department head. Usuallyoffered in the fall.",
+      "institution": "Wor-Wic Community College"
+    },
+    {
+      "course_id": "ACT 215",
+      "course_title": "Cost Systems and Analysis",
+      "credits": "3.00",
+      "description": "The focus of this course is on the accumulation of data and the presentation of the data to management for use in decision making. Costing elements and systems, and budgeting are related to the overall organizational planning and controlling objectives. Three lecture hours per week. Prerequisite: ACT 151 with a grade of \"C\" orbetter or permission of the department head. Usually offered in the spring.",
+      "institution": "Wor-Wic Community College"
+    },
+    {
+      "course_id": "ACT 223",
+      "course_title": "Income Tax",
+      "credits": "3.00",
+      "description": "This course offers an introduction to federal taxation. It provides an overview of the federal tax system, the determination of taxable income and the payment of taxes for the individual taxpayer. This course also provides an overview of the tax characteristics of business entities. Students determine the tax status, gross income, taxable income and tax liability of an individual taxpayer. Students also prepare an income tax return for a typical individual taxpayer. Three lecture hours per week. Prerequisite: ACT 151 with a grade of \"C\" or better or permission of the departmenthead. Usually offered in the fall.",
+      "institution": "Wor-Wic Community College"
+    },
+    {
+      "course_id": "ACT 250",
+      "course_title": "Payroll and Accounting Applications",
+      "credits": "2.00",
+      "description": "This course provides students with an understanding of federal and state laws, including the Fair Labor Standards Act, Federal Insurance Contributions Act (FICA), income tax withholding laws, and federal and state unemployment acts that relate to the payment of wages and salaries in a business. Two lecture hours per week. Prerequisite: ACT 151 with a grade of \"C\" or better or permission of the departmenthead. Usually offered in the spring.",
+      "institution": "Wor-Wic Community College"
+    },
+    {
+      "course_id": "ACT 260",
+      "course_title": "Accounting Field Experience",
+      "credits": "2.00",
+      "description": "In order to obtain an actual training experience, students are placed in agencies relevant to their areas of emphasis. Supervision is provided by both the instructor and the agency. Students are required to develop, in cooperation with their instructor and the agency, a learning contract for the field experience. One hundred hours of work as an intern. Prerequisites: SDV 101 and permission of the department head. Usually offered in the fall and spring.",
+      "institution": "Wor-Wic Community College"
+    },
+    {
+      "course_id": "ART 101",
+      "course_title": "Introduction to Art History",
+      "credits": "3.00",
+      "description": "This course presents the major themes, styles and subject matter of art and architecture from prehistory to the present, focusing on Western civilization. The artworks of each culture and historical period are examined in the context of the dominant thoughts, ideas and customs of the time. Three lecture hours per week and one field trip. Materials fee: $40. Usually offered in the fall and spring.",
+      "institution": "Wor-Wic Community College"
+    },
+    {
+      "course_id": "ART 101H",
+      "course_title": "Introduction to Art History,Honors",
+      "credits": "3.00",
+      "description": "This course presents the major themes, styles and subject matter of art and architecture from prehistory to the present, focusing on Western civilization. The artworks of each culture and historical period are examined in the context of the dominant thoughts, ideas and customs of the time. Additionally, students gain a heightened understanding of aesthetic evaluation by learning how symbolism, allusion and intertextuality play significant roles in the visual arts. This course frequently utilizes an interdisciplinary approach that incorporates geography, anthropology and literary analysis. Not only do students gain a deeper understanding of the major epochs of human expression, they develop the necessary skills to thoughtfully discuss, explicate and comprehend painting, sculpture and other forms of visual media. Three lecture hours per week and one field trip. Materials fee: $40. Usually offered in the spring.",
+      "institution": "Wor-Wic Community College"
+    }
+  ],
+  "timestamp": "2025-08-10T17:11:55.400172"
+}

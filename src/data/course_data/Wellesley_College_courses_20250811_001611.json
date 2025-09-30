@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Wellesley College",
+    "successful_variation": "Wellesley College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Wellesley+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "AFR 105",
+      "course_title": "Introduction to the Black Experience",
+      "credits": "3.00",
+      "description": "Patterson This course serves as the introductory offering in Africana Studies. It explores, in an interdisciplinary fashion, salient aspects of the Black experience, both ancient and modern, at home and abroad. This course provides an overview of many related themes, including slavery, Africanisms, gender, colonialism, civil rights, and pan-African exchange. Prerequisite: None Distribution: Historical Studies or Social and Behavioral Analysis Semester: Fall Unit: 1.0",
+      "institution": "Wellesley College"
+    },
+    {
+      "course_id": "AFR 201",
+      "course_title": "The African-American Literary Tradition",
+      "credits": "3.00",
+      "description": "Cudjoe NOT OFFERED IN 2009-10. A survey of the Afro-American experience as depicted in literature from the eighteenth century through the present. Study of various forms of literary expression including the short story, autobiography, literary criticism, poetry, drama, and essays as they have been used as vehicles of expression for Black writers during and since the slave experience. Prerequisite: None Distribution: Language and Literature Semester: N/O Unit: 1.0",
+      "institution": "Wellesley College"
+    },
+    {
+      "course_id": "AFR 202",
+      "course_title": "Introduction to African Philosophy",
+      "credits": "3.00",
+      "description": "Menkiti Initiation into basic African philosophical concepts and principles. The first part of the course deals with a systematic interpretation of such questions as the Bantu African philosophical concept of Muntu and related beliefs, as well as Bantu ontology, metaphysics, and ethics. The second part centers on the relationship between philosophy and ideologies and its implications in Black African social, political, reli-gious, and economic institutions. The approach will be comparative. Students may register for either PHIL 202 or AFR 202 and credit will be granted accordingly. Prerequisite: Open to first-year students who have taken one course in philosophy and to sophomores, juniors, and seniors without prerequisite. Distribution: Epistemology and Cognition or Religion, Ethics, and Moral Philosophy Semester: Spring Unit: 1.0",
+      "institution": "Wellesley College"
+    },
+    {
+      "course_id": "AFR 206",
+      "course_title": "Introduction to African-American History",
+      "credits": "3.00",
+      "description": "Patterson NOT OFFERED IN 2009-10. An introductory survey of the political, social, economic, and cultural development of African Americans from their African origins to the present. This course examines the foundations of the discipline of African-American history, slavery, Africans in colonial America, migration, Reconstruction, and Harlem Renaissance artistry and scholarship. Prerequisite: None Distribution: Historical Studies Semester: N/O Unit: 1.0",
+      "institution": "Wellesley College"
+    },
+    {
+      "course_id": "AFR 207",
+      "course_title": "Images of Africana People Through the Cinema",
+      "credits": "3.00",
+      "description": "Obeng An investigation of the social, political, and cultural aspects of development of Africana people through the viewing and analysis of films from Africa, Afro-America, Brazil, and the Caribbean. The class covers pre-colonial, colonial, and post-colonial experiences and responses of Africana people. Films shown will include Sugar Cane Alley, Zan Boko, and Sankofa. Prerequisite: None Distribution: Arts, Music, Theatre, Film, Video Semester: Fall Unit: 1.0",
+      "institution": "Wellesley College"
+    },
+    {
+      "course_id": "AFR 208",
+      "course_title": "Women in the Civil Rights Movement",
+      "credits": "0.00",
+      "description": "Patterson A social and historical examination of the role of women in the Civil Rights Movement in the United States. Particular attention will be paid to the interplay between historical and social factors. Women's impact on the Civil Rights Movement and the effects of the Movement on the women involved, are the foci of this course. Prerequisite: None Distribution: Historical Studies or Social and Behavioral Analysis Semester: Spring Unit: 1.0",
+      "institution": "Wellesley College"
+    },
+    {
+      "course_id": "AFR 211",
+      "course_title": "Introduction to African Literature",
+      "credits": "3.00",
+      "description": "Cudjoe The development of African literature in English and in translation. Although special attention will be paid to the novels of Chinua Achebe, writers such as Ngugi wa Thiong'o, Camara Laye, Wole Soynika, Miriama Ba, Nawal El Saadawi and Buchi Emecheta will also be consi-dered. The influence of oral tradition on these writers' styles as well as the thematic links between them and writers of the Black awakening in America and the West Indies will be discussed . Prerequisite: None Distribution: Language and Literature Semester: Spring Unit: 1.0",
+      "institution": "Wellesley College"
+    },
+    {
+      "course_id": "AFR 212",
+      "course_title": "Black Women Writers",
+      "credits": "3.00",
+      "description": "Cudjoe The Black woman writer's efforts to shape images of herself as Black, as woman, and as artist. The problem of literary authority for the Black woman writer, criteria for a Black woman's literary tradition, and the relation of Black feminism or ?womanism? to the articulation of a distinctively Black and female literary aesthet ic. Prerequisite: None Distribution: Language and Literature Semester: Fall Unit: 1",
+      "institution": "Wellesley College"
+    },
+    {
+      "course_id": "AFR 214",
+      "course_title": "Internationalization of Black Power",
+      "credits": "3.00",
+      "description": "Patterson NOT OFFERED IN 2009-10. Influenced by global intellectual and political exchange, this course considers the events, theories, and people critical to the Civil Rights and Black Power struggles of the 1950s through the 1970s. Personalities/topics include Stokely Carmi-chael (Kwame Tur\u00e9), Malcolm X, Martin Luther King, Elaine Brown, Majhemout Diop, Walter Rodney, Frantz Fanon, Patrice Lumumba, the Black Panther Party, and SNCC. Prerequisite: None Distribution: Historical Studies Semester: N/O Unit 1.0",
+      "institution": "Wellesley College"
+    },
+    {
+      "course_id": "AFR 217",
+      "course_title": "The Black Family",
+      "credits": "3.00",
+      "description": "NOT OFFERED IN 2009-10.This course is an overview of the African-American family in economic, sociological, psychological, economic, anthropological, and historical perspective. It is an examination of the complex interplay of self-definitions, societal, and community defini-tions among African-American women, men, and children within the context of their families. The course is also an exploration of changing gender roles among African-American women and men. Prerequisite: None Distribution: Social and Behavioral Analysis Semester: N/O Unit: 1.0",
+      "institution": "Wellesley College"
+    }
+  ],
+  "timestamp": "2025-08-11T00:16:11.676639"
+}

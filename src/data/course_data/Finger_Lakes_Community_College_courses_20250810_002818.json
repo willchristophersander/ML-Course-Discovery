@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Finger Lakes Community College",
+    "successful_variation": "Finger Lakes Community College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Finger+Lakes+Community+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACC 201",
+      "course_title": "Intermediate Accounting I",
+      "credits": "1.00",
+      "description": "A continuation of ACC 102, stressing a broader application of accounting principles. Theory is emphasized as it relates to valuation and changes in the financial position and operations of the business entity. Problems and cases are studied as they relate to generally accepted accounting principles. ACC 102 with a grade of C+ or better. F",
+      "institution": "Finger Lakes Community College"
+    },
+    {
+      "course_id": "ACC 202",
+      "course_title": "Intermediate Accounting II",
+      "credits": "1.00",
+      "description": "A continuation of ACC 201, stressing a broader application of principles in previous accounting courses. ACC 201. S",
+      "institution": "Finger Lakes Community College"
+    },
+    {
+      "course_id": "ACC 205",
+      "course_title": "Cost Accounting",
+      "credits": "3.00",
+      "description": "A systematic study of the fundamental procedures applied in the determination of production costs and inventory balances. Analysis of cost behavior and decision-making for planning and control of the business are also covered. ACC 101, ACC 102. B",
+      "institution": "Finger Lakes Community College"
+    },
+    {
+      "course_id": "ACC 207",
+      "course_title": "Income Tax Accounting",
+      "credits": "3.00",
+      "description": "This course is designed to familiarize accounting students with aspects of income taxation of individuals and provide a foundation upon which they can act in either an advisory or functional capacity. ACC 102, or permission of the instructor. B",
+      "institution": "Finger Lakes Community College"
+    },
+    {
+      "course_id": "ACC 210",
+      "course_title": "Contemporary Accounting Applications",
+      "credits": "3.00",
+      "description": "Provides an in-depth study of current accounting applications in the private sector, with emphasis on the more widely-used applications packages available to the modern accountant. Topics will include computerized accounting packages, accounting information systems, auditing and control, and the accountant's role in the organization. ACC 102 or permission of instructor. B",
+      "institution": "Finger Lakes Community College"
+    },
+    {
+      "course_id": "AGR 100",
+      "course_title": "Soil Science",
+      "credits": "3.00",
+      "description": "A study of origin of soils, soil formation, taxonomy, physical and chemical properties, bacteria and fungi, organic matter, water and fertility. B",
+      "institution": "Finger Lakes Community College"
+    },
+    {
+      "course_id": "ANT 110",
+      "course_title": "Human Prehistory",
+      "credits": "3.00",
+      "description": "An introduction to early human biological and cultural variability emphasizing evolution, cultural adaptation and cultural change within different environments using the subfields of physical anthropology and archaeology. B",
+      "institution": "Finger Lakes Community College"
+    },
+    {
+      "course_id": "ANT 200",
+      "course_title": "Comparative Cultures",
+      "credits": "3.00",
+      "description": "A comparative approach to the content and processes of culture as adaptation. This course will examine and describe the ways selected pre-literate and complex societies have used culture to adapt to their environments Case studies drawn from American, Asian, African, and European societies will be the basis for engaging in cross-cultural studies. B",
+      "institution": "Finger Lakes Community College"
+    },
+    {
+      "course_id": "ART 101",
+      "course_title": "Art History II",
+      "credits": "3.00",
+      "description": "A continuation of ART 100. Study of European, American and Contemporary art. May be taken to fulfill either a humanities or social science elective. S",
+      "institution": "Finger Lakes Community College"
+    },
+    {
+      "course_id": "ART 104",
+      "course_title": "Design I",
+      "credits": "4.00",
+      "description": "A broad foundation in the principles and elements of design are applied to two-dimensional work. Various media and their application are employed. F",
+      "institution": "Finger Lakes Community College"
+    }
+  ],
+  "timestamp": "2025-08-10T00:28:18.557942"
+}

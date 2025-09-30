@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Hesston College",
+    "successful_variation": "Hesston College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Hesston+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "AGSC 102",
+      "course_title": "Animal Science",
+      "credits": "3.00",
+      "description": "A study of animal agriculture; the types, purposes, and products of common domestic livestock; and the principles of breeding, selection, nutrition, lactation, reproduction, management, and marketing.",
+      "institution": "Hesston College"
+    },
+    {
+      "course_id": "AGSC 145",
+      "course_title": "Soil Science",
+      "credits": "4.00",
+      "description": "Covers the physical, chemical, and biological properties of soils, their formation, fertility, and management, with emphasis on the need to balance short-term economical crop yields with long-term productivity and health. Prerequisite: Chem 101 or higher level chemistry experience.",
+      "institution": "Hesston College"
+    },
+    {
+      "course_id": "AGSC 245",
+      "course_title": "Crop Science",
+      "credits": "4.00",
+      "description": "Studies the principles of the growth, development, and production of major agriculture crops. A basic course for majors in agronomy and others interested in crop production. Includes a two-hour lab each week.",
+      "institution": "Hesston College"
+    },
+    {
+      "course_id": "ART 100",
+      "course_title": "Introduction to Design",
+      "credits": "3.00",
+      "description": "Examines the ideas needed to arrange materials into organized visual composition, the interrelationship of two dimensional visual elements, and principles of organization. Applies design understanding to practical problems. Includes visits to professional designers. Makes use of computer and design software. Recommended for the general student and for art and architecture majors.",
+      "institution": "Hesston College"
+    },
+    {
+      "course_id": "ART 101",
+      "course_title": "Introduction to Drawing",
+      "credits": "3.00",
+      "description": "Develops fundamental drawing skills leading to mastery of graphic expression. Explores various media throughout the course and investigates creative compositional approaches toward the course's end. Drawing as distinctive art form and basis for other art forms and enrichment for the beginner. Recommended for general as well as art students.",
+      "institution": "Hesston College"
+    },
+    {
+      "course_id": "ART 102",
+      "course_title": "Introduction to Ceramics",
+      "credits": "3.00",
+      "description": "Introduces creative clay work, focusing on hand-building methods, wheel and glazing techniques, and development of aesthetic sensitivity. For the general student, child care, and art students.",
+      "institution": "Hesston College"
+    },
+    {
+      "course_id": "ART 103",
+      "course_title": "Introduction to Photography",
+      "credits": "3.00",
+      "description": "Emphasizes photography as a means of expression and reflection. Covers technical theory, camera use, basic elements of composition, and the processing, printing, and presentation of black and white photography as well as use of Photoshop software. Students must supply their own manually-controlled 35mm SLR camera, film, and paper. Recommended for general as well as art students.",
+      "institution": "Hesston College"
+    },
+    {
+      "course_id": "ART 104",
+      "course_title": "Introduction to Painting",
+      "credits": "3.00",
+      "description": "Investigates oil painting techniques, encourages personal expression through structured formats, introduces color theory and poetic imagery, includes study excursions and field trips to local painting shows. Experience in drawing is desirable, but not required. Recommended for general as well as art students. Offered alternate years.",
+      "institution": "Hesston College"
+    },
+    {
+      "course_id": "ART 105",
+      "course_title": "Introduction to Watercolor Painting",
+      "credits": "3.00",
+      "description": "Develops fundamental watercolor painting skills through many studies on a variety of paper surfaces. Color theory, drawing skill, and inventive composition will be developed as skills progress. Course includes painting excursions and field trips to painting shows. Experience in drawing is desirable, but not required. Recommended for general as well as art students. Offered alternate years.",
+      "institution": "Hesston College"
+    },
+    {
+      "course_id": "ART 115",
+      "course_title": "Web Technologies for the Designer",
+      "credits": "1.00",
+      "description": "Provides an introduction to web authoring and image-editing software and to pixel- and vector-based animation.",
+      "institution": "Hesston College"
+    }
+  ],
+  "timestamp": "2025-08-08T18:47:44.171557"
+}

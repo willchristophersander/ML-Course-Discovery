@@ -1,0 +1,74 @@
+{
+  "search_query": {
+    "institution": "Edison State Community College",
+    "successful_variation": "Edison State Community College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Edison+State+Community+College&distance=5"
+  },
+  "total_results": 9,
+  "courses": [
+    {
+      "course_id": "ACC 121S",
+      "course_title": "Intro Fin Accounting",
+      "credits": "4.00",
+      "description": "Application of accounting procedures including organization of ledgers, accounts, journals, financial statements, management of cash, inventories, proprietorships, partnerships, and corporations, including plant assets, depreciation, current liabilities, stockholders equity, long term obligations and financial statement analysis. Prerequisite or co-requisite: MTH 119S. For Paralegal students, prerequiste or co-requisite: MTH 110S. Lab fee. Prerequisite: MTH-119S Corequisite: MTH-119S",
+      "institution": "Edison State Community College"
+    },
+    {
+      "course_id": "ACC 122S",
+      "course_title": "Intro Managerial Acc",
+      "credits": "4.00",
+      "description": "In-depth study of manufacturing cost accounting with emphasis on job order and process cost systems and the development of managerial skills in using accounting and financial information. Material control, labor cost and factory overhead are emphasized. Study provides data needed for decision-making and cost planning and control. Prerequisite: ACC 121S. Prerequisite: Take ACC-121S.",
+      "institution": "Edison State Community College"
+    },
+    {
+      "course_id": "ACC 151S",
+      "course_title": "Comp Accounting II",
+      "credits": "2.00",
+      "description": "Practical application of QuickBooks software for generating financial statements and information using computer products. This course emphasizes the complete accounting cycle, recording service and merchandising transactions, reviewing inventory costing methods, preparing bank reconciliations, recording long-term assets and preparing of basic financial statements. Prerequisite: ACC 121S. Lab fee. Prerequisite: Take ACC-121S.",
+      "institution": "Edison State Community College"
+    },
+    {
+      "course_id": "ACC 214S",
+      "course_title": "Intermediate Accounting I",
+      "credits": "3.00",
+      "description": "In-depth study of accounting theory and application of problem solving. Emphasis is on financial statement preparation; in-depth study of cash, temporary investments, receivables, inventories and non-current operating assets. Prerequisite: ACC 121S. Prerequisite: Take ACC-121S.",
+      "institution": "Edison State Community College"
+    },
+    {
+      "course_id": "ACC 215S",
+      "course_title": "Intermediate Accounting II",
+      "credits": "3.00",
+      "description": "An in-depth study of accounting theory and application of problem solving. Emphasis is on long-term investments, liabilities (both current and long-term), owner's equity, earnings per share, revenue recognition, income taxes, leases, pensions, accounting changes, and financial statement analysis. Prerequisite: ACC 214S. Prerequisite: Take ACC-214S.",
+      "institution": "Edison State Community College"
+    },
+    {
+      "course_id": "ACC 217S",
+      "course_title": "Introduction Income Taxation",
+      "credits": "3.00",
+      "description": "An overview of federal income taxation emphasizing individual income taxes. Study of the preparation of the various schedules for the individual, including forms, booklets, and internet information. Lab fee.",
+      "institution": "Edison State Community College"
+    },
+    {
+      "course_id": "ACC 225S",
+      "course_title": "Gov & Nonprofit Accounting",
+      "credits": "3.00",
+      "description": "Accounting for nonprofit entities, specifically state and local governmental entities, nonprofit, non-governmental colleges and universities, healthcare providers, and voluntary organizations. Prerequisite: ACC 121S. Prerequisite: Take ACC-121S;",
+      "institution": "Edison State Community College"
+    },
+    {
+      "course_id": "ACC 231S",
+      "course_title": "Auditing",
+      "credits": "3.00",
+      "description": "Principles and procedures used by the public accounting profession to audit business entities. Coverage includes professional standards, ethics, audit evidence, internal control structure and CPAs report on financial statements. Prerequisite: ACC 214S. Prerequisite: Take ACC-214S.",
+      "institution": "Edison State Community College"
+    },
+    {
+      "course_id": "ACC 280S",
+      "course_title": "Accounting Capstone",
+      "credits": "3.00",
+      "description": "In-depth study of career readiness skills and tools, managerial use of financial data, analysis of accounting reports, change management, accounting ethics/moral decision-making, and financial fraud case studies. Analytical and decision-making skills are applied to classic, as well as, current cases. Coursework includes creation of a capstone project, in the form of a career readiness portfolio. Includes evaluation of capstone project by an outside evaluator. Prerequisite: for accounting majors a minimum of 12 credit hours of ACC including ACC 214S. Lab fee. Prerequisite: Take a minimum of 12 credit hours of ACC coursework including ACC-214S.",
+      "institution": "Edison State Community College"
+    }
+  ],
+  "timestamp": "2025-08-10T17:13:09.010552"
+}

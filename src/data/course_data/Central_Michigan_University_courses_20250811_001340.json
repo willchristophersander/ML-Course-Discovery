@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Central Michigan University",
+    "successful_variation": "Central Michigan University",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Central+Michigan+University&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACC 101",
+      "course_title": "Introduction to Accounting??",
+      "credits": "3.00",
+      "description": "Basic concepts and principles of accounting. Overview of accounting cycle from a building block approach. No credit if credit has been earned in ACC 201. Does not count on major or minor in College of Business Administration.",
+      "institution": "Central Michigan University"
+    },
+    {
+      "course_id": "ACC 197",
+      "course_title": "Special Topics In Accounting??",
+      "credits": "3.00",
+      "description": "Introductory topics in accounting. Credit counts toward total hours for graduation, but not toward a major or minor in the College of Business Administration.",
+      "institution": "Central Michigan University"
+    },
+    {
+      "course_id": "ACC 202",
+      "course_title": "Concepts of Managerial Accounting??",
+      "credits": "3.00",
+      "description": "Students gain an understanding of how the information provided by an accounting information system is used for managerial decision making. Prerequisite: minimum grade of C- in ACC 201. This course is approved for offering in a distance learning format.",
+      "institution": "Central Michigan University"
+    },
+    {
+      "course_id": "ACC 203",
+      "course_title": "Essentials of Accounting for Business??",
+      "credits": "3.00",
+      "description": "Basic concepts and principles of an accounting process used to develop financial reports and make management decisions for businesses and other entities. Prerequisite: MTH 105 This course is approved for offering in a distance learning format.",
+      "institution": "Central Michigan University"
+    },
+    {
+      "course_id": "ACC 204",
+      "course_title": "Accounting for Not-For-Profit Entities??1",
+      "credits": "1.00",
+      "description": "Students gain an understanding of accounting and financial reporting for not-for-profit entities. Prerequisite: ACC 203 with a minimum grade of C This course is approved for offering in a distance learning format.",
+      "institution": "Central Michigan University"
+    },
+    {
+      "course_id": "ACC 210",
+      "course_title": "Accounting Information for Entrepreneurial Decision Making??",
+      "credits": "3.00",
+      "description": "Accounting concepts and practices for entrepreneurs/small business owners. Emphasis given to the use of accounting tools to solve small business problems. No credit if credit has been earned in ACC 201. Does not count on the School of Accounting major or minor. Identical to ACC 210. Credit may not be earned in more than one of these courses.",
+      "institution": "Central Michigan University"
+    },
+    {
+      "course_id": "ACC 227",
+      "course_title": "Accounting for Health Care Managers??",
+      "credits": "3.00",
+      "description": "The use and analysis of accounting information for managerial control and decision making in health care. Basic measurement and reporting principles are also emphasized.",
+      "institution": "Central Michigan University"
+    },
+    {
+      "course_id": "ACC 250",
+      "course_title": "Introduction to Financial Accounting??",
+      "credits": "3.00",
+      "description": "Overview of how a business functions through the generation and interpretation of accounting data. Prerequisite: Tier 1 admission to Professional Business Studies. Recommended: MTH 107 or 132 or 217.",
+      "institution": "Central Michigan University"
+    },
+    {
+      "course_id": "ACC 255",
+      "course_title": "Managerial Accounting & Decision Making??",
+      "credits": "3.00",
+      "description": "Managerial decision-making methods using accounting and financial information and includes application of concepts to integrated study of business problems. Prerequisites: Minimum grade of C- in ACC 250; Tier 2 Admission to Professional Business Studies. Co-requisite: BIS 255",
+      "institution": "Central Michigan University"
+    },
+    {
+      "course_id": "ACC 300",
+      "course_title": "Corporate Financial Reporting and Reporting Analysis??",
+      "credits": "3.00",
+      "description": "Financial accounting concepts required to analyze financial statements from a management and investors viewpoint. Not available for credit to accounting majors or minor, or students with credit in ACC 302. Prerequisites: ACC 202, FIN 332; 56 semester hours completed and admission to Professional Business Studies or listed on signed major or minor.",
+      "institution": "Central Michigan University"
+    }
+  ],
+  "timestamp": "2025-08-11T00:13:40.400974"
+}

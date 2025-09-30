@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Terra State Community College",
+    "successful_variation": "Terra State Community College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Terra+State+Community+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACCT 104",
+      "course_title": "Principles of Accounting I",
+      "credits": "4.00",
+      "description": "An introduction to fundamental accounting concepts, principles, and procedures as they relate to recording transactions, adjusting accounts, preparing financial statements, preparing a worksheet, closing and service concerns, accounting for cash, notes and accounts receivable.",
+      "institution": "Terra State Community College"
+    },
+    {
+      "course_id": "ACCT 105",
+      "course_title": "Principles of Accounting II",
+      "credits": "4.00",
+      "description": "Prerequisite: ACCT 104 This course is a continuation of the introduction to fundamental accounting principles and procedures. Mastery of various methods of depreciation, payroll accounting, inventory costing methods, partnership accounting, and the organization and operation of corporations are covered.",
+      "institution": "Terra State Community College"
+    },
+    {
+      "course_id": "ACCT 106",
+      "course_title": "Principles of Accounting III",
+      "credits": "4.00",
+      "description": "Prerequisite: ACCT 104 An introduction to analyzing and comparing financial statements, understanding price-level changes, departmental and responsibility accounting, manufacturing accounting, cost accounting, job order and process, budgeting, cost-volume-profit analysis, and tax considerations in business decisions.",
+      "institution": "Terra State Community College"
+    },
+    {
+      "course_id": "ACCT 110",
+      "course_title": "Office Accounting",
+      "credits": "4.00",
+      "description": "An introduction to fundamental accounting concepts, principles, and procedures as they relate to recording transactions, adjusting accounts, preparing financial statements, preparing a worksheet, closing and service concerns, accounting for cash, notes and accounts receivable.",
+      "institution": "Terra State Community College"
+    },
+    {
+      "course_id": "ACCT 199",
+      "course_title": "Seminar",
+      "credits": "9.00",
+      "description": "Discussion of particular problems related to chosen program and areas of special interest.",
+      "institution": "Terra State Community College"
+    },
+    {
+      "course_id": "ACCT 201",
+      "course_title": "Intermediate Accounting I",
+      "credits": "3.00",
+      "description": "Prerequisite: ACCT 105 An in-depth review of the theoretical foundations of financial accounting and reporting, the accounting model and information processing, the income statement and retained earnings statement, balance sheet and statement of changes in financial position, concepts of future and present value system, short-term investments and general inventory problems.",
+      "institution": "Terra State Community College"
+    },
+    {
+      "course_id": "ACCT 202",
+      "course_title": "Intermediate Accounting II",
+      "credits": "3.00",
+      "description": "Prerequisite: ACCT 105 This course will further develop the theoretical foundations of special inventory procedures, measuring, recording and reporting liabilities and income taxes, acquisition, use and retirement property, plant, and equipment; measuring and recording intangible assets; and accounting for capital and operating leases.",
+      "institution": "Terra State Community College"
+    },
+    {
+      "course_id": "ACCT 203",
+      "course_title": "Intermediate Accounting III",
+      "credits": "3.00",
+      "description": "Prerequisite: ACCT 105 This course will revolve around financial statement analysis; specifically, the areas of earnings and earnings distribution, changes in financial position, uses of comparative data, special measurements of liquidity and profitability, and preparation of statements from incomplete records.",
+      "institution": "Terra State Community College"
+    },
+    {
+      "course_id": "ACCT 206",
+      "course_title": "Cost Accounting",
+      "credits": "3.00",
+      "description": "Prerequisite: ACCT 104 The course is a basic cost accounting course geared to the concepts of management, fundamental costs reports, design and operation of information systems, job order and process costing, by-products and joint product costing, planning and control of factory overhead and departmentalization of factory overhead for product costing and cost control.",
+      "institution": "Terra State Community College"
+    },
+    {
+      "course_id": "ACCT 208",
+      "course_title": "Managerial Accounting",
+      "credits": "3.00",
+      "description": "Prerequisite: ACCT 105 This course is an introduction to management accounting. It will focus on characteristics of organizations, types of management accounting information systems for cost accumulation, nature of alternative choice problems, capital investment decisions and methods used in compiling and analyzing data used in the decision making process.",
+      "institution": "Terra State Community College"
+    }
+  ],
+  "timestamp": "2025-08-10T06:24:41.020714"
+}

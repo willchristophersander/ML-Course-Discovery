@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Coast Colleges",
+    "successful_variation": "Coast Colleges",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Coast+Colleges&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "AD 300",
+      "course_title": "Basic Computer Applications/ Career Development",
+      "credits": "1.33",
+      "description": "Basic Computer Applications/ Career Development",
+      "institution": "Coast Colleges"
+    },
+    {
+      "course_id": "AD 301",
+      "course_title": "Introduction/ Overview of AOD & Law and Ethics",
+      "credits": "2.67",
+      "description": "Introduction/ Overview of AOD & Law and Ethics",
+      "institution": "Coast Colleges"
+    },
+    {
+      "course_id": "AD 302",
+      "course_title": "Physiology/ Pharmacology of AOD",
+      "credits": "2.67",
+      "description": "Physiology/ Pharmacology of AOD",
+      "institution": "Coast Colleges"
+    },
+    {
+      "course_id": "AD 303",
+      "course_title": "Case Management",
+      "credits": "2.67",
+      "description": "Case Management",
+      "institution": "Coast Colleges"
+    },
+    {
+      "course_id": "AD 304",
+      "course_title": "Practice and Theory of AOD Counseling",
+      "credits": "2.67",
+      "description": "Practice and Theory of AOD Counseling",
+      "institution": "Coast Colleges"
+    },
+    {
+      "course_id": "AD 305",
+      "course_title": "Essentials of AOD Counseling",
+      "credits": "2.66",
+      "description": "Essentials of AOD Counseling",
+      "institution": "Coast Colleges"
+    },
+    {
+      "course_id": "AD 306",
+      "course_title": "Personal and Professional Growth",
+      "credits": "2.00",
+      "description": "Personal and Professional Growth",
+      "institution": "Coast Colleges"
+    },
+    {
+      "course_id": "AD 307",
+      "course_title": "Supervised Practicum I",
+      "credits": "1.50",
+      "description": "Supervised Practicum I",
+      "institution": "Coast Colleges"
+    },
+    {
+      "course_id": "AD 308A",
+      "course_title": "Supervised Practicum II- A",
+      "credits": "0.67",
+      "description": "Supervised Practicum II-A 0.67",
+      "institution": "Coast Colleges"
+    },
+    {
+      "course_id": "AD 308B",
+      "course_title": "Supervised Practicum II- B",
+      "credits": "0.66",
+      "description": "Supervised Practicum II-B 0.66",
+      "institution": "Coast Colleges"
+    }
+  ],
+  "timestamp": "2025-08-10T23:45:51.889182"
+}

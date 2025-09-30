@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Estrella Mountain Community College",
+    "successful_variation": "Estrella Mountain Community College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Estrella+Mountain+Community+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACC 111",
+      "course_title": "Accounting Principles I",
+      "credits": "3.00",
+      "description": "3 Credits. 3 Periods. Fundamental theory of accounting principles and procedures. Prerequisites: None.",
+      "institution": "Estrella Mountain Community College"
+    },
+    {
+      "course_id": "ACC 112",
+      "course_title": "Accounting Principles II",
+      "credits": "3.00",
+      "description": "3 Credits. 3 Periods. Continuation of the fundamental theory of accounting principles and procedures, including interpretation of general purpose financial statements. Prerequisites: ACC111 with a grade of \"C\" or better, or permissionof department/division.",
+      "institution": "Estrella Mountain Community College"
+    },
+    {
+      "course_id": "ACC 230",
+      "course_title": "Uses of Accounting Information I",
+      "credits": "3.00",
+      "description": "3 Credits. 3 Periods. Introduction to the uses of accounting information for internal and external purposes with emphasis on financial statement analysis. Prerequisites: Grade of \"C\" or better inACC111 or ACC211, or a grade of \"C\" orbetter in (ENG101 and MAT151 and CRE101), or equivalent, or satisfactory score on District placement exam.",
+      "institution": "Estrella Mountain Community College"
+    },
+    {
+      "course_id": "ACC 240",
+      "course_title": "Uses of Accounting Information II",
+      "credits": "3.00",
+      "description": "3 Credits. 3 Periods. Introduction to the uses of accounting information for internal and external purposes with emphasis on analysis for use by management. Prerequisites: ACC230.",
+      "institution": "Estrella Mountain Community College"
+    },
+    {
+      "course_id": "ACC 250",
+      "course_title": "Introductory Accounting Lab",
+      "credits": "1.00",
+      "description": "1 Credit. 3 Periods. Procedural details of accounting for the accumulation of information and generation of reports for internal and external users. Prerequisites: None.",
+      "institution": "Estrella Mountain Community College"
+    },
+    {
+      "course_id": "AES 101",
+      "course_title": "The Air Force Today",
+      "credits": "1.00",
+      "description": "LEC 2 Credits. 1 Period. LAB 0 Credits. 1 Period. Introduction to U.S. Air Force and AFROTC. Topics include: the Air Force mission and organization, customs and courtesies, officer opportunities, officership and professionalism. Prerequisites: None.",
+      "institution": "Estrella Mountain Community College"
+    },
+    {
+      "course_id": "AES 103",
+      "course_title": "The Air Force Today II",
+      "credits": "2.00",
+      "description": "LEC 2 Credits. 1 Period. LAB 0 Credits. 1 Period. Introduction to U.S. Air Force and AFROTC. Topics include: the Air Force mission and organization, customs and courtesies, officer opportunities, officership, and professionalism. Prerequisites: AES101 or ASU Department of Aerospace Studies approval.",
+      "institution": "Estrella Mountain Community College"
+    },
+    {
+      "course_id": "AES 201",
+      "course_title": "Evolution of USAF Air and Space Power I",
+      "credits": "2.00",
+      "description": "LEC 2 Credits. 1 Period. LAB 0 Credits 1 Period. Further preparation of AFROTC candidate. Topics include: Air Force heritage and leaders, communication skills, ethics, leadership, quality Air Force, and values. Prerequisites: AES103 or ASU Department of Aerospace Studies approval.",
+      "institution": "Estrella Mountain Community College"
+    },
+    {
+      "course_id": "AES 203",
+      "course_title": "Evolution of USAF Air and Space Power II",
+      "credits": "2.00",
+      "description": "LEC 2 Credits. 1 Period. LAB 0 Credits 1 Period. Topics include: the air Force mission and organization, customs and courtesies, officer o p p p o r t u n i t i e s , o f f i c e r s h i p , a n d professionalism. Prerequisites: AES201 or ASU Department of Aerospace Studies approval.",
+      "institution": "Estrella Mountain Community College"
+    },
+    {
+      "course_id": "AES 294",
+      "course_title": "Air Force Physical Fitness",
+      "credits": "1.00",
+      "description": "LEC 1 Credits. 3 Period. Beginning instruction in adapted physical activities and a variety of sports and sports activities to include calisthenics, sit-ups, pushups, running, basketball, volleyball, and other physical events. Prerequisites: None. Corequisites: AES101, or AES103, or AES201, or AES203. Course Note: AES294 may be repeated for credit.",
+      "institution": "Estrella Mountain Community College"
+    }
+  ],
+  "timestamp": "2025-08-11T00:07:09.688391"
+}

@@ -1,0 +1,31 @@
+{
+    "data": {
+        "universities_file": "src/data/universities.json",
+        "training_data_file": "src/data/training_data.json",
+        "positive_examples_file": "src/data/positive_examples.json",
+        "negative_examples_file": "src/data/negative_examples.json"
+    },
+    "models": {
+        "course_search_classifier": "models/course_search_classifier.pkl",
+        "course_page_classifier": "models/course_page_classifier.pkl",
+        "search_navigator": "models/search_navigator.pkl"
+    },
+    "results": {
+        "discovery_results_dir": "results/discovery_results",
+        "validation_results_dir": "results/validation_results",
+        "training_results_dir": "results/training_results",
+        "analysis_results_dir": "results/analysis_results"
+    },
+    "system": {
+        "max_universities": 10,
+        "max_test_courses": 5,
+        "discovery_timeout": 30,
+        "validation_timeout": 15,
+        "request_delay": 2
+    },
+    "logging": {
+        "level": "INFO",
+        "format": "%(asctime)s - %(levelname)s - %(message)s",
+        "file": "logs/system.log"
+    }
+} 

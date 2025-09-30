@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Baker College",
+    "successful_variation": "Baker College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Baker+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ABT 101",
+      "course_title": "Painting and Refinishing I",
+      "credits": "6.00",
+      "description": "6 Quarter Hours Introduces the student to the basics for all automotive refinishing work. Safety precautions, surface preparations, spray gun and related equipment operation, paint mixing and application are covered. 20 hours of lecture and 80 hours of lab are required. Prerequisite(s): AST 099 or 1 year high school automotive or placement exam.",
+      "institution": "Baker College"
+    },
+    {
+      "course_id": "ABT 102",
+      "course_title": "Painting and Refinishing II",
+      "credits": "6.00",
+      "description": "6 Quarter Hours Advances the skills taught in ABT 101. In addition it covers paint matching, paint defects - causes and cures, spot repairs, contemporary color coat materials, and final detail. 20 hours of lecture and 80 hours of lab are required. Prerequisite(s): ABT 101.",
+      "institution": "Baker College"
+    },
+    {
+      "course_id": "ABT 103",
+      "course_title": "Painting and Refinishing Practicum Lab",
+      "credits": "6.00",
+      "description": "6 Quarter Hours The student will put their skills to work on complete full vehicles. The vehicles will be taken from body prep to final painting and detailing. 120 hours of lab are required. Prerequisite(s): ABT 102.",
+      "institution": "Baker College"
+    },
+    {
+      "course_id": "ABT 111",
+      "course_title": "Non-Structural Damage Repair I",
+      "credits": "6.00",
+      "description": "6 Quarter Hours Introduces the student to the basics for all automotive non-structural damage repair. Safety precautions, vehicle preparation, elementary repairs, outer body panel repairs, replacements, and adjustments are covered. 20 hours of lecture and 80 hours of lab are required. Prerequisite(s): AST 099 or 1 year high school automotive or placement exam.",
+      "institution": "Baker College"
+    },
+    {
+      "course_id": "ABT 112",
+      "course_title": "Non-Structural Damage Repair II",
+      "credits": "6.00",
+      "description": "6 Quarter Hours Advances the skills taught in ABT 111. In addition it covers metal finishing and body filling, movable glass and hardware repair, plastics and adhesives. Students will develop specific marketable repair skills. 20 hours of lecture and 80 hours of lab are required. Prerequisite(s): ABT 111.",
+      "institution": "Baker College"
+    },
+    {
+      "course_id": "ABT 113",
+      "course_title": "Non-Structural Damage Repair Practicum Lab",
+      "credits": "6.00",
+      "description": "6 Quarter Hours The student will put their skills to work on complete full vehicles. The vehicles will be taken from start to final prep for painting. 120 hours of lab are required. Prerequisite(s): ABT 112.",
+      "institution": "Baker College"
+    },
+    {
+      "course_id": "ABT 211",
+      "course_title": "Mig Welding",
+      "credits": "5.00",
+      "description": "5 Quarter Hours This course covers the safety precautions in welding and cutting. Besides MIG welding, TIG, oxyacetylene, resistance spot welding, and plasma cutting are included. Students learn the processes used in body repair. 15 hours of lecture and 70 hours of lab are required. Prerequisite(s): AST 099 or 1 year high school automotive or placement exam.",
+      "institution": "Baker College"
+    },
+    {
+      "course_id": "ABT 221",
+      "course_title": "Mechanical and Electrical I",
+      "credits": "6.00",
+      "description": "6 Quarter Hours This course covers basic electrical repairs that apply to body repair work. Topics include but are not limited to: wiring diagnosis and repair, battery starter, charging diagnosis and repair, lighting diagnosis and repair, electrical component diagnosis and repair, restraint system diagnosis and repair. 20 hours of lecture and 80 hours of lab are required. Prerequisite(s): ABT 103, ABT 113.",
+      "institution": "Baker College"
+    },
+    {
+      "course_id": "ABT 222",
+      "course_title": "Mechanical and Electrical II",
+      "credits": "6.00",
+      "description": "6 Quarter Hours This course covers basic mechanical repairs that apply to body repair work in the areas of suspension/steering and drive train. Topics covered but not limited to: diagnosis and repair of all steering components for front and rear wheel drive, chassis springs, struts, shock absorbers, and alignment, diagnosis, repair, and alignment of drive train components, cables, mounts, brake system, disc and drum, anti-lock, mechanical and hydraulic diagnosis and repair. 20 hours of lecture and 80 hours of lab are required. Prerequisite(s): ABT 221.",
+      "institution": "Baker College"
+    },
+    {
+      "course_id": "ABT 223",
+      "course_title": "Mechanical and Electrical III",
+      "credits": "6.00",
+      "description": "6 Quarter Hours This course covers basic mechanical repairs that apply to body repair work in the areas of heating/AC, cooling, fuel with intake and exhaust system. Topics covered but not limited to: safety and regulations concerning refrigerants, A/C component diagnosis and repair, evacuation and recharge, inspect with diagnosis and repair of the fuel system components, exhaust system components with muffler and converters, (EVAP) component inspection, diagnosis and repair. 20 hours of lecture and 80 hours of lab are required. Prerequisite(s): ABT 222.",
+      "institution": "Baker College"
+    }
+  ],
+  "timestamp": "2025-08-09T20:08:53.492633"
+}

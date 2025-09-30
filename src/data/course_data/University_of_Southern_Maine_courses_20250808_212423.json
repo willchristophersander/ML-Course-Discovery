@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "University of Southern Maine",
+    "successful_variation": "University of Southern Maine",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=University+of+Southern+Maine&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ABU 180",
+      "course_title": "Introduction to Computing",
+      "credits": "3.00",
+      "description": "A first computer course, it introduces computer technology through an extensive exploration of the Windows operating system, computer hardware, and word processing, using IBM compatible computers. Students will utilize e-mail and the Internet in their learning activities. This course is designed for students who lack substantial computer experience and those whose confidence or understanding of computers is somewhat limited. There is substantial hands-on computing required outside of class. Prerequisites: none. Students who have met the School\u2019s computer proficiency requirement, e.g., ABU 190, may not enroll. Cr 3.",
+      "institution": "University of Southern Maine"
+    },
+    {
+      "course_id": "ABU 190",
+      "course_title": "Spreadsheets and Problem Solving",
+      "credits": "3.00",
+      "description": "An examination of problem-solving techniques using modern computer applications software. Primary focus is on the use of electronic spreadsheets as a problem-solving tool, including proper spreadsheet model design and the use of appropriate graphical representation of model results. Other computer problem-solving software is examined. Interpretation and effective communication of results, both written and oral, are practiced. Prerequisite: MAT 051B or equivalent proficiency and computer literacy. Cr 3.",
+      "institution": "University of Southern Maine"
+    },
+    {
+      "course_id": "ACC 105",
+      "course_title": "Introduction to the Accounting and Finance Pro f e s s i o n",
+      "credits": "1.00",
+      "description": "This course provides an introduction to the accounting and finance profession. The course will explore career opportunities available and examine the skills necessary for success in accounting and finance. Certifications such as the CPA, CMA, and CFAwill be discussed, and the advantages of membership and participation in professional organizations will be explored. Undergraduate and graduate educational options will also be discussed. Dialogue will occur with various members of the professional accounting and finance community representing a range of experience levels and a diversity of accounting careers. Pass/fail. Cr 1.",
+      "institution": "University of Southern Maine"
+    },
+    {
+      "course_id": "ACC 110",
+      "course_title": "Financial Accounting Information for Decision Making",
+      "credits": "3.00",
+      "description": "This course is designed to help students appreciate the role of accountants in providing information helpful to decisions of investors, creditors, government regulators, and others, and how that information can be used. Emphasis is on understanding the meaning and value of the balance sheet, income statement, and statement of cash flows. The role of the auditor, internal controls, and ethical issues are examined. The annual report is used to explore how corporations apply accounting principles in presentations to the public. Prerequisites: minimum of 12 earned credit hours and evidence of successfully meeting the University\u2019s writing and mathematics proficiency requirements. Cr 3.",
+      "institution": "University of Southern Maine"
+    },
+    {
+      "course_id": "ACC 211",
+      "course_title": "Managerial Accounting Information for Decision Making",
+      "credits": "3.00",
+      "description": "This course will provide students with the opportunity to learn basic concepts and accounting systems involved in the use of managerial accounting information in making planning and control decisions in organizations. Basic concepts include different types of costs (e.g., direct, indirect, fixed, variable, and relevant costs). Basic accounting systems include systems for cost allocation (e.g., job-order costing, activity based costing), planning (e.g., cost-volume-profit analysis, master budget), and control (e.g., flexible budgets, variance analysis, responsibility accounting, performance measurement). Prerequisites: ACC 110 and sophomore standing. Cr 3.",
+      "institution": "University of Southern Maine"
+    },
+    {
+      "course_id": "ACC 221",
+      "course_title": "The Financial Accounting Cycle",
+      "credits": "3.00",
+      "description": "This course serves as a \"bridge\" between the introductorylevel (user-focused) financial accounting course and Financial Reporting I, which is required for the accounting major. The course is primarily conducted as a self-study course facilitated by a self-study guide and related self-study software and on-line quizzes (a qualified graduate student assistant will be available for questions and guidance). The course reviews the complete accounting cycle: the journal entries for typical business transactions including adjusting and closing entries, and the preparation of accounting statements. The course must be completed prior to enrollment in ACC 301/501. Prerequisite: ACC 110 or MBA502.Cr 1.",
+      "institution": "University of Southern Maine"
+    },
+    {
+      "course_id": "ACC 301",
+      "course_title": "Financial Reporting I",
+      "credits": "3.00",
+      "description": "An examination of the conceptual framework, the primary financial statements, and the methods and rationale for recording and reporting assets. Emphasis is on the effect of present and potential economic events on the financial statements. The course discusses the advantages, limitations and deficiencies associated with generally accepted principles in connection with presenting decision useful information. Prerequisites: ACC 110, ACC 211, ACC 221 (with a grade of C or higher), and junior standing. Cr 3.",
+      "institution": "University of Southern Maine"
+    },
+    {
+      "course_id": "ACC 302",
+      "course_title": "Financial Reporting II",
+      "credits": "3.00",
+      "description": "An examination of the methods and rationale for recording liabilities and equity. The course also examines the statement of cash flows. Emphasis is on the effect of present and potential economic events on the primary financial statements. The course discusses the advantages, limitations, and deficiencies associated with generally accepted principles in connection with presenting decisionuseful information. Prerequisites: ACC 301 and junior standing. Cr 3.",
+      "institution": "University of Southern Maine"
+    },
+    {
+      "course_id": "ACC 315",
+      "course_title": "Internal A u d i t i n g",
+      "credits": "3.00",
+      "description": "This course focuses on the study of the nature of internal auditing, professional standards, organizational controls, operational auditing, and internal audit reporting. Students will explore the philosophy behind, and the methods needed to evaluate adherence to company policies and the strength of internal controls. The partnership relationship with the external auditor will also be evaluated. Prerequisite: ACC 211 and junior standing. Cr 3.",
+      "institution": "University of Southern Maine"
+    },
+    {
+      "course_id": "ACC 318",
+      "course_title": "Principles of Fraud Examination",
+      "credits": "3.00",
+      "description": "This course examines the subject of fraud from both management and accounting perspectives. Utilizing a variety of techniques including text, lecture, case studies, guest speakers, and occasional videos, the course seeks to familiarize students with the conditions that facilitate fraud, the profile of the fraud perpetrator, common types of fraud, and methods of prevention, detection, and resolution. Numerous historical cases of fraud are examined. Students are brought to appreciate the prevalence of fraud in current society as well as the almost innumerable ways in which it can be committed. Students entering the business world are provided a perspective for understanding and confronting a problem which exists in nearly every organization at some time. Prerequisites: ACC 110 and junior standing. Cr 3.",
+      "institution": "University of Southern Maine"
+    }
+  ],
+  "timestamp": "2025-08-08T21:24:23.791600"
+}

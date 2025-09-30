@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Central Virginia Community College",
+    "successful_variation": "Central Virginia Community College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Central+Virginia+Community+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACC 105",
+      "course_title": "Office Accounting",
+      "credits": "3.00",
+      "description": "Presents practical accounting. Covers the accounting cycle-journals, ledgers, working papers, closing of books-payrolls, financial statements, accounting forms and practical procedures. Lecture 3 hours per week.",
+      "institution": "Central Virginia Community College"
+    },
+    {
+      "course_id": "ACC 124",
+      "course_title": "Payroll Accounting",
+      "credits": "3.00",
+      "description": "Presents accounting systems and methods used in computing and recording payroll to include payroll taxes and compliance with federal and state legislation. Lecture 3 hours per week.",
+      "institution": "Central Virginia Community College"
+    },
+    {
+      "course_id": "ACC 215",
+      "course_title": "Computerized Accounting",
+      "credits": "3.00",
+      "description": "Introduces the computer in solving accounting problems. Focuses on operation of computers. Presents the accounting cycle and financial statement preparation in a computerized system and other applications for financial and managerial accounting. Prerequisites or co-requisite: ACC 211 or equivalent. Lecture 3 hours per week.",
+      "institution": "Central Virginia Community College"
+    },
+    {
+      "course_id": "ACC 221",
+      "course_title": "Intermediate Accounting I",
+      "credits": "4.00",
+      "description": "Covers accounting principles and theory, including a review of the accounting cycle and accounting for current assets, current liabilities and investments. Introduces various accounting approaches and demonstrates the effect of these approaches on the financial statement users. Prerequisite: ACC 212 or equivalent. Lecture 4 hours per week.",
+      "institution": "Central Virginia Community College"
+    },
+    {
+      "course_id": "ACC 222",
+      "course_title": "Intermediate Accounting II",
+      "credits": "4.00",
+      "description": "Continues accounting principles and theory with emphasis on accounting for fixed assets, intangibles, corporate capital structure, long-term liabilities, and investments. Apayroll accounting module is included. Prerequisite: ACC 221 or equivalent. Lecture 4 hours per week.",
+      "institution": "Central Virginia Community College"
+    },
+    {
+      "course_id": "ACC 231",
+      "course_title": "Cost Accounting I",
+      "credits": "4.00",
+      "description": "Studies cost accounting methods and reporting as applied to job order, process, and standard cost accounting systems. Includes cost control and other topics. Prerequisite: ACC 212 or equivalent. Lecture 4 hours per week.",
+      "institution": "Central Virginia Community College"
+    },
+    {
+      "course_id": "ACC 241",
+      "course_title": "Auditing I",
+      "credits": "3.00",
+      "description": "Presents techniques of investigating, interpreting, and appraising accounting records and assertions. Studies internal control design and evaluation, evidence gathering techniques and other topics. Co-requisite: ACC 221 or permission of instructor. Lecture 3 hours per week.",
+      "institution": "Central Virginia Community College"
+    },
+    {
+      "course_id": "ACC 261",
+      "course_title": "Principles of Federal Taxation I",
+      "credits": "3.00",
+      "description": "Presents the study of federal taxation as it relates to individuals and related entities such as partnerships, corporations, and other tax entities. Includes tax planning, compliance, and reporting. Lecture 3 hours per week.",
+      "institution": "Central Virginia Community College"
+    },
+    {
+      "course_id": "ACC 262",
+      "course_title": "Principles of Federal Taxation II",
+      "credits": "3.00",
+      "description": "Presents the study of federal taxation as it relates to partnerships, corporations, and other tax entities. Includes tax planning, compliance, and reporting. Lecture 3 hours per week.",
+      "institution": "Central Virginia Community College"
+    },
+    {
+      "course_id": "ADJ 100",
+      "course_title": "Survey of Criminal Justice",
+      "credits": "3.00",
+      "description": "Presents an overview of the United States criminal justice system; introduces the major system components-law enforcement, judiciary, and corrections. Lecture 3 hours per week.",
+      "institution": "Central Virginia Community College"
+    }
+  ],
+  "timestamp": "2025-08-26T13:36:46.279785"
+}

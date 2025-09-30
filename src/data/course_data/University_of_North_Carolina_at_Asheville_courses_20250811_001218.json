@@ -1,0 +1,60 @@
+{
+  "search_query": {
+    "institution": "University of North Carolina at Asheville",
+    "successful_variation": "University of North Carolina at Asheville",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=University+of+North+Carolina+at+Asheville&distance=5"
+  },
+  "total_results": 7,
+  "courses": [
+    {
+      "course_id": "ACCT 216",
+      "course_title": "Principles of Accounting II",
+      "credits": "3.00",
+      "description": "An introduction to managerial accounting and how accounting is used to assist in the management of various kinds of entities. No credit given if credit received for ACCT 201 or 218. Prerequisite: ACCT 215. Fall and Spring.",
+      "institution": "University of North Carolina at Asheville"
+    },
+    {
+      "course_id": "ACCT 301",
+      "course_title": "Intermediate Accounting I",
+      "credits": "4.00",
+      "description": "A study of the understanding and application of generally accepted accounting principles and the theory underlying those principles as they relate to the preparation of the income statement, statement of retained earnings, and balance sheet. Topics include the time value of money and accounting for current and non-current assets. Both critical thinking and problem solving skills are emphasized in this course. Prerequisite: ACCT 215. Fall and Spring.",
+      "institution": "University of North Carolina at Asheville"
+    },
+    {
+      "course_id": "ACCT 302",
+      "course_title": "Intermediate Accounting II",
+      "credits": "4.00",
+      "description": "A continuation of ACCT 301, this course is an in-depth study of generally accepted accounting principles in relationship to current and non-current liabilities, stockholders' equity, and dilutive securities. Additional topics include revenue recognition, investments, accounting for income taxes, lease accounting, and the statement of cash flows. Both critical thinking and problem-solving skills are emphasized in this course. Prerequisite: ACCT 301. Fall and Spring.",
+      "institution": "University of North Carolina at Asheville"
+    },
+    {
+      "course_id": "ACCT 317",
+      "course_title": "Cost Accounting",
+      "credits": "4.00",
+      "description": "Basic procedures of cost accounting for planning and control. Course concentrates on costing, responsibility accounting and motivation. Emphasis is on the ability to generate effective internal information and present it to management clearly in both oral and written formats. Prerequisite: ACCT 215. Fall and Spring.",
+      "institution": "University of North Carolina at Asheville"
+    },
+    {
+      "course_id": "ACCT 319",
+      "course_title": "Accounting for Governmental and Not-for-Profit Organizations",
+      "credits": "3.00",
+      "description": "The course covers the fundamentals of accounting for state and local governments and not-for-profit organizations. Pre- or corequisite: ACCT 301. No credit given to students who have credit for ACCT 419. Spring.",
+      "institution": "University of North Carolina at Asheville"
+    },
+    {
+      "course_id": "ACCT 330",
+      "course_title": "Accounting Applications",
+      "credits": "3.00",
+      "description": "A software-based course that introduces students to various applications used by accountants. A tutorial approach will be used and students will obtain significant handson exp erience in different types of accounting-based software. Pre- or corequisite: ACCT 301. See department chair.",
+      "institution": "University of North Carolina at Asheville"
+    },
+    {
+      "course_id": "ACCT 340",
+      "course_title": "Accounting Systems and Controls",
+      "credits": "3.00",
+      "description": "Techniques of analyzing the information requirements of an organization and translating those needs into an integrated EDP system for decision-making and control. A student's oral competency will be determined by the evaluation of and appropriate feedback on an individual formal presentation. Demonstration of computer (business technology) competency is fulfilled by meeting published departmental standards regarding a designated presentation project. Prerequisite: ACCT 317. Pre- or corequisite: ACCT 302. Fall.",
+      "institution": "University of North Carolina at Asheville"
+    }
+  ],
+  "timestamp": "2025-08-11T00:12:18.544365"
+}

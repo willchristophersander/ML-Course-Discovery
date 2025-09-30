@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Oregon Institute of Technology",
+    "successful_variation": "Oregon Institute of Technology",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Oregon+Institute+of+Technology&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACAD 101",
+      "course_title": "Student Success Seminar",
+      "credits": "3.00",
+      "description": "(Variable Credit) A course to facilitate the success of first year students at OIT. Emphasis on faculty-student and student-student interactions. Includes academic resources, campus services, the learning process, communication skills, health and wellness issues. May also include academic skills and career planning.",
+      "institution": "Oregon Institute of Technology"
+    },
+    {
+      "course_id": "ACAD 105",
+      "course_title": "Achieving Academic Success",
+      "credits": "2.00",
+      "description": "(2-0-2) Course identifies attitudes, behaviors and specific strategies that will lead to academic success at the college level. Topics may include study habits, time management, strategies for memorization and test-taking and goal-setting.",
+      "institution": "Oregon Institute of Technology"
+    },
+    {
+      "course_id": "ACAD 107",
+      "course_title": "Seminar",
+      "credits": "3.00",
+      "description": "(Hours to be arranged each term.)",
+      "institution": "Oregon Institute of Technology"
+    },
+    {
+      "course_id": "ACAD 115",
+      "course_title": "Career Exploration",
+      "credits": "3.00",
+      "description": "(3-0-3) Effective academic and career decision-making is facilitated by thorough self-assessment, exploration of the world of work and identification of appropriate academic majors. Course includes activities such as personality type testing, research, visits to academic departments and information interviews with professionals in various occupations.",
+      "institution": "Oregon Institute of Technology"
+    },
+    {
+      "course_id": "ACAD 120",
+      "course_title": "Stress Management",
+      "credits": "2.00",
+      "description": "(2-0-2) Identifies signs and symptoms of stress as well as the ways in which they impact student academic success. Effective ways of dealing with stress, including relaxation techniques, will be identified, discussed and practiced.",
+      "institution": "Oregon Institute of Technology"
+    },
+    {
+      "course_id": "ACAD 135",
+      "course_title": "Reading Tutor",
+      "credits": "2.00",
+      "description": "(2-0-2) For \"America Reads\" tutors. Provides informationabout how children learn to read and write, strategies for teaching children and working in an elementary school.",
+      "institution": "Oregon Institute of Technology"
+    },
+    {
+      "course_id": "ACAD 207",
+      "course_title": "Seminar",
+      "credits": "3.00",
+      "description": "(Hours to be arranged each term.)",
+      "institution": "Oregon Institute of Technology"
+    },
+    {
+      "course_id": "ACC 101",
+      "course_title": "Introduction to Accounting",
+      "credits": "3.00",
+      "description": "(3-0-3) The principles of elementary accounting systems for small businesses.",
+      "institution": "Oregon Institute of Technology"
+    },
+    {
+      "course_id": "ACC 115",
+      "course_title": "Basic Income Tax Preparation",
+      "credits": "3.00",
+      "description": "(2-4-3) Federal and state laws, ethics and regulations applicable to individual income tax returns. Prepares tax preparers for the qualifying examination and meets the personal needs of individuals preparing their own returns.",
+      "institution": "Oregon Institute of Technology"
+    },
+    {
+      "course_id": "ACC 124",
+      "course_title": "Business Math/Machines",
+      "credits": "3.00",
+      "description": "(3-0-3) Business math such as decimals, percents, markups, proration and interest. Emphasis on operational techniques of electronic calculators for problem solving.",
+      "institution": "Oregon Institute of Technology"
+    }
+  ],
+  "timestamp": "2025-08-10T19:17:36.487269"
+}

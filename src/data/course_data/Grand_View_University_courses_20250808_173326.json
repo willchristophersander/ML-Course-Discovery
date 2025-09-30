@@ -1,0 +1,39 @@
+{
+  "search_query": {
+    "institution": "Grand View University",
+    "successful_variation": "Grand View University",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Grand+View+University&distance=5"
+  },
+  "total_results": 4,
+  "courses": [
+    {
+      "course_id": "ACCT 211",
+      "course_title": "Financial Accounting",
+      "credits": "3.00",
+      "description": "This course will provide a beginning level of knowledge in the field of financial accounting and build a foundation for those students who desire to expand their knowledge of financial accounting principles and concepts. The course will be divided into four major areas with subtopics applying to each major topic: fundamental foundations of financial accounting, current assets, non- current assets, liabilities, and equity and cash flows. Prerequisite: Sophomore status or consent of instructor.",
+      "institution": "Grand View University"
+    },
+    {
+      "course_id": "ACCT 212",
+      "course_title": "Managerial Accounting",
+      "credits": "3.00",
+      "description": "This course is structured to provide students with the skills and knowledge needed to make better managerial decisions. The course uses a problem-oriented approach where students apply decision making techniques introduced in class to solve business problems. Techniques include Breakeven Analysis, Profit Planning and Budgeting, Capital Budgeting and Sensitivity Analysis. Prerequisite: ACCT 211 or consent of instructor.",
+      "institution": "Grand View University"
+    },
+    {
+      "course_id": "ACCT 303",
+      "course_title": "Intermediate Accounting I",
+      "credits": "4.00",
+      "description": "Students study the theoretical foundation for financial reporting. Included are communication of financial data on the income statement, statement of cash flows, and the balance sheet. Accounting concepts related to current, long-term and intangible assets also are covered. Prerequisite: ACCT 211 or consent of instructor.",
+      "institution": "Grand View University"
+    },
+    {
+      "course_id": "ACCT 304",
+      "course_title": "Intermediate Accounting II",
+      "credits": "4.00",
+      "description": "The course covers accounting theory and practice relating to current and long-term liabilities and stockholders' equity. More complex accounting topics are covered, including pension costs, leases, earnings per share, and income taxes. There is also a detailed study of the Statement of Cash Flows. Prerequisite: ACCT 303.",
+      "institution": "Grand View University"
+    }
+  ],
+  "timestamp": "2025-08-08T17:33:26.815553"
+}

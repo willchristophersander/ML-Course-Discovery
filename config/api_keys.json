@@ -1,0 +1,14 @@
+{
+    "search_engines": {
+        "bing_api_key": "",
+        "serp_api_key": "",
+        "google_custom_search_api_key": "",
+        "google_custom_search_engine_id": ""
+    },
+    "notes": {
+        "bing_api_key": "Get from https://www.microsoft.com/en-us/bing/apis/bing-web-search-api",
+        "serp_api_key": "Get from https://serpapi.com/",
+        "google_custom_search_api_key": "Get from https://developers.google.com/custom-search/v1/overview",
+        "google_custom_search_engine_id": "Create at https://cse.google.com/"
+    }
+} 

@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Parkland College",
+    "successful_variation": "Parkland College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Parkland+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACC 102",
+      "course_title": "Managerial Accounting",
+      "credits": "3.00",
+      "description": "(IAI BUS 904) Managerial accounting concepts and procedures including classification of costs, job order and process cost systems, budgeting, standard costs and variance analysis, capital budgeting, variable and absorption costing, and cost allocation. Prerequisite: ACC 101. F S Su",
+      "institution": "Parkland College"
+    },
+    {
+      "course_id": "ACC 117",
+      "course_title": "Accounting and Bookkeeping",
+      "credits": "3.00",
+      "description": "Applied accounting and bookkeeping techniques covering the accounting cycle, special journals and ledgers, adjustments, accounts receivable and accounts payable, bank reconciliation, and payroll. Credit not given for both ACC 101 and ACC 117. F S",
+      "institution": "Parkland College"
+    },
+    {
+      "course_id": "ACC 201",
+      "course_title": "Intermediate Accounting",
+      "credits": "4.00",
+      "description": "Development, usefulness, and limitation of general financial accounting theory and practice with in-depth study of corporate capital, asset, and liability side of balance sheet, plus an analysis of income and cash flow statementsUse of Excel spreadsheet applications. Prerequisites: ACC 101 and CIS 101 or equivalentF S",
+      "institution": "Parkland College"
+    },
+    {
+      "course_id": "ACC 219",
+      "course_title": "Computerized Integrated Accounting",
+      "credits": "3.00",
+      "description": "Accounting principles are integrated into computerized formatDevelops understanding of computerized applications, including general ledger, accounts receivable, accounts payable, inventory, and payroll. Prerequisites: ACC 101 or ACC 117. Microcomputer experience recommended. S",
+      "institution": "Parkland College"
+    },
+    {
+      "course_id": "ACC 274",
+      "course_title": "Principles of Income Taxation I",
+      "credits": "4.00",
+      "description": "Introduction to federal income taxation and payroll accountingIncome tax forms and payroll filings relevant to most taxpayersContent will focus on the measurement and reporting of taxable income (including property transactions). F",
+      "institution": "Parkland College"
+    },
+    {
+      "course_id": "ACC 275",
+      "course_title": "Principles of Income Taxation II",
+      "credits": "4.00",
+      "description": "Federal income tax topics and forms relevant to individuals as well as small businessIntroduction to the taxation of corporations and flow-thru entities as well as tax compliance issues. Tax software will be used. Prerequisite: ACC 274. S",
+      "institution": "Parkland College"
+    },
+    {
+      "course_id": "ACC 719",
+      "course_title": "Computerized Integrated Accounting",
+      "credits": "3.00",
+      "description": "Accounting principles are integrated into computerized formatDevelops understanding of computerized applications, including general ledger, accounts receivable, accounts payable, inventory, and payroll. Prerequisites: ACC 101 or ACC 117 and microcomputer experience recommended.S",
+      "institution": "Parkland College"
+    },
+    {
+      "course_id": "ACR 116",
+      "course_title": "Collision Repair Electrical Analysis",
+      "credits": "4.00",
+      "description": "Theory and repair of electrical and electronic systems related to the collision repair industryIncludes electrical theory, DVOM use, wire and circuit repairs, electronic diagnosis of ABS and SIR systems, and schematic usagePrerequisites: ACR 130, ACR 133, and MAT 131. Su",
+      "institution": "Parkland College"
+    },
+    {
+      "course_id": "ACR 130",
+      "course_title": "Unibody Construction,Estimating,and Measuring Principles",
+      "credits": "4.00",
+      "description": "Overview of collision repair industry; emphasis on unibody vehicles and the repair processIncludes cost estimating and different measuring systems. Prerequisites: approval of program director or department chair and concurrent enrollment in ACR 131 and ACR 133. F S",
+      "institution": "Parkland College"
+    },
+    {
+      "course_id": "ACR 131",
+      "course_title": "Collision Repair Work Experience I",
+      "credits": "2.00",
+      "description": "Work experience in collision repair designed to reinforce class materialPrerequisites: concurrent enrollment in ACR 130 and ACR 133. F S",
+      "institution": "Parkland College"
+    }
+  ],
+  "timestamp": "2025-08-11T00:12:13.119050"
+}

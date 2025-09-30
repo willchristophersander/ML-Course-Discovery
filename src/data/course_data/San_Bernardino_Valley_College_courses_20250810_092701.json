@@ -1,0 +1,74 @@
+{
+  "search_query": {
+    "institution": "San Bernardino Valley College",
+    "successful_variation": "San Bernardino Valley College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=San+Bernardino+Valley+College&distance=5"
+  },
+  "total_results": 9,
+  "courses": [
+    {
+      "course_id": "ACAD 110",
+      "course_title": "Tutor Training",
+      "credits": "1.00",
+      "description": "PREREQUISITE: None. DEPARTMENTAL ADVISORY: Completion of the courses to be tutored with a minimum grade of \"B\",departmental recommendation, and related experience. LECTURE: .50 contact hour per week and LABORATORY: 1.50 contact hours per week. Techniques and strategies for effective academic peer tutoring in a community college setting. Emphasis on tutoring, study skill techniques and practical skills to use in a variety of tutoring situations. Completion of any collegelevel course to be tutored with a grade of B or better is required. Graded on Pass/No Pass basis only. Associate Degree Applicable Course credit transfers to CSU for elective credit only.",
+      "institution": "San Bernardino Valley College"
+    },
+    {
+      "course_id": "ACAD 600A",
+      "course_title": "Ix4 SUPERVISED TUTORING Non-Credit",
+      "credits": "3.00",
+      "description": "PREREQUISITE: None. LECTURE: Contact hours will vary according to student need. Students enrolling in this non-credit class will receive assistance in understanding course-specific content in areas in which they are having difficulty. Peer tutors will provide examples and supplementary instruction based on course texts and homework exercises. Enrollment in this class is limited to students who have been recommended by an instructor or counselor on the basis of an identified learning need. Call (909) 384-8566 for additional information about tutoring.",
+      "institution": "San Bernardino Valley College"
+    },
+    {
+      "course_id": "ACAD 900",
+      "course_title": "Employability Skills",
+      "credits": "1.00",
+      "description": "PREREQUISITE: None. LECTURE: 1 contact hour per week. An introduction to the skills necessary to find and maintain a job; with emphasis on learning the appropriate skills to be successful on the job. Topics include information on desirable employee traits, on-the-job communication and the skills needed to conduct a successful job search. Graded on a Pass/No Pass basis only. Not Applicable to Associate Degree",
+      "institution": "San Bernardino Valley College"
+    },
+    {
+      "course_id": "ACCT 010",
+      "course_title": "Bookkeeping",
+      "credits": "3.00",
+      "description": "PREREQUISITE: None. LECTURE: 3 contact hours per week. Fundamentals of bookkeeping, such as recording transactions in journals, posting to ledgers, preparation of the trial balance and use of controlling accounts and related schedules. Practice in opening, adjusting and closing various professional sets of books. Recommended for occupational students and for those who wish preparatory training before entering ACCT 200. Associate Degree Applicable",
+      "institution": "San Bernardino Valley College"
+    },
+    {
+      "course_id": "ACCT 030",
+      "course_title": "Federal And State Taxation",
+      "credits": "4.00",
+      "description": "PREREQUISITE: None. LECTURE: 4 contact hours per week. A comprehensive course of study and practical application of basic federal and state income taxes. Includes history and objectives of the tax, research and analysis of current tax issues, along with the tax treatment of various types of entities, types of income, types of deductions and types of credits. Emphasis is on the individual as a taxpayer. Actual tax forms are studied and returns prepared. Associate Degree Applicable",
+      "institution": "San Bernardino Valley College"
+    },
+    {
+      "course_id": "ACCT 047",
+      "course_title": "Computerized Accounting",
+      "credits": "3.00",
+      "description": "PREREQUISITE: None. LECTURE: 3 contact hours per week. Provides a comprehensive overview of accounting software. Topics covered include the analysis of source documents and the use of accounting software to prepare, understand, and interpret financial statements for a variety of management purposes. Also includes the solution of accounting problems using spreadsheet software and creating spreadsheets using formulas and graphics. Associate Degree Applicable",
+      "institution": "San Bernardino Valley College"
+    },
+    {
+      "course_id": "ACCT 090",
+      "course_title": "Payroll Accounting",
+      "credits": "3.00",
+      "description": "PREREQUISITE: None. DEPARTMENTAL ADVISORY: ACCT 101 or ACCT 200. LECTURE: 3 contact hours per week. Accounting aspects of the Social Security Act, the California Unemployment Insurance Act and the California Worker's Compensation Insurance Act. Associate Degree Applicable",
+      "institution": "San Bernardino Valley College"
+    },
+    {
+      "course_id": "ACCT 100",
+      "course_title": "Introduction to Accounting I",
+      "credits": "4.00",
+      "description": "PREREQUISITE: None. DEPARTMENTAL ADVISORY: BUSCAL 050 or ACCT 010. LECTURE: 3-4 contact hours per week. Exploration of the basic principles and practices of the financial accounting process for a sole proprietorship including the sources of financial information, journalizing and posting transactions, and preparing and analyzing financial statements for merchandise. Students completing ACCT 100 and ACCT 101 are eligible to enroll in ACCT 201. Associate Degree Applicable Course credit transfers to CSU and *UC.",
+      "institution": "San Bernardino Valley College"
+    },
+    {
+      "course_id": "ACCT 101",
+      "course_title": "Introduction to Accounting II",
+      "credits": "4.00",
+      "description": "PREREQUISITE: ACCT 100. LECTURE: 4 contact hours per week. Exploration of the basic principles and practices of the financial accounting process in a sole proprietorship including accounting for cash, posting receivables and payables, inventories, fixed assets and payroll. Students completing ACCT 100 and ACCT 101 are eligible to enroll in ACCT 201. Associate Degree Applicable Course credit transfers to CSU and *UC.",
+      "institution": "San Bernardino Valley College"
+    }
+  ],
+  "timestamp": "2025-08-10T09:27:01.089940"
+}

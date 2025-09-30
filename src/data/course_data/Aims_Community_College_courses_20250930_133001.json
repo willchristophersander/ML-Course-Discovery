@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Aims Community College",
+    "successful_variation": "Aims Community College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Aims+Community+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "AAA 075",
+      "course_title": "Special Topics",
+      "credits": "12.00",
+      "description": "Exploration of current topics, issues and activities related to one or more aspects of academic achievement. Prerequisite(s): None. Zero to 12 credits.",
+      "institution": "Aims Community College"
+    },
+    {
+      "course_id": "AAA 076",
+      "course_title": "Special Topics",
+      "credits": "12.00",
+      "description": "Exploration of current topics, issues and activities related to one or more aspects of academic achievement. Prerequisite(s): None. Zero to 12 credits.",
+      "institution": "Aims Community College"
+    },
+    {
+      "course_id": "AAA 090",
+      "course_title": "Academic Achievement Strategies",
+      "credits": "3.00",
+      "description": "Develops personalized approaches to learn and succeed for easier transition into college. Topics include goal-setting, time management, textbook reading strategies, note-taking, test-taking, listening techniques, concentration and memory devices, and critical thinking for student success. Three credits.",
+      "institution": "Aims Community College"
+    },
+    {
+      "course_id": "AAA 101",
+      "course_title": "College 101: Student Experience",
+      "credits": "1.00",
+      "description": "Introduces students to college culture and prepares them for the challenges they will face in higher education. Through a series of interactive seminars, students discover learning in a multicultural environment and use college and community resources to attain education and career goals. One credit.",
+      "institution": "Aims Community College"
+    },
+    {
+      "course_id": "AAA 109",
+      "course_title": "Advanced Academic Achievement",
+      "credits": "3.00",
+      "description": "Examines theories and practices associated with successful learning to enhance college success. Areas of study include education and career planning, effective communication personal management, critical and creative thinking, development of community and awareness of diversity, leadership, and techniques for successful academic performance. Recommended for new and returning students. This class does not substitute for REA 090. This course does not meet minimum nor elective requirements for the A.A. or A.S. degrees. Prerequisite(s): Placement test. Three credits.",
+      "institution": "Aims Community College"
+    },
+    {
+      "course_id": "ACC 115",
+      "course_title": "Payroll Accounting",
+      "credits": "3.00",
+      "description": "Studies federal and state employment laws and their effects on personnel and payroll records. The course is non-technical and is intended to give students a practical working knowledge of the current payroll laws and actual experience in applying regulations. Students are exposed to computerized payroll procedures. Prerequisite(s): ACC 121. Three credits.",
+      "institution": "Aims Community College"
+    },
+    {
+      "course_id": "ACC 121",
+      "course_title": "Accounting Principles I",
+      "credits": "4.00",
+      "description": "Introduces the study of accounting principles for understanding of the theory and logic that underlie procedures and practices. Major topics include the accounting cycle for service and merchandising companies, special journals and subsidiary ledgers, internal control principles and practices, notes and interest, inventory systems and costing, plant assets and intangible asset accounting, and depreciation methods and practices. Four credits.",
+      "institution": "Aims Community College"
+    },
+    {
+      "course_id": "ACC 122",
+      "course_title": "Accounting Principles II",
+      "credits": "4.00",
+      "description": "Continues the study of accounting principles as they apply to partnerships and corporations. Major topics include stocks and bonds, investments, cash flow statements, financial analysis, budgeting, and cost and managerial accounting. Prerequisite(s): ACC 121 with a grade of \"C\" or better. Four credits.",
+      "institution": "Aims Community College"
+    },
+    {
+      "course_id": "ACC 123",
+      "course_title": "Acct Principles I Recitation",
+      "credits": "1.00",
+      "description": "The course exposes students to a broader accounting experience in the foundational studies of accounting. Students will be introduced to additional problems, case studies, and applications of accounting in real-world business situations, using individual and team problem solving. Prerequisite(s): ACC 121. One credit.",
+      "institution": "Aims Community College"
+    },
+    {
+      "course_id": "ACC 125",
+      "course_title": "Computerized Accounting",
+      "credits": "3.00",
+      "description": "Introduces the capabilities of computer applications in accounting. Includes solving accounting problems of a financial nature and hardware and software controls. Prerequisite: ACC 121 with a grade of \"C\" or better. Three credits.",
+      "institution": "Aims Community College"
+    }
+  ],
+  "timestamp": "2025-09-30T13:30:01.740576"
+}

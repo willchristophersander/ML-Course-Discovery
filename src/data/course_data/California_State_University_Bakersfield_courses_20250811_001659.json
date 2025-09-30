@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "California State University, Bakersfield",
+    "successful_variation": "California State University-Bakersfield",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=California+State+University-Bakersfield&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACCT 220",
+      "course_title": "Financial Reporting & Acct",
+      "credits": "5.00",
+      "description": "This course introduces students to basic features of financial accounting systems with emphasis on the accounting cycle and the preparation of financial statements for both corporations and sole proprietorships.",
+      "institution": "California State University, Bakersfield"
+    },
+    {
+      "course_id": "ACCT 221",
+      "course_title": "Intro Managerial Accounting",
+      "credits": "5.00",
+      "description": "This course introduces students to basic features of internal reporting systems with an emphasis on decision making. Following a review of the financial accounting cycle, budgeting for planning and control will be stressed with emphasis on cash management, working capital management, inventory management, product costing, cost volume profit analysis and cost allocation. Prerequisite: Acct 220",
+      "institution": "California State University, Bakersfield"
+    },
+    {
+      "course_id": "ACCT 275",
+      "course_title": "Business Law",
+      "credits": "5.00",
+      "description": "This course provides an overview of law that affects commercial transactions and entities. Topics include property law, wills, trusts and estates, insurance law, contract law, sales and lease contracts, commercial paper, agency law, partnership and corporate law, and accountants' legal liability.",
+      "institution": "California State University, Bakersfield"
+    },
+    {
+      "course_id": "ACCT 300",
+      "course_title": "Intermediate Accounting I",
+      "credits": "5.00",
+      "description": "This course provides an intensive study of basic financial accounting theory, financial statements, the accounting cycle, working capital accounts, and operational assets. It also extensively covers revenue recognition concepts. Prerequisite: ACCT 221.",
+      "institution": "California State University, Bakersfield"
+    },
+    {
+      "course_id": "ACCT 301",
+      "course_title": "Intermediate Accounting II",
+      "credits": "5.00",
+      "description": "This course is the continuation of the study of financial accounting theory from Intermediate Accounting I. Specific topics covered include long-term liabilities, stockholders' equity, accounting changes, error analysis, cash flow and accounting for income taxes, leases and pension costs. Prerequisite: ACCT 300. Strongly recommended: FIN 300.",
+      "institution": "California State University, Bakersfield"
+    },
+    {
+      "course_id": "ACCT 303",
+      "course_title": "Managerial Accounting",
+      "credits": "5.00",
+      "description": "This course provides an intensive study of cost accumulation systems for manufacturing and service enterprises. Emphasis is on managerial cost analysis and management decision making. Prerequisite: ACCT 221.",
+      "institution": "California State University, Bakersfield"
+    },
+    {
+      "course_id": "ACCT 325",
+      "course_title": "Fundamentals of Tax-Indivduals",
+      "credits": "5.00",
+      "description": "This course is an introduction to US Income Taxation with the focus on taxation of individuals. It starts with the tax laws and related research sources. It them covers the basics of gross income, income exclusions, deductions, tax rates, credits, and collection methods. Specific subjects include basis of assets, depreciation, taxation of sales and exchanges, loss limitations and alternative minimum tax. The students will also learn how to hand-write individual income tax returns. Prerequisites: ACCT 220.",
+      "institution": "California State University, Bakersfield"
+    },
+    {
+      "course_id": "ACCT 326",
+      "course_title": "Fundamentals of Tax - Business",
+      "credits": "5.00",
+      "description": "This course is an introduction to the US Income Taxation of Business Entities. It starts with a brief summary of the laws and related research sources. The main objective is to understand the difference between treatment for taxation purposes and for financial statement reporting. This includes the typical income and expense items as well as special items such as depreciation, research and development, non-deductible items, loss limitations, carry-overs, alternative minimum tax, and tax credits. Coverage will also include the differing tax treatment of partnerships, LLC's and S corporations. Prerequisites: ACCT 220.",
+      "institution": "California State University, Bakersfield"
+    },
+    {
+      "course_id": "ACCT 360",
+      "course_title": "Acct Information Systems",
+      "credits": "5.00",
+      "description": "This course covers general systems concepts and theory, with an emphasis on internal controls. It includes the collection and processing of accounting information, internal control aspects of accounting systems, systems life cycle in an accounting framework, and the interface of accounting systems and computer technology. Prerequisite: ACCT 221.",
+      "institution": "California State University, Bakersfield"
+    },
+    {
+      "course_id": "ACCT 370",
+      "course_title": "Agribusiness Accounting",
+      "credits": "5.00",
+      "description": "This course is designed for foremen and new managers who have the opportunity to move into middle and upper management with large farming companies, including those with international operations and public (or near public) companies. The course material will help them learn enough accounting to participate in the information accumulation process, and to use the resulting reports. They will learn the differences between cash accounting, accrual accounting, and crop/field accounting. They will learn what method is most useful for difference objectives such and field/crop management, overall farm management, overall farm reporting tax reporting, reports for lenders, and reports for owners/shareholders.",
+      "institution": "California State University, Bakersfield"
+    }
+  ],
+  "timestamp": "2025-08-11T00:16:59.118982"
+}

@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Santa Barbara City College",
+    "successful_variation": "Santa Barbara City College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Santa+Barbara+City+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACCT 110",
+      "course_title": "Introduction to Accounting",
+      "credits": "4.00",
+      "description": "Skills Advisories: MATH 4 and eligibility for ENG 110 or ENG 110H Basic theory of accounts. Principles of sole proprietorship, including concepts of how to keep manual or computerized financial records for small businesses.",
+      "institution": "Santa Barbara City College"
+    },
+    {
+      "course_id": "ACCT 130",
+      "course_title": "Payroll Accounting",
+      "credits": "4.00",
+      "description": "Prerequisites: ACCT 110 or ACCT 230Skills Advisories: MATH 4 and eligibility for ENG 110 or ENG 110H Study and application of payroll accounting concepts and procedures, and related internal controls. Specialized areas of study involve federal and state payroll taxes and withholding on wages and tips; preparation and filing of governmental forms and reports; analysis and recordkeeping systems and procedures; automated payroll accounting systems.",
+      "institution": "Santa Barbara City College"
+    },
+    {
+      "course_id": "ACCT 150",
+      "course_title": "Introduction to Accounting Software and Systems",
+      "credits": "4.00",
+      "description": "Prerequisites: ACCT 110 or ACCT 230 Skills Advisories: MATH 4 and eligibility for ENG 110 or ENG 110H Review of computer application software programs used in financial and managerial accounting. Topics include general and special journal subsidiary ledgers, invoicing, report generation and analysis, and development of computer-based spreadsheets.",
+      "institution": "Santa Barbara City College"
+    },
+    {
+      "course_id": "ACCT 160",
+      "course_title": "Accounting with QuickBooks",
+      "credits": "3.00",
+      "description": "Prerequisites: ACCT 110 or ACCT 230Skills Advisories: MATH 100 Review and application of accounting principles using QuickBooks computer software. Topics include setting up business books and working with inventory, accounts receivable, accounts payable, payroll, financial statements and reports.",
+      "institution": "Santa Barbara City College"
+    },
+    {
+      "course_id": "ACCT 170",
+      "course_title": "Accounting with MS Great Plains Dynamics",
+      "credits": "2.50",
+      "description": "Prerequisites: ACCT 110 or ACCT 230Co-requisites: COMP 170 Skills Advisories: MATH 1 and eligibility for ENG 110 or ENG 110H Introduction to Microsoft Great Plains Dynamics, a computerized accounting application which is widely used by small, medium and large-sized businesses as well as many accounting firms. Topics include computerized general ledger and payroll accounting, accounting applications for accounts receivable and accounts payable, fixed assets accounting, income tax preparation, inventory procedures, financial statements, and computerized accounting simulation.",
+      "institution": "Santa Barbara City College"
+    },
+    {
+      "course_id": "ACCT 215",
+      "course_title": "Fundamentals of Income Tax",
+      "credits": "3.00",
+      "description": "Skills Advisories: Math 4 and eligibility for ENG 110 or ENG 110H Study and application of federal income tax law as it relates to individuals and small business (proprietorships). Partnerships, corporation and fiduciary tax principles with applications covered to a lesser extent. Differences between federal and state laws noted.",
+      "institution": "Santa Barbara City College"
+    },
+    {
+      "course_id": "ACCT 230",
+      "course_title": "Financial Accounting",
+      "credits": "5.00",
+      "description": "Skills Advisories: Math 4 and eligibility for ENG 110 or ENG 110H Course Advisories: ACCT 110 Analysis and ethical application of financial accounting concepts, principles and procedures for corporations, partnerships and proprietorships engaged in manufacturing, merchandising or service operations. Specialized areas of study include preparation, use and analysis of financial statements and reports (cash flows, financial position, results of operations, changes in equity); internal control systems analysis and design; stocks and bonds (financing and investments); retained earnings; cash, inventories and receivables; property and equipment; intangibles and natural resources; current, and long-term liabilities (leases, mortgages, etc.). (CAN BUS 2 or CAN BUS SEQ A [with ACCT 240])",
+      "institution": "Santa Barbara City College"
+    },
+    {
+      "course_id": "ACCT 240",
+      "course_title": "Managerial Accounting",
+      "credits": "4.00",
+      "description": "Prerequisites: ACCT 230Skills Advisories: Math 4 and eligibility for ENG 110 or ENG 110H Study and application of managerial accounting concepts, ethics and procedures. Specialized areas of study include costing systems analysis and design; cost behavior analysis; cost-volume-profit analysis; standard costing; just-in-time inventories and total quality control; flexible manufacturing systems; activity-based costing; static and flexible budgets; cost variance analysis; control of decentralized operations; transfer prices and pricing; relevant costs for optimal decision-making; capital budgeting; product and department cost allocation for service and manufacturing operations, including activity-based costing. (CAN BUS 4 or CAN BUS SEQ A [with ACCT 230])",
+      "institution": "Santa Barbara City College"
+    },
+    {
+      "course_id": "ACCT 270",
+      "course_title": "Accounting Information Systems",
+      "credits": "4.00",
+      "description": "Prerequisites: ACCT 230 Skills Advisories: MATH 4 and eligibility for ENG 110 or ENG 110H Course Advisories: CIS 107 Every aspect of accounting has been changed by information technology and the Internet. Accounting information systems (AIS) is an important part of this new vision of the accounting profession. Provides students with a basic understanding and use of information technologies, and how an AIS gathers and transforms data into useful decision-making information.",
+      "institution": "Santa Barbara City College"
+    },
+    {
+      "course_id": "ADC 116",
+      "course_title": "Law and Ethics: Essentials for Alcohol and Drug Counselors",
+      "credits": "1.00",
+      "description": "Prerequisites: None Co-requisites: None Skills Advisories: Eligibility for ENG 110 or ENG 110H Review of legal and ethical issues governing the alcohol and drug counselor's responsibilities, including federal, state and local laws governing confidentiality and reporting; and ethical practices associated with the counseling field and related professional organizations.",
+      "institution": "Santa Barbara City College"
+    }
+  ],
+  "timestamp": "2025-08-10T23:42:20.677635"
+}

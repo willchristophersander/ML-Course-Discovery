@@ -1,0 +1,60 @@
+{
+  "timestamp": "2025-08-09T19:53:48.578572",
+  "analysis": {
+    "total_universities": 2,
+    "discovery_success_rate": 1.0,
+    "avg_discovery_confidence": 0.8300000000000001,
+    "ct_availability_rate": 1.0,
+    "colleges_with_ct_courses": 2,
+    "validation_success_rate": 1.0,
+    "avg_validation_confidence": 0.30000000000000004,
+    "course_finding_rate": 0.6666666666666666,
+    "avg_discovery_time": 15.529860496520996,
+    "avg_validation_time": 2.2641814947128296,
+    "successful_discoveries": [
+      {
+        "university": "Danville Area Community College",
+        "url": "https://catalog.danville.edu/",
+        "discovery_confidence": 0.905,
+        "validation_confidence": 0.2,
+        "courses_found": "3/5"
+      },
+      {
+        "university": "Boston University",
+        "url": "https://public.mybustudent.bu.edu/psp/BUPRD/EMPLOYEE/SA/s/WEBLIB_HCX_CM.H_CLASS_SEARCH.FieldFormula.IScript_Main?",
+        "discovery_confidence": 0.755,
+        "validation_confidence": 0.4,
+        "courses_found": "1/1"
+      }
+    ],
+    "failed_discoveries": []
+  },
+  "detailed_results": [
+    {
+      "university_name": "Danville Area Community College",
+      "discovered_url": "https://catalog.danville.edu/",
+      "discovery_success": true,
+      "discovery_confidence": 0.905,
+      "validation_success": true,
+      "validation_confidence": 0.2,
+      "test_courses_found": 3,
+      "total_test_courses": 5,
+      "error_message": null,
+      "discovery_time": 14.678843975067139,
+      "validation_time": 2.252793073654175
+    },
+    {
+      "university_name": "Boston University",
+      "discovered_url": "https://public.mybustudent.bu.edu/psp/BUPRD/EMPLOYEE/SA/s/WEBLIB_HCX_CM.H_CLASS_SEARCH.FieldFormula.IScript_Main?",
+      "discovery_success": true,
+      "discovery_confidence": 0.755,
+      "validation_success": true,
+      "validation_confidence": 0.4,
+      "test_courses_found": 1,
+      "total_test_courses": 1,
+      "error_message": null,
+      "discovery_time": 16.380877017974854,
+      "validation_time": 2.2755699157714844
+    }
+  ]
+}

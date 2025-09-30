@@ -1,0 +1,67 @@
+{
+  "search_query": {
+    "institution": "South Dakota School of Mines and Technology",
+    "successful_variation": "South Dakota School of Mines and Technology",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=South+Dakota+School+of+Mines+and+Technology&distance=5"
+  },
+  "total_results": 8,
+  "courses": [
+    {
+      "course_id": "ACCT 210",
+      "course_title": "Principles of Accounting I",
+      "credits": "3.00",
+      "description": "(3-0) 3 credits each. Prerequisite: Sophomore standing or permission of instructor. A study of fundamental accounting principles and procedures such as journalizing, posting, preparation of financial statements, and other selected topics. Accounting is emphasized as a service activity designed to provide the information about economic entities that is necessary for making sound decisions. This course cannot count as social science/humanities credit. This course is taught by Black Hills State University.",
+      "institution": "South Dakota School of Mines and Technology"
+    },
+    {
+      "course_id": "ACCT 211",
+      "course_title": "Principles of Accounting II",
+      "credits": "3.00",
+      "description": "(3-0) 3 credits each. Prerequisite: ACCT 210. A continuation of ACCT 210 with emphasis on partnership and corporate structures, management decision-making, cost control, and other selected topics. This course cannot count as social science/humanities credit. This course is taught by Black Hills State University.",
+      "institution": "South Dakota School of Mines and Technology"
+    },
+    {
+      "course_id": "AES 790",
+      "course_title": "Seminar",
+      "credits": "1.00",
+      "description": "(1-0) 1 credit. Not to exceed one credit toward fulfillment of Ph.D. degree requirements. Preparation, oral presentation, and group discussion of a research problem. Enrollment required of all graduate students in residence.",
+      "institution": "South Dakota School of Mines and Technology"
+    },
+    {
+      "course_id": "AES 791",
+      "course_title": "Independent Study",
+      "credits": "3.00",
+      "description": "1 to 3 credits. Prerequisite: Permission of instructor. Directed independent study of a topic or field of special interest. This may involve readings, research, laboratory or field work, and preparation of papers, as agreed to in advance, by student and instructor.",
+      "institution": "South Dakota School of Mines and Technology"
+    },
+    {
+      "course_id": "AES 792",
+      "course_title": "Topics",
+      "credits": "3.00",
+      "description": "1 to 3 credits. Lecture course or seminar on a topic or field of special interest, as determined by the instructor.",
+      "institution": "South Dakota School of Mines and Technology"
+    },
+    {
+      "course_id": "AES 808",
+      "course_title": "Fundamental Problems in Engineering And Science",
+      "credits": "3.00",
+      "description": "(3-0) 3 credits. The course, available only for doctoral candidates, involves description, analysis, and proposed methods of attack of longstanding, fundamental problems in science and engineering. Independent work is emphasized with goals of understanding these basic questions and proposing practical designs and experiments for the solution. This course is cross-listed with GEOL 808.",
+      "institution": "South Dakota School of Mines and Technology"
+    },
+    {
+      "course_id": "AES 898",
+      "course_title": "Dissertation",
+      "credits": "3.00",
+      "description": "Credit to be arranged; not to exceed 12 credits toward fulfillment of Ph.D. degree requirements. Open only to doctoral candidates. Supervised original research investigation of a selected problem, with emphasis on independent work, culminating in an acceptable dissertation. Oral defense of dissertation and research findings is required.",
+      "institution": "South Dakota School of Mines and Technology"
+    },
+    {
+      "course_id": "ANTH 210",
+      "course_title": "Cultural Anthropology",
+      "credits": "3.00",
+      "description": "(3-0) 3 credits. Introduces the nature of human culture as an adaptive ecological and evolutionary system, emphasizing basic anthropological concepts, principles, and problems. Draws data from both traditional and industrial cultures to cover such concepts as values and beliefs, social organization, economic and political order, science, technology, and aesthetic expression.",
+      "institution": "South Dakota School of Mines and Technology"
+    }
+  ],
+  "timestamp": "2025-08-11T00:10:20.992562"
+}

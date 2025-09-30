@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Oregon State University",
+    "successful_variation": "Oregon State University",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Oregon+State+University&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACTG 317",
+      "course_title": "Accounting Processes And Controls",
+      "credits": "4.00",
+      "description": "Examines the processing and controls phases of the accounting system. Processing is traced from source documents to financial statements; control principles ensure the reliability of accounting information. Business cycles are used as the basis for integration. PREREQS: Grade of \"C\" or better in BA 213 and BA 271 and junior standing and departmental approval.",
+      "institution": "Oregon State University"
+    },
+    {
+      "course_id": "ACTG 318",
+      "course_title": "External Reporting I",
+      "credits": "4.00",
+      "description": "Financial accounting theory and practice. Measurement rules, attributes of useful inputs, and reporting rules, which data to present. Covers financial statements and balance sheet assets. PREREQS: Grade of \"C\" or better in ACTG 317 and BA 340 and departmental approval.",
+      "institution": "Oregon State University"
+    },
+    {
+      "course_id": "ACTG 319",
+      "course_title": "External Reporting II",
+      "credits": "4.00",
+      "description": "Continuation of financial accounting theory and practice. Coverage includes long-term investments, debt, equity and reinvestment financing, comprehensive income, consolidated financial statements, and regulatory environment. PREREQS: Grade of \"C\" or better in ACTG 318 and departmental approval.",
+      "institution": "Oregon State University"
+    },
+    {
+      "course_id": "ACTG 321",
+      "course_title": "Cost Management I",
+      "credits": "4.00",
+      "description": "Reinforces and builds on the language and concepts of management accounting. Emphasizes different models for product costing and examines their effects on profit planning, budgeting, motivation, and control. PREREQS: Grade of \"C\" or better in ACTG 317 and BA 340 or departmental approval.",
+      "institution": "Oregon State University"
+    },
+    {
+      "course_id": "ACTG 325",
+      "course_title": "Introduction to Tax",
+      "credits": "4.00",
+      "description": "Provides a broad overview of the federal tax system as it applies to individuals and business entities that includes fundamental tax compliance issues related to income, deductions and losses, and specialized topics. Emphasis is placed on applying tax to decision making and the ability to research tax issues. PREREQS: ACTG 319 or ACTG 319 and Grade of \"C\" or better in ACTG 317 and BA 340 and departmental approval.",
+      "institution": "Oregon State University"
+    },
+    {
+      "course_id": "ACTG 378",
+      "course_title": "Accounting Information Management",
+      "credits": "4.00",
+      "description": "Introduces students to the field of information management. Topics include information systems technology, the strategic role of IT, the business applications of networks, databases and Internet technologies, the system life cycle model, systems analysis and design methodologies, and the development and implementation of information systems. PREREQS: (BA 213 and (BA 271 or BA 302) and (BA 275 or BA 276) ) ) and junior standing.",
+      "institution": "Oregon State University"
+    },
+    {
+      "course_id": "ACTG 417",
+      "course_title": "Advanced Accounting",
+      "credits": "4.00",
+      "description": "An advanced course in financial accounting theory. Corporate combinations, consolidated financial statements, foreign operations and subsidiaries, partnerships, and sole proprietorships; contemporary issues in financial accounting. PREREQS: Grade of \"C\" or better in ACTG 319 and senior standing and departmental approval required.",
+      "institution": "Oregon State University"
+    },
+    {
+      "course_id": "ACTG 420",
+      "course_title": "Accounting Information Systems And Analysis And Design",
+      "credits": "4.00",
+      "description": "Extends processing and control functions of accounting systems. Emphasizes analysis and design of accounting systems using database management systems. State-of-the-art programs are used to solve business problems. PREREQS: Grade of \"C\" or better in ACTG 317 and ACTG 378. Departmental approval required. Not open to students who have taken BA 471.",
+      "institution": "Oregon State University"
+    },
+    {
+      "course_id": "ACTG 422",
+      "course_title": "Cost Management II",
+      "credits": "4.00",
+      "description": "Continuation of concepts and processes of management accounting. Emphasizes relevant costs, cost accumulation and allocation, segment performance measurement and control and quantitative techniques. PREREQS: Grade of \"C\" or better in ACTG 321 and BA 357 and senior standing and departmental approval.",
+      "institution": "Oregon State University"
+    },
+    {
+      "course_id": "ACTG 425",
+      "course_title": "Advanced Tax",
+      "credits": "4.00",
+      "description": "Examination of the federal tax system as it applies to corporations, partnerships, and estates and trusts. Emphasis is placed on understanding tax planning for business owners and refining the ability to research tax issues. PREREQS: Grade of \"C\" or better in ACTG 325.",
+      "institution": "Oregon State University"
+    }
+  ],
+  "timestamp": "2025-08-10T06:09:59.896316"
+}

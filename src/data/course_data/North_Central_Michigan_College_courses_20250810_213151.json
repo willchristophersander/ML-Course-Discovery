@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "North Central Michigan College",
+    "successful_variation": "North Central Michigan College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=North+Central+Michigan+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "AH 107",
+      "course_title": "Medical Office Procedures",
+      "credits": "3.00",
+      "description": "This course is designed to provide the theoretical basis and practical application for performing clinical procedures in the medical office/clinic setting. Included are introduction to medical assisting; patient assessment including taking a medical history, interviewing patients and vital signs; documentation of care; preparing patients for examinations and procedures; principles of asepsis; phlebotomy; interpersonal communications, and legal issues. PREREQUISITE(S): AH 130, OAS 116, Admission to the MA program.",
+      "institution": "North Central Michigan College"
+    },
+    {
+      "course_id": "AH 108",
+      "course_title": "Medical Office Procedures II",
+      "credits": "2.00",
+      "description": "A continuation of AH 107. This course is designed to provide the theoretical basis and practical application for performing clinical procedures in the medical office/clinic setting. Included are specimen collection and laboratory procedures; diagnostic tests, x-rays, and procedures; introduction to principles of psychology; care of the geriatric and pediatric patient; developmental stages; common diseases and diagnoses; medical emergencies; professionalism; medical ethics; and accreditation of medical office assistants. AH 108 must be completed before taking WBL 201. PREREQUISITE(S): AH 107, AH 180",
+      "institution": "North Central Michigan College"
+    },
+    {
+      "course_id": "AH 130",
+      "course_title": "Body Systems And Diseases",
+      "credits": "3.00",
+      "description": "An applied course designed for the medical assistant that provides an introduction to each body system and common diseases and conditions. Emphasizes core knowledge of anatomy as it relates to clinical practice. The student will examine knowledge related to fundamental concepts of diseases necessary to understand procedures and techniques commonly encountered in the clinical setting.",
+      "institution": "North Central Michigan College"
+    },
+    {
+      "course_id": "AH 154",
+      "course_title": "Certified Nurse Aide Training",
+      "credits": "5.00",
+      "description": "Prepares students for work as a certified nurse's aide. Course includes academic instruction, hands on practice in the laboratory setting, and clinical instruction in a long term care facility. Upon successful completion of the course, students are eligible to take the certified nurse aide examination in the state of Michigan. Students will be required to meet immunization standards of the clinical facilities and will be subject to a criminal background check prior to being able to participate in clinical instruction.",
+      "institution": "North Central Michigan College"
+    },
+    {
+      "course_id": "AH 180",
+      "course_title": "Pharmacology For Medical Assistants",
+      "credits": "3.00",
+      "description": "An applied pharmacology course designed for the medical assistant. Emphasis is on safe, accurate administration of medications typically given in a physician's office. The student will acquire knowledge of drug actions, major side effects, and techniques of administration. PREREQUISITE(S): B 104, AH 130",
+      "institution": "North Central Michigan College"
+    },
+    {
+      "course_id": "AH 240",
+      "course_title": "Pathophysiology",
+      "credits": "4.00",
+      "description": "Pathophysiology is the study of abnormal function in living tissue. Physiological principles underlying the causes, signs, symptoms, and pattern of development of human disease will be examined. Recommended that BIO 235, BIO 236, CEM 101 be taken before AH 240.",
+      "institution": "North Central Michigan College"
+    },
+    {
+      "course_id": "AH 254",
+      "course_title": "Advanced Cna Skills",
+      "credits": "4.00",
+      "description": "Advanced preparation for CNAs for the role of assistive personnel and the latest trends in health care. The course will cover crossover skills needed to work in varied healthcare settings such as acute, sub-acute, home health, hospices, and long term care. Skills taught include: venipuncture, respiratory care, wound care, electrocardiograms, catherization and other technical skills. PREREQUISITE(S): AH 154 or current certification as CNA",
+      "institution": "North Central Michigan College"
+    },
+    {
+      "course_id": "AH 280",
+      "course_title": "Pharmacology",
+      "credits": "3.00",
+      "description": "An introduction to the general principles of drugs and how they alter biological functions. Instruction focuses on the effects of specific drugs on body systems including: the autonomic nervous system; and the cardiovascular, respiratory, endocrine and immune systems. In addition, the pharmacology of antibiotics and chemotherapeutics is covered. Special emphasis is placed on the importance of the understanding of pharmacology with respect to nursing practice. PREREQUISITE(S): CEM 101, BIO 235, BIO 236, N 101",
+      "institution": "North Central Michigan College"
+    },
+    {
+      "course_id": "AH 297",
+      "course_title": "Special Topics in Allied Health",
+      "credits": "2.00",
+      "description": "Special topics classes provide students opportunities for focused study with full time or adjunct instructors teaching in their areas of expertise. Topics will vary.",
+      "institution": "North Central Michigan College"
+    },
+    {
+      "course_id": "ANP 110",
+      "course_title": "Cultural Anthropology",
+      "credits": "3.00",
+      "description": "This class is an introduction to the study of past and present cultural diversity throughout the world. Students learn major subfield methods, theories and issues and how to apply them to the study and understanding of human cultural variation. Topics covered during lecture, class discussion, and activities include the social, political, economic and religious systems of diverse societies. GENERAL EDUCATION DISTRIBUTION AREA: Social Science Group A",
+      "institution": "North Central Michigan College"
+    }
+  ],
+  "timestamp": "2025-08-10T21:31:51.556297"
+}

@@ -1,0 +1,74 @@
+{
+  "search_query": {
+    "institution": "Nassau Community College",
+    "successful_variation": "Nassau Community College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Nassau+Community+College&distance=5"
+  },
+  "total_results": 9,
+  "courses": [
+    {
+      "course_id": "ACC 104",
+      "course_title": "Managerial Accounting",
+      "credits": "4.00",
+      "description": "Prerequisites: ACC 101 and ACC 102 with a grade of C or better, or equivalent. This course is an introduction to the concepts of Managerial Accounting and their application in today's business environment. The course presents managerial tools and their uses in decision making within manufacturing, merchandising and service entities. It also emphasizes specific managerial uses of the accounting information within the entity. SUNY GEN ED-n/a; NCC GEN ED-n/a",
+      "institution": "Nassau Community College"
+    },
+    {
+      "course_id": "ACC 125",
+      "course_title": "Computerized Accounting",
+      "credits": "4.00",
+      "description": "An introductory course providing students with accounting knowledge incorporating accounting software programs such as Peachtree, Quickbooks and other similar commercial software packages. SUNY GEN ED-n/a; NCC GEN ED-n/a",
+      "institution": "Nassau Community College"
+    },
+    {
+      "course_id": "ACC 201",
+      "course_title": "Intermediate Accounting I",
+      "credits": "3.00",
+      "description": "Prerequisites: ACC 101 and 102 with grade of C or better in each course. An examination of the underlying theory, concepts and procedures surrounding financial accounting as expressed in the Accounting Principles Board Opinions and the Financial Accounting Standards Board Statements. A review of the accounting cycle establishes the foundation for detailed analysis of the reporting process, namely the",
+      "institution": "Nassau Community College"
+    },
+    {
+      "course_id": "ACC 203",
+      "course_title": "Federal Income Taxes",
+      "credits": "3.00",
+      "description": "Prerequisites: ACC 102. Federal income tax laws and filing requirements as applied to the preparation of individual and sole proprietorship returns including all related schedules. Introduction to tax planning. This course should not be taken by those intending to take the C.P.A. examination. Not offered every semester. SUNY GEN ED-n/a; NCC GEN ED-n/a",
+      "institution": "Nassau Community College"
+    },
+    {
+      "course_id": "ACC 206",
+      "course_title": "Payroll Systems and New York State Taxes",
+      "credits": "3.00",
+      "description": "Prerequisites: ACC 101. A course providing the underlying concepts, theories, and procedures for payroll systems, payroll record keeping, and employers' payroll requirements for filing N.Y.S. and N.Y.C. payroll taxes. N.Y.S. tax law as applied to the preparation of individual, unincorporated and franchise returns. N.Y.S. sales tax law and preparation of sales tax returns. Tax planning and researching tax problems. Not offered every semester. SUNY GEN ED-n/a; NCC GEN ED-n/a",
+      "institution": "Nassau Community College"
+    },
+    {
+      "course_id": "ACC 208",
+      "course_title": "Cost Accounting",
+      "credits": "4.00",
+      "description": "Prerequisites: ACC 101 and ACC 102 with a grade of C or better. This course examines the uses of accounting information by management in planning and controlling operations, for inventory evaluation and profit determination, and for making both short and long term decisions. A detailed examination is made of job order process and standard cost systems used in recording costs. The various types of quantitative tools used by management in making business decisions are studied. Not offered every semester. SUNY GEN ED-n/a; NCC GEN ED-n/a",
+      "institution": "Nassau Community College"
+    },
+    {
+      "course_id": "AFR 100",
+      "course_title": "African Art and Culture",
+      "credits": "3.00",
+      "description": "History of African Art, from antiquity to present, in relation to the cultures which produced the art. Examination of representative African forms. West, East, and Central Africa. Introduction to historic African crafts, costume, and music. SUNY GEN ED-GART, GHUM; NCC GEN EDn/ a",
+      "institution": "Nassau Community College"
+    },
+    {
+      "course_id": "AFR 110",
+      "course_title": "African American Dance Ensemble, Rehearsal and Performance",
+      "credits": "1.00",
+      "description": "(Dual listed with DAN 117) This is the first course in the AFR 110-111 sequence. Participation in the production, rehearsal and performance of the African American Dance Ensemble Productions. SUNY GEN ED-n/a; NCC GEN ED-n/a",
+      "institution": "Nassau Community College"
+    },
+    {
+      "course_id": "AFR 111",
+      "course_title": "African American Dance Ensemble, Rehearsal and Performance",
+      "credits": "1.00",
+      "description": "(Dual listed with DAN 118) This is the second course in the AFR 110-111 sequence. Participation in the production, rehearsal and performance of the African American Dance Ensemble Productions. SUNY GEN ED-n/a; NCC GEN ED-n/a",
+      "institution": "Nassau Community College"
+    }
+  ],
+  "timestamp": "2025-08-09T19:45:18.020937"
+}

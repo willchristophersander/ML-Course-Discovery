@@ -1,0 +1,60 @@
+{
+  "search_query": {
+    "institution": "Columbia Basin College",
+    "successful_variation": "Columbia Basin College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Columbia+Basin+College&distance=5"
+  },
+  "total_results": 7,
+  "courses": [
+    {
+      "course_id": "ABT 131",
+      "course_title": "Principles of Painting",
+      "credits": "3.00",
+      "description": "Students learn paint preparation and how to paint a vehicle for complete refinishing. Skills learned include painting techniques, mixing various types of paints, equipment use, and the safe use of materials and tools. Students will take ASSET test first week of class if not previously taken. 6200 AAW 5 BRICKEY, L DAILY 12:00PM-12:50PM V122",
+      "institution": "Columbia Basin College"
+    },
+    {
+      "course_id": "ABT 231",
+      "course_title": "Body Rebuilding II",
+      "credits": "3.00",
+      "description": "Students will spend time refining skills. Emphasis will be on flat rate manual, time clock, and other skills that will be used in shop conditions. In the lab area, speed and quality work against the time clock and flat rate shop conditions will be simulated as much as possible. There will be more challenging frame work and spot painting. Prerequisites: ABT 221 and ABT 2211. 6204 AA 5 HAYES, R DAILY 7:00AM- 7:50AM V122",
+      "institution": "Columbia Basin College"
+    },
+    {
+      "course_id": "ACCT 201",
+      "course_title": "Principles of Accounting I",
+      "credits": "3.00",
+      "description": "Fundamentals of accounting as applied to actual business situations. Introduction to the accounting cycle for service and merchandising firms controlling to purchases and sales with business papers, special journals, and subsidiary ledgers. (Previously BA 251.) 8002 DII 5 MALONE, C ARR ARR This course is conducted primarily through the Internet. Students may also be required to make occasional visits to campus. There is a $34.55 fee. WebCT Orientations are available for students who have not previously taken an online class at CBC. In additiion, instructor orientation: Tuesday, 4/7/09, 5:00 p.m., room S336.",
+      "institution": "Columbia Basin College"
+    },
+    {
+      "course_id": "ACCT 202",
+      "course_title": "Principles of Accounting II",
+      "credits": "3.00",
+      "description": "The theory and practice of accounting, including financial statements. Emphasis on partnership and corporate accounting. Prerequisite: ACCT& 201 or instructor's permission. ( Previously BA 252.) 8004 DII 5 MALONE, C ARR ARR This course is conducted primarily through the Internet. Students may also be required to make occasional visits to campus. There is a $34.55 fee. WebCT Orientations are available for students who have not previously taken an online class at CBC. In additiion, instructor orientation: Tuesday, 4/7/09, 5:00 p.m., room S336.",
+      "institution": "Columbia Basin College"
+    },
+    {
+      "course_id": "ACCT 203",
+      "course_title": "Principles of Accounting III",
+      "credits": "3.00",
+      "description": "A continuation of ACCT& 202. Introduction of manufacturing and cost accounting. Analysis of financial statements, budgeting and cost volume analysis. Prerequisite: ACCT& 202. ( Previously BA 253.) 8006 DII 5 MALONE, C ARR ARR This course is conducted primarily through the Internet. Students may also be required to make occasional visits to campus. There is a $34.55 fee. WebCT Orientations are available for students who have not previously taken an online class at CBC. In additiion, instructor orientation: Tuesday, 4/7/09, 5:00 p.m., room S336.",
+      "institution": "Columbia Basin College"
+    },
+    {
+      "course_id": "AG 102",
+      "course_title": "Introduction to Animal Science",
+      "credits": "3.00",
+      "description": "Types and breeds of livestock, terminology, methods, management systems, techniques of animal and poultry production, and consumer impact. 5300 AA 4 MOLTON, K MTWTh 11:30AM-12:30PM N104",
+      "institution": "Columbia Basin College"
+    },
+    {
+      "course_id": "AG 201",
+      "course_title": "Soils",
+      "credits": "3.00",
+      "description": "A course offering the student a general background and understanding of soils, soil formation processes, soil origins with an emphasis on soil origins in the Pacific Northwest, soil taxonomy, organic matter, water relationships, pH, and biological relationships. Prerequisites: CHEM& 105/CHEM& 1051 or CHEM& 140/ CHEM& 140L, or instructor permission. This course is cross linked to BIOL 201/ BIOL 201L. Students completing AG 201/AG 2011 may not receive graduation credit for BIOL 201/BIOL 201L. 5304 AA 4 MOLTON, K MTWTh 10:20AM-11:20AM S239",
+      "institution": "Columbia Basin College"
+    }
+  ],
+  "timestamp": "2025-08-10T05:49:04.241050"
+}

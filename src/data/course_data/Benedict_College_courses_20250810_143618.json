@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Benedict College",
+    "successful_variation": "Benedict College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Benedict+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "AA 230",
+      "course_title": "The Republic of Plato and the Construction of Justice hrs",
+      "credits": "3.00",
+      "description": "This course provides students with an interdisciplinary approach to the construction of justice from Hesiod through the New Testament. Although the course is organized around the philosophical and political discourse on justice as presented in Plato's republic, the student will have an opportunity to investigate alternative constructions of justice as they appear within the Ancient Hellenic texts including Homer and Hesiod as well as within Old and New testaments traditions. Course requirements: class participation and a research paper or project. Papers (projects) should integrate class materials into an analysis of a concrete socio-economic problem within the black community of Columbia, SC. Prerequisites: None",
+      "institution": "Benedict College"
+    },
+    {
+      "course_id": "AA 261",
+      "course_title": "Cooperative Education hr",
+      "credits": "6.00",
+      "description": "Cooperative Education is a program of learning in which off-campus experience is made an integral part of the students' educational program. It involves a formal sequence of employment correlated with studies being pursued, and a careful reporting of performance, attitude and ability of the student on the job with a view of helping the student grow and improve his/her capabilities. In essence the cooperative education student receives (1)practical education, (2) a competitive salary, and (3) contributes to the employer's productive work effort.",
+      "institution": "Benedict College"
+    },
+    {
+      "course_id": "ACC 230",
+      "course_title": "Accounting for Entrepreneurs hrs",
+      "credits": "3.00",
+      "description": "This course teaches the concepts and practices for entrepreneurs and students who plan to start or purchase a business. Students will learn the use of accounting tools for solving business problems, analyzing daily activities and evaluating the financial progress being made by the firm. Students will be trained to think like and take initiatives like entrepreneurs. Students are expected to use appropriate small business solution softwares. The course requires \"hands-on\" assignments. The teachingPedagogy will also include additive learning. Topics will include accounting for sales, receivables, payables, payroll, and inventory. Others include developing revenue and cash projections, expense estimates for new ventures, small business Valuation, cost volume profit analysis, cost behavior, profit plan, and relevant cost analysis, ethical and tax aspects of small businesses. Prerequisites: none",
+      "institution": "Benedict College"
+    },
+    {
+      "course_id": "ACC 431",
+      "course_title": "Advanced Topics in Accounting hrs",
+      "credits": "3.00",
+      "description": "This course integrates, Advanced Financial Accounting and Reporting , Advanced Cost and Management Accounting, and other contemporary issues in Accounting. Topics will be selected from the following areas: business combination and consolidation, multinational accounting, evaluating management performance, process management, budgeting, and the importance of analyzing and managing costs, supply chain management, executive compensation, pricing and customer value. Acc 336.",
+      "institution": "Benedict College"
+    },
+    {
+      "course_id": "ACC 432",
+      "course_title": "Accounting Information Systems",
+      "credits": "3.00",
+      "description": "A computerized study of systems design, application, internal control, auditing the system, and system security.",
+      "institution": "Benedict College"
+    },
+    {
+      "course_id": "ACC 434",
+      "course_title": "Taxation II hrs",
+      "credits": "3.00",
+      "description": "This course is an analysis of federal and state tax laws relating to estates, gifts, trusts, corporate distributions, liquidations, and reorganizations. Prerequisite: Acc 433.",
+      "institution": "Benedict College"
+    },
+    {
+      "course_id": "ACC 437",
+      "course_title": "Internal Auditing hrs",
+      "credits": "3.00",
+      "description": "This course teaches the skills required for evaluating operational efficiency, adherence to corporate policies, and government regulations. It also covers the practice and theory of internal auditing, the planning and organizing of the internal audit department and how it links with the external audit. Problem solving, communication, and teamwork skills will be emphasized. Cases, guest lecturers from internal auditing organizations and sampling techniques will be utilized. Prerequisites: Acc 336, Acc 432",
+      "institution": "Benedict College"
+    },
+    {
+      "course_id": "ACC 438",
+      "course_title": "C P A Review hrs",
+      "credits": "3.00",
+      "description": "This course employs a practical reinforcement of accounting principles used in solving problems of the type confronting C.P.A. candidates. Prerequisites: Acc 336, 433 and 435.",
+      "institution": "Benedict College"
+    },
+    {
+      "course_id": "ACC 440",
+      "course_title": "Internship hrs",
+      "credits": "3.00",
+      "description": "Internship integrates classroom study with planned and supervised experiences in business, govern ?ment, and social institutions outside the formal classroom environment. Field work experiences must be appropriate and lend themselves to direct supervision by an assigned departmental coordinator. If field work spaces cannot be secured off campus, positions at the College will be used to provide the equivalent experiences necessary to fulfill this requirement. Additionally, a senior research paper will be written and orally defended.",
+      "institution": "Benedict College"
+    },
+    {
+      "course_id": "ART 131",
+      "course_title": "Fundamentals of Art I hrs",
+      "credits": "3.00",
+      "description": "This freshman-oriented studio course is designed to introduce students to the primary concepts, techniques, vocabulary, and tools for the creation of two-dimensional art forms. Basic tool and material safety concerns are discussed and career opportunities are explored. Instruction will be given through lectures, demonstrations, and hands-on studio projects.",
+      "institution": "Benedict College"
+    }
+  ],
+  "timestamp": "2025-08-10T14:36:18.519999"
+}

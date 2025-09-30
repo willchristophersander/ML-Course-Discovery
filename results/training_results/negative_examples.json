@@ -1,0 +1,66 @@
+[
+  {
+    "url": "https://www.uvm.edu",
+    "title": "University of Vermont",
+    "description": "UVM homepage",
+    "university": "University of Vermont",
+    "confidence": 0.0,
+    "verified": true
+  },
+  {
+    "url": "https://www.yale.edu",
+    "title": "Yale University",
+    "description": "Yale homepage",
+    "university": "Yale University",
+    "confidence": 0.0,
+    "verified": true
+  },
+  {
+    "url": "https://admissions.yale.edu",
+    "title": "Yale Undergraduate Admissions",
+    "description": "Admissions information",
+    "university": "Yale University",
+    "confidence": 0.0,
+    "verified": true
+  },
+  {
+    "url": "https://www.uvm.edu/about-uvm",
+    "title": "About UVM",
+    "description": "About the university",
+    "university": "University of Vermont",
+    "confidence": 0.0,
+    "verified": true
+  },
+  {
+    "url": "https://www.uvm.edu/admissions",
+    "title": "UVM Admissions",
+    "description": "Admissions information",
+    "university": "University of Vermont",
+    "confidence": 0.0,
+    "verified": true
+  },
+  {
+    "url": "https://www.yale.edu/academics",
+    "title": "Yale Academics",
+    "description": "Academic information",
+    "university": "Yale University",
+    "confidence": 0.0,
+    "verified": true
+  },
+  {
+    "url": "https://www.mit.edu",
+    "title": "MIT",
+    "description": "MIT homepage",
+    "university": "MIT",
+    "confidence": 0.0,
+    "verified": true
+  },
+  {
+    "url": "https://www.berkeley.edu",
+    "title": "UC Berkeley",
+    "description": "UC Berkeley homepage",
+    "university": "University of California Berkeley",
+    "confidence": 0.0,
+    "verified": true
+  }
+]

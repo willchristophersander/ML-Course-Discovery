@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Clarkson University",
+    "successful_variation": "Clarkson University",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Clarkson+University&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "AC 205",
+      "course_title": "An Introduction to Accounting for Decision Analysis",
+      "credits": "3.00",
+      "description": "(May be used to satisfy a CUSB MBA or M.S. foundation requirement.) Course is designed for non-School of Business undergraduate majors. An introductory survey of accounting information to guide and improve decision making. Many course topics involve cost planning and control techniques used to evaluate and improve the financial performance of organizations and/or products. Students may not receive credit for AC 205 and AC 202.",
+      "institution": "Clarkson University"
+    },
+    {
+      "course_id": "AC 403",
+      "course_title": "Financial Reporting & Analysis I",
+      "credits": "3.00",
+      "description": "First course in a two-course sequence in financial reporting at the professional level. Seeks to develop student's' understanding of the environment in which financial reporting choices are made and how they impact financial statement information. The course integrates the perspectives of accounting, corporate finance, and economics to help understand how business transactions get reported and their decision implications. Examines the principles and practices of external financial reporting, with particular emphasis on balance sheet valuation and income determination. Reviews basic accounting concepts and the essentials of the accounting process. Covers the measurement and disclosure problems associated with such topics as cash, receivables, inventories, long-lived assets, and intangibles.",
+      "institution": "Clarkson University"
+    },
+    {
+      "course_id": "AC 404",
+      "course_title": "Financial Reporting & Analysis II",
+      "credits": "3.00",
+      "description": "Continues the two-course sequence begun in AC403 by exploring additional coverage of generally accepted accounting principles such as current liabilities, long-term debt, stockholders' equity, earnings per share, accounting for income taxes, accounting changes, and the Statement of Cash Flows. Pro forma 'as if' disclosures, earnings, and financial statements are introduced as well as present value techniques to accounting valuations.",
+      "institution": "Clarkson University"
+    },
+    {
+      "course_id": "AC 421",
+      "course_title": "Accounting Information Systems",
+      "credits": "3.00",
+      "description": "The course covers the design and installation of accounting systems that provide relevant and reliable information. Special emphasis is given to potential risks of errors or irregularities and the need for systems control. Projects may include analysis, design and implementation of an accounting system.",
+      "institution": "Clarkson University"
+    },
+    {
+      "course_id": "AC 431",
+      "course_title": "Advanced Accounting: Investment and Ownership Interests",
+      "credits": "3.00",
+      "description": "This course examines the theory and practice of accounting for business combinations, consolidated financial statements, partnerships, foreign currency transactions, and foreign inter-company investments. Additional topics may also be covered. Current issues in these areas will also be discussed.",
+      "institution": "Clarkson University"
+    },
+    {
+      "course_id": "AC 604",
+      "course_title": "Management Accounting",
+      "credits": "3.00",
+      "description": "Distance MBA students only, or by permission of the Program Director The purpose of this course is to introduce students to the meaning of accounting information and how this information is used by decision makers. Financial statements are examined to show how they provide information on an organization's financial condition, results of operations and cash flows. Cost/management information is introduced to demonstrate its critical importance for effective management. topics include basic financial statements, financial statement analysis, management control, agency costs and organizational behavior, goals and strategies, information economics, responsibility center, profit center and investment center accounting, divisional control and transfer pricing, multinational corporation and foreign currency translation.",
+      "institution": "Clarkson University"
+    },
+    {
+      "course_id": "AE 201",
+      "course_title": "Intro to Experimental Methods in Mechanical & Aeronautical Engineering",
+      "credits": "1.00",
+      "description": "This course provides an introduction to experimental methods including the structure of experiments, measurement error types, statics, frequency distributions, error propagation, plot types, introductory design of experiments and use of computer for data processing. Experiments are used to demonstate principles of material science, statics, strength of materials, rigid body dyanmics and electrical science. Experiments are documented using written memoranda and worksheets.",
+      "institution": "Clarkson University"
+    },
+    {
+      "course_id": "AE 212",
+      "course_title": "Introduction to Engineering Design",
+      "credits": "3.00",
+      "description": "This course lays the foundation for the design curriculum of the MAE Department. Students are introduced to how to solve complex, open-ended engineering problems. Core topics covered are: the design process; engineering ethics and professional responsibilities; design for safety; mathematical and computer modeling; and written, oral and graphical communication. These topics are presented within the framework of at least one design project which students must complete, including documentation, construction, and demonstration.",
+      "institution": "Clarkson University"
+    },
+    {
+      "course_id": "AE 365",
+      "course_title": "Independent Projects I",
+      "credits": "3.00",
+      "description": "An opportunity for the student to become involved singly, or with a group, working on a special project under the guidance of a faculty member. Topics are often suggested by the faculty but suggestions from the students are encouraged. By permission of adviser only.",
+      "institution": "Clarkson University"
+    },
+    {
+      "course_id": "AE 366",
+      "course_title": "Independent Projects II",
+      "credits": "3.00",
+      "description": "Continuation of AE 365.",
+      "institution": "Clarkson University"
+    }
+  ],
+  "timestamp": "2025-08-10T23:49:41.822704"
+}

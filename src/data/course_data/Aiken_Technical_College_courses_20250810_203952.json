@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Aiken Technical College",
+    "successful_variation": "Aiken Technical College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Aiken+Technical+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACC 100",
+      "course_title": "Basic Accounting",
+      "credits": "3.00",
+      "description": "This course introduces basic accounting principles, including the accounting cycle, bookkeeping, the debit-credit procedure, journals, ledgers and trial balances. 3.0-0.0-3.0 Prerequisite: MAT-032 or higher and RWR-032 or acceptable placement scores",
+      "institution": "Aiken Technical College"
+    },
+    {
+      "course_id": "ACC 101",
+      "course_title": "Accounting I",
+      "credits": "3.00",
+      "description": "This course introduces basic accounting procedures for analyzing, recording, and summarizing financial transactions, adjusting and closing the financial records at the end of the accounting cycle, and preparing financial statements. 3.0-0.0-3.0 Prerequisite: ACC-100 or MAT-101 or higher and RWR-032 or acceptable placement scores",
+      "institution": "Aiken Technical College"
+    },
+    {
+      "course_id": "ACC 102",
+      "course_title": "Accounting Principles II",
+      "credits": "3.00",
+      "description": "This course emphasizes managerial accounting theory and practice in basic accounting and procedures for cost accounting, budgeting, cost-volume analysis, and financial statement analysis. 3.0-0.0-3.0 Prerequisite: ACC-101",
+      "institution": "Aiken Technical College"
+    },
+    {
+      "course_id": "ACC 111",
+      "course_title": "Accounting Concepts",
+      "credits": "3.00",
+      "description": "This course is a study of the principles of the basic Accounting functions--collecting, recording, analyzing, and reporting information.3.0-0.0-3.0 Prerequisite: MAT-101 or acceptable placement scores",
+      "institution": "Aiken Technical College"
+    },
+    {
+      "course_id": "ACC 120",
+      "course_title": "Federal Income Tax",
+      "credits": "3.00",
+      "description": "This course is a study of the income tax structure from the standpoint of the individual, partnership, and corporation. 2.0-3.0-3.0 Prerequisite: ACC-101",
+      "institution": "Aiken Technical College"
+    },
+    {
+      "course_id": "ACC 150",
+      "course_title": "Payroll Accounting",
+      "credits": "3.00",
+      "description": "This course introduces the major tasks of payroll accounting, employment practices, federal, state and local governmental laws and regulations, internal controls, and various forms and records. Computer simulation included. 3.0-0.0-3.0 Prerequisite: ACC-101",
+      "institution": "Aiken Technical College"
+    },
+    {
+      "course_id": "ACC 201",
+      "course_title": "Intermediate Accounting I",
+      "credits": "3.00",
+      "description": "This course explores the fundamental processes of accounting theory, including the preparation of financial statements. 3.0-0.0-3.0 Prerequisite: ACC-102 Corequisite: ACC-102",
+      "institution": "Aiken Technical College"
+    },
+    {
+      "course_id": "ACC 202",
+      "course_title": "Intermediate Accounting II",
+      "credits": "3.00",
+      "description": "This course covers the application of accounting principles and concepts in account evaluation and income determination, including special problems peculiar to corporations and the analysis of financial reports. 3.0-0.0-3.0 Prerequisite: ACC-201",
+      "institution": "Aiken Technical College"
+    },
+    {
+      "course_id": "ACC 224",
+      "course_title": "Business Taxation",
+      "credits": "3.00",
+      "description": "This course is an introduction to tax reporting requirements and taxation of the proprietorship, S Corporation, C Corporation, and limited liability company. Some form preperation is required. 3.0-0.0-3.0 Prerequisite: ACC-101",
+      "institution": "Aiken Technical College"
+    },
+    {
+      "course_id": "ACC 230",
+      "course_title": "Cost Accounting I",
+      "credits": "3.00",
+      "description": "This course is a study of the accounting principles involved in job order cost systems. 3.0-0.0-3.0 Prerequisite: ACC-102",
+      "institution": "Aiken Technical College"
+    }
+  ],
+  "timestamp": "2025-08-10T20:39:52.050096"
+}

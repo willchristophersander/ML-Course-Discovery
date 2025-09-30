@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "William Paterson University",
+    "successful_variation": "William Paterson University",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=William+Paterson+University&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "AACS 100",
+      "course_title": "Introduction to African,African American,and Caribbean Studies",
+      "credits": "3.00",
+      "description": "Introduces students to the global nature of African, African American, and Caribbean Studies as an academic discipline. Deals with the history and theory of the field, its institutionalization, and its various dimensions and intellectual traditions. Attention is given both to its relationship with the academy and its relevance and involvement with world communities of color. Exposes students to major texts, scholars, and thinkers representing issues in the field and prepares AACS majors for an informed choice of academic program and career options.",
+      "institution": "William Paterson University"
+    },
+    {
+      "course_id": "AACS 101",
+      "course_title": "African,African American,and African-Caribbean Dance",
+      "credits": "3.00",
+      "description": "Preparation of the body through conditioning exercises and dance sequences to perform ethnic dance forms from Africa, the Caribbean, and the United States. Students may choose a field trip to a professional performance or examine dance forms more closely by composing a dance sequence, using ethnic materials from class.",
+      "institution": "William Paterson University"
+    },
+    {
+      "course_id": "AACS 110",
+      "course_title": "Basic Swahili I",
+      "credits": "3.00",
+      "description": "Presents the fundamentals of Swahili. Simple grammatical construction and forms, building of broad and commonly used vocabulary and idiomatic expression, developing reading, writing, and conversational skills with emphasis on the grammatical principles and their application to the language.",
+      "institution": "William Paterson University"
+    },
+    {
+      "course_id": "AACS 111",
+      "course_title": "Basic Swahili II",
+      "credits": "3.00",
+      "description": "Emphasizes primarily conversation and basic grammar. The class meets formally twice a week. In addition, students work with tapes in the language lab. The approach is concentrated on phonology, morphology, and vocabulary.",
+      "institution": "William Paterson University"
+    },
+    {
+      "course_id": "AACS 115",
+      "course_title": "Gospel Choir",
+      "credits": "3.00",
+      "description": "Discusses gospel music in America from its origins to the present, and its relevance and role in the community. Focus is on gospel concepts, melodic development, memorization, improvisation, and analysis. A companion (practice side) of this course is the Gospel Ensemble. African, African American and Caribbean Studies 157",
+      "institution": "William Paterson University"
+    },
+    {
+      "course_id": "AACS 116",
+      "course_title": "African Music I",
+      "credits": "3.00",
+      "description": "Introduces students to African music by systematically focusing on its diverse geographical areas, its various forms, styles, and musical instruments. The African musical experience is explored within the context of the ecological and environmental paradigm as major factors that impact on traditional musical instrument utilization, particularly in the four major musiological groupings i.e. (1) idiophones, (2) membranophones, (3) chordophones, and (4) aerophones. Within a sociocultural and historical context, the customs, traditions, role, and function of music are examined in various geographical areas and in African society in general.",
+      "institution": "William Paterson University"
+    },
+    {
+      "course_id": "AACS 117",
+      "course_title": "African Music II",
+      "credits": "3.00",
+      "description": "Introduces students to the music of Morocco, otherwise known as Moorish music. Sociocultural, historical, and musiological approaches are incorporated to explore the music, its origins, evolution, and development in North Africa, the various processes and outgrowth of cross-cultural synthesis and, transmutation of core North African musical traditions in Al-Andalus (Spain 711- 1492 A.D.). The course provides a systematic study of the Andalusian Metric System in Spain, musicians, musical instruments, form, structure, style, cultural, and technical aspects of the correlations between music and core literary North African traditions and their contributions to world culture.",
+      "institution": "William Paterson University"
+    },
+    {
+      "course_id": "AACS 150",
+      "course_title": "Racism and Sexism in the United States",
+      "credits": "3.00",
+      "description": "A study of the historical, philosophical, social, and political treatments and interpretation of blacks and women in the United States. Selected topics include media stereotypes of blacks and women, definitions and rationalizations of racism and sexism, the role that blacks and women have played in U.S. history, the relationship between the nineteenth-century abolitionist movement and the early feminist movement, the relationship between the 1960s civil rights movement, and the women's liberation movement.",
+      "institution": "William Paterson University"
+    },
+    {
+      "course_id": "AACS 151",
+      "course_title": "Introduction to African World Literature",
+      "credits": "3.00",
+      "description": "This course introduces students to a culture-sensitive reading and appreciation of literature. Using the global literatures of African peoples as primary core traditions, the course provides critical, technical, and historical approaches to a cross-cultural exploration of literature and the intertextual relationships between African-world texts and literary works from non-African traditions. Selected texts cover various genres, time periods, racial-ethnic categories, and geographical areas of the world.",
+      "institution": "William Paterson University"
+    },
+    {
+      "course_id": "AACS 155",
+      "course_title": "Perspectives on Justice and Racism:The African American Experience",
+      "credits": "3.00",
+      "description": "Analysis of racism in the formulation and implementation of the law, in the courts, in penal institutions, and in the police department. Attention is also given to the historical and sociocultural problems associated with the attainment of social justice for African Americans.",
+      "institution": "William Paterson University"
+    }
+  ],
+  "timestamp": "2025-08-09T20:23:19.615306"
+}

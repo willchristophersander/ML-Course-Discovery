@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Pima Community College",
+    "successful_variation": "Pima Community College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Pima+Community+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACC 100",
+      "course_title": "Practical Accounting Procedures",
+      "credits": "3.00",
+      "description": "Credit Hours: 300 Introduction to accounting systems for small businesses Includes an introduction to accounting, accounting equation, procedures for controlling cash, payroll accounting, special journals, computer accounting, and ethical issues in the business process Prerequisite(s): Course Corequisites: Offered: Fall, Spring, Summer",
+      "institution": "Pima Community College"
+    },
+    {
+      "course_id": "ACC 101",
+      "course_title": "Financial Accounting",
+      "credits": "3.00",
+      "description": "Credit Hours: 300 Introduction to accounting as a service activity, analytical discipline, and information system Includes financial statements and the accounting profession, recording accounting and transactional data, merchandising operations, internal control and ethical issues, asset reporting, reporting and analyzing liabilities and stockholder's equity, statements of cash flow, and performance measurement Prerequisite(s): Course Corequisites: Information: Students planning to transfer to the Eller Business College should take ACC 101 the semester prior to their application semester Offered: Fall, Spring, Summer",
+      "institution": "Pima Community College"
+    },
+    {
+      "course_id": "ACC 102",
+      "course_title": "Managerial Accounting",
+      "credits": "0.00",
+      "description": "Accounting information for managers Includes managerial accounting environment, systems design, cost behavior analysis and use, profit planning, standard costs, and decision making Prerequisite(s): ACC 101 Course Corequisites: Recommendation: Completion of MAT 092 or higher before enrolling in this course Offered: Fall, Spring, Summer",
+      "institution": "Pima Community College"
+    },
+    {
+      "course_id": "ACC 150",
+      "course_title": "Payroll Accounting",
+      "credits": "3.00",
+      "description": "Credit Hours: 300 Current practices in payroll accounting and tax reporting Includes payroll and personnel records, computing and paying wages and salaries, analyzing and journalizing payroll transactions, and computerized payroll systems and payroll projects Prerequisite(s): ACC 100 or 101 Course Corequisites: Offered: Fall, Spring",
+      "institution": "Pima Community College"
+    },
+    {
+      "course_id": "ACC 160",
+      "course_title": "Basic Tax Preparation",
+      "credits": "3.00",
+      "description": "Credit Hours: 300 Basic skills in tax preparation Includes volunteer assistance techniques and procedures; taxable revenues, expenses, and appropriate line items on various forms; completion and discussion of tax returns with clients; additional federal tax issues and forms on individual tax returns; and training in current tax preparation software Prerequisite(s): ACC 101 Course Corequisites: Information: Students must pass an Internal Revenue Service (IRS) volunteer tax preparer certification exam and perform a minimum of 18 service learning hours at a community VITA site to successfully complete this course Information: May be taken four times for a maximum of twelve credit hours Offered: May not be offered this year, check class schedule",
+      "institution": "Pima Community College"
+    },
+    {
+      "course_id": "ACC 173",
+      "course_title": "Government and Not-For-Profit Accounting",
+      "credits": "3.00",
+      "description": "Credit Hours: 300 Accounting practices used in governmental units, and not-for profit organizations Includes basic characteristics of fund accounting, functions of governmental accounting, budgetary process, basic fund accounting system, financial reporting objectives, and government -wide financial statements Prerequisite(s): ACC 101 Course Corequisites: Offered: Spring",
+      "institution": "Pima Community College"
+    },
+    {
+      "course_id": "ACC 190",
+      "course_title": "Internship in Accounting",
+      "credits": "3.00",
+      "description": "Credit Hours: 300 Supervised internship in an accounting workplace Includes experiences supervised by a professional in the field Prerequisite(s): Course Corequisites: Information: Consent of instructor is required before enrolling in this course Offered: May not be offered this year, check class schedule",
+      "institution": "Pima Community College"
+    },
+    {
+      "course_id": "ACC 200",
+      "course_title": "Computerized Accounting I",
+      "credits": "3.00",
+      "description": "Credit Hours: 400 Fundamental accounting applications using commercial applications software Includes the computer operating system, commercial accounting program modules, accounting projects, electronic spreadsheet as the accounting tool, and accounting information on the Internet Prerequisite(s): ACC 100 or 101 Course Corequisites: Offered: Fall, Spring, Summer",
+      "institution": "Pima Community College"
+    },
+    {
+      "course_id": "ACC 201",
+      "course_title": "Intermediate Accounting I",
+      "credits": "3.00",
+      "description": "Credit Hours: 300 Comprehensive coverage of financial accounting topics Includes environment of accounting, accounting information system, present value applications to accounting problems, cash control, receivables and investments, inventory valuation methods, tangible fixed assets, current and long- term liabilities, and intangible assets Prerequisite(s): ACC 102 Course Corequisites: Offered: Fall",
+      "institution": "Pima Community College"
+    },
+    {
+      "course_id": "ACC 202",
+      "course_title": "Intermediate Accounting II",
+      "credits": "3.00",
+      "description": "Credit Hours: 300 Continuation of ACC 201 Includes stockholder's equity, long and short term liabilities, income taxes, pension plans, leases, and accounting changes, statement of cash flow, and full disclosure in financial reporting Also includes continual integration of theory and practice in the accounting treatment of investments Prerequisite(s): ACC 201 Course Corequisites: Offered: Spring",
+      "institution": "Pima Community College"
+    }
+  ],
+  "timestamp": "2025-08-10T04:58:26.973156"
+}

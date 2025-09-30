@@ -1,0 +1,74 @@
+{
+  "search_query": {
+    "institution": "Boston Graduate School of Psychoanalysis",
+    "successful_variation": "Boston Graduate School of Psychoanalysis",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Boston+Graduate+School+of+Psychoanalysis&distance=5"
+  },
+  "total_results": 9,
+  "courses": [
+    {
+      "course_id": "GT 211",
+      "course_title": "Supervision of Psychoanalytic Groups",
+      "credits": "3.00",
+      "description": "Candidates wishing to work with therapy groups at the Therapy Center may choose this course in which psychoanalytic groups are presented to the supervisor.",
+      "institution": "Boston Graduate School of Psychoanalysis"
+    },
+    {
+      "course_id": "ISV 601",
+      "course_title": "Psychoanalytic Perspectives on Violence",
+      "credits": "2.00",
+      "description": "What are the psychoanalytic views on the nature of human aggression? How do these perspectives help us understand violent acts? Ten major research orientations within psychoanalysis will be reviewed and compared. Students submit short summaries of each perspective examined; at the end of the semester, they submit a research paper presenting their approach to a psychoanalytically oriented project on violence. (2 Credits)",
+      "institution": "Boston Graduate School of Psychoanalysis"
+    },
+    {
+      "course_id": "ISV 602",
+      "course_title": "Violence and the Unconscious",
+      "credits": "2.00",
+      "description": "Research in modern analysis has demonstrated the degree to which preverbal forms of pathology are expressions of undischargeable destructive impulsivity. This course focuses on how inferences are made about the violent tendencies in the personality that affect patterns of defense and patterns of discharge. The course considers the role of character in abuse, homicidal behavior, violence in interpersonal interactions, and group-, organization-, or state-sponsored violence. (2 Credits)",
+      "institution": "Boston Graduate School of Psychoanalysis"
+    },
+    {
+      "course_id": "ISV 603",
+      "course_title": "The Culture of Violence",
+      "credits": "2.00",
+      "description": "This course addresses the cultural context of violence from a sociological and anthropological point of view. Five seminar sessions introduce the basic principles of societal violence as a problem in late- or post-modern global culture. Students will write short papers for the remaining seminar meetings and one final paper summarizing the social, developmental, and clinical implications of the problems discussed. Practical applications are encouraged. Research thinking is required. (2 Credits)",
+      "institution": "Boston Graduate School of Psychoanalysis"
+    },
+    {
+      "course_id": "ISV 605",
+      "course_title": "Dynamics and Patterns of Criminal Homicide",
+      "credits": "2.00",
+      "description": "This course examines the patterns and dynamics of criminal homicide as a process. It explores the contribution of psychoanalytic, psychological, neurobiological, cognitive, and sociological perspectives in the explanation, prediction, and control of different types of homicides. Special emphasis is placed on the understanding of the culture of violence and on the use of aggression as a strategy of intra- and interpersonal conflict resolution. (2 credits)",
+      "institution": "Boston Graduate School of Psychoanalysis"
+    },
+    {
+      "course_id": "ISV 606",
+      "course_title": "Social Unconscious and the Dynamics of Cultural and Ethnic Hatred",
+      "credits": "2.00",
+      "description": "This course examines violence from a socio-cultural perspective. The course begins with the analysis of cultural factors that form people's attitudes toward violence. The social factors that are associated with aggression and non-aggression are studied. Special attention is paid to the analysis of social institutions that may indirectly structure and sanction violent behavior. (2 Credits)",
+      "institution": "Boston Graduate School of Psychoanalysis"
+    },
+    {
+      "course_id": "ISV 607",
+      "course_title": "Brain,Mind,Soma and Violence",
+      "credits": "2.00",
+      "description": "This course overviews the field of neuropsychology and brain-behavior relations with a special emphasis on the impact of normal and abnormal neuropsychological function on violent behavior. Participants will develop an introductory familiarity with functional neuroanatomy, neuropsychological contributions to personality and selected psychiatric disorders, selected neurobehavioral disorders, learning disabilities, normal aging and dementia. The overarching goal is the development of critical thinking skills pertaining to the interaction of biological, neurological and psychological processes underlying human cognition, emotion and behavior as they pertain to violence. Objectives include the development of the ability to 1) critically read neurobehavioral literature; and, 2) conceptualize violence and aggression from a brain-behavior perspective. (2 Credits)",
+      "institution": "Boston Graduate School of Psychoanalysis"
+    },
+    {
+      "course_id": "ISV 608",
+      "course_title": "Biology,Ethology,and Aggression",
+      "credits": "2.00",
+      "description": "Students study the ethological approach to the study of aggression and examine findings from animal as well as human studies on physiological factors in interaction with environmental influences. (2 Credits)",
+      "institution": "Boston Graduate School of Psychoanalysis"
+    },
+    {
+      "course_id": "ISV 610",
+      "course_title": "Contemporary Theories of Violence",
+      "credits": "2.00",
+      "description": "Contemporary Theories of Violence serves as an integrative course, designed to help the student pull together the three main theoretical perspectives offered in the foundation courses. The course also introduces some theoretical perspectives not covered elsewhere in the curriculum. The written requirements of the course require student to integrate multiple theoretical perspectives as much as possible. (2 Credits)",
+      "institution": "Boston Graduate School of Psychoanalysis"
+    }
+  ],
+  "timestamp": "2025-08-10T20:48:11.051602"
+}

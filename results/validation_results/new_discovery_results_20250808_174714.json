@@ -1,0 +1,69 @@
+{
+  "timestamp": "2025-08-08T17:47:14.169387",
+  "analysis": {
+    "total_universities": 3,
+    "discovery_success_rate": 0.0,
+    "avg_discovery_confidence": 0,
+    "validation_success_rate": 0.0,
+    "avg_validation_confidence": 0,
+    "course_finding_rate": 0,
+    "avg_discovery_time": 0.7961273193359375,
+    "avg_validation_time": 0.0,
+    "successful_discoveries": [],
+    "failed_discoveries": [
+      {
+        "university": "Utah State University",
+        "error": "No search results found with any strategy"
+      },
+      {
+        "university": "Fayetteville State University",
+        "error": "No search results found with any strategy"
+      },
+      {
+        "university": "College of the Desert",
+        "error": "No search results found with any strategy"
+      }
+    ]
+  },
+  "detailed_results": [
+    {
+      "university_name": "Utah State University",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No search results found with any strategy",
+      "discovery_time": 2.280778169631958,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "Fayetteville State University",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No search results found with any strategy",
+      "discovery_time": 0.10721993446350098,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "College of the Desert",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No search results found with any strategy",
+      "discovery_time": 0.0003838539123535156,
+      "validation_time": 0.0
+    }
+  ]
+}

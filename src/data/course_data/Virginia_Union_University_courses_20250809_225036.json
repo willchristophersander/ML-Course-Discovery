@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Virginia Union University",
+    "successful_variation": "Virginia Union University",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Virginia+Union+University&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACC 201",
+      "course_title": "Financial Accounting",
+      "credits": "4.00",
+      "description": "Focuses on the accounting system that is used to record, process, communicate, and interpret generalpurpose financial information to end-users. Topics include fundamental financial accounting principles, theory of debit and credit, use of special journals and ledgers, and financial-statement preparation and interpretation. Prerequisite: Placement in MAT 160.",
+      "institution": "Virginia Union University"
+    },
+    {
+      "course_id": "ACC 202",
+      "course_title": "Managerial Accounting",
+      "credits": "4.00",
+      "description": "Focuses on the use of accounting information by managers within a business organization. Topics include product and service costing, budget preparation and administration, use of standard costs as a means of managerial control, capital budgeting, breakeven analysis, and cost/benefit analysis. Prerequisite: ACC 201.",
+      "institution": "Virginia Union University"
+    },
+    {
+      "course_id": "ACC 301",
+      "course_title": "and ACC 302 Intermediate Accounting I",
+      "credits": "4.00",
+      "description": "Emphasizes moderately complex problems in accounting that pertain to cash, receivables, and inventories, investments, fixed assets, liabilities, owner's equity, revenues, and expenses. Special emphasis is placed on generally accepted accounting principles and theoretical analysis. Prerequisite: ACC 201.",
+      "institution": "Virginia Union University"
+    },
+    {
+      "course_id": "ACC 302",
+      "course_title": "Intermediate Accounting II",
+      "credits": "4.00",
+      "description": "Emphasizes more complex problems in accounting that pertain to cash, receivable, inventories, investments, fixed assets, liabilities, owner's equity, revenues, and expenses. As in ACC 301, emphasis is placed on generally accepted accounting principles and theoretical analysis. Prerequisite: ACC 301.",
+      "institution": "Virginia Union University"
+    },
+    {
+      "course_id": "ACC 303",
+      "course_title": "Accounting Information Systems",
+      "credits": "3.00",
+      "description": "Examines the design and evaluation of manual and computerized accounting information systems. Prerequisites: ACC 202 and MGT 163.",
+      "institution": "Virginia Union University"
+    },
+    {
+      "course_id": "ACC 304",
+      "course_title": "Cost Accounting",
+      "credits": "3.00",
+      "description": "Focuses on cost accumulation for inventory pricing and income determination. Topics include costing of materials, labor, and overhead, cost accounting as an aid to administrative control, job orders, process, standard cost accounting, capital budgeting and decision-making. Prerequisite: ACC 202.",
+      "institution": "Virginia Union University"
+    },
+    {
+      "course_id": "ACC 401",
+      "course_title": "Auditing",
+      "credits": "3.00",
+      "description": "Covers the conceptual, theoretical, and practical procedures applicable to auditing. Primary emphasis is placed on the theory of audit evidence and the objectives, techniques, and procedures for financial audit reports. Prerequisite: ACC 302.",
+      "institution": "Virginia Union University"
+    },
+    {
+      "course_id": "ACC 403",
+      "course_title": "Advanced Accounting",
+      "credits": "3.00",
+      "description": "Emphasizes accounting techniques and reporting for business consolidations, multinational enterprises, and partnerships. Prerequisite: ACC 302.",
+      "institution": "Virginia Union University"
+    },
+    {
+      "course_id": "ACC 405",
+      "course_title": "Federal Taxes",
+      "credits": "3.00",
+      "description": "The basic principles of federal income tax laws relating to individuals, sole proprietorships, partnerships, and corporations. The general concepts of income, deductions, expenses, and credits as they relate to various types of entities are examined. Prerequisite: ACC 201.",
+      "institution": "Virginia Union University"
+    },
+    {
+      "course_id": "ACC 490",
+      "course_title": "Selected Topics",
+      "credits": "3.00",
+      "description": "Investigates in-depth a topic of current interest in the accounting field. Prerequisite: junior or senior status.",
+      "institution": "Virginia Union University"
+    }
+  ],
+  "timestamp": "2025-08-09T22:50:36.656574"
+}

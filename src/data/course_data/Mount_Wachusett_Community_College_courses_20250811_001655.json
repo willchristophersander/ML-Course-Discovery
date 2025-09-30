@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Mount Wachusett Community College",
+    "successful_variation": "Mount Wachusett Community College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Mount+Wachusett+Community+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACC 101",
+      "course_title": "Principles of Accounting I",
+      "credits": "3.00",
+      "description": "3 credits This course covers the basic accounting principles necessary for an intelligent understanding of the books and records used in business: debits and credits; opening and closing books; classification and analysis of accounts; controlling accounts; trial balance; working papers; and the preparation of financial statements. Prerequisites: MAT100, RDG100 or placement. Fall and spring.",
+      "institution": "Mount Wachusett Community College"
+    },
+    {
+      "course_id": "ACC 102",
+      "course_title": "Principles of Accounting II",
+      "credits": "3.00",
+      "description": "3 credits This course is a continuation of ACC101 Principles of Accounting I and covers partnerships, the nature and formation of corporations, capital stock, corporation earnings, dividends, investments, and long-term obligations. Topics also considered are manufacturing operations related to control accounting procedures and statement of changes in financial position. Prerequisite: ACC101. Fall and spring.",
+      "institution": "Mount Wachusett Community College"
+    },
+    {
+      "course_id": "ACC 224",
+      "course_title": "Taxation",
+      "credits": "3.00",
+      "description": "3 credits This course includes income tax laws and their application to individuals, partnerships, fiduciaries, and corporations. Practical problems covering concrete situations illustrate the meaning of the laws. Primary emphasis is placed on individual tax preparation. Prerequisite: ACC101.",
+      "institution": "Mount Wachusett Community College"
+    },
+    {
+      "course_id": "ACC 226",
+      "course_title": "Managerial Accounting",
+      "credits": "3.00",
+      "description": "3 credits This course is a continuation of ACC101 Principles of Accounting I and ACC102 Principles of Accounting II with major emphasis on the development and application of accounting data for planning and control. Prerequisite: ACC102 or permission of the instructor. Fall.",
+      "institution": "Mount Wachusett Community College"
+    },
+    {
+      "course_id": "ACC 227",
+      "course_title": "Computerized Accounting",
+      "credits": "3.00",
+      "description": "3 credits The accounting cycle for a business, payroll, and bank statement reconciliation are entirely computerized into one coordinated, interactive system. Other problems may be introduced as appropriate. Prerequisites: CIS127 or CIS120. Fall and spring. top of page",
+      "institution": "Mount Wachusett Community College"
+    },
+    {
+      "course_id": "ANT 111",
+      "course_title": "Cultural Anthropology",
+      "credits": "3.00",
+      "description": "3 credits This course will survey human cultural evolution from a hunting-and-gathering society to the modern industrial state. Social systems, political organization, economic structure, religious beliefs, and artistic achievements of non-western culture will be studied and compared to our own culture. Prerequisites: ENG100, RDG100, or placement.",
+      "institution": "Mount Wachusett Community College"
+    },
+    {
+      "course_id": "ART 101",
+      "course_title": "Introduction to Painting",
+      "credits": "3.00",
+      "description": "3 credits This studio course familiarizes the non-art major with the art of painting. The student will paint several paintings in acrylics and/or oils from teacher-directed setups. Some art materials must be purchased for this course. Not open to art majors. Prerequisite: None. Fall and spring.",
+      "institution": "Mount Wachusett Community College"
+    },
+    {
+      "course_id": "ART 103",
+      "course_title": "Introduction to Sculpture",
+      "credits": "3.00",
+      "description": "3 credits This studio course introduces principles of sculpture and three-dimensional design to the student with little or no previous art experience. The emphasis will be on learning to skillfully manipulate different materials and to develop an understanding of art concepts as they apply to the practice, viewing, and discussion of art. The student will gain an appreciation for three-dimensional work as he/she directly experiences the process inherent in creating art. A range of media will be used. Not open to art majors. Prerequisite: None. Fall and spring.",
+      "institution": "Mount Wachusett Community College"
+    },
+    {
+      "course_id": "ART 105",
+      "course_title": "Introduction to Drawing",
+      "credits": "3.00",
+      "description": "3 credits This course is designed as an introductory-level course for those with little or no previous experience in drawing. Its aim is to expose the student to a range of media and working approaches to the various problems of drawing. The task of learning to see will be met as a combination of close observation and spontaneous response to the media of drawing. In class, as well as out of class, drawings will be initiated by the students themselves. Subjects will include landscape, still life, interiors, portrait, and the clothed human figure. Prerequisite: None. Fall and spring.",
+      "institution": "Mount Wachusett Community College"
+    },
+    {
+      "course_id": "ART 109",
+      "course_title": "Art History I",
+      "credits": "3.00",
+      "description": "3 credits This course is a chronological survey of the visual arts of the Western World from prehistoric times to the Renaissance. The course presents significant sculpture, architecture, and paintings of this period through slides, films, textual reproductions, and actual museum pieces. Lectures include critical, visual, and technical analysis of these works, biographical sketches of contributing artists, and relevant cultural and historical details that influenced the art of these centuries. Several works of art from non-Western cultures will also be studied. Prerequisites: ENG100, RDG100 or placement. Fall.",
+      "institution": "Mount Wachusett Community College"
+    }
+  ],
+  "timestamp": "2025-08-11T00:16:55.203029"
+}

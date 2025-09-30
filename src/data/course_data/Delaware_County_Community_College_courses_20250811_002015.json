@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Delaware County Community College",
+    "successful_variation": "Delaware County Community College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Delaware+County+Community+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACC 100",
+      "course_title": "Applied Accounting",
+      "credits": "3.00",
+      "description": "This course provides students with an understanding of the accounting cycle for service and merchandising firms. In addition, students reconcile bank accounts and maintain a manual payroll system. This course is intended for students in most career business curricula. This course is generally not transferable. Upon successful completion of this course, students should be able to: Record representative journal entries, post them to the general ledger, foot and balance the accounts, prepare a trial balance and complete a work sheet, financial statements and the remainder of the accounting cycle for a single proprietorship; Record representative business transactions for a merchandising business utilizing the appropriate special journals; Prepare all documents necessary for the maintenance of a checking account and prepare a bank reconciliation; Maintain and reconcile accounts receivable and accounts payable ledgers with appropriate control accounts; Compute and record adjustments for plant assets, prepaid expenses, merchandise inventory and accrued expenses; Maintain a payroll system. Prerequisite: (MAT 050, ((ENG 050 and REA 050) or ENG 099* or REA 075), and BUS 104*) or Appropriate Placement Test Scores (*Course(s) May Be Taken Concurrently)",
+      "institution": "Delaware County Community College"
+    },
+    {
+      "course_id": "ACC 111",
+      "course_title": "Financial Accounting",
+      "credits": "3.00",
+      "description": "This course provides students with a comprehensive treatment of the complete accounting cycle for both service and merchandising businesses in accordance with Generally Accepted Accounting Principles (GAAP). The course also focuses on accounting systems, concepts, issues and the preparation and analysis of financial statements. Upon successful completion of this course, students should be able to: Perform all the steps of the accounting cycle in accordance with GAAP for service and merchandising businesses; Prepare financial statements for sole proprietorships, partnerships and corporations; Calculate quantities and dollar amounts of merchandise inventory and cost of goods sold using GAAP and IRS methodologies; Provide for uncollectible accounts receivable and calculate the estimated amount of accounts receivable that will ultimately be collected; Calculate depreciation, depletion and amortization, and calculate the book value of plant and intangible assets; Broadly describe the principles of internal control over assets and the accounting profession's Code of Ethics; Discuss the income tax consequences resulting from the use of alternate GAAP methodologies; Describe the differences among cash, accrual and other comprehensive bases of accounting; Make calculations and prepare journal entries for various end-of-period adjustments; Make calculations and prepare journal entries for the issuance and redemption of debt and equity securities by corporations. Prerequisite: (MAT 050 and ((ENG 050 and REA 050) or ENG 099* or REA 075)) or Appropriate Placement Test Scores (*Course(s) May Be Taken Concurrently)",
+      "institution": "Delaware County Community College"
+    },
+    {
+      "course_id": "ACC 112",
+      "course_title": "Managerial Accounting",
+      "credits": "3.00",
+      "description": "This course focuses on the use of accounting in the development of the managerial functions of planning, controlling and decision-making. Special emphasis is given to the various processes which assist managers obtain optimum results. Students learn what kind of accounting information is needed by managers, where the information can be obtained, how to analyze the information and how to provide clear, concise and meaningful information to managers. Upon successful completion of this course, students should be able to: Describe the various environments in which managerial accounting functions; Describe situations where managerial and financial methodologies need to be different; Prepare a statement of Cash Flows; Analyze financial statements using comparative, trend and ratio analysis; Discuss the advantages and disadvantages of different approaches to allocations; Develop operating and capital budgets; Prepare performance evaluation reports to compare actual results to budgets; Illustrate and describe the concepts and accounting recording requirements of process and job order cost accounting systems; Prepare reports and analysis utilizing systems and techniques which enable management to perform their functions of planning, controlling and decision making. Prerequisite: ACC 111",
+      "institution": "Delaware County Community College"
+    },
+    {
+      "course_id": "ACC 115",
+      "course_title": "Computerized Acct",
+      "credits": "4.00",
+      "description": "This course provides students with an understanding of computer applications of the accounting cycle using an accounting computer software program. In addition, students will utilize a spreadsheet program to perform a bank reconciliation, inventory costing, depreciation methods and payroll. Upon successful completion of this course, students should be able to: Develop on a computer a chart of accounts, record representative journal entries, and prepare a trial balance and financial statements for a service proprietorship; Record on a computer representative business transactions for a merchandising business utilizing the appropriate special journals; Complete a worksheet and a multiple step income statement for a merchandising business on a computer; Maintain and reconcile accounts receivable and accounts payable ledgers on a computer with appropriate control accounts; Prepare all documents necessary for the maintenance of a checking account and prepare a bank reconciliation; Maintain a payroll system; Compute depreciation expense and merchandise inventory values on a computer using various methods; Compute basic analytic measures and ratios. Prerequisite: (ACC 100 or ACC 111) and CS 100",
+      "institution": "Delaware County Community College"
+    },
+    {
+      "course_id": "ACC 201",
+      "course_title": "Intro to Cost Accounting",
+      "credits": "3.00",
+      "description": "This course provides students with a thorough understanding of cost accounting concepts, cost behaviors, and cost accounting techniques as applied to manufacturing cost systems. Upon successful completion of this course, students should be able to: Interpret the purpose of cost accounting and the uses of cost accounting data; Define the three basic elements of cost; Using the process and job cost systems, record the complete accounting cycle; Apply factory overhead to work in progress production units; Define factors to be considered in establishing standard costs; Compute and analyze variances from standard using the two variances methods; Determine the basis and calculate cost allocations; Prepare budgets and variance analysis. Prerequisite: ACC 100 or ACC 111",
+      "institution": "Delaware County Community College"
+    },
+    {
+      "course_id": "ACC 202",
+      "course_title": "Intro Tax Accounting",
+      "credits": "3.00",
+      "description": "The primary objective of this course is to gain a practical understanding of the personal income tax, various payroll taxes and the Pennsylvania sales tax. Students will demonstrate an understanding of these taxes by making appropriate calculations and preparing current tax forms. This is a required course for students in the accounting curriculum and an elective for students enrolled in other career programs. Credit for this course will not be given to students who attain credit for Federal Income Tax Accounting (ACC 210). Upon successful completion of this course, students should be able to: Discuss the history and objectives of the US tax system; Determine who must file a tax return, filing status, personal and dependent exemptions and the standard deduction; Identify items to be included in and excluded from gross income; Calculate capital gains and losses; Complete tax returns for the self-employed; Compute deductions for adjusted gross income; Identify and calculate itemized deductions; Compute the income tax liability using tax tables and tax rate schedules; Identify and calculate various tax credits and prepayments; Complete tax forms for the employer's reporting of FICA, State and Federal Unemployment Compensation tax, and Pennsylvania sales tax. Prerequisite: New students should complete Placement Testing prior to registration; Visiting students may submit college transcript",
+      "institution": "Delaware County Community College"
+    },
+    {
+      "course_id": "ACC 210",
+      "course_title": "Federal Income Tax Accounting",
+      "credits": "3.00",
+      "description": "The objectives of this course are to explore the role of the personal income tax in the U.S. economy and to gain familiarity with income tax fundamentals. The course is intended as a business elective for students in the Business Administration curriculum and as a general elective for students enrolled in other transfer programs. Credit for this course will not be given to students who attain credit for Introduction to Tax Accounting (ACC 202). Upon successful completion of this course, students should be able to: Discuss the revenue, social and economic objectives of the US income tax; Discuss the history of the income tax in the United States; Describe how tax changes become law, recent tax reforms and the tax-planning process; Gain familiarity with income tax fundamentals income concepts, exclusions, deductions, tax rates and credits; Calculate capital gains and losses and discuss their treatment; Calculate the deductions for medical expense, casualty losses, taxes, contributions, interest and expense of earning a living; Identify tax policies intended to contribute to full employment and national defense; Calculate depreciation and investment credit; Discuss common recognition postponement techniques. Prerequisite: ACC 111",
+      "institution": "Delaware County Community College"
+    },
+    {
+      "course_id": "ACC 251",
+      "course_title": "Intermediate Accounting I",
+      "credits": "3.00",
+      "description": "This course is a comprehensive study of contemporary accounting theory, concepts, and procedures and their application to financial reporting. Intermediate problems pertaining to cash, receivables, inventories, plant and equipment, and investments in securities are presented. Understanding of the concepts covered in this course is crucial to successfully completion of all subsequent financial accounting and courses in the accounting sequence. Upon successful completion of this course, students should be able to: Discuss the need for a conceptual framework for accounting; Explain the importance of recognizing, measuring and reporting income and the content, purposes and limitations of a balance sheet; Define cash and identify those items that are properly classified as cash; Describe and apply generally accepted accounting principles for temporary and long-term investments; Discuss issues involved in valuation and reporting of accounts and notes receivable; Describe and explain the nature of inventories, the accounting for inventories, and effect of inventory accounting alternatives on the financial statements; Distinguish between tangible and intangible assets, and understand the types of problems and related solutions involved in recording the acquisition, utilization and retirement of real property, equipment and intangible assets. Prerequisite: ACC 112",
+      "institution": "Delaware County Community College"
+    },
+    {
+      "course_id": "ACC 252",
+      "course_title": "Intermediate Accounting II",
+      "credits": "3.00",
+      "description": "This course is a continuation of Intermediate Accounting I. Intermediate problems pertaining to current and long-term liabilities, stockholders' equity, pensions, financial statement analysis, price-level accounting, and cash flow reporting are presented. Understanding of the concepts covered in this course is crucial to successful completion of all subsequent financial accounting and auditing courses in the accounting sequence. Upon successful completion of this course, students should be able to: Define, classify and measure all types of liabilities; Explain various types of long-term debt securities and the procedures involved in accounting for bonds and long-term notes; Apply appropriate accounting procedures to the issuance of capital stock under a variety of different situations; Identify and explain the accounting significance of transactions and events that cause the balance in the retained earnings account to change; Calculate primary and fully diluted earnings per share under a variety of different circumstances; Discuss the economic, accounting and practical issues involved in revenue recognition; Explain and apply appropriate accounting procedures for intraperiod and interperiod income tax allocation; Apply appropriate procedures to account for operating leases and capital leases by the leasee and leasor; Identify and describe the objectives and limitations of the cash flows statement; Discuss the objectives and the methods of financial statement analysis. Prerequisite: ACC 251",
+      "institution": "Delaware County Community College"
+    },
+    {
+      "course_id": "ACC 253",
+      "course_title": "Adv Accounting",
+      "credits": "3.00",
+      "description": "This course is an in-depth study of selected accounting topics, including partnerships, consolidations, business combinations, bankruptcy, corporate reorganizations and multinational companies. It presents both the theoretical and applied aspects of these topics. CPA problems will be reviewed. Upon successful completion of this course, students should be able to: Discuss the environmental factors and the underlying theoretical structure related to the accounting discipline; Prepare consolidated financial statements under a variety of circumstances; Properly record and report the domestic firms transactions that are denominated in foreign currency; Explain accounting for partnerships from formation to dissolution; Record events and exhibit results in the specialized area of governmental accounting; Explain the accounting procedures for nonprofit organizations such as universities, hospitals, and voluntary health and welfare organizations; Complete accounting procedures unique to estates and trusts. Prerequisite: ACC 252",
+      "institution": "Delaware County Community College"
+    }
+  ],
+  "timestamp": "2025-08-11T00:20:15.398893"
+}

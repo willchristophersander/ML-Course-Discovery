@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "University of Nebraska, Lincoln",
+    "successful_variation": "University of Nebraska-Lincoln",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=University+of+Nebraska-Lincoln&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACCT 201",
+      "course_title": "Introductory Accounting I",
+      "credits": "3.00",
+      "description": "Prereq: Sophomore standing and 2.5 GPA, or freshman standing and 3.5 GPA over at least 14 credit hours earned at UNL. Develops fundamentals of accounting, reporting, and analysis that are helpful in understanding financial, managerial, and business concepts and practices, and provides the foundation for many advanced courses in the College.",
+      "institution": "University of Nebraska, Lincoln"
+    },
+    {
+      "course_id": "ACCT 201H",
+      "course_title": "Honors:Introductory Accounting I",
+      "credits": "3.00",
+      "description": "Lec 3. Prereq: Good standing in the University Honors Program or by invitation; freshman standing; 3.5 GPA over at least 14 credit hours earned at UNL. For course description, see ACCT 201.",
+      "institution": "University of Nebraska, Lincoln"
+    },
+    {
+      "course_id": "ACCT 202",
+      "course_title": "Introductory Accounting II",
+      "credits": "3.00",
+      "description": "Prereq: Sophomore standing; ACCT 201 with grade of C or above; and a 2.5 cumulative GPA. Continuation of ACCT 201.",
+      "institution": "University of Nebraska, Lincoln"
+    },
+    {
+      "course_id": "ACCT 306",
+      "course_title": "Survey of Accounting",
+      "credits": "4.00",
+      "description": "Prereq: Except for the 53-hr requirement, the junior standing prerequisite is waived. ACCT 306 is not open to students who have credit in ACCT 201 and/or 202. A one-semester course for students above the sophomore level who desire a knowledge of the fundamentals of accounting. Fundamentals of accounting analysis which are most helpful in understanding managerial and business concepts and practices.",
+      "institution": "University of Nebraska, Lincoln"
+    },
+    {
+      "course_id": "ACCT 308",
+      "course_title": "Managerial Accounting",
+      "credits": "3.00",
+      "description": "Prereq: ACCT 201 and 202 with grades of C or better, or 306 with grade of C or better. Internal accounting as a tool to generate information for managerial planning and control. Conventional and computer problem materials are used to develop understanding of operating and capital budgets, standard costs, incremental concepts, relevant costs, transfer pricing, and responsibility and profit center reports as a means of analysis as well as techniques of measurement.",
+      "institution": "University of Nebraska, Lincoln"
+    },
+    {
+      "course_id": "ACCT 309",
+      "course_title": "Accounting Systems",
+      "credits": "3.00",
+      "description": "Prereq: ACCT 201 and 202 with grade of C or better, or ACCT 306 with grade of C or better; MNGT/MIST 350; or permission. Examination of accounting system concepts, applications, and the process by which they are analyzed, designed, and implemented. Emphasis on management information and computer applications in financial accounting, auditing, and management accounting by means of case study analysis.",
+      "institution": "University of Nebraska, Lincoln"
+    },
+    {
+      "course_id": "ACCT 313",
+      "course_title": "Intermediate Accounting I",
+      "credits": "3.00",
+      "description": "Prereq: ACCT 201 and 202 with grades of C or better, or 306 with grade of C or better. Analysis and interpretation of financial and operating statements; net income concepts, statements from incomplete records; theory and practice relating to cash flow; and the investment in tangible and intangible assets.",
+      "institution": "University of Nebraska, Lincoln"
+    },
+    {
+      "course_id": "ACCT 314",
+      "course_title": "Intermediate Accounting II",
+      "credits": "3.00",
+      "description": "Prereq: ACCT 313 with grade of C or better, or permission. Continuation of ACCT 313 with emphasis on contemporary accounting theory and practice regarding long-term liabilities, corporate equities, and problem areas under study by professional accounting organizations. Analysis of financial statements and the statements of cash flow stressed and related to current controversial topics.",
+      "institution": "University of Nebraska, Lincoln"
+    },
+    {
+      "course_id": "ACCT 398",
+      "course_title": "Special Topics",
+      "credits": "3.00",
+      "description": "Lec. Prereq: Permission of department chair. Topics vary.",
+      "institution": "University of Nebraska, Lincoln"
+    },
+    {
+      "course_id": "ACCT 399",
+      "course_title": "Independent Study",
+      "credits": "3.00",
+      "description": "Prereq: Permission of director of the School of Accountancy. Open to juniors and seniors concentrating in accounting. Special research project or reading program under the direction of a staff member in the School.",
+      "institution": "University of Nebraska, Lincoln"
+    }
+  ],
+  "timestamp": "2025-08-10T21:32:00.984733"
+}

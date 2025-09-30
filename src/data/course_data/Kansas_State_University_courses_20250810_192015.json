@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Kansas State University",
+    "successful_variation": "Kansas State University",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Kansas+State+University&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACCTG 231",
+      "course_title": "Accounting for Business Operations",
+      "credits": "3.00",
+      "description": "An introduction to the operating activities of businesses and the roles that accounting information plays in planning, evaluating, and recording those activities. An introduction to financial statements is included.",
+      "institution": "Kansas State University"
+    },
+    {
+      "course_id": "ACCTG 241",
+      "course_title": "Accounting for Investing and Financing",
+      "credits": "3.00",
+      "description": "Extends the concepts of planning and evaluation to the business activities of acquiring, disposing, and financing productive assets. Financial statement analysis will be covered.",
+      "institution": "Kansas State University"
+    },
+    {
+      "course_id": "ACCTG 331",
+      "course_title": "Accounting Processes and Controls",
+      "credits": "4.00",
+      "description": "The accounting information system will be shown as a means of insuring the accuracy of information and safeguarding assets. Students will interpret documents and record many transactions that typically occur in business, governmental units, and not-for-profit entities.",
+      "institution": "Kansas State University"
+    },
+    {
+      "course_id": "ACCTG 342",
+      "course_title": "Taxation I",
+      "credits": "3.00",
+      "description": "Fundamental concepts of income determination in federal and state income tax regulations; examination of the impact of tax regulation on business and personal financial planning and decision making.",
+      "institution": "Kansas State University"
+    },
+    {
+      "course_id": "ACCTG 431",
+      "course_title": "Problems in Accounting",
+      "credits": "0.00",
+      "description": "No course description available.",
+      "institution": "Kansas State University"
+    },
+    {
+      "course_id": "ACCTG 432",
+      "course_title": "Managerial Reporting",
+      "credits": "3.00",
+      "description": "Identifying relevant accounting data and organizing, summarizing, and analyzing that data into information useful for planning and budgeting, decision making, controlling, and evaluating functions of management.",
+      "institution": "Kansas State University"
+    },
+    {
+      "course_id": "ACCTG 433",
+      "course_title": "Financial Reporting",
+      "credits": "3.00",
+      "description": "An introduction to the U.S. and international rules and regulations that govern current reporting to external entities by profit entities.",
+      "institution": "Kansas State University"
+    },
+    {
+      "course_id": "ACCTG 434",
+      "course_title": "Accounting for Not-For-Profit Entities",
+      "credits": "2.00",
+      "description": "An introduction to the source of authoritative guidance, rules and regulations that govern current reporting to external entities by not-for-profit entities.",
+      "institution": "Kansas State University"
+    },
+    {
+      "course_id": "ACCTG 442",
+      "course_title": "Auditing I",
+      "credits": "3.00",
+      "description": "An introduction to the environment of auditing and the objectives and techniques of both financial and operational auditing.",
+      "institution": "Kansas State University"
+    },
+    {
+      "course_id": "ACCTG 445",
+      "course_title": "Financial Statement Analysis",
+      "credits": "3.00",
+      "description": "This course will develop a student\u2019s skills and knowledge in the analysis and interpretation of corporate financial statements and their related footnotes. The class will encourage the student to think logically and creatively about the strengths and weaknesses of accounting information available to investors and shareholders. The main course objective is for the student to be capable of doing an in-depth analysis of a company\u2019s financial and operating performance from several financial statements.",
+      "institution": "Kansas State University"
+    }
+  ],
+  "timestamp": "2025-08-10T19:20:15.634308"
+}

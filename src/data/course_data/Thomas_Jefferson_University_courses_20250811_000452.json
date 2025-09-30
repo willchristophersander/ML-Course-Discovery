@@ -1,0 +1,67 @@
+{
+  "search_query": {
+    "institution": "Thomas Jefferson University",
+    "successful_variation": "Thomas Jefferson University",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Thomas+Jefferson+University&distance=5"
+  },
+  "total_results": 8,
+  "courses": [
+    {
+      "course_id": "ACCT 101",
+      "course_title": "Financial Accounting",
+      "credits": "3.00",
+      "description": "No course description available.",
+      "institution": "Thomas Jefferson University"
+    },
+    {
+      "course_id": "ACCT 102",
+      "course_title": "Managerial Accounting",
+      "credits": "3.00",
+      "description": "No course description available.",
+      "institution": "Thomas Jefferson University"
+    },
+    {
+      "course_id": "ANAT 100",
+      "course_title": "Human Anatomy",
+      "credits": "8.00",
+      "description": "No course description available.",
+      "institution": "Thomas Jefferson University"
+    },
+    {
+      "course_id": "ANAT 101",
+      "course_title": "Histology",
+      "credits": "8.00",
+      "description": "No course description available.",
+      "institution": "Thomas Jefferson University"
+    },
+    {
+      "course_id": "ANAT 405",
+      "course_title": "Cross-Sectional Anatomy",
+      "credits": "6.00",
+      "description": "No course description available.",
+      "institution": "Thomas Jefferson University"
+    },
+    {
+      "course_id": "ANAT 510",
+      "course_title": "Microscopic Anatomy",
+      "credits": "6.00",
+      "description": "Lecture and laboratory. This course deals with the normal microscopic structure and development of the human body. Special emphasis is given to ultrastructure and to morphological changes due to functional states.",
+      "institution": "Thomas Jefferson University"
+    },
+    {
+      "course_id": "ANAT 520",
+      "course_title": "Human Gross Anatomy",
+      "credits": "9.00",
+      "description": "Lecture and laboratory. The gross structure of the human body, adult and neonatal, is considered by dissection, lectures and conferences, with consideration given to functional adaptation of gross morphology.",
+      "institution": "Thomas Jefferson University"
+    },
+    {
+      "course_id": "ANAT 530",
+      "course_title": "Neuroanatomy",
+      "credits": "4.00",
+      "description": "Lecture and laboratory. The organization of the human nervous system is considered from a combination of gross anatomical, histological, and functional viewpoints. Topics covered include regional neuroanatomy of the spinal cord and brain as well as the organization of various motor and sensory systems.",
+      "institution": "Thomas Jefferson University"
+    }
+  ],
+  "timestamp": "2025-08-11T00:04:52.871015"
+}

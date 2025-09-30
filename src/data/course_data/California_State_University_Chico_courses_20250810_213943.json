@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "California State University, Chico",
+    "successful_variation": "California State University-Chico",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=California+State+University-Chico&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "AAST 152",
+      "course_title": "Introduction to the Asian American Experience",
+      "credits": "3.00",
+      "description": "3 INQ The Asian experience in the U.S. from the immigration period to the present; political and economical impacts. Contemporary problems and issues in Asian American Studies. Introduction to theoretical concepts of racism and prejudice.",
+      "institution": "California State University, Chico"
+    },
+    {
+      "course_id": "AAST 253",
+      "course_title": "Asian American Literature",
+      "credits": "3.00",
+      "description": "3 FS An introduction to various traditions and issues of the Asian American experience in literature. The course explores both early and contemporary novels, poems, and plays by writers of different genders, ethnicities, and cultures.",
+      "institution": "California State University, Chico"
+    },
+    {
+      "course_id": "AAST 300",
+      "course_title": "Asian Studies:Contemporary Social Problems and Prospects",
+      "credits": "3.00",
+      "description": "3 FS Study of problems and prospects related to Asia. This course includes a series of in-depth analysis of major issues, current problems, and prospects of Asia. Extensive research, writing, and oral presentations are required.",
+      "institution": "California State University, Chico"
+    },
+    {
+      "course_id": "AAST 351",
+      "course_title": "Asian American Communities",
+      "credits": "3.00",
+      "description": "3 INQ Asian American communities are a significant social and cultural component of the United States. Drawn to America by a variety of factors, these communities have developed and changed since the first major wave of immigration in 1849. The course explores the ways these communities have maintained traditional Asian values and accommodated the often significantly different values of the United States. Among the issues discussed are pluralism, intergenerational relations, and interethnic contacts.",
+      "institution": "California State University, Chico"
+    },
+    {
+      "course_id": "AAST 370",
+      "course_title": "Asian Immigration:World System Perspective",
+      "credits": "3.00",
+      "description": "3 INQ Examination of Asian immigration to the United States from a world system's perspective. Examines immigration process and the implication of this process for contemporary interest in Pacific Rim. Topics include origins of Asian immigration, major U.S. immigration legislation, demographic structure of contemporary Asian immigration, and cross-cultural comparisons of other world groups.",
+      "institution": "California State University, Chico"
+    },
+    {
+      "course_id": "AAST 380",
+      "course_title": "Southeast Asian Americans:Cultures in Transition",
+      "credits": "3.00",
+      "description": "3 INQ An examination of Southeast Asian immigrants to North America. The cultural and historical backgrounds of Southeast Asian peoples (Hmong, Mien, Kampuchean, Vietnamese, etc.) will be discussed. The historical and political forces that stimulated immigration to North America and the subsequent adaptations made by these peoples to North American cultural contexts will be core themes for this course.",
+      "institution": "California State University, Chico"
+    },
+    {
+      "course_id": "ABUS 101",
+      "course_title": "Introduction to Agricultural Business and Economics",
+      "credits": "3.00",
+      "description": "3 FS The role of agricultural business in the economy. Introductory economic and business principles and their application to the solution of agricultural problems.",
+      "institution": "California State University, Chico"
+    },
+    {
+      "course_id": "ABUS 211",
+      "course_title": "Agricultural Selling and Consulting",
+      "credits": "3.00",
+      "description": "3 SP Application of selling and consulting techniques for agribusiness firms.",
+      "institution": "California State University, Chico"
+    },
+    {
+      "course_id": "ABUS 261",
+      "course_title": "Farm Accounting",
+      "credits": "3.00",
+      "description": "3 FS Introduction to the principles of farm accounting, farm business record keeping, agribusiness management, financial analysis, and enterprise budgeting.",
+      "institution": "California State University, Chico"
+    },
+    {
+      "course_id": "ABUS 262",
+      "course_title": "Management Accounting for Agriculture",
+      "credits": "3.00",
+      "description": "3 FS ABUS 261 or ACCT 201. Cost concepts as a management tool in agriculture are explored. Budgeting techniques for planning and control and for long-term projects are developed.",
+      "institution": "California State University, Chico"
+    }
+  ],
+  "timestamp": "2025-08-10T21:39:43.668250"
+}

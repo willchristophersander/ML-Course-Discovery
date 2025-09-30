@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "New River Community and Technical College",
+    "successful_variation": "New River Community and Technical College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=New+River+Community+and+Technical+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACCT 101",
+      "course_title": "Principles of Accounting I",
+      "credits": "3.00",
+      "description": "A survey of accounting principles, concepts, and procedures. Recognition of accounting as a device to measure financial activity of for-profit organizations using financial statements. Introduction of the accounting information cycle, journals, ledgers, and appropriate accounts.",
+      "institution": "New River Community and Technical College"
+    },
+    {
+      "course_id": "ACCT 102",
+      "course_title": "Principles of Accounting II",
+      "credits": "3.00",
+      "description": "A continuation of ACCT 101. An introduction to cost accumulations and allocations, financial statement analysis, and the use of accounting information for internal and external decision making.",
+      "institution": "New River Community and Technical College"
+    },
+    {
+      "course_id": "ACCT 211",
+      "course_title": "Intermediate Accounting I",
+      "credits": "4.00",
+      "description": "Financial reporting for business enterprises under GAAP. A review of the theoretical foundations of financial concepts and reporting, and their practical application to accounting procedures. Emphasis is on income and expense measurement, asset and liability measurement, and accounting for owners' equity.",
+      "institution": "New River Community and Technical College"
+    },
+    {
+      "course_id": "ACCT 212",
+      "course_title": "Intermediate Accounting II",
+      "credits": "4.00",
+      "description": "A continuation of ACCT 211. Emphasis is on financial statements disclosure requirements under GAAP. A review of reporting requirements for long-term liabilities, stockholders' equity, revenue measurement, earning per share, leases, pensions, cash flows, and other contemporary accounting issues.",
+      "institution": "New River Community and Technical College"
+    },
+    {
+      "course_id": "ACCT 215",
+      "course_title": "Managerial Accounting",
+      "credits": "3.00",
+      "description": "Use of the internal accounting system in the preparation of relevant data for effective managerial planning and control decisions.",
+      "institution": "New River Community and Technical College"
+    },
+    {
+      "course_id": "ACCT 216",
+      "course_title": "Cost Accounting",
+      "credits": "3.00",
+      "description": "Principles underlying determination of cost and control of certain business activities. Manufacturing accounting is emphasized.",
+      "institution": "New River Community and Technical College"
+    },
+    {
+      "course_id": "ACCT 225",
+      "course_title": "Busn Law for Prof Accountants",
+      "credits": "3.00",
+      "description": "This course is a continuation of BUSN 210 - Business Law and the Legal Environment. It provides an in-depth study of business law subjects encountered by the professional accountant. Topics covered include commercial transactions under the UCC, real and personal property, contracts, government regulation, estates and trusts, and business organizations. The purpose of the course is to provide students with the business law background to enable them to use good judgment in the practice of their profession and to understand and exercise sound professional judgment in their careers.",
+      "institution": "New River Community and Technical College"
+    },
+    {
+      "course_id": "ACCT 240",
+      "course_title": "Advanced Computer Applications",
+      "credits": "3.00",
+      "description": "Advanced detailed accounting problems are adapted to the microcomputer. Topics include the preparation of complex financial statements and the adaptation of existing software to specialized accounting situations.",
+      "institution": "New River Community and Technical College"
+    },
+    {
+      "course_id": "ACCT 250",
+      "course_title": "Tax for Per & Bus Decision Mak",
+      "credits": "3.00",
+      "description": "This course provides a summary of income taxes at the federal and state level as they affect business and personal investment decision making. Emphasis is on income tax concepts and their effect on decision making, not form preparation. Topics covered include: types of taxes at various governmental jurisdictional levels; tax policy issues; fundamentals of tax planning; measuring taxable income; property acquisitions, cost recovery, and dispositions; non-taxable exchanges; taxes and the choice of a business entity; proprietorship taxation; partnership and Sub S taxation; corporate taxation; compensation and retirement planning; investment and personal financial planning; tax consequences of personal activities, and simple personal tax preparation.",
+      "institution": "New River Community and Technical College"
+    },
+    {
+      "course_id": "ACCT 260",
+      "course_title": "Volunteer Income Tax Acct",
+      "credits": "3.00",
+      "description": "No course description available.",
+      "institution": "New River Community and Technical College"
+    }
+  ],
+  "timestamp": "2025-08-10T14:40:20.953265"
+}

@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "North Central College",
+    "successful_variation": "North Central College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=North+Central+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACC 190",
+      "course_title": "Topics in Accounting",
+      "credits": "3.00",
+      "description": "Topics vary depending on student interest and faculty expertise. Topics and prerequisites are normally announced in advance and placed in the printed schedule of classes. May be repeated with different content.",
+      "institution": "North Central College"
+    },
+    {
+      "course_id": "ACC 201",
+      "course_title": "Accounting Principles I/Financial",
+      "credits": "3.00",
+      "description": "An introduction to accounting principles and procedures as they are employed in the communication of financial information to various users, such as management, stockholders, and government agencies. Topics include accounting for assets, liabilities, owner's equity, and other reporting issues. Prerequisites: MTH 121 or higher or appropriate placement.",
+      "institution": "North Central College"
+    },
+    {
+      "course_id": "ACC 202",
+      "course_title": "Accounting Principles II/Managerial",
+      "credits": "3.00",
+      "description": "Analysis of accounting for managerial decision-making, planning, and control. Topics include budgeting, variance analysis, traditional and nontraditional product costing methods, cost-volume profit analysis, and financial analysis. Prerequisites: ACC 201, IFS 104.",
+      "institution": "North Central College"
+    },
+    {
+      "course_id": "ACC 290",
+      "course_title": "Topics in Accounting",
+      "credits": "3.00",
+      "description": "Topics vary depending on student interest and faculty expertise. Topics and prerequisites are normally announced in advance and placed in the printed schedule of classes. May be repeated with different content.",
+      "institution": "North Central College"
+    },
+    {
+      "course_id": "ACC 297",
+      "course_title": "Internship",
+      "credits": "9.00",
+      "description": "Internship",
+      "institution": "North Central College"
+    },
+    {
+      "course_id": "ACC 299",
+      "course_title": "Independent Study",
+      "credits": "9.00",
+      "description": "Independent Study",
+      "institution": "North Central College"
+    },
+    {
+      "course_id": "ACC 307",
+      "course_title": "Cost Accounting",
+      "credits": "3.00",
+      "description": "Development of accounting information for management decisions. A study of several cost accounting systems, unit cost determination, budgeting, variance analysis, cost allocation systems, and inventory control techniques used for routine and nonroutine management decisions. Prerequisites: ACC 202, IFS 104.",
+      "institution": "North Central College"
+    },
+    {
+      "course_id": "ACC 310",
+      "course_title": "Accounting Information Systems",
+      "credits": "3.00",
+      "description": "An introduction to financial and managerial information systems. Topics include developing an understanding of the roles and responsibilities within the functions of accounting information systems, and understanding the relationship between events, financial reports, and resultant managerial decisions. Prerequisites: ACC 317 or concurrent enrollment, IFS 104, IFS 106.",
+      "institution": "North Central College"
+    },
+    {
+      "course_id": "ACC 317",
+      "course_title": "Intermediate Accounting I",
+      "credits": "3.00",
+      "description": "Study of Generally Accepted Accounting Principles, APB opinions, and FASB statements, and their applications to financial accounting and financial statements. Topics covered include an in-depth study of cash, receivables, inventory, plant assets, and depreciation and depletion. Prerequisites: Junior standing, ACC 202, IFS 104.",
+      "institution": "North Central College"
+    },
+    {
+      "course_id": "ACC 318",
+      "course_title": "Intermediate Accounting II",
+      "credits": "3.00",
+      "description": "A continuation of Intermediate Accounting I. Topics covered provide an indepth study of intangible assets, investments, liabilities, stockholders' equity, revenue recognition, earnings per share calculations, and financial statement analysis. Prerequisite: ACC 317.",
+      "institution": "North Central College"
+    }
+  ],
+  "timestamp": "2025-08-10T20:33:39.806171"
+}

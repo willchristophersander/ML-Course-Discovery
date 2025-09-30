@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Davidson College",
+    "successful_variation": "Davidson College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Davidson+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACA 115",
+      "course_title": "Success & Study Skills",
+      "credits": "1.00",
+      "description": "This course provides an orientation to the campus resources and academic skills necessary to achieve educational objectives. Emphasis is placed on an exploration of facilities and services, study skills, library skills, self-assessment, wellness, goal-setting, and critical thinking. Upon completion, students should be able to manage their learning experiences to successfully meet educational goals. Other areas dealing with life management issues will promote success beyond the academic environment.",
+      "institution": "Davidson College"
+    },
+    {
+      "course_id": "ACA 120",
+      "course_title": "Career Assessment",
+      "credits": "1.00",
+      "description": "This course provides the information and strategies necessary to develop clear personal, academic, and professional goals. Topics include personality styles, goal setting, various college curricula, career choices, and campus leadership development. Upon completion, students should be able to clearly state their personal, academic, and professional goals and have a feasible plan of action to achieve those goals is course provides the information and strategies necessary to develop clear personal, academic, and professional goals. Topics include personality styles, goal setting, various college curricula, career choices, and campus leadership development. Upon completion, students should be able to clearly state their personal, academic, and professional goals and have a feasible plan of action to achieve those goals.",
+      "institution": "Davidson College"
+    },
+    {
+      "course_id": "ACC 120",
+      "course_title": "Principles of Financial Accounting",
+      "credits": "2.00",
+      "description": "Lecture = 3 Lab = 2 Credit = 4 This course introduces business decision-making accounting information systems. Emphasis is placed on analyzing, summarizing, reporting, and interpreting fi nancial information. Upon completion, students should be able to prepare fi nancial statements, understand the role of financial information in decision-making and address ethical considerations. Prerequisites: Acceptable placement scores or RED 090 and ENG 080 and MAT 060",
+      "institution": "Davidson College"
+    },
+    {
+      "course_id": "ACC 121",
+      "course_title": "Principles of Managerial Accounting",
+      "credits": "2.00",
+      "description": "Lecture = 3 Lab = 2 Credit = 4 This course includes a greater emphasis on managerial and cost accounting skills. Emphasis is placed on managerial accounting concepts for external and internal analysis, reporting and decision-making. Upon completion, students should be able to analyze and interpret transactions relating to managerial concepts including product-costing systems. Prerequisites: Acceptable placement scores or ENG 090 and MAT 070; ACC 120 with \"C\"or better",
+      "institution": "Davidson College"
+    },
+    {
+      "course_id": "ACC 129",
+      "course_title": "Individual Income Taxes",
+      "credits": "3.00",
+      "description": "This course introduces the relevant laws governing individual income taxation. Topics include tax law, electronic research and methodologies, and the use of technology for preparation of individual tax returns. Upon completion, students should be able to analyze basic tax scenarios, research applicable tax law, and complete various individual tax forms. Prerequisites: Acceptable placement scores or RED 090 and ENG 080 and MAT 060",
+      "institution": "Davidson College"
+    },
+    {
+      "course_id": "ACC 130",
+      "course_title": "Business Income Taxes",
+      "credits": "3.00",
+      "description": "This course introduces the relevant laws governing business and fiduciary income taxes. Topics include tax law relating to business organizations, electronic research and methodologies, and the use of technology for the preparation of business tax returns. Upon completion, students should be able to analyze basic tax scenarios, research applicable tax law, and complete various business tax forms. Prerequisites: Acceptable placement score or MAT 070; ACC 129 with \"C\" or better",
+      "institution": "Davidson College"
+    },
+    {
+      "course_id": "ACC 140",
+      "course_title": "Payroll Accounting",
+      "credits": "2.00",
+      "description": "This course covers federal and state laws pertaining to wages, payroll taxes, payroll tax forms, and journal and general ledger transactions. Emphasis is placed on computing wages; calculating social security, income, and unemployment taxes; preparing appropriate payroll tax forms; and journalizing/ posting transactions. Upon completion, students should be able to analyze data, make appropriate computations, complete forms, and prepare accounting entries using appropriate technology. Prerequisites: Acceptable placement score or MAT 070; ACC 115 or ACC 120",
+      "institution": "Davidson College"
+    },
+    {
+      "course_id": "ACC 150",
+      "course_title": "Accounting Software Applications",
+      "credits": "2.00",
+      "description": "This course introduces microcomputer applications related to accounting systems. Topics include general ledger, accounts receivable, accounts payable, inventory, payroll, and correcting, adjusting, and closing entries. Upon completion, students should be able to use a computer accounting package to solve accounting problems. Prerequisites: Acceptable placement scores or ENG 090 and MAT 070; ACC 115 or ACC 120 and CIS 111 or permission of instructor",
+      "institution": "Davidson College"
+    },
+    {
+      "course_id": "ACC 180",
+      "course_title": "Practices in Bookkeeping",
+      "credits": "3.00",
+      "description": "This course provides advanced instruction in bookkeeping and record-keeping functions. Emphasis is placed on mastering adjusting entries, correction of errors, depreciation, payroll, and inventory. Upon completion, students should be able to conduct all key bookkeeping functions for small business. Prerequisites: Acceptable placement scores or ENG 090 and MAT 070; ACC 120 with \"C\" or better",
+      "institution": "Davidson College"
+    },
+    {
+      "course_id": "ACC 220",
+      "course_title": "Intermediate Accounting I",
+      "credits": "4.00",
+      "description": "This course is a continuation of the study of accounting principles with in-depth coverage of theoretical concepts and fi nancial statements. Topics include generally accepted accounting principles and an extensive analyses of fi nancial statements. Upon completion, students should be able to demonstrate competence in the conceptual framework underlying fi nancial accounting, including the application of fi nancial standards. Prerequisite: ACC 120 and ACC 121 with \"C\" or better",
+      "institution": "Davidson College"
+    }
+  ],
+  "timestamp": "2025-08-08T19:11:27.136643"
+}

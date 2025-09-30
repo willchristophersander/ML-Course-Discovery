@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "University of Illinois",
+    "successful_variation": "University of Illinois",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=University+of+Illinois&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "AAST 100",
+      "course_title": "Introduction to African American Studies",
+      "credits": "3.00",
+      "description": "The African American experience, focusing on African and African American culture, the slave trade, slavery and emancipation in the Americas, social structure, and civil rights. Individual and Society, and US Society course.",
+      "institution": "University of Illinois"
+    },
+    {
+      "course_id": "AAST 103",
+      "course_title": "African American Politics and Culture",
+      "credits": "3.00",
+      "description": "A survey of African American political and cultural activism from the Black Convention Movement of the 1830's to contemporary times. Same as POLS 112. Individual and Society, and US Society course.",
+      "institution": "University of Illinois"
+    },
+    {
+      "course_id": "AAST 104",
+      "course_title": "Race, Place, and Schooling: African Americans and Education",
+      "credits": "3.00",
+      "description": "Examination of the social, political, cultural and economic factors shaping African American's educational experiences in the United States historically and currently. Same as EDPS 104. Individual and Society, and US Society course.",
+      "institution": "University of Illinois"
+    },
+    {
+      "course_id": "AAST 105",
+      "course_title": "African Americans in Film, 1900 - Present: Images, Individuals and Ideas on Screen",
+      "credits": "3.00",
+      "description": "Examination of the history of African Americans in film from Oscar Micheaux to Spike Lee and Julie Dash; the careers of Black filmmakers, actors, images, themes and ideas in films by and about people of African descent in the 20th century. Same as COMM 105. Creative Arts, and US Society course.",
+      "institution": "University of Illinois"
+    },
+    {
+      "course_id": "AAST 110",
+      "course_title": "Introduction to African American Literature, 1760-1910",
+      "credits": "3.00",
+      "description": "Comprehensive survey, 1760-1910, from earliest folk roots to formal literary tradition. Same as ENGL 118. Creative Arts, and Individual and Society course.",
+      "institution": "University of Illinois"
+    },
+    {
+      "course_id": "AAST 111",
+      "course_title": "Introduction to African American Literature Since 1910",
+      "credits": "3.00",
+      "description": "Comprehensive survey of African American literature from 1910 to the present. Same as ENGL 119. Creative Arts, and US Society course.",
+      "institution": "University of Illinois"
+    },
+    {
+      "course_id": "AAST 120",
+      "course_title": "African American Religious Traditions",
+      "credits": "3.00",
+      "description": "Introduction to the significance of religion and religious institutions in African American history. Examination of Christian and non-Christian traditions, mainstream and sectarian. Past, and US Society course.",
+      "institution": "University of Illinois"
+    },
+    {
+      "course_id": "AAST 141",
+      "course_title": "African Civilization",
+      "credits": "3.00",
+      "description": "Introduction to history and historical methods through the study of African history. Same as HIST 141. Past, and World Cultures course.",
+      "institution": "University of Illinois"
+    },
+    {
+      "course_id": "AAST 191",
+      "course_title": "African and Caribbean Francophone Literature in Translation",
+      "credits": "3.00",
+      "description": "An introduction to the Francophone literature of Africa and the Caribbean and to its historical and cultural contexts. Same as FR 191. Creative Arts, and World Cultures course.",
+      "institution": "University of Illinois"
+    },
+    {
+      "course_id": "AAST 200",
+      "course_title": "History of Race Relations in America",
+      "credits": "3.00",
+      "description": "An examination of American racial thought and racial discrimination to determine how the content and function of both have changed over time. Same as HIST 251, and LALS 251.",
+      "institution": "University of Illinois"
+    }
+  ],
+  "timestamp": "2025-09-23T18:26:37.085004"
+}

@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Adelphi University",
+    "successful_variation": "Adelphi University",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Adelphi+University&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "AAS 100",
+      "course_title": "African Civilization andSociety in the New World I",
+      "credits": "3.00",
+      "description": "3 credits This is the first part of a two-part sociohistorical survey of the development of African society and civilization in the Western Hemisphere. The course examines the historical movement of Africans to the Americas and the Caribbean, highlighting their experience in and contributions to the new environments, up to the period of the abolition of slavery and emancipation.",
+      "institution": "Adelphi University"
+    },
+    {
+      "course_id": "AAS 101",
+      "course_title": "African Civilization and Society in the New World II",
+      "credits": "3.00",
+      "description": "3 credits This is the second part of a two-part survey of African experience in the Western Hemisphere. The position of peoples of African heritage in the post-abolition era in different areas is discussed. So are the creative maintenance and adaptation of aspects of African cultural expression, and the peoples\u2019 economic, political, intellectual, cultural, and other contributions to the societies of the hemisphere.",
+      "institution": "Adelphi University"
+    },
+    {
+      "course_id": "AAS 130",
+      "course_title": "History of Black Dance in America",
+      "credits": "3.00",
+      "description": "3 credits This course includes learning and performing Black American African-dance and its movements.",
+      "institution": "Adelphi University"
+    },
+    {
+      "course_id": "AAS 135",
+      "course_title": "History of Black Performing Arts",
+      "credits": "3.00",
+      "description": "3 credits This course will cover the careers of Black American producers, directors, actors, dancers, and musicians, and their pathways to success. The principal objectives are to introduce students to the Black American perspective on the performing arts and to develop creative thinking. The course will be enhanced through the use of films/videos as well as student research presentations.",
+      "institution": "Adelphi University"
+    },
+    {
+      "course_id": "AAS 140",
+      "course_title": "Black Drama Workshop",
+      "credits": "3.00",
+      "description": "3 credits The principal objectives of this course are to introduce students to Black perspectives on drama, develop creative thinking, and provide for creative energies. The procedure to accomplish this will include stage and body movements, speech and voice exercise (including accents of the Caribbean and Africa), and improvisation.",
+      "institution": "Adelphi University"
+    },
+    {
+      "course_id": "AAS 204",
+      "course_title": "Black History in the United States to 1865",
+      "credits": "3.00",
+      "description": "3 credits This course explores the African origins, the forced removal of Africans to the Americas, the development of slavery, and the resistance to that institution. We will also explore the free black communities and the institutions that Black Americans developed. The latter part of the semester will be devoted to the role of Black Americans in the Civil War and during the period of Reconstruction.",
+      "institution": "Adelphi University"
+    },
+    {
+      "course_id": "AAS 205",
+      "course_title": "Black History in the United States 1865 to Present",
+      "credits": "3.00",
+      "description": "3 credits This course examines the history of Blacks from 1877 to the present. Emphasis is placed on post-Reconstruction historical problems, Jim Crow, self help, enlarged dimensions of racial conflict, the Harlem Renaissance, post-war years, the Civil Rights Movement, and the Black Power Movement.",
+      "institution": "Adelphi University"
+    },
+    {
+      "course_id": "AAS 208",
+      "course_title": "Elements of Black Culture",
+      "credits": "3.00",
+      "description": "3 credits This course examines the origins of Black culture. It considers Black American achievement of a creative synthesis of indigenous African culture and the culture of the American environment in which the people live. The course discusses the continuity and change in Black American culture in the spheres of language, marriage and family, religion, political and economic affairs, social relations and activities, and community life generally, through to the present day.",
+      "institution": "Adelphi University"
+    },
+    {
+      "course_id": "AAS 260",
+      "course_title": "Black Writers I",
+      "credits": "3.00",
+      "description": "3 credits The first semester of this two-semester course is designed to give students an introduction to Black American literature, and examines how 20th century Black American writers have been influenced by their Black heritage, particularly the institution of slavery, and how they have then proceeded to locate their characters within the history of the United States. The reading list includes writers such as James Baldwin, Lorraine Hansberry, Langston Hughes, Zora Neale Hurston, Toni Morrison, Gloria Naylor, Alice Walker, and August Wilson.",
+      "institution": "Adelphi University"
+    },
+    {
+      "course_id": "AAS 261",
+      "course_title": "Black Writers II",
+      "credits": "3.00",
+      "description": "3 credits The second semester of this two-semester course is designed to give students an introduction to Black Caribbean literature, and examines how 20th century Caribbean-American writers have been influenced by their Black or Hispanic heritage, and in particular, how individual, ethnic/racial, and national identity has been affected by the immigration experience. The reading list includes writers such as Julia Alvarez (the Dominican Republic), Michelle Cliff (Jamaica), Edwidge Danicat (Haiti), Cristina Garcia (Cuba), Jamaica Kincaid (Antigua), Paule Marshall (Barbados), and Derek Walcott (St. Lucia). * AAS 260 and AAS 261 are cross-listed with ENG 262 and ENG 263, respectively. May be taken to fulfill elective credit for English major.",
+      "institution": "Adelphi University"
+    }
+  ],
+  "timestamp": "2025-08-10T14:29:43.175040"
+}

@@ -1,0 +1,67 @@
+{
+  "search_query": {
+    "institution": "Dyersburg State Community College",
+    "successful_variation": "Dyersburg State Community College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Dyersburg+State+Community+College&distance=5"
+  },
+  "total_results": 8,
+  "courses": [
+    {
+      "course_id": "ACC 101",
+      "course_title": "Principles of Accounting I",
+      "credits": "3.00",
+      "description": "(3 sem. hrs.) (Prerequisites: DSPM 0700, DSPR 0800, DSPW 0800) Accounting 101 and 102 are introductory accounting courses. These courses introduce students to basic principles followed to record fi nancial transactions. Emphasis is placed on income measurement and fi nancial position presentation. Instruction includes the procedures necessary to complete the accounting cycle and account for proprietorships, partnerships, and corporations. Financial accounting is the primary emphasis of ACC 101 while both fi nancial and managerial accounting are covered in ACC 102. 3 hours lecture. RODP Equivalent Course - ACC 1104",
+      "institution": "Dyersburg State Community College"
+    },
+    {
+      "course_id": "ACC 102",
+      "course_title": "Principles of Accounting II",
+      "credits": "3.00",
+      "description": "(Prerequisite: ACC 101) A continuation of Principles of Accounting I. 3 hours lecture. RODP Equivalent Course - ACC1105",
+      "institution": "Dyersburg State Community College"
+    },
+    {
+      "course_id": "ACC 211",
+      "course_title": "Income Tax Accounting",
+      "credits": "3.00",
+      "description": "(Prerequisite: ACC 101) An introduction to the study of federal taxes on income. Emphasis on the preparation of income tax returns; individual returns, capital gains and losses, basis of property sold, tax free exchanges, deductible expenses, taxes, interests, contributions, bad debts, losses, partnerships, and inventories. 3 hours lecture.",
+      "institution": "Dyersburg State Community College"
+    },
+    {
+      "course_id": "ACC 221",
+      "course_title": "Cost Accounting",
+      "credits": "3.00",
+      "description": "(Prerequisite: ACC 102) An intensive examination of the determination of the unit cost of manufacturing. Service costs, departmental costs, types of cost systems, and the use of accounting data are studied and analyzed. 3 hours lecture.",
+      "institution": "Dyersburg State Community College"
+    },
+    {
+      "course_id": "ACC 231",
+      "course_title": "Intermediate Accounting I",
+      "credits": "3.00",
+      "description": "(Prerequisite: ACC 102) In depth study of accounting theory and practice emphasizing generally accepted accounting principles relating to the accounting information flow and reporting functions. 3 hours lecture.",
+      "institution": "Dyersburg State Community College"
+    },
+    {
+      "course_id": "ACC 241",
+      "course_title": "Computerized Accounting",
+      "credits": "3.00",
+      "description": "(Prerequisites:ACC 101) Using a Windows based general ledger software package, this course allows students to apply accounting principles learned in ACC 101 in a computerized accounting environment. The student will create company files, make journal entries, and maintain a general ledger and special journals. The student will also manage accounts receivable, accounts payable, inventory, fixed assets, payroll, and generate financial statements. 3 hours lecture.",
+      "institution": "Dyersburg State Community College"
+    },
+    {
+      "course_id": "ACC 255",
+      "course_title": "Certified Bookkeeper Review",
+      "credits": "3.00",
+      "description": "(Prerequisites: ACC 102) This course prepares students for the American Institute of Professional Bookkeepers (AIPB) Certified Bookkeeper examination and review of accounting theory and practical bookkeeping skills. It also includes the certified bookkeeper program; accruals, deferrals, and the adjusted trial balance; correction of accounting errors and the bank reconciliation; payroll; depreciation; inventory; and internal controls and fraud prevention. 3 lecture hours.",
+      "institution": "Dyersburg State Community College"
+    },
+    {
+      "course_id": "AGR 130",
+      "course_title": "Introduction to Animal Science",
+      "credits": "3.00",
+      "description": "Fundamental principles of animal agriculture, biological and scientific aspects of development, inheritance, feeding and nutrition, management, animal products, and scope of the industry. 3 semester credit hours.",
+      "institution": "Dyersburg State Community College"
+    }
+  ],
+  "timestamp": "2025-08-08T18:47:34.423479"
+}

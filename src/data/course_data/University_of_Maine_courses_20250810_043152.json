@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "University of Maine",
+    "successful_variation": "University of Maine",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=University+of+Maine&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "AED 270",
+      "course_title": "Introduction to Visual Culture and Learning",
+      "credits": "3.00",
+      "description": "An introduction to visual culture and its relationship to the development and maintenance of human knowledge and experience. Students will explore and gain insight into diverse forms of visual culture, including those different from and similar to their own cultural experiences; and will become aware of the relationship between visual culture and the theory and practice of contemporary education as it takes place within the contexts of schools, museums and other community-based settings. Developed primarily for Art Education, Museum Education and Community Practice students. Prerequisites & Notes Sophomore standing. Credits: 3",
+      "institution": "University of Maine"
+    },
+    {
+      "course_id": "AED 371",
+      "course_title": "Methods and Materials in Art Education",
+      "credits": "3.00",
+      "description": "Introduction to instructional methods and strategies in art education. Exploration, development and evaluation of approaches to teaching, teaching and learning styles, educational materials, media and technologies. Art education majors or art certification students only. Lec 3. Prerequisites & Notes EDB 202 and EDB 221; 21 credits in Studio Art; 12 credits in Art History; 15 credits of General Education requirements. Corequisites: AED 372 and AED 373. Credits: 3",
+      "institution": "University of Maine"
+    },
+    {
+      "course_id": "AED 372",
+      "course_title": "Foundations of Art Education",
+      "credits": "3.00",
+      "description": "Includes historical, philosophical, political, psychological and sociological foundations of art education; theories of child art; and critical examination of current research, trends and issues in art education. Art education majors or art certification students only. Satisfies the General Education Writing Intensive Requirement. Lec 3. Prerequisites & Notes None. Corequisites: AED 371 and AED 373. Credits: 3",
+      "institution": "University of Maine"
+    },
+    {
+      "course_id": "AED 373",
+      "course_title": "Introduction to Curriculum",
+      "credits": "1.00",
+      "description": "Introduction to art curricula strategies and development. Includes instructional planning, lesson writing and organization, and practicum experience. Art education majors or art certification students only. Lec 2, Lab 1. Prerequisites & Notes None. Corequisites: AED 371 and AED 372. Credits: 3",
+      "institution": "University of Maine"
+    },
+    {
+      "course_id": "AED 473",
+      "course_title": "Advanced Curriculum in Art Education",
+      "credits": "3.00",
+      "description": "An examination of current theory, research and practice pertaining to curriculum development in art education. Including an exploration of traditional and innovative approaches to curriculum development in art education, problems and issues relevant to art curricula design and implementation, critical examination of existing curricula, and practice in developing and evaluating art curricula. Art education majors, art certification students or by instructor's permission only. Lec 3. Prerequisites & Notes AED 371, AED 372 and AED 373 or permission. Credits: 3",
+      "institution": "University of Maine"
+    },
+    {
+      "course_id": "AED 474",
+      "course_title": "Topics in Art Education",
+      "credits": "3.00",
+      "description": "Seminar in advanced research and practice in art education and related areas. Specific topic to be announced. Credits: 3",
+      "institution": "University of Maine"
+    },
+    {
+      "course_id": "AED 496",
+      "course_title": "Field Experience in Art Education",
+      "credits": "3.00",
+      "description": "Students involved in pre-professional activities with art education in schools or community agencies may apply for supervision and credit for the project. Prerequisites & Notes AED 371, AED 372, AED 373 and permission. Credits: Ar",
+      "institution": "University of Maine"
+    },
+    {
+      "course_id": "AED 497",
+      "course_title": "Independent Study in Art Education",
+      "credits": "3.00",
+      "description": "Advanced projects, readings, or seminars in art education. Topic and form of study to be determined by student in consultation with faculty member. Prerequisites & Notes AED 371, AED 372, AED 373 or equivalents and permission. Credits: Ar",
+      "institution": "University of Maine"
+    },
+    {
+      "course_id": "AED 498",
+      "course_title": "Directed Study in Art Education",
+      "credits": "3.00",
+      "description": "Advanced projects, readings, or seminars in art education. Topic and form of study to be determined by student in consultation with faculty member. Prerequisites & Notes AED 371, AED 372, AED 373 or equivalents and permission. Credits: Ar",
+      "institution": "University of Maine"
+    },
+    {
+      "course_id": "AED 574",
+      "course_title": "Topics in Art Education",
+      "credits": "3.00",
+      "description": "Advanced seminar and workshop with research projects in art education and related areas. Specific topic to be announced or arranged. The course may be repeated once for credit. Prerequisites & Notes Art teaching experience. Credits: 3",
+      "institution": "University of Maine"
+    }
+  ],
+  "timestamp": "2025-08-10T04:31:52.481589"
+}

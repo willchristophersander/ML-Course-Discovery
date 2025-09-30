@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Western Piedmont Community College",
+    "successful_variation": "Western Piedmont Community College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Western+Piedmont+Community+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACA 090",
+      "course_title": "Study Skills",
+      "credits": "3.00",
+      "description": "This course is intended for those who placed into credit-level course work but who are not maintaining satisfactory academic progress toward meeting program goals. Topics include study skills, note taking, learning styles and strategies, test taking, goal setting, and self-assessment skills. Upon completion, students should be able to manage their learning experiences to successfully meet educational goals. This course is intended to target students with two or more developmental needs, or who could benefit from instruction in student success skills.",
+      "institution": "Western Piedmont Community College"
+    },
+    {
+      "course_id": "ACC 120",
+      "course_title": "Prin of Financial Acct",
+      "credits": "4.00",
+      "description": "Prerequisites: ENG 090, RED 090 and MAT 070 or appropriate placement scores as outlined on pages 198-199 of this catalog This course introduces business decision-making accounting information systems. Emphasis is placed on analyzing, summarizing, reporting, and interpreting financial information. Upon completion, students should be able to prepare financial statements, understand the role of financial information in decision-making and address ethical considerations. This course has been approved to satisfy the Comprehensive Articulation Agreement premajor and/or elective course requirement.",
+      "institution": "Western Piedmont Community College"
+    },
+    {
+      "course_id": "ACC 121",
+      "course_title": "Prin of Managerial Acct",
+      "credits": "4.00",
+      "description": "Prerequisites: ACC 120 This course includes a greater emphasis on managerial and cost accounting skills. Emphasis is placed on managerial accounting concepts for external and internal analysis, reporting and decision-making. Upon completion, students should be able to analyze and interpret transactions relating to managerial concepts including product-costing systems. This course has been approved to satisfy the Comprehensive Articulation Agreement premajor and/or elective course requirement.",
+      "institution": "Western Piedmont Community College"
+    },
+    {
+      "course_id": "ACC 129",
+      "course_title": "Individual Income Taxes",
+      "credits": "3.00",
+      "description": "Prerequisites: ENG 080, RED 080 and MAT 060 or appropriate placement scores as outlined on pages 198-199 of this catalog Topics include tax law, electronic research and methodologies, and the use of technology for preparation of individual tax returns. Upon completion, students should be able to analyze basic tax scenarios, research applicable tax law, and complete various individual tax forms.",
+      "institution": "Western Piedmont Community College"
+    },
+    {
+      "course_id": "ACC 130",
+      "course_title": "Business Income Taxes",
+      "credits": "3.00",
+      "description": "Prerequisites: ENG 080, RED 080 and MAT 060 or appropriate placement scores as outlined on pages 198-199 of this catalog income taxes. Topics include tax law relating to business organizations, electronic research and methodologies, and the use of technology for the preparation of business tax returns. Upon completion, students should be able to analyze basic tax scenarios, research applicable tax law, and complete various business tax forms.",
+      "institution": "Western Piedmont Community College"
+    },
+    {
+      "course_id": "ACC 132",
+      "course_title": "nc Business Taxes",
+      "credits": "2.00",
+      "description": "Prerequisites: ENG 080, RED 080 and MAT 060 or appropriate placement scores as outlined on pages 198-199 of this catalog This course introduces the relevant laws governing North Carolina taxes as they apply to business. Topics include sales taxes, income taxes for business entities, payroll taxes, unemployment taxes, and other taxes pertaining to the State of North Carolina. Upon completion, students should be able to maintain a company's records to comply with the laws governing North Carolina business taxes.",
+      "institution": "Western Piedmont Community College"
+    },
+    {
+      "course_id": "ACC 140",
+      "course_title": "Payroll Accounting",
+      "credits": "2.00",
+      "description": "Prerequisites: ACC 120 This course covers federal and state laws pertaining to wages, payroll taxes, payroll tax forms, and journal and general ledger transactions. Emphasis is placed on computing wages; calculating social security, income, and unemployment taxes; preparing appropriate payroll tax forms; and journalizing/posting transactions. Upon completion, students should be able to analyze data, make appropriate computations, complete forms, and prepare accounting entries using appropriate technology.",
+      "institution": "Western Piedmont Community College"
+    },
+    {
+      "course_id": "ACC 150",
+      "course_title": "Acct Software Appl",
+      "credits": "2.00",
+      "description": "Prerequisites: ACC 120 This course introduces microcomputer applications related to accounting systems. Topics include general ledger, accounts receivable, accounts payable, inventory, payroll, and correcting, adjusting, and closing entries. Upon completion, students should be able to use a computer accounting package to solve accounting problems.",
+      "institution": "Western Piedmont Community College"
+    },
+    {
+      "course_id": "ACC 152",
+      "course_title": "Adv Software Appl",
+      "credits": "2.00",
+      "description": "Prerequisites: ACC 150 This course provides continued exposure to commercial accounting software and the opportunity to refine skills developed in ACC 150. Emphasis is placed on advanced applications of software packages. Upon completion, students should be able to use commercial software to complete complex accounting tasks.",
+      "institution": "Western Piedmont Community College"
+    },
+    {
+      "course_id": "ACC 220",
+      "course_title": "Intermediate Accounting I",
+      "credits": "4.00",
+      "description": "Prerequisites: ACC 120 This course is a continuation of the study of accounting principles with in-depth coverage of theoretical concepts and financial statements. Topics include generally accepted accounting principles and an extensive analyses of financial statements. Upon completion, students should be able to demonstrate competence in the conceptual framework underlying financial accounting, including the application of financial standards.",
+      "institution": "Western Piedmont Community College"
+    }
+  ],
+  "timestamp": "2025-08-10T23:38:28.948944"
+}

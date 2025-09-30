@@ -1,0 +1,76 @@
+{
+  "timestamp": "2025-08-08T18:39:12.457601",
+  "analysis": {
+    "total_universities": 3,
+    "discovery_success_rate": 0.6666666666666666,
+    "avg_discovery_confidence": 0.785,
+    "validation_success_rate": 0.6666666666666666,
+    "avg_validation_confidence": 0.2,
+    "course_finding_rate": 0.6,
+    "avg_discovery_time": 23.446244557698567,
+    "avg_validation_time": 1.5119916598002117,
+    "successful_discoveries": [
+      {
+        "university": "University of South Alabama",
+        "url": "https://www.south.edu/academics/catalog-calendars/",
+        "discovery_confidence": 0.905,
+        "validation_confidence": 0.2,
+        "courses_found": "2/5"
+      },
+      {
+        "university": "Governors State University",
+        "url": "https://catalog.govst.edu/",
+        "discovery_confidence": 0.665,
+        "validation_confidence": 0.2,
+        "courses_found": "4/5"
+      }
+    ],
+    "failed_discoveries": [
+      {
+        "university": "CUNY Queens College",
+        "error": "Page.click: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"a[href='https://www.cuny.edu/research/research-development-programs/']\")\n    - locator resolved to 2 elements. Proceeding with the first one: <a href=\"https://www.cuny.edu/research/research-development-programs/\">Research Development & Programs</a>\n  - attempting click action\n    2 \u00d7 waiting for element to be visible, enabled and stable\n      - element is visible, enabled and stable\n      - scrolling into view if needed\n      - done scrolling\n      - element is outside of the viewport\n    - retrying click action\n    - waiting 20ms\n    2 \u00d7 waiting for element to be visible, enabled and stable\n      - element is visible, enabled and stable\n      - scrolling into view if needed\n      - done scrolling\n      - element is outside of the viewport\n    - retrying click action\n      - waiting 100ms\n    58 \u00d7 waiting for element to be visible, enabled and stable\n       - element is visible, enabled and stable\n       - scrolling into view if needed\n       - done scrolling\n       - element is outside of the viewport\n     - retrying click action\n       - waiting 500ms\n"
+      }
+    ]
+  },
+  "detailed_results": [
+    {
+      "university_name": "CUNY Queens College",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "Page.click: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"a[href='https://www.cuny.edu/research/research-development-programs/']\")\n    - locator resolved to 2 elements. Proceeding with the first one: <a href=\"https://www.cuny.edu/research/research-development-programs/\">Research Development & Programs</a>\n  - attempting click action\n    2 \u00d7 waiting for element to be visible, enabled and stable\n      - element is visible, enabled and stable\n      - scrolling into view if needed\n      - done scrolling\n      - element is outside of the viewport\n    - retrying click action\n    - waiting 20ms\n    2 \u00d7 waiting for element to be visible, enabled and stable\n      - element is visible, enabled and stable\n      - scrolling into view if needed\n      - done scrolling\n      - element is outside of the viewport\n    - retrying click action\n      - waiting 100ms\n    58 \u00d7 waiting for element to be visible, enabled and stable\n       - element is visible, enabled and stable\n       - scrolling into view if needed\n       - done scrolling\n       - element is outside of the viewport\n     - retrying click action\n       - waiting 500ms\n",
+      "discovery_time": 39.58277893066406,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "University of South Alabama",
+      "discovered_url": "https://www.south.edu/academics/catalog-calendars/",
+      "discovery_success": true,
+      "discovery_confidence": 0.905,
+      "validation_success": true,
+      "validation_confidence": 0.2,
+      "test_courses_found": 2,
+      "total_test_courses": 5,
+      "error_message": null,
+      "discovery_time": 22.78456974029541,
+      "validation_time": 2.269857168197632
+    },
+    {
+      "university_name": "Governors State University",
+      "discovered_url": "https://catalog.govst.edu/",
+      "discovery_success": true,
+      "discovery_confidence": 0.665,
+      "validation_success": true,
+      "validation_confidence": 0.2,
+      "test_courses_found": 4,
+      "total_test_courses": 5,
+      "error_message": null,
+      "discovery_time": 7.9713850021362305,
+      "validation_time": 2.266117811203003
+    }
+  ]
+}

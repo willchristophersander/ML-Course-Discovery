@@ -1,0 +1,20 @@
+[
+  {
+    "valid": false,
+    "error": "Could not find courses for University of California Berkeley on CollegeTransfer.net",
+    "college_name": "University of California Berkeley",
+    "search_page_url": "https://classes.berkeley.edu/"
+  },
+  {
+    "valid": false,
+    "error": "Could not find courses for CUNY on CollegeTransfer.net",
+    "college_name": "CUNY",
+    "search_page_url": "https://globalsearch.cuny.edu/"
+  },
+  {
+    "valid": false,
+    "error": "Could not find courses for University of Illinois on CollegeTransfer.net",
+    "college_name": "University of Illinois",
+    "search_page_url": "https://go.illinois.edu/courseexplorer"
+  }
+]

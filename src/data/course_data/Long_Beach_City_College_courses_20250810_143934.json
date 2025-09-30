@@ -1,0 +1,39 @@
+{
+  "search_query": {
+    "institution": "Long Beach City College",
+    "successful_variation": "Long Beach City College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Long+Beach+City+College&distance=5"
+  },
+  "total_results": 4,
+  "courses": [
+    {
+      "course_id": "ABODY 211",
+      "course_title": "Intro to Basic Auto Body Repair",
+      "credits": "9.00",
+      "description": "5.0 hours lecture , 13.3 hours laboratory , 0.6 hour supplemental learning Grading: letter grade or credit/no credit This course is an introduction to basic auto body repair principles involving theory, safety practices, gas welding, metal shrinking, MIG welding, metal straightening, metal finishing, hand and power tools, plastic body filler, surface preparation, primer and spray gun techniques. Students will be required to attend 10 hours in the CTE Success Center for specially designed activities and assignments that relate to this course's content.",
+      "institution": "Long Beach City College"
+    },
+    {
+      "course_id": "ABODY 212",
+      "course_title": "Minor Collision Repair",
+      "credits": "9.00",
+      "description": "5.0 hours lecture , 13.3 hours laboratory , 0.6 hour supplemental learning Recommended Preparation: ABODY211 Grading: letter grade or credit/no credit This is a course designed as an overview of the collision repair industry, which will build the framework of knowlege needed to fully understand the repair process, within the semester you will learn the basic process of safety, certification, welding, heating, cutting, hand tools, power tools/equipment, Basic measrement, service information, fasteners, collision reapir hardware/materials, vehicle construction metal straightening, surface preparation, painting and refinishing fundamentals - as well as the tools necessary to complete these task. Students will be required to attend 10 hours in theCTESuccess Center for specially designed activities and assignments that relate to this course's content.",
+      "institution": "Long Beach City College"
+    },
+    {
+      "course_id": "ABODY 213",
+      "course_title": "Major Collision Repair",
+      "credits": "9.00",
+      "description": "5.0 hours lecture , 13.3 hours laboratory , 0.6 hour supplemental learning Recommended Preparation: ABODY 212 Grading: letter grade or credit/no credit This course will cover the analysis of major automotive collision damage and the knowledge and skills to repair the structural body components to pre-accident condition. Topics will include safety practices,frame straightening techniques, replacement of major structural panels, mig welding(GMAW), removal and installation of major body components, air Conditioning recycling and recharging, metal finishing, basic electrical systems, basic mechanical techniques, and special projects. Students will be required to attend 10 hours in the CTE Success Center for specially designed activities and assignments that relate to this course's content.",
+      "institution": "Long Beach City College"
+    },
+    {
+      "course_id": "ABODY 240",
+      "course_title": "Automotive Refinishing",
+      "credits": "4.50",
+      "description": "3.0 hours lecture , 6.0 hours laboratory Recommended Preparation: ABODY213 Grading: letter grade or credit/no credit This beginning automotive painting course will cover the basic principles in Automotive Refinishing. The course covers safety practices, preparation and masking, refinishing products, refinishing nomenclature, spray painting equipment, spray painting techniques, and special projects.",
+      "institution": "Long Beach City College"
+    }
+  ],
+  "timestamp": "2025-08-10T14:39:34.048502"
+}

@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Community College of Philadelphia",
+    "successful_variation": "Community College of Philadelphia",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Community+College+of+Philadelphia&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACCT 101",
+      "course_title": "Financial Accounting",
+      "credits": "4.00",
+      "description": "Introduction to the theory of accounts and generally accepted accounting principles as applied to a corporation. Emphasis is placed on completing the accounting cycle, inventory and asset valuation and stockholders equity.",
+      "institution": "Community College of Philadelphia"
+    },
+    {
+      "course_id": "ACCT 102",
+      "course_title": "Managerial Accounting",
+      "credits": "3.00",
+      "description": "Emphasis is placed on the evaluation of financial statements and the development of decision-making techniques. Specialized topics include: statements of cash flows, analysis of financial statements, cost-volume analysis, time-value of money, capital budgeting and introduction to cost accounting. Prerequisite: ACCT 101 (Grade of C or Better)",
+      "institution": "Community College of Philadelphia"
+    },
+    {
+      "course_id": "ACCT 103",
+      "course_title": "Microcomputers in Accounting",
+      "credits": "3.00",
+      "description": "Introduction in microcomputer applications which focus on financial accounting problems and their solutions adapted to microcomputers. Students will utilize a spreadsheet program and commercial, general ledger software. Prerequisite: ACCT 101 (Grade of C or Better)",
+      "institution": "Community College of Philadelphia"
+    },
+    {
+      "course_id": "ACCT 111",
+      "course_title": "Business Accounting",
+      "credits": "4.00",
+      "description": "This course provides an introduction to basic accounting principles, concepts, and methods for understanding general purpose financial statements and the accounting process. Students learn basic accounting concepts utilized in daily business operations, such as financial statement preparation, allowing them to collect financial data and make decisions based on that data.",
+      "institution": "Community College of Philadelphia"
+    },
+    {
+      "course_id": "ACCT 201",
+      "course_title": "Intermediate Accounting I",
+      "credits": "3.00",
+      "description": "Intermediate Accounting I continues the investigation of the current accounting concepts and standards underlying the financial statements of business enterprises that was begun in ACCT 101. Alternative valuation concepts and standards are introduced as they apply to reporting in the financial statements. Intermediate Accounting I will focus on the measurement and reporting of corporate assets and liabilities, and the related impact on revenues, expenses, gains, and losses. Prerequisite: ACCT 101",
+      "institution": "Community College of Philadelphia"
+    },
+    {
+      "course_id": "ACCT 202",
+      "course_title": "Intermediate Accounting II",
+      "credits": "3.00",
+      "description": "Intermediate Accounting II completes the investigation of the current accounting concepts and standards underlying the financial statements of business enterprises that was begun in ACCT 101 and continued in ACCT 201. Intermediate Accounting II will focus on the measurement and reporting of stockholders' equity and specialized areas including investments, leases, income taxes, revenue recognition issues, pensions and post-retirement benefits, the statement of cash flows, and accounting for changes and error analysis. Prerequisite: ACCT 201",
+      "institution": "Community College of Philadelphia"
+    },
+    {
+      "course_id": "ACCT 203",
+      "course_title": "Cost Acct",
+      "credits": "3.00",
+      "description": "Scope, concepts and terminology of cost accounting. Cycles of cost accounting and costing techniques. Control of materials and labor. Nature of factory overhead departmentalization and predetermined rates, process cost. Offered in the spring. Prerequisite: ACCT 102",
+      "institution": "Community College of Philadelphia"
+    },
+    {
+      "course_id": "ACCT 206",
+      "course_title": "Auditing",
+      "credits": "3.00",
+      "description": "This course will review contemporary auditing and assurance services, and related concepts of evaluation of controls, statistical sampling and substantive testing. Students will learn about Generally Accepted Auditing Standards (GAAS) as well as professional responsibility, legal liability and standards of ethics. Prerequisite: ACCT 201",
+      "institution": "Community College of Philadelphia"
+    },
+    {
+      "course_id": "ACCT 208",
+      "course_title": "Tax Accounting",
+      "credits": "3.00",
+      "description": "This course will introduce the student to the taxation of individuals as set forth in the Internal Revenue Code. Emphasis is placed on the determination of gross income, adjustments to gross income, standard and allowable itemized deductions, the determination of personal exemptions, the calculation of the total tax liability, available tax credits, and estimated tax payments.",
+      "institution": "Community College of Philadelphia"
+    },
+    {
+      "course_id": "ACCT 209",
+      "course_title": "Advanced Taxation",
+      "credits": "3.00",
+      "description": "This course will introduce students to tax research and the tax treatment of entities, other than individuals, as prescribed by the Internal Revenue Code (IRC). They will apply the fundamentals learned in these two areas to problem situations likely to be encountered in tax practice. Prerequisite: ACCT 208",
+      "institution": "Community College of Philadelphia"
+    }
+  ],
+  "timestamp": "2025-08-08T17:37:55.542796"
+}

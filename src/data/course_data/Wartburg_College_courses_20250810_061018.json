@@ -1,0 +1,67 @@
+{
+  "search_query": {
+    "institution": "Wartburg College",
+    "successful_variation": "Wartburg College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Wartburg+College&distance=5"
+  },
+  "total_results": 8,
+  "courses": [
+    {
+      "course_id": "AC 121",
+      "course_title": "Principles of Accounting I",
+      "credits": "3.00",
+      "description": "Classifying and recording business transactions, understanding assets, liabilities, revenues, and expenses. Preparation and analysis of financial statements. Prerequisite: Math 90 competency.",
+      "institution": "Wartburg College"
+    },
+    {
+      "course_id": "AC 122",
+      "course_title": "Principles of Accounting II",
+      "credits": "3.00",
+      "description": "Determining the cost of products, including job order costing, standard costing, direct costing, and activity-based costing. Decision making based on cost behavior patterns. Capital budgeting, cash flows, and ratio analysis. Prerequisite: AC 121.",
+      "institution": "Wartburg College"
+    },
+    {
+      "course_id": "AC 223",
+      "course_title": "Cost Accounting",
+      "credits": "3.00",
+      "description": "Cost accounting fundamentals and applications to decision making: relationships of cost, volume, and profit; standard costs; variance analysis; activity-based costing; quantitative methods and models used in cost accounting. Prerequisites: AC 122; MA 107 or MA 250; MA 214 or MA 313.",
+      "institution": "Wartburg College"
+    },
+    {
+      "course_id": "AC 230",
+      "course_title": "Accounting Systems",
+      "credits": "3.00",
+      "description": "Hands-on analysis of software packages to determine advantages and disadvantages of systems design. Input from specialists who design accounting systems. Students will develop their skills with MS EXCEL and MS Access through the completion of a series of accounting-specific computer products. Prerequisites: AC 122 and one course credit in computer science.",
+      "institution": "Wartburg College"
+    },
+    {
+      "course_id": "AC 281",
+      "course_title": "Field Experience",
+      "credits": "3.00",
+      "description": "Supervised exploratory experience outside the classroom. Application of academic learning to practical experience. Prerequisite: instructor approval. P/D/F/ only. Possible off-campus costs.",
+      "institution": "Wartburg College"
+    },
+    {
+      "course_id": "AC 321",
+      "course_title": "Intermediate Accounting I",
+      "credits": "3.00",
+      "description": "Measurement, recording, and reporting of financial assets, liabilities, and stockholders' equity. Revenue and expense recognition principles. Prerequisite: AC 122.",
+      "institution": "Wartburg College"
+    },
+    {
+      "course_id": "AC 322",
+      "course_title": "Intermediate Accounting II",
+      "credits": "3.00",
+      "description": "Continuation of Intermediate Accounting I with more advanced topics: leases, pensions, earnings per share, accounting changes, and deferred taxes. Prerequisite: AC 321.",
+      "institution": "Wartburg College"
+    },
+    {
+      "course_id": "AC 399",
+      "course_title": "Supplemental Instruction:Accounting",
+      "credits": "12.00",
+      "description": "Practicum in teaching in a specific area of study. Student SI leaders participate in leader training, attend classes for which they serve as leaders, and prepare and lead study sessions that reinforce course content and model and teach effective study strategies. P/D/F only.",
+      "institution": "Wartburg College"
+    }
+  ],
+  "timestamp": "2025-08-10T06:10:18.916024"
+}

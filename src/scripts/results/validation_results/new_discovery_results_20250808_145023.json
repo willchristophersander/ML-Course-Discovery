@@ -1,0 +1,58 @@
+{
+  "timestamp": "2025-08-08T14:50:23.990967",
+  "analysis": {
+    "total_universities": 2,
+    "discovery_success_rate": 1.0,
+    "avg_discovery_confidence": 0.9125000000000001,
+    "validation_success_rate": 0.0,
+    "avg_validation_confidence": 0,
+    "course_finding_rate": 0,
+    "avg_discovery_time": 5.923844933509827,
+    "avg_validation_time": 4.979713559150696,
+    "successful_discoveries": [
+      {
+        "university": "The University of Texas at Rio Grande Valley",
+        "url": "https://classes.berkeley.edu/",
+        "discovery_confidence": 0.89,
+        "validation_confidence": 0.0,
+        "courses_found": "0/0"
+      },
+      {
+        "university": "Harvard University",
+        "url": "https://courses.my.harvard.edu/psp/courses/EMPLOYEE/EMPL/h/?tab=HU_CLASS_SEARCH",
+        "discovery_confidence": 0.935,
+        "validation_confidence": 0.0,
+        "courses_found": "0/0"
+      }
+    ],
+    "failed_discoveries": []
+  },
+  "detailed_results": [
+    {
+      "university_name": "The University of Texas at Rio Grande Valley",
+      "discovered_url": "https://classes.berkeley.edu/",
+      "discovery_success": true,
+      "discovery_confidence": 0.89,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No test courses found in CollegeTransfer.net",
+      "discovery_time": 2.1261978149414062,
+      "validation_time": 4.833579063415527
+    },
+    {
+      "university_name": "Harvard University",
+      "discovered_url": "https://courses.my.harvard.edu/psp/courses/EMPLOYEE/EMPL/h/?tab=HU_CLASS_SEARCH",
+      "discovery_success": true,
+      "discovery_confidence": 0.935,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No test courses found in CollegeTransfer.net",
+      "discovery_time": 9.721492052078247,
+      "validation_time": 5.125848054885864
+    }
+  ]
+}

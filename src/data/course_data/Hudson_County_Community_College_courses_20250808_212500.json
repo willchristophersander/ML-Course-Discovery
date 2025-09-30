@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Hudson County Community College",
+    "successful_variation": "Hudson County Community College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Hudson+County+Community+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACC 211",
+      "course_title": "Computerized Accounting",
+      "credits": "3.00",
+      "description": "An introduction to the construction and implementation of computerized accounting systems used to accurately document, record and summarize financial information. The course emphasizes how such systems safeguard the assets of the client and ensure the integrity of the reporting system. Students will use source documents as a means of developing an information base. Students will design special journals and voucher systems as a means of facilitating recording functions and they will also develop a subsidiary ledger for purposes of recording secondary information. The course will conclude with students operating a fully integrated computerized general ledger system that may be applied to the accounting needs of individuals, organizations and small business enterprises. Students will also independently complete computer laboratory projects using specialized computer software. Prerequisite: ACC 121",
+      "institution": "Hudson County Community College"
+    },
+    {
+      "course_id": "ACC 224",
+      "course_title": "Federal Taxation",
+      "credits": "3.00",
+      "description": "A study of Federal Income Tax law and its practical application in the preparation of tax forms for the individual, partnerships, and corporations. Prerequisite: ACC 221",
+      "institution": "Hudson County Community College"
+    },
+    {
+      "course_id": "ACC 226",
+      "course_title": "Auditing",
+      "credits": "3.00",
+      "description": "This course will cover the theory of auditing principles and standards employed by the external and internal auditor. These standards are based on generally accepted auditing standards and the related literature of the American Institute of Certified Public Accountants. Emphasis is on Auditing procedures. Prerequisite: ACC 221",
+      "institution": "Hudson County Community College"
+    },
+    {
+      "course_id": "ACC 228",
+      "course_title": "Cost Accounting",
+      "credits": "3.00",
+      "description": "Examines cost accounting information systems; cost of materials, labor and manufacturing expenses, standards, and cost controls; direct costing and cost analysis. Prerequisite: ACC 221",
+      "institution": "Hudson County Community College"
+    },
+    {
+      "course_id": "ACC 230",
+      "course_title": "Payroll, Sales and Local Taxes",
+      "credits": "3.00",
+      "description": "A study of payroll systems and the preparation of payroll records including employers payroll taxes for Federal, State, and Local governments. Application of New Jersey's State tax law for the preparation of individual, franchise, and other tax returns. The student also examines related business tax problems and tax planning. Prerequisite: ACC 221",
+      "institution": "Hudson County Community College"
+    },
+    {
+      "course_id": "ACC 240",
+      "course_title": "Intermediate Accounting I",
+      "credits": "4.00",
+      "description": "This course presents a balanced approach to the treatment of conceptual and procedural problems in accounting. The course explains the rationale behind business transactions and addresses the accounting and reporting of those transactions. This course will include discussions of the latest developments in the accounting profession and practice. Prerequisite: ACC 221",
+      "institution": "Hudson County Community College"
+    },
+    {
+      "course_id": "ACC 241",
+      "course_title": "Intermediate Accounting II",
+      "credits": "4.00",
+      "description": "This course is a continuation of Accounting 240, Intermediate Accounting I. It covers Long-Lived Assets, Long-Term Liabilities, Stockholders' Equity, Financial Statement Preparation and Analysis. Prerequisite: ACC 240",
+      "institution": "Hudson County Community College"
+    },
+    {
+      "course_id": "AMS 135",
+      "course_title": "Introduction to American Studies",
+      "credits": "3.00",
+      "description": "This course provides an introductory overview to the field of American Studies. It seeks to answer the question, \"What does it mean to be an American?\" It integrates several disciplines, taking a holistic view of the American perspective. The goal is to introduce students to the ideas and theories most closely linked to the field. These include topics in American history, philosophy, cultural studies, art, literature, political science and international relations. Prerequisite: ENG 101",
+      "institution": "Hudson County Community College"
+    },
+    {
+      "course_id": "ANT 101",
+      "course_title": "Introduction to Cultural Anthropology",
+      "credits": "3.00",
+      "description": "This course is an introduction to the anthropological study of the nature and functions of human culture. The course examines how different cultures respond to certain needs expressed by religion, art, social organization and general patterns of life. The cultural diversity of humankind is emphasized. Prerequisite: ENG 101",
+      "institution": "Hudson County Community College"
+    },
+    {
+      "course_id": "ARC 105",
+      "course_title": "Introduction to Computer Arts",
+      "credits": "3.00",
+      "description": "This course provides an introductory level exploration of the Macintosh Operating System; print, interactive and time-based graphics applications; typography; and color theory for print, web and video. Students will also learn conceptual, historical, and theoretical aspects of art and design made with digital media. Corequisite: ENG 101",
+      "institution": "Hudson County Community College"
+    }
+  ],
+  "timestamp": "2025-08-08T21:25:00.044843"
+}

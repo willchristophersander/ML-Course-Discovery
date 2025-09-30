@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Gwinnett Technical College",
+    "successful_variation": "Gwinnett Technical College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Gwinnett+Technical+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACC 102",
+      "course_title": "Principles of Accounting II",
+      "credits": "4.00",
+      "description": "Applies the basic principles of accounting to specific account classifications and subsidiary record accounting. Topics include receivables, inventory, plant assets, payroll, payables, partnerships, and sales tax returns. Laboratory work demonstrates theory presented in class. Contact hours: Class - 4, Lab - 4. Credit hours: 6. (E)",
+      "institution": "Gwinnett Technical College"
+    },
+    {
+      "course_id": "ACC 104",
+      "course_title": "Computerized Accounting",
+      "credits": "4.00",
+      "description": "Emphasizes operation of computerized accounting systems from manual input forms. Topics include: equipment use, general ledger, accounts receivable and payable, payroll, cash management, and financial reports. Laboratory work includes theoretical and technical application. Contact hours: Class - 1, Lab - 4. Credit hours: 3. (E)",
+      "institution": "Gwinnett Technical College"
+    },
+    {
+      "course_id": "ACC 106",
+      "course_title": "Accounting Spreadsheet Fundamentals",
+      "credits": "3.00",
+      "description": "(Prerequisites: ACC 101; SCT 100) Provides instruction in the use of electronic spreadsheet software packages for program-related spreadsheet applications. Students become proficient in creation, modification, and combination of spreadsheets. Topics include: spreadsheet creation, data entry, data entry modification, computation using functions, and program-related spreadsheet applications. Laboratory work includes theoretical and technical application. Contact hours: Class - 1, Lab - 4. Credit hours: 3. (E)",
+      "institution": "Gwinnett Technical College"
+    },
+    {
+      "course_id": "ACC 108",
+      "course_title": "Half-Time Internship",
+      "credits": "18.00",
+      "description": "Introduces the application and reinforcement of accounting and employability principles in an actual job setting. Acquaints the student with realistic work situations and provides insights into accounting applications on the job. Topics include: appropriate work habits, acceptable job performance, application of accounting knowledge and skills, interpersonal relations, and development of productivity. The half-time accounting internship is implemented through the use of written individualized training plans, written performance evaluation, and weekly documentation or seminars and/or other projects as required by the instructor. Contact hours: Class - 0, Lab - 18. Credit hours: 6. (T)",
+      "institution": "Gwinnett Technical College"
+    },
+    {
+      "course_id": "ACC 120",
+      "course_title": "Principles of Auditing",
+      "credits": "0.00",
+      "description": "Introduces the student to the auditor's responsibilities in the areas of professional standards, reports, ethics and legal liability. Students learn about the technology of auditing; evidence gathering, audit/assurance processes, internal controls, and sampling techniques. The specific methods of auditing the revenue/receipts process, disbursement cycle, personnel and payroll procedures, asset changes, and debt and equity are learned. Finally procedures related to attest engagements and internal auditing are reviewed. Contact hours: Class - 5, Lab - 0. Credit hours: 5 (T)",
+      "institution": "Gwinnett Technical College"
+    },
+    {
+      "course_id": "ACC 151",
+      "course_title": "Individual Tax Accounting",
+      "credits": "3.00",
+      "description": "Provides instruction for preparation of both state and federal income tax. Topics include taxable income, income adjustments, schedules, standard deductions, itemized deductions, exemptions, tax credits, and tax calculations. Contact hours: Class - 3, Lab - 2. Credit hours: 4. (E)",
+      "institution": "Gwinnett Technical College"
+    },
+    {
+      "course_id": "ACC 152",
+      "course_title": "Payroll Accounting",
+      "credits": "2.00",
+      "description": "Provides an understanding of the laws that affect a company's payroll structure and practical application skills in maintaining payroll records. Topics include: payroll tax laws, payroll tax forms, payroll and personnel records, computing wages and salaries, taxes affecting employees and employers, and analyzing and journalizing payroll transactions. Contact hours: Class - 3, Lab - 2. Credit hours: 4. (E)",
+      "institution": "Gwinnett Technical College"
+    },
+    {
+      "course_id": "ACC 154",
+      "course_title": "Personal Finance",
+      "credits": "3.00",
+      "description": "Introduces practical applications of concepts and techniques used to manage personal finance. Topics include cash management, time value of money, credit, major purchasing decisions, insurance, investments, retirement, and estate planning. Contact hours: Class - 5, Lab - 0. Credit hours: 5. (T)",
+      "institution": "Gwinnett Technical College"
+    },
+    {
+      "course_id": "ACC 156",
+      "course_title": "Business Tax Accounting",
+      "credits": "3.00",
+      "description": "Provides instruction for preparation of both state and federal partnership, corporation and other business tax returns. Topics include organization form, overview of taxation of partnership, special partnership issues, corporate tax elections, adjustments to income and expenses, tax elections, forms and schedules, tax credits, reconciliation of book and tax income, tax depreciation methods and tax calculations. Contact hours: Class - 3, Lab - 2. Credit hours: 4. (E) Some course description information may change due to revisions by curriculum committees. Please refer to this key when reading the for information regarding what quarter course will be offered: F= Fall, W=Winter, Sp=Spring, Su=Summer, E=Every quarter, T=To Be Determined. Quarters that course(s) are offered are subject to change with instructor availability and student need.",
+      "institution": "Gwinnett Technical College"
+    },
+    {
+      "course_id": "ACC 157",
+      "course_title": "Integrated Accounting Management Systems",
+      "credits": "8.00",
+      "description": "Emphasizes use of database management packages, electronic spreadsheet packages, and accounting software packages for accounting/financial applications with more advanced systems. Topics include: creation and management of database applications, creation and management of spreadsheet applications, and creation and management of accounting integrated software systems. Contact hours: Class - 2, Lab - 8. Credit hours: 6. (E)",
+      "institution": "Gwinnett Technical College"
+    }
+  ],
+  "timestamp": "2025-08-11T00:06:26.215160"
+}

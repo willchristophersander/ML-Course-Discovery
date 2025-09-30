@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Smith College",
+    "successful_variation": "Smith College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Smith+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "AADM 143",
+      "course_title": "State of the Arts:An Introduction to Arts Administration",
+      "credits": "4.00",
+      "description": "4 sem. hrs. Studies cultural organizations, their functions, and their role in a changing society. Instruction emphasizes \"backstage\" and \"firsthand\" exposuto visual and performing arts organizations through site visits, guest lecturers, readings, and discussion. Topics include the multicultural arena, public art, and the management of visual and performing arts institutions. O'Brien.",
+      "institution": "Smith College"
+    },
+    {
+      "course_id": "AADM 236",
+      "course_title": "Arts Administration Institute/New York City",
+      "credits": "4.00",
+      "description": "4 sem. hrs. Prereq.: Consent of instructor. Offers firsthand experience of the rich cultural landscape of a major urban center in a four-week on-site experiential program that focuses on the following questions: What new relationships are emerging between art markets, philanthropy, public funding, and nonprofit arts organizations? What is the nature of \"the public trust\" in the artworld of the 21st century? How do arts organizations balance tradition and change in a multicultural and global environment? What roles do arts administrators play in linking the arts to their audiences? Combines readings, research activities, guest speakers, and visits to events and programs. O'Brien",
+      "institution": "Smith College"
+    },
+    {
+      "course_id": "AADM 253",
+      "course_title": "Special Topics in Arts Administration",
+      "credits": "4.00",
+      "description": "4 sem. hrs. Focuses on a particular theme or methodology in arts administration and offers in-depth exploration and development of expertise in the field. O'Brien.",
+      "institution": "Smith College"
+    },
+    {
+      "course_id": "AADM 390",
+      "course_title": "Internship and Seminar:Arts in the Community",
+      "credits": "8.00",
+      "description": "8 sem. hrs. Provides an integrated seminar and internship experience for students in arts administration. Combines academic and experiential learning in a professional context. Includes internships in museums, galleries, or concert halls; theater companies; or other institutions involved in the arts. Reading and writing assignments explore issues related to nonprofit arts management. O'Brien.",
+      "institution": "Smith College"
+    },
+    {
+      "course_id": "ART 100",
+      "course_title": "Objects and Ideas:A Museum History of Art",
+      "credits": "4.00",
+      "description": "4 sem. hrs. Introduces the history of art based on the worldclass museum collections in the Boston area. Includes slide lectures and weekly field trips to Boston-area museums and galleries, including the Museum of Fine Arts, Harvard Art Museums, the Institute of Contemporary Art, the Gardner Museum, and others. Not to be counted towards the art major. Cohen, Hanni, Lynch.",
+      "institution": "Smith College"
+    },
+    {
+      "course_id": "ART 111",
+      "course_title": "Introduction to Studio Art:Drawing",
+      "credits": "4.00",
+      "description": "4 sem. hrs. Introduces basic pictorial concepts and techniques while investigating or interpreting sources such as portraits, landscapes, still life, and interior and architectural space. Uses slides, critique, and homework assignments to expand on skills developed in class and provide insight into the cultural and historical context in which stylistic development takes place. Requires no previous studio experience. Lynch, Oppenheim, Kiely.",
+      "institution": "Smith College"
+    },
+    {
+      "course_id": "ART 112",
+      "course_title": "Introduction to Studio Art:Color",
+      "credits": "4.00",
+      "description": "4 sem. hrs. Investigates the role of color in perception and in pictorial structure through studio work in painting. Also uses slides to depict works of art from different periods and cultures and considers the relation between the cultural and historical situation of the artistic and stylistic development. Requires no previous experience, although ART 111 is strongly encouraged. Oppenheim, Kiely, Lynch.",
+      "institution": "Smith College"
+    },
+    {
+      "course_id": "ART 117",
+      "course_title": "Introduction to Studio Art:Printmaking",
+      "credits": "4.00",
+      "description": "4 sem. hrs. Presents a variety of basic printmaking processes including wood block, calligraphy, drypoint etching, stenciling, embossing, and monotypes. These techniques will be used to explore the transformation of drawings, designs, and ideas into prints. Popinchalk.",
+      "institution": "Smith College"
+    },
+    {
+      "course_id": "ART 119",
+      "course_title": "Introduction to Studio Art:Sculpture",
+      "credits": "4.00",
+      "description": "4 sem. hrs. Introduces students to hands-on experience with the design and creation of small abstract sculpture. Explores a broad range of natural and manufactured materials (such as found and neglected objects, wood, metal, and plastics) to create mobiles, wall hangings, reliefs, and freestanding sculptures. Requires no previous studio experience. Lynch.",
+      "institution": "Smith College"
+    },
+    {
+      "course_id": "ART 121",
+      "course_title": "Artist's Books",
+      "credits": "4.00",
+      "description": "4 sem. hrs. Introduces creative bookmaking as a form of visual expression. Addresses the book as an art object. Students will be introduced to several ways of making books, unique construction, and basic hand-printing methods. Emphasizes thinking visually about content. Lynch.",
+      "institution": "Smith College"
+    }
+  ],
+  "timestamp": "2025-08-10T14:38:42.605237"
+}

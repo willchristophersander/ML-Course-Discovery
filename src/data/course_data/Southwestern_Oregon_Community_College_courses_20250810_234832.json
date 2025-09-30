@@ -1,0 +1,39 @@
+{
+  "search_query": {
+    "institution": "Southwestern Oregon Community College",
+    "successful_variation": "Southwestern Oregon Community College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Southwestern+Oregon+Community+College&distance=5"
+  },
+  "total_results": 4,
+  "courses": [
+    {
+      "course_id": "AC 240",
+      "course_title": "Fund Accounting",
+      "credits": "3.00",
+      "description": "3 credits (3 lec hrs/wk) This course presents accounting for governmental and non-profit organizations. It includes budgetary and expenditure control, as well as considerations, reporting, and operations of general, special revenue, and capital projects. Prerequisite: AC2767 or BA211.",
+      "institution": "Southwestern Oregon Community College"
+    },
+    {
+      "course_id": "ANTH 101",
+      "course_title": "General Anthropology",
+      "credits": "3.00",
+      "description": "3 credits (3 lec hrs/wk) This course studies human evolution and traces human development through archaeological remains; introduces the human position in the animal kingdom, the principles and mechanisms of biological and human evolution and variation, fossil primates, and the development of human culture through the Paleolithic.",
+      "institution": "Southwestern Oregon Community College"
+    },
+    {
+      "course_id": "ANTH 102",
+      "course_title": "General Anthropology",
+      "credits": "3.00",
+      "description": "3 credits (3 lec hrs/wk) Explores archaeology from earliest antecedents to modern synthesis. Examines the transition of human societies from hunting and gathering to farming and the beginning of urban life through prehistoric and historic archaeology; examines techniques of fieldwork, analysis and dating; development of cultural stages and civilizations in Pre-Columbian North and Meso-America.",
+      "institution": "Southwestern Oregon Community College"
+    },
+    {
+      "course_id": "ANTH 103",
+      "course_title": "General Anthropology",
+      "credits": "3.00",
+      "description": "3 credits (3 lec hrs/wk) Focuses on the concept of worldwide culture elaborated through function, organization, diversity, and change. Economic, religious, political, and linguistic diversity are examined.",
+      "institution": "Southwestern Oregon Community College"
+    }
+  ],
+  "timestamp": "2025-08-10T23:48:32.690360"
+}

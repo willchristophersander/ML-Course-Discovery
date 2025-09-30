@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "University of Colorado",
+    "successful_variation": "Colorado",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Colorado&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACC 201",
+      "course_title": "Principles of Accounting I-Financial Reporting -CUS",
+      "credits": "3.00",
+      "description": "An introduction to corporate financial accounting, focusing on the accounting process, balance sheet, and income statement. Emphasizes the accounting cycle, recording and summarizing transactions, financial statements, and generally accepted accounting principles. Introduces the use of computers in accounting. Prerequisites: BUS 101, BUS 110, CIS 101.",
+      "institution": "University of Colorado"
+    },
+    {
+      "course_id": "ACC 201A",
+      "course_title": "Principles of Accounting I -CAGS",
+      "credits": "3.00",
+      "description": "An introduction to corporate financial accounting, focusing on the accounting process, balance sheet, and income statement. Emphasizes the accounting cycle, recording and summarizing transactions, financial statements, and generally accepted accounting principles. Introduces the use of computers in accounting. Prerequisites: MAT 110 or higher.",
+      "institution": "University of Colorado"
+    },
+    {
+      "course_id": "ACC 202",
+      "course_title": "Principles of Accounting II Financial Decision Making -CUS",
+      "credits": "3.00",
+      "description": "A continuation and completion of the financial-accounting concepts introduced in ACC 201 and the development and use of accounting information to support managerial decision-making, and an introduction to managerial accounting. Financial accounting topics include those peculiar to corporations, the cash flow statements and analysis of financial statements. Managerial topics include performance measurements and budgeting. Income tax accounting is introduced. Uses computer applications. Prerequisites: BUS 101, BUS 110, CIS 101.",
+      "institution": "University of Colorado"
+    },
+    {
+      "course_id": "ACC 202A",
+      "course_title": "Principles of Accounting II -CAGS",
+      "credits": "3.00",
+      "description": "A continuation and completion of the financial-accounting concepts introduced in ACC 201 and the development and use of accounting information to support managerial decision-making, and an introduction to managerial accounting. Financial accounting topics include those peculiar to corporations, the cash flow statements and analysis of financial statements. Managerial topics include performance measurements and budgeting. Income tax accounting is introduced. Uses computer applications. Prerequisites: ACC 201, CIS 201.",
+      "institution": "University of Colorado"
+    },
+    {
+      "course_id": "ACC 300",
+      "course_title": "Managerial Cost Accounting",
+      "credits": "3.00",
+      "description": "A study of the role of management accounting in the successful operation of a business. Course includes cost accounting's traditional functions--planning, control, and product costing--with an emphasis on information relevant for decision-making. Prerequisites: ACC 202, CIS 101.",
+      "institution": "University of Colorado"
+    },
+    {
+      "course_id": "ACC 302",
+      "course_title": "Intermediate Accounting I",
+      "credits": "3.00",
+      "description": "Intensive analysis of current accounting principles and their application to the measurement and reporting of financial statements. CUS Prerequisites: ACC 202. CAGS Prerequisites: ACC 202A.",
+      "institution": "University of Colorado"
+    },
+    {
+      "course_id": "ACC 303",
+      "course_title": "Intermediate Accounting II",
+      "credits": "3.00",
+      "description": "Continuation and completion of ACC 302. Prerequisites: ACC 302.",
+      "institution": "University of Colorado"
+    },
+    {
+      "course_id": "ACC 306",
+      "course_title": "Tax Accounting",
+      "credits": "3.00",
+      "description": "Federal tax laws, taxation of business transactions, the preparation of tax returns. CUS Prerequisites: ACC 201. CAGS Prerequisites: ACC 202A.",
+      "institution": "University of Colorado"
+    },
+    {
+      "course_id": "ACC 309",
+      "course_title": "Accounting for Non-Profit and Government Organizations",
+      "credits": "3.00",
+      "description": "Concepts and practices of accounting for non-profit and government organizations. Includes budgets, responsibility accounting, and fund accounting. CUS Prerequisites: ACC 202. CAGS Prerequisites: ACC 202, CIS 201.",
+      "institution": "University of Colorado"
+    },
+    {
+      "course_id": "ACC 320",
+      "course_title": "Financial Statement Analysis",
+      "credits": "3.00",
+      "description": "Advance student's understanding of how to use financial information to value and analyze firms. Students will apply accounting/finance skills to problems from today's business news to help us understand what is contained in financial reports, why firms report certain information, and how to be a sophisticated user of this information. CUS Prerequisites: ACC 202. CAGS Prerequisites: None.",
+      "institution": "University of Colorado"
+    }
+  ],
+  "timestamp": "2025-09-23T18:27:14.255991"
+}

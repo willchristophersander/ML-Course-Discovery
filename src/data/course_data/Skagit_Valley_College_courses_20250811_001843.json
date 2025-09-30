@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Skagit Valley College",
+    "successful_variation": "Skagit Valley College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Skagit+Valley+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ABE 010",
+      "course_title": "Adult Basic Education Level",
+      "credits": "16.00",
+      "description": "ABE Level 1 (Beginning ABE Literacy). Non-transfer credit instructional course designed to teach reading, writing, and computational skills to individuals who have a goal to improve basic skills, and at intake, score less than 201 on a CASAS appraisal test (grade equivalent 0-1.9).",
+      "institution": "Skagit Valley College"
+    },
+    {
+      "course_id": "ABE 020",
+      "course_title": "Adult Basic Education Level",
+      "credits": "16.00",
+      "description": "ABE Level 2 (Beginning Basic Education). Non-transfer credit instructional course designed to teach reading, writing, and computational skills to individuals who have a goal to improve basic skills, and at intake, score 201-210 on CASAS appraisal test (grade equivalents 2.0-3.9).",
+      "institution": "Skagit Valley College"
+    },
+    {
+      "course_id": "ABE 030",
+      "course_title": "Adult Basic Education Level",
+      "credits": "16.00",
+      "description": "ABE Level 3 (Low Intermediate Basic Education). Non-transfer credit instructional course designed to teach reading, writing, and computational skills to individuals who have a goal to improve basic skills, and at intake, score 211-220 on CASAS appraisal test (grade equivalents 4.0-5.9).",
+      "institution": "Skagit Valley College"
+    },
+    {
+      "course_id": "ABE 040",
+      "course_title": "Adult Basic Education Level",
+      "credits": "16.00",
+      "description": "ABE Level 4 (High Intermediate Basic Education). Non-transfer credit instructional courses designed to teach reading, writing, and computational skills to individuals who have a goal to improve basic skills and, at intake, score 221-235 on a CASAS appraisal test (grade equivalents 6.0-8.9).",
+      "institution": "Skagit Valley College"
+    },
+    {
+      "course_id": "ABE 050",
+      "course_title": "Adult Secondary Education/ GED Level",
+      "credits": "16.00",
+      "description": "Basic GED Preparation. Non-transfer credit course that prepares adult and family literacy students with a goal of earning the General Education Development (GED) equivalency certificate to pass any two of the five subject-area tests and, at intake, score 236-245 on a CASAS appraisal test (grade equivalents 9.0-11.9).",
+      "institution": "Skagit Valley College"
+    },
+    {
+      "course_id": "ABE 060",
+      "course_title": "Adult Secondary Education/ GED Level",
+      "credits": "16.00",
+      "description": "Advanced GED Preparation. Non-transfer credit courses that prepare adult and family literacy students who have a goal of earning the GED equivalency certificate to pass any of the remaining three GED subject-area tests (after completing GED preparation) and, at intake, score 246 and above on a CASAS appraisal test (grade equivalents 12.0+).",
+      "institution": "Skagit Valley College"
+    },
+    {
+      "course_id": "ABE 070",
+      "course_title": "Adult Secondary Education/Spanish GED",
+      "credits": "10.00",
+      "description": "Basic GED preparation in Spanish. Nontransfer credit course that prepares adult and family literacy students with a goal of earning the General Education Development (GED) equivalency certificate to pass any two of the five subject-area tests.",
+      "institution": "Skagit Valley College"
+    },
+    {
+      "course_id": "ACCT 159",
+      "course_title": "Governmental Accounting",
+      "credits": "5.00",
+      "description": "Essentials of accounting for governmental and not-for-profit organizations. Introduction to budgeting, accounting, and reporting systems (BARS). Prerequisite: OFTEC 145 and 146 or ACCT& 201.",
+      "institution": "Skagit Valley College"
+    },
+    {
+      "course_id": "ACCT 201",
+      "course_title": "Principles of Accounting I",
+      "credits": "5.00",
+      "description": "Introduction to financial accounting as an essential part of business decision-making. The concepts of asset/liability valuation and reporting, income measurement, inventory systems and the interpretation of financial statements are presented. Required for business majors transferring to four-year business programs.",
+      "institution": "Skagit Valley College"
+    },
+    {
+      "course_id": "ACCT 202",
+      "course_title": "Principles of Accounting II",
+      "credits": "5.00",
+      "description": "Continuation of ACCT& 201. Business organizations, financing, cash flow analysis and financial statement analysis are presented. Required for business majors transferring to four-year business programs.",
+      "institution": "Skagit Valley College"
+    }
+  ],
+  "timestamp": "2025-08-11T00:18:43.066852"
+}

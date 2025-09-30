@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "San Jose State University",
+    "successful_variation": "San Jose State University",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=San+Jose+State+University&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "AAS 020",
+      "course_title": "Women of Color in the US",
+      "credits": "3.00",
+      "description": "See W O M S 020. G E: D2 3 units",
+      "institution": "San Jose State University"
+    },
+    {
+      "course_id": "AAS 022",
+      "course_title": "Asian America:Diversity in the United States",
+      "credits": "3.00",
+      "description": "This course offers an introduction to the Asian American experiences from an interdisciplinary perspective. Examines the factors that define minority groups and their positions in the United States, emphasizing the fact that while there are common experiences, many racial minorities have distinct experiences. 3 units",
+      "institution": "San Jose State University"
+    },
+    {
+      "course_id": "AAS 025",
+      "course_title": "The Changing Majority:Power and Ethnicity in America",
+      "credits": "3.00",
+      "description": "See M A S 025. G E: D2 3 units",
+      "institution": "San Jose State University"
+    },
+    {
+      "course_id": "AAS 033A",
+      "course_title": "Asian Americans in the United States Historical and Political Process",
+      "credits": "6.00",
+      "description": "Historical and political factors which shaped the culture, institutions and society of America. The role of workers, immigrants and people of color, with Asian Americans as a particular focus. Note: Entire sequence satisfies G E Areas D2,3; F1,2,3. G E: M6 3 units",
+      "institution": "San Jose State University"
+    },
+    {
+      "course_id": "AAS 033B",
+      "course_title": "Asian Americans in the United States Historical and Political Process",
+      "credits": "7.00",
+      "description": "Historical and political factors which shaped the culture, institutions and society of America. The role of workers, immigrants and people of color, with Asian Americans as a particular focus. Note: Entire sequence satisfies G E Areas D2,3; F1,2,3. G E: M7 3 units",
+      "institution": "San Jose State University"
+    },
+    {
+      "course_id": "AAS 125",
+      "course_title": "Filipino Experience in the United States",
+      "credits": "3.00",
+      "description": "Filipinos in the United States beginning with immigration and culminating with analysis of past and contemporary issues facing Filipino Americans. 3 units",
+      "institution": "San Jose State University"
+    },
+    {
+      "course_id": "AAS 133",
+      "course_title": "Introduction to Social Planning",
+      "credits": "3.00",
+      "description": "See U R B P 133. 3 units",
+      "institution": "San Jose State University"
+    },
+    {
+      "course_id": "AAS 136",
+      "course_title": "WWII Press Coverage:Holocaust Concentration Camps and Japanese Internment Camps",
+      "credits": "3.00",
+      "description": "See M C O M 136. 3 units",
+      "institution": "San Jose State University"
+    },
+    {
+      "course_id": "AAS 144",
+      "course_title": "Vietnamese Women in America",
+      "credits": "3.00",
+      "description": "See W O M S 144. 3 units",
+      "institution": "San Jose State University"
+    },
+    {
+      "course_id": "AAS 145",
+      "course_title": "Urban Policy and Its Impact on Inner City Residents",
+      "credits": "3.00",
+      "description": "See U R B P 145. 3 units",
+      "institution": "San Jose State University"
+    }
+  ],
+  "timestamp": "2025-08-10T14:22:57.362153"
+}

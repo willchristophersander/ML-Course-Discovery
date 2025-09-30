@@ -1,0 +1,73 @@
+{
+  "timestamp": "2025-08-08T17:44:25.461673",
+  "analysis": {
+    "total_universities": 3,
+    "discovery_success_rate": 0.3333333333333333,
+    "avg_discovery_confidence": 0.925,
+    "validation_success_rate": 0.3333333333333333,
+    "avg_validation_confidence": 0.2,
+    "course_finding_rate": 0.4,
+    "avg_discovery_time": 0.9272991816202799,
+    "avg_validation_time": 0.7299033800760905,
+    "successful_discoveries": [
+      {
+        "university": "University of Charleston",
+        "url": "https://www.charleston.edu/classes",
+        "discovery_confidence": 0.925,
+        "validation_confidence": 0.2,
+        "courses_found": "2/5"
+      }
+    ],
+    "failed_discoveries": [
+      {
+        "university": "Metropolitan Community College (NE)",
+        "error": "No search results found with any strategy"
+      },
+      {
+        "university": "Hope College",
+        "error": "No search results found with any strategy"
+      }
+    ]
+  },
+  "detailed_results": [
+    {
+      "university_name": "Metropolitan Community College (NE)",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No search results found with any strategy",
+      "discovery_time": 9.298324584960938e-05,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "Hope College",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No search results found with any strategy",
+      "discovery_time": 0.002112865447998047,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "University of Charleston",
+      "discovered_url": "https://www.charleston.edu/classes",
+      "discovery_success": true,
+      "discovery_confidence": 0.925,
+      "validation_success": true,
+      "validation_confidence": 0.2,
+      "test_courses_found": 2,
+      "total_test_courses": 5,
+      "error_message": null,
+      "discovery_time": 2.779691696166992,
+      "validation_time": 2.1897101402282715
+    }
+  ]
+}

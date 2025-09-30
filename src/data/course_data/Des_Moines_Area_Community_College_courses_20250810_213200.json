@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Des Moines Area Community College",
+    "successful_variation": "Des Moines Area Community College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Des+Moines+Area+Community+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACC 111",
+      "course_title": "Intro to Accounting",
+      "credits": "3.00",
+      "description": "Credits: 3 An introductory course in accounting fundamentals and procedures. Includes capturing and analyzing business data and financial statement preparation.",
+      "institution": "Des Moines Area Community College"
+    },
+    {
+      "course_id": "ACC 124",
+      "course_title": "Accounting Professionalism",
+      "credits": "3.00",
+      "description": "Credits: 3 Covers all aspects of accounting career goal- setting, developing prospective accounting employer lists, resume writing, job application forms, employment tests, personal appearance, interviewing and follow-up. Instructs in meeting protocol according to Roberts Rules of Order. Covers meeting presentation skills and report writing. Discusses the duties of an accounting professional to the community. Reviews office etiquette and common professional courtesy. (P/F)",
+      "institution": "Des Moines Area Community College"
+    },
+    {
+      "course_id": "ACC 131",
+      "course_title": "Principles of Accounting I",
+      "credits": "4.00",
+      "description": "Credits: 4 Introduces the student to the principles of accounting with emphasis placed on the users and uses of accounting information. The double-entry bookkeeping system is presented with a focus on the end result of the accounting cycle, the financial statement.",
+      "institution": "Des Moines Area Community College"
+    },
+    {
+      "course_id": "ACC 132",
+      "course_title": "Principles of Accounting II",
+      "credits": "4.00",
+      "description": "Credits: 4 A continuation of Principles of Accounting I. Introduces accounting procedures related to corporations, manufacturing and branch operations. Course also includes an introduction to capital budgeting, analysis of financial statements and decision-making by managers. Prerequisite: ACC 131",
+      "institution": "Des Moines Area Community College"
+    },
+    {
+      "course_id": "ACC 161",
+      "course_title": "Payroll Accounting",
+      "credits": "3.00",
+      "description": "Credits: 3 Covers payroll laws, state and federal withholding taxes, state and federal forms, salary deductions including cafeteria insurance plans and pension plans and computerized payroll software packages. Prerequisite: ACC 131 or ACC 111",
+      "institution": "Des Moines Area Community College"
+    },
+    {
+      "course_id": "ACC 165",
+      "course_title": "Payroll Certification Review",
+      "credits": "2.00",
+      "description": "Credits: 2 Covers fundamental payroll calculations and applications. Provides students with the basic knowledge and skills required to prepare for the Fundamental Payroll Certification (FPC) exam administered by the American Payroll Association. Recommended for payroll professionals.",
+      "institution": "Des Moines Area Community College"
+    },
+    {
+      "course_id": "ACC 191",
+      "course_title": "Financial Analysis",
+      "credits": "3.00",
+      "description": "Credits: 3 An analytical study of accounting information and financial statements. The course focuses on financial ratio analysis that is used to interpret data and reports for financial decision-making. Prerequisite ACC 131",
+      "institution": "Des Moines Area Community College"
+    },
+    {
+      "course_id": "ACC 193",
+      "course_title": "Accounting Procedures/Mgmt",
+      "credits": "3.00",
+      "description": "Credits: 3 Generally Accepted Accounting Principles (GAAP) are emphasized. Topics include receivables, payables, banking records, document flow, internal control, planning, organizing, leadership, human relations, and business communications. Prerequisite: ACC 131",
+      "institution": "Des Moines Area Community College"
+    },
+    {
+      "course_id": "ACC 222",
+      "course_title": "Cost Accounting",
+      "credits": "4.00",
+      "description": "Credits: 4 An introduction to accounting concepts of product costing systems. Topics include classification of costs, process costing, job order costing, joint and by-product costs, and standard cost systems with variable analysis. Prerequisite: ACC 132",
+      "institution": "Des Moines Area Community College"
+    },
+    {
+      "course_id": "ACC 231",
+      "course_title": "Intermediate Accounting I",
+      "credits": "4.00",
+      "description": "Credits: 4 Emphasis on theory, standards and principles-the \"why\" of accounting. The framework goes beyond the procedural level to the conceptual level. Topics include preparation of income statements, balance sheets and related footnotes. Applicable FASB pronouncements are presented. Prerequisite: ACC 132",
+      "institution": "Des Moines Area Community College"
+    }
+  ],
+  "timestamp": "2025-08-10T21:32:00.982037"
+}

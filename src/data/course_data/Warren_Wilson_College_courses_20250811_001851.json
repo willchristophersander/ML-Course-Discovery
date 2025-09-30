@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Warren Wilson College",
+    "successful_variation": "Warren Wilson College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Warren+Wilson+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ANT 105",
+      "course_title": "Introduction to Latin America",
+      "credits": "4.00",
+      "description": "This course takes an interdisciplinary approach to 600 years of Latin American history and culture, with special emphasis on the contributions from indigenous and African peoples. Students will examine literature, geography, art, religion, and politics, always keeping in mind the relationship between the United States and the rest of the hemisphere. Triad Requirement: Social Science or Language/Global Issues",
+      "institution": "Warren Wilson College"
+    },
+    {
+      "course_id": "ANT 139",
+      "course_title": "Native Americans of the Southeast",
+      "credits": "4.00",
+      "description": "This course is a cultural history that explores the Native American cultures of the southeastern United States through archaeology, ethnography, and ethnohistory. The class is designed as a survey course and will include major discussions of Native American prehistory (archaeology), the Contact period, ethnography and ethnohistory of the Colonial period, the Removal Era, and southeastern Native Americans in the 20th century. Triad Requirement: Social Sciences",
+      "institution": "Warren Wilson College"
+    },
+    {
+      "course_id": "ANT 145",
+      "course_title": "Archaeology of World Cultures",
+      "credits": "4.00",
+      "description": "This is a survey of world prehistory from the time of our earliest known human ancestors five million years ago to the rise of state-level societies, as exemplified by the civilizations of ancient Mesopotamia and Mesoamerica. We explore cultural processes including the migration of our species throughout the world as hunter-gatherers, the beginning of settled life, and the evolution of cultural complexity with tribal and chiefly societies. Triad Requirement: Social Science",
+      "institution": "Warren Wilson College"
+    },
+    {
+      "course_id": "ANT 146",
+      "course_title": "Archaeological Methods",
+      "credits": "4.00",
+      "description": "An introduction to archaeological excavation and methods of artifact analysis. Students explore basic artifact identification, classification, and cataloging, and practice basic excavation methods during field exercises. The class will also study research designs in order to learn how these methods contribute to understanding current issues in western North Carolina archaeology. May be repeated for credit as ANT 147. Triad Requirement: Social Science",
+      "institution": "Warren Wilson College"
+    },
+    {
+      "course_id": "ANT 199",
+      "course_title": "Independent Study",
+      "credits": "4.00",
+      "description": "Independent Study",
+      "institution": "Warren Wilson College"
+    },
+    {
+      "course_id": "ANT 200",
+      "course_title": "Introduction to Cultural Anthropology",
+      "credits": "4.00",
+      "description": "This course takes a cultural approach to anthropology in order to provide an appreciation for the diversity of the human experience and to relate culture to other concepts such as gender, religion, ecology, change, and power. The course will also closely examine a small number of case studies from distant lands and from the United States. Triad Requirement: Social Science.",
+      "institution": "Warren Wilson College"
+    },
+    {
+      "course_id": "ANT 232",
+      "course_title": "Appalachian Music and Dance",
+      "credits": "4.00",
+      "description": "An introduction to the traditional music and dances of the Southern Appalachian region, tracing their historical development from early European-American and African-American folk roots to the present day. Topics include ballads and folk songs, sacred and secular singing styles, fiddle and banjo, hillbilly recordings and radio, early country music and bluegrass, as well as flatfooting, clogging, and square dancing. The Folk Music Revival and contemporary Appalachian styles will also be examined. Resources will include readings, recordings, films, visits with local musicians and dancers, and field trips to regional music venues.",
+      "institution": "Warren Wilson College"
+    },
+    {
+      "course_id": "ANT 237",
+      "course_title": "Appalachian Folk Medicine",
+      "credits": "4.00",
+      "description": "Plants and Healing Traditions Folk medicine topics such as Cherokee influences on early European immigrants, garden-grown herbs and wild plants, magic religious beliefs, and traditions associated with plant use are considered through field study, visits with contemporary healers, and a survey of printed resources. p Social Science Triad Requirements: Social Science",
+      "institution": "Warren Wilson College"
+    },
+    {
+      "course_id": "ANT 239",
+      "course_title": "Physical Anthropology",
+      "credits": "4.00",
+      "description": "This course is a survey of physical anthropology that focuses on human evolution and human variation. Course topics include primate studies and hominid evolution as well as the study of the dispersal of modern Homo sapiens across the globe. We will look at human biological variation with respect to culture to examine such ideas as the relationship between population characteristics and their environments and the effect of disease on differing populations. We will also examine the role of physical anthropology in archaeology and forensic science.",
+      "institution": "Warren Wilson College"
+    },
+    {
+      "course_id": "ANT 241",
+      "course_title": "Native Peoples of Mexico and Guatemala",
+      "credits": "4.00",
+      "description": "This course takes an historical approach to investigate political, economic, religious, and cultural developments in indigenous Mexico and Guatemala beginning with a brief survey of pre-Hispanic Mexico and Guatemala, continuing up to the present, and focusing on how indigenous cultures, forms of government, and religious practices developed as a complex process in situations of unequal power. Triad Requirement: Social Science or Language/Global Issues",
+      "institution": "Warren Wilson College"
+    }
+  ],
+  "timestamp": "2025-08-11T00:18:51.862746"
+}

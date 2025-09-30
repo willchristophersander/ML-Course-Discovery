@@ -1,0 +1,67 @@
+{
+  "search_query": {
+    "institution": "Citrus College",
+    "successful_variation": "Citrus College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Citrus+College&distance=5"
+  },
+  "total_results": 8,
+  "courses": [
+    {
+      "course_id": "ACCT 100",
+      "course_title": "Accounting",
+      "credits": "3.00",
+      "description": "Strongly recommended: READ 099 if required by reading placement exam or if required by reading level. The objective of this course is to provide an elementary accounting background for business students. Course content includes development of the accounts through journalizing, cash journal entries, sales and purchases, posting, trial balance, work sheet and resultant financial statements. 72 lecture hours.",
+      "institution": "Citrus College"
+    },
+    {
+      "course_id": "ACCT 101",
+      "course_title": "Financial Accounting",
+      "credits": "4.00",
+      "description": "Strongly recommended: ACCT 100 or high school bookkeeping, or related job experience. The objectives of this course are to learn the content and meaning of the basic financial statements and their impact on the decision-making process in the business environment. This course will provide a broad overview of the importance of accounting in the business process as well as introduce the student to the double entry system of accounting, how to record, process and report on the business transactions and events and to consider the operating cycles in business. Topical areas covered in this class will include cash, accounts, inventory, property, plant and equipment, intangible assets, current liabilities and stockholder equity. The importance of internal controls will be reviewed and the components of the income statement will also be discussed. 72 lecture hours.",
+      "institution": "Citrus College"
+    },
+    {
+      "course_id": "ACCT 101H",
+      "course_title": "Financial Accounting/Honors",
+      "credits": "4.00",
+      "description": "Strongly recommended: Accounting 100 or high school bookkeeping; or related job experience. Examines the fundamental concepts of financial accounting such as: the basic financial statements: the double entry system of accounting; financial analysis and internal controls. Analyze financial data to evaluate performance and formulate appropriate course of action in the business environment. Students are expected to work and participate at an honors level which includes advanced critical thinking skills, more in depth analysis of financial statements and presentation skills as demonstrated by group presentations, class participation and case study analysis. 72 lecture hours.",
+      "institution": "Citrus College"
+    },
+    {
+      "course_id": "ACCT 102",
+      "course_title": "Managerial Accounting",
+      "credits": "4.00",
+      "description": "Prerequisite: ACCT 101 with min. grade of C. The objectives of this course are to finish reviewing financial accounting concepts and to discuss cost and managerial accounting. Financial accounting concepts such as long-term debt and cash flows will be covered before moving into the area of managerial accounting. Managerial accounting objectives are to provide management and employees timely feedback on the performance of the company operations so that management can plan ahead and make appropriate business decisions. Tools and techniques to evaluate efficiency and profitability such as process costing, break-even analysis, variance analysis and capital budgeting will be reviewed. 72 lecture hours.",
+      "institution": "Citrus College"
+    },
+    {
+      "course_id": "ACCT 110",
+      "course_title": "Income Tax Accounting",
+      "credits": "4.00",
+      "description": "A course designed to study the federal income tax process, federal income tax laws that apply to individuals, and the application of tax principles to specific problems. Topics include gross income and exclusions, business deductions and itemized deductions, losses, certain tax credits and property transactions. Study is also made of California income tax laws in those areas which differ from federal tax law. 72 lecture hours.",
+      "institution": "Citrus College"
+    },
+    {
+      "course_id": "ACCT 115",
+      "course_title": "QuickBooks",
+      "credits": "2.00",
+      "description": "Instruction in QuickBooks, a computerized accounting system for business. Applies basic accounting concepts. 36 lecture hours.",
+      "institution": "Citrus College"
+    },
+    {
+      "course_id": "AJ 101",
+      "course_title": "Introduction to the Administration of Justice",
+      "credits": "3.00",
+      "description": "Strongly recommended: READ 099 if required by reading placement exam or if required by reading level. The history and philosophy of administration of justice in America; recapitulation of the system; identifying the various subsystems; role expectations, and their interrelationships; theories of crime, punishment, and rehabilitation; ethics, education and training for professionalism in the system. 54 lecture hours. CSU;UC",
+      "institution": "Citrus College"
+    },
+    {
+      "course_id": "AJ 102",
+      "course_title": "Concepts of Criminal Law",
+      "credits": "3.00",
+      "description": "Strongly recommended: READ 099 if required by reading exam or if required by reading level. The philosophy and historical development of law, including the provisions of the U.S. Constitution. The concepts and definitions necessary to relate court decisions to statutes including those specific to correctional institutions. 54 lecture hours. CSU;UC",
+      "institution": "Citrus College"
+    }
+  ],
+  "timestamp": "2025-08-10T23:50:54.430853"
+}

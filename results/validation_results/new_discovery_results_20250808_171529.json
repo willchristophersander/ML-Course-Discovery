@@ -1,0 +1,116 @@
+{
+  "timestamp": "2025-08-08T17:15:29.996275",
+  "analysis": {
+    "total_universities": 5,
+    "discovery_success_rate": 0.8,
+    "avg_discovery_confidence": 0.9012500000000001,
+    "validation_success_rate": 0.4,
+    "avg_validation_confidence": 0.2,
+    "course_finding_rate": 0.9,
+    "avg_discovery_time": 31.934301567077636,
+    "avg_validation_time": 3.712482452392578,
+    "successful_discoveries": [
+      {
+        "university": "Colorado State University",
+        "url": "https://classes.colorado.edu/",
+        "discovery_confidence": 0.935,
+        "validation_confidence": 0.2,
+        "courses_found": "5/5"
+      },
+      {
+        "university": "University of Wyoming",
+        "url": "https://classes.berkeley.edu/",
+        "discovery_confidence": 0.89,
+        "validation_confidence": 0.0,
+        "courses_found": "0/0"
+      },
+      {
+        "university": "University of Nebraska, Lincoln",
+        "url": "https://classes.berkeley.edu/",
+        "discovery_confidence": 0.89,
+        "validation_confidence": 0.2,
+        "courses_found": "4/5"
+      },
+      {
+        "university": "University of Northern Iowa",
+        "url": "https://classes.berkeley.edu/",
+        "discovery_confidence": 0.89,
+        "validation_confidence": 0.0,
+        "courses_found": "0/0"
+      }
+    ],
+    "failed_discoveries": [
+      {
+        "university": "Virginia Wesleyan College",
+        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://rabi.phys.virginia.edu/mySIS/CS2/\nCall log:\n  - navigating to \"https://rabi.phys.virginia.edu/mySIS/CS2/\", waiting until \"load\"\n"
+      }
+    ]
+  },
+  "detailed_results": [
+    {
+      "university_name": "Colorado State University",
+      "discovered_url": "https://classes.colorado.edu/",
+      "discovery_success": true,
+      "discovery_confidence": 0.935,
+      "validation_success": true,
+      "validation_confidence": 0.2,
+      "test_courses_found": 5,
+      "total_test_courses": 5,
+      "error_message": null,
+      "discovery_time": 26.655642986297607,
+      "validation_time": 2.332933187484741
+    },
+    {
+      "university_name": "University of Wyoming",
+      "discovered_url": "https://classes.berkeley.edu/",
+      "discovery_success": true,
+      "discovery_confidence": 0.89,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No test courses found in CollegeTransfer.net",
+      "discovery_time": 123.03632593154907,
+      "validation_time": 6.1013922691345215
+    },
+    {
+      "university_name": "University of Nebraska, Lincoln",
+      "discovered_url": "https://classes.berkeley.edu/",
+      "discovery_success": true,
+      "discovery_confidence": 0.89,
+      "validation_success": true,
+      "validation_confidence": 0.2,
+      "test_courses_found": 4,
+      "total_test_courses": 5,
+      "error_message": null,
+      "discovery_time": 2.294663906097412,
+      "validation_time": 3.4755120277404785
+    },
+    {
+      "university_name": "Virginia Wesleyan College",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://rabi.phys.virginia.edu/mySIS/CS2/\nCall log:\n  - navigating to \"https://rabi.phys.virginia.edu/mySIS/CS2/\", waiting until \"load\"\n",
+      "discovery_time": 0.41071105003356934,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "University of Northern Iowa",
+      "discovered_url": "https://classes.berkeley.edu/",
+      "discovery_success": true,
+      "discovery_confidence": 0.89,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No test courses found in CollegeTransfer.net",
+      "discovery_time": 7.2741639614105225,
+      "validation_time": 6.652574777603149
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Duquesne University",
+    "successful_variation": "Duquesne University",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Duquesne+University&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACCT 214H",
+      "course_title": "Financial Accounting Honors",
+      "credits": "3.00",
+      "description": "Provides an introduction to the discipline of accounting; the principles of external financial reporting; and the use of general purpose financial statements (balance sheet, income statement and statement of cash flows) in decision making. Students will develop a basic understanding of how to use the financial statements to assess the profitability, liquidity and solvency of business entities.",
+      "institution": "Duquesne University"
+    },
+    {
+      "course_id": "ACCT 215H",
+      "course_title": "Managerial Accounting Honors",
+      "credits": "3.00",
+      "description": "The purpose of this course is to provide an introduction to cost concepts, product costing systems, budgeting systems, and the development of accounting data for internal managerial decisions.",
+      "institution": "Duquesne University"
+    },
+    {
+      "course_id": "ACCT 310H",
+      "course_title": "Accounting Info Systems Honors",
+      "credits": "3.00",
+      "description": "This course develops a sound understanding of the practices and procedures used to process accounting information. Emphasis is placed on computerized information systems.",
+      "institution": "Duquesne University"
+    },
+    {
+      "course_id": "ACCT 311H",
+      "course_title": "Intermediate Acctg I Honors",
+      "credits": "3.00",
+      "description": "This course is an investigation and analysis of the accounting problems and practices of the corporation, with detailed study of the component elements of the balance sheet and income statement. Basic topics include: generally accepted accounting principles, financial statements, income determination, and presentation.",
+      "institution": "Duquesne University"
+    },
+    {
+      "course_id": "ACCT 312H",
+      "course_title": "Intermediate Acctg II Honors",
+      "credits": "3.00",
+      "description": "This course is an investigation and analysis of the accounting problems and practices of the corporation, with detailed study of the component elements of the balance sheet and income statement. Basic topics include: generally accepted accounting principles, financial statements, income determination and presentation.",
+      "institution": "Duquesne University"
+    },
+    {
+      "course_id": "ACCT 314H",
+      "course_title": "Advanced Accounting-Honors",
+      "credits": "3.00",
+      "description": "Exposes students to some of the more advanced and topical accounting subject matter. Potential areas of study include accounting for partnerships, accounting for governmental entities, the preparation of consolidated financial statements and foreign currency transactions and translations.",
+      "institution": "Duquesne University"
+    },
+    {
+      "course_id": "ACCT 315H",
+      "course_title": "Cost Accounting Honors",
+      "credits": "3.00",
+      "description": "This course addresses the use of accounting information for purposes of cost determination, cost control and cost analysis. Topics include: cost terminology, cost behavior, job order costing, process costing, cost allocations, and standard costing.",
+      "institution": "Duquesne University"
+    },
+    {
+      "course_id": "ACCT 411H",
+      "course_title": "Auditing Honors",
+      "credits": "3.00",
+      "description": "Standards and procedures employed by auditors in the examination of financial statements for the purpose of rendering an opinion are studied and evaluated. Case problems are used to demonstrate the application of the principles studied.",
+      "institution": "Duquesne University"
+    },
+    {
+      "course_id": "ACCT 411W",
+      "course_title": "Auditing",
+      "credits": "3.00",
+      "description": "Standards and procedures employed by auditors in the examination of financial statements for the purpose of rendering an opinion are studied and evaluated. Case problems are used to demonstrate the application of the principles studied.",
+      "institution": "Duquesne University"
+    },
+    {
+      "course_id": "ACCT 412H",
+      "course_title": "Intro Income Tax Acctg Honors",
+      "credits": "3.00",
+      "description": "This course a study of basic tax regulations and procedures affecting individuals, and to a lesser extent, business units. Principle topics include: returns, rates, exemptions, income, deductions, sales and exchanges of assets, and credits.",
+      "institution": "Duquesne University"
+    }
+  ],
+  "timestamp": "2025-08-10T22:38:28.623860"
+}

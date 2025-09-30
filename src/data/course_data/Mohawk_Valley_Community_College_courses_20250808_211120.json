@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Mohawk Valley Community College",
+    "successful_variation": "Mohawk Valley Community College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Mohawk+Valley+Community+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "AA 106",
+      "course_title": "Business Communications C",
+      "credits": "3.00",
+      "description": "This course covers the fundamental principles of effective business correspondence, report writing, and oral communications.These principles are applied first to sentences and paragraphs, and then to specific types of business communications. It includes a review of spelling, vocabulary, punctuation, grammar, and compositionas necessary.",
+      "institution": "Mohawk Valley Community College"
+    },
+    {
+      "course_id": "AA 107",
+      "course_title": "Keyboarding- Personal P",
+      "credits": "2.00",
+      "description": "This course develops touch control of the computer keyboard, proper techniques, and building speed and accuracy. Not forAdministrative Assistant majors.",
+      "institution": "Mohawk Valley Community College"
+    },
+    {
+      "course_id": "AA 111",
+      "course_title": "Keyboarding- Basic C- 1 P",
+      "credits": "4.00",
+      "description": "This course introduces proper computer keyboarding techniques, builds speed and accuracy, and provides practice in formatting personal and business documents.",
+      "institution": "Mohawk Valley Community College"
+    },
+    {
+      "course_id": "AA 112",
+      "course_title": "Keyboarding- Intermediate C- 1 P",
+      "credits": "4.00",
+      "description": "This course concentrates on increasing keyboarding speed and accuracy, and providing practice on more advanced word processing and desktop publishing projects. Prerequisite:AA111 Keyboarding - Basic.",
+      "institution": "Mohawk Valley Community College"
+    },
+    {
+      "course_id": "AA 203",
+      "course_title": "Machine Transcriptions C- 1 P",
+      "credits": "4.00",
+      "description": "This course provides intensive training in the transcription of letters, memoranda, and reports, using various types of equipment and instructional materials. Emphasis is on mailable transcripts and production work. Prerequisite:AA112 Keyboarding - Intermediate.",
+      "institution": "Mohawk Valley Community College"
+    },
+    {
+      "course_id": "AA 208",
+      "course_title": "Office Administration C",
+      "credits": "3.00",
+      "description": "This course introduces the scope and responsibilities of administrative office management.Topics include information management as it relates to planning, organizing, operating, and controlling office operations, management leadership and human relations factors, salary administration, labor management relations, and office personnel problems and practices.",
+      "institution": "Mohawk Valley Community College"
+    },
+    {
+      "course_id": "AA 214",
+      "course_title": "Keyboarding- Advanced C- 2 P",
+      "credits": "2.00",
+      "description": "This course covers advanced word processing and desktop publishing skills.Decision-making, editing, abstracting information, setting priorities, and maintaining a smooth workflow are emphasized.Government,medical, legal, and business documents are keyboarded. Prerequisite:AA112 Keyboarding - Intermediate.",
+      "institution": "Mohawk Valley Community College"
+    },
+    {
+      "course_id": "AA 300",
+      "course_title": "independent Study Cr",
+      "credits": "4.00",
+      "description": "independent Study Cr",
+      "institution": "Mohawk Valley Community College"
+    },
+    {
+      "course_id": "AC 115",
+      "course_title": "Accounting",
+      "credits": "3.00",
+      "description": "This course is the first of a sequence that explores fundamentalaccounting principles, concepts, and practices as a basis for the preparation, understanding, and interpretation of accounting information. plies, equipment instrumentation, procedural steps, counts, dressing materials, specimen care, and postoperative destination and care. Surgical specialties include General,Obstetric and Gynecology,Ophthalmology, Otorhinolaryngology,Oral and Maxillofacial, Plastic and Reconstructive,Genitourinary,Orthopedics, Cardiothoracic, PeripheralVascular, and Neurosurgery. Prerequisites:AH120 SurgicalTechnician Clinical Seminar and AH130 Fundamentals for Surgical Technicians. Corequisites:BI107 Human Anatomy & Physiology 2 and AH230 SurgicalTechnician Clinical Practice 1.",
+      "institution": "Mohawk Valley Community College"
+    },
+    {
+      "course_id": "AC 116",
+      "course_title": "Accounting",
+      "credits": "3.00",
+      "description": "This course is the second of a sequence that explores fundamental accounting principles, concepts, and practices as a basis for the preparation, understanding, and interpretation of accounting information. It covers corporate equity (including the statement of retained earnings), long-term debt, time-value concepts, capital budgeting, cost-volume-profit analysis, and financial statement analysis. Prerequisite:AC115 Financial Accounting.",
+      "institution": "Mohawk Valley Community College"
+    }
+  ],
+  "timestamp": "2025-08-08T21:11:20.649969"
+}

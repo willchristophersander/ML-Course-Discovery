@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Susquehanna University",
+    "successful_variation": "Susquehanna University",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Susquehanna+University&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACCT 200",
+      "course_title": "Financial Accounting",
+      "credits": "4.00",
+      "description": "Introduction to accounting for internal and external reporting. Emphasizes corporate financial accounting and reporting. Covers theoretical and practical issues related to the accounting and reporting of assets, liabilities, owners' equity, revenues, expenses, gains and losses. Emphasis is placed on the importance of financial accounting information for investment and credit decisions. Prerequisites: INFS:100 and sophomore standing. 4 SH.",
+      "institution": "Susquehanna University"
+    },
+    {
+      "course_id": "ACCT 210",
+      "course_title": "Legal Environment",
+      "credits": "4.00",
+      "description": "The legal environment as it relates to business. Considers essential elements of consumer protection law, employment law, environmental regulation, court procedures, torts, introduction to contracts, agency law and selected laws regarding corporations. Prerequisite: sophomore standing. 4 SH.",
+      "institution": "Susquehanna University"
+    },
+    {
+      "course_id": "ACCT 220",
+      "course_title": "Introduction to Taxation",
+      "credits": "2.00",
+      "description": "The objective of this course is to provide students with an initial background in federal income tax. The course builds an appreciation of federal income tax laws as opposed to accounting principles and theory. It is designed to develop a fundamental knowledge of basic federal income tax principles and concepts. The course is also designed to qualify the student as a TCE (Tax Counseling for the Elderly) volunteer. This program is offered in the spring and is not a course requirement. The TCE program is specifically targeted to the elderly and is offered at the Selinsgrove Senior Center. The topics discussed in this course include the following: gross income inclusions and exclusions, adjusted gross income, deductions, exemptions, filing status, sales and exchanges of property, the earned income credit, the credit for the elderly, education credits, and capital gains and losses. Pennsylvania taxes are also covered. Prerequisite: ACCT:200. 2 SH.",
+      "institution": "Susquehanna University"
+    },
+    {
+      "course_id": "ACCT 300",
+      "course_title": "Financial Statement Analysis",
+      "credits": "2.00",
+      "description": "Study of the information contained in balance sheets, income statements, statements of cash flow, and footnotes in the annual reports of corporations. Includes analysis of the relationships and predictability of such information. The course includes case studies, computerized analyses, and library research. Prerequisite: MGMT:340. 2 SH.",
+      "institution": "Susquehanna University"
+    },
+    {
+      "course_id": "ACCT 301",
+      "course_title": "Intermediate Accounting I",
+      "credits": "4.00",
+      "description": "Covers the theoretical and conceptual framework of financial accounting and the content and usefulness of financial statements. Also provides in-depth coverage of the accounting and reporting issues related to operating activities of business enterprises. Special projects include case studies and position papers requiring research into pronouncements of the Financial Accounting Standards Board. Prerequisite: ACCT:200 and junior standing. 4 SH.",
+      "institution": "Susquehanna University"
+    },
+    {
+      "course_id": "ACCT 302",
+      "course_title": "Intermediate Accounting II",
+      "credits": "4.00",
+      "description": "Continuation of ACCT:301, emphasizing accounting and reporting issues for investing and financing activities of a business enterprise. Additional coverage of latest developments in financial accounting. Special projects include cases and position papers requiring research into pronouncements of FASB. Prerequisite: ACCT:301. 4 SH.",
+      "institution": "Susquehanna University"
+    },
+    {
+      "course_id": "ACCT 305",
+      "course_title": "Federal Taxation",
+      "credits": "2.00",
+      "description": "This course is a continuation of ACCT:220 Introduction to Taxation. It emphasizes tax research through the use of RIA's Checkpoint and LEXIS-NEXIS. The students also learn how to prepare tax returns using a computerized tax return preparation program such as TurboTax. Technical tax topics are covered in more depth. Learning is accomplished through the use of case studies, such as Prentice-Hall's Life of Riley. There is a heavy emphasis on learning to recognize and research tax issues. The course places a considerable emphasis upon the development of the student's ability to recognize, interpret, and weigh the various and often conflicting sources of the tax law. These sources include the Internal Revenue code, Congressional Committee Reports, Treasury Department Regulations, IRS pronouncements, federal court precedents, and commentaries of tax practitioners and academicians. The student is exposed to the various sources of the tax laws: how to find them, how to correctly cite them, how to read and interpret them, how to weigh conflicting authorities in formulating recommendations, etc. The course also develops and refines students' analytical and legal reasoning skills and their diagnostic instincts and abilities. Prerequisite: ACCT:220. 2 SH.",
+      "institution": "Susquehanna University"
+    },
+    {
+      "course_id": "ACCT 310",
+      "course_title": "Advanced Business Law",
+      "credits": "2.00",
+      "description": "A study of contracts, employment law, anti-trust law and commercial transactions. Includes negotiable instruments, sales, creditors' rights, personal property and bailments. Prerequisite: ACCT:210. 2 SH.",
+      "institution": "Susquehanna University"
+    },
+    {
+      "course_id": "ACCT 330",
+      "course_title": "Cost Management",
+      "credits": "4.00",
+      "description": "Study and comparison of traditional and emerging costing systems. Traditional costing emphasizes accounting procedures for inventory valuation, budgeting, and investment decisions with emphases on unit-based cost behavior; job, process, and standard costing; variance analysis; break-even analysis; time-value decision models. Emerging costing emphasizes the understanding of cost behavior as a strategic tool of general management. It covers recently developed concepts of activity-based costing, target costing, backflushing, and the theory of constraints. Prerequisites: ACCT:200 and junior standing. 4 SH.",
+      "institution": "Susquehanna University"
+    },
+    {
+      "course_id": "ACCT 340",
+      "course_title": "Governmental and Nonprofit Accounting",
+      "credits": "2.00",
+      "description": "Introduction to the theory and practice of accounting for nonprofit organizations, such as government operations, hospitals, colleges and arts facilities. Includes budgeting as well as bookkeeping and reporting practices. Prerequisite: ACCT:200. (Offered in alternate years) 2 SH.",
+      "institution": "Susquehanna University"
+    }
+  ],
+  "timestamp": "2025-08-10T12:31:49.546330"
+}

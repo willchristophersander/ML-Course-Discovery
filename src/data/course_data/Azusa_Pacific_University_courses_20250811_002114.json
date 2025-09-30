@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Azusa Pacific University",
+    "successful_variation": "Azusa Pacific University",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Azusa+Pacific+University&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACCT 225",
+      "course_title": "Intermediate Accounting I",
+      "credits": "3.00",
+      "description": "This course offers an intensive study of the accounting theory and principles underlying financial accounting. Emphasis is placed on the theoretical and conceptual framework of the financial reporting process including the role and authority of official accounting pronouncements and the responsibilities of professional accountants. This course begins with a review of the accounting model and covers accounting theory as it relates to revenue recognition, current assets including cash, accounts receivable, inventories, and operational assets. Prerequisites: BUSI 120 and BUSI 121",
+      "institution": "Azusa Pacific University"
+    },
+    {
+      "course_id": "ACCT 226",
+      "course_title": "Intermediate Accounting II",
+      "credits": "3.00",
+      "description": "This course continues the study begun in ACCT 225, covering intangible assets, investments, short- and long-term liabilities, leases, income taxes, corporate capital transactions, and statement of cash flows. Emphasis is placed on the theoretical and conceptual framework of the financial reporting process including the role and authority of official accounting pronouncements and the responsibilities of professional accountants. Prerequisite: ACCT 225",
+      "institution": "Azusa Pacific University"
+    },
+    {
+      "course_id": "ACCT 325",
+      "course_title": "Cost Accounting",
+      "credits": "3.00",
+      "description": "This course explores managerial accounting concepts used in planning and controlling operations, determining cost of production, inventory control and evaluation, budgeting, and long-range planning. Emphasis is placed on cost determination, cost accumulation, cost-volume-profit relationships, standard costs, variances analysis and reporting, and the relationship between controlling costs and controlling operations. Prerequisite: ACCT 225 and ACCT 226",
+      "institution": "Azusa Pacific University"
+    },
+    {
+      "course_id": "ACCT 331",
+      "course_title": "Federal Taxes I",
+      "credits": "3.00",
+      "description": "This course offers an intensive study of the theory and principles of federal income tax law as it applies to individuals. Emphasis is placed on the theoretical framework and philosophy of the federal tax system as well as practical application and planning. This course covers basic concepts in the determination of income, classes of deductions, allowable credits, and property transactions. The importance of appropriate tax planning is stressed. A project utilizing commercial tax software is used to demonstrate computer applications. Prerequisite(s): BUSI 120 and BUSI 121, or instructor's permission",
+      "institution": "Azusa Pacific University"
+    },
+    {
+      "course_id": "ACCT 332",
+      "course_title": "Federal Taxes II",
+      "credits": "3.00",
+      "description": "This course offers an intensive study of the theory and principles of federal income tax law as it applies to business entities corporations, partnerships, estates, and trusts. Emphasis is placed on the theoretical framework as well as practical application and planning. This course covers basic concepts of taxation in corporate formation and operation, partnership and S corporation formation and operation, and fundamentals of estate, gift, and trust taxation. The course also covers the tax audit process and professional tax preparer responsibilities. Prerequisite: ACCT 331",
+      "institution": "Azusa Pacific University"
+    },
+    {
+      "course_id": "ACCT 336",
+      "course_title": "Advanced Accounting",
+      "credits": "3.00",
+      "description": "This course provides an in-depth study of accounting theory and principles first encountered in Intermediate Accounting. Topics covered include accounting for partnerships, joint ventures, and corporations. Extensive coverage is given to business combinations and consolidations. Also covered are branch accounting, bankruptcy reporting, and accounting for estates and nonprofit organizations. Prerequisites: ACCT 225 and ACCT 226",
+      "institution": "Azusa Pacific University"
+    },
+    {
+      "course_id": "ACCT 426",
+      "course_title": "Auditing Principles I",
+      "credits": "3.00",
+      "description": "An overview of auditing concepts is offered with special attention to auditing standards, professional ethics, the legal ability inherent in the attest function, the study and evaluation of internal control, the nature of evidence, statistical sampling, and the impact of electronic data processing. The basic approach to planning an audit is addressed as are the audit objectives and procedures applied to the elements in a financial statement. Prerequisite: ACCT 336",
+      "institution": "Azusa Pacific University"
+    },
+    {
+      "course_id": "ACCT 427",
+      "course_title": "Auditing Principles II",
+      "credits": "3.00",
+      "description": "This course takes the concepts and procedures learned in ACCT 426 and applies them in a comprehensive audit case study. Students prepare audit work papers that demonstrate application of audit theory and objectives for various classes of financial statement accounts. Students are exposed to the planning, control, and review procedures used by many public accounting firms. The use of computerized audit software is covered. Prerequisite: ACCT 426",
+      "institution": "Azusa Pacific University"
+    },
+    {
+      "course_id": "AES 242",
+      "course_title": "Fundamental Principles of Fitness",
+      "credits": "2.00",
+      "description": "This foundational course investigates fitness principles for improving cardio-respiratory endurance, strength, flexibility, body composition, and overall physical wellness. Students gain the knowledge, skills, and abilities necessary to develop, implement, and manage basic fitness programs for physical education students and health fitness clients. Students are also exposed to the use of modern technology in the management of fitness programs and human performance in a variety of settings. ( This class is for AES, AT, PE majors/LBS PE Concentration majors, instructor's permission.)",
+      "institution": "Azusa Pacific University"
+    },
+    {
+      "course_id": "AES 290",
+      "course_title": "Human Movement Science",
+      "credits": "3.00",
+      "description": "This course focuses on the functional anatomy, basic biomechanics, and motor behavior related to human movement. Students explore human movement patterns and dysfunction through the physical assessment of the kinetic chain during physical activity and exercise. Prerequisites: BIOL 101 or BIOL 151 and BIOL 115 or BIOL 250/251",
+      "institution": "Azusa Pacific University"
+    }
+  ],
+  "timestamp": "2025-08-11T00:21:14.436227"
+}

@@ -1,0 +1,74 @@
+{
+  "search_query": {
+    "institution": "Luther College",
+    "successful_variation": "Luther College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Luther+College&distance=5"
+  },
+  "total_results": 9,
+  "courses": [
+    {
+      "course_id": "ACCT 110",
+      "course_title": "Introduction to Accounting",
+      "credits": "2.00",
+      "description": "2 hours A course specifically for students who have had no prior study, at any level, of bookkeeping or accounting. All aspects of the accounting cycle are covered. Prerequisite: first-year or sophomore standing or consent of instructor.",
+      "institution": "Luther College"
+    },
+    {
+      "course_id": "ACCT 150",
+      "course_title": "Fundamentals of Accounting",
+      "credits": "4.00",
+      "description": "4 hours The course provides a basic understanding of financial and managerial accounting concepts, principles and procedures. Emphasis will be placed on the use of accounting information by management, creditors and stockholders. Course coverage includes accounting for inventory, receivables, long-term assets, short and longterm debt, stockholders equity, financial statement analysis, cost behavior analysis, manufacturing operations, budgeting and variance analysis. Prerequisite: ACCT 110.",
+      "institution": "Luther College"
+    },
+    {
+      "course_id": "ACCT 185",
+      "course_title": "First-year Seminar",
+      "credits": "4.00",
+      "description": "4 hours A variety of seminars for first-year students offered each January term.",
+      "institution": "Luther College"
+    },
+    {
+      "course_id": "ACCT 250",
+      "course_title": "Accounting for Decision Making",
+      "credits": "4.00",
+      "description": "4 hours This course examines the central role of accountants in the decision-making process of an organization. Topics include internal control, fraud prevention, capital investment analysis, mergers and acquisitions, business strategy, and compliance reporting. Prereq: ACCT 150.",
+      "institution": "Luther College"
+    },
+    {
+      "course_id": "ACCT 353",
+      "course_title": "Intermediate Accounting I",
+      "credits": "4.00",
+      "description": "4 hours Deals with financial accounting concepts and practice. Provides an expansion of the basic fundamentals of accounting procedure. Includes intensive coverage of the asset and liability sections of the balance sheet. Student applies accounting theory, standards, principles, and procedures to accounting problems. Prerequisite: ACCT 250, and junior standing or above. (E, R)",
+      "institution": "Luther College"
+    },
+    {
+      "course_id": "ACCT 354",
+      "course_title": "Intermediate Accounting II",
+      "credits": "4.00",
+      "description": "4 hours Further coverage of financial accounting concepts and practice. Includes intensive coverage of the stockholders' equity section of the balance sheet, the statement of changes in financial position, and other special topics, including pension costs, leases, and income tax allocation. Prerequisite: ACCT 353. (E, R)",
+      "institution": "Luther College"
+    },
+    {
+      "course_id": "ACCT 357",
+      "course_title": "Accounting for Government and Nonprofit Entities",
+      "credits": "4.00",
+      "description": "4 hours Introduction to governmental accounting and financial reporting principles, procedures, and analysis are emphasized. Nonprofit accounting, financial reporting, analysis, and operational performance topics are studied in a portion of the course. Prerequisite: ACCT 150 or junior standing.",
+      "institution": "Luther College"
+    },
+    {
+      "course_id": "ACCT 358",
+      "course_title": "Managerial Cost Accounting",
+      "credits": "4.00",
+      "description": "4 hours Advanced course in managerial accounting focusing on cost accumulation and allocation methods in the manufacturing environment, including activity based costing (ABC). Advanced topics include statistical cost estimation, flexible budgeting, standard costing, inventory valuation, capacity analysis, pricing, variance analysis, performance measurement, strategic analysis, and continuous improvement methods. Prerequisite: ACCT 250 or consent of instructor.",
+      "institution": "Luther College"
+    },
+    {
+      "course_id": "ACCT 365",
+      "course_title": "Financial Accounting IV",
+      "credits": "4.00",
+      "description": "4 hours Accounting for mergers and consolidations, partnerships, foreign currency transactions, segment reporting, theoretical concepts of value and measurement, and special problems of various industries. Prerequisite: ACCT 354.",
+      "institution": "Luther College"
+    }
+  ],
+  "timestamp": "2025-09-30T13:30:02.231603"
+}

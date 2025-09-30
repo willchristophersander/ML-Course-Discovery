@@ -1,0 +1,74 @@
+{
+  "search_query": {
+    "institution": "Rollins College",
+    "successful_variation": "Rollins College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Rollins+College&distance=5"
+  },
+  "total_results": 9,
+  "courses": [
+    {
+      "course_id": "ANT 150",
+      "course_title": "Cultures of the World",
+      "credits": "3.00",
+      "description": "Surveys past and present peoples of the world. Introduces students to diversity and underlying unity of human culture from evolutionary and ecological perspectives. Suitable for nonmajors.",
+      "institution": "Rollins College"
+    },
+    {
+      "course_id": "ANT 200",
+      "course_title": "Cultural Anthropology",
+      "credits": "3.00",
+      "description": "Compares and contrasts pre-industrial and industrial societies while introducing concepts and methodology in study of culture and human socialization. Focuses on relationship between human behavior and cultural adaptation. Suitable for nonmajors.",
+      "institution": "Rollins College"
+    },
+    {
+      "course_id": "ANT 206",
+      "course_title": "Anthropological Perspectives on Love and Marriage",
+      "credits": "3.00",
+      "description": "Investigates patterns of courtship and marriage from a cross-cultural perspective. Hypotheses about the biological/evolutionary bases of male-female relationships reviewed in brief. Texts on love and marriage in non-Western cultures, and several articles and excerpts from larger works included.",
+      "institution": "Rollins College"
+    },
+    {
+      "course_id": "ANT 210",
+      "course_title": "Human Evolution",
+      "credits": "3.00",
+      "description": "Introduces physical anthropology. Reviews genetics, including evolution, then turns to nonhuman primates for models for human physical and cultural evolution. Examines human fossils and changes in human form and material culture. Dissects debates among paleontologists to illuminate how science works. Suitable for nonmajors.",
+      "institution": "Rollins College"
+    },
+    {
+      "course_id": "ANT 215",
+      "course_title": "Human Ecology",
+      "credits": "3.00",
+      "description": "Introduces the ecological and anthropological study of human adaptation in tropical and subtropical regions. Special emphasis on the ecology of Latin America (the Amazon and Caribbean Basins), but also includes studies of other tropical and subtropical regions of the earth.",
+      "institution": "Rollins College"
+    },
+    {
+      "course_id": "ANT 217",
+      "course_title": "Anthropology,Fiction and Literature",
+      "credits": "3.00",
+      "description": "Explores the possibility of representing other cultures through the writing of fiction. Examines experimental and fictional works by both anthropologists and non-anthropologists that portray other cultures in a compelling manner.",
+      "institution": "Rollins College"
+    },
+    {
+      "course_id": "ANT 219",
+      "course_title": "Cultures of the Amazon",
+      "credits": "3.00",
+      "description": "Study of indigenous groups and caboclos ( or riberinhos) in the tropical lowlands of South America. Examines the ecology of the region and human adaptations to the various ecosystems there during prehistorical, historical, and contemporary periods. Also examines ways in which traditional caboclo and indigenous adaptations can assist scientists and policy makers in developing strategies to use resources more sustainably in tropical Latin America.",
+      "institution": "Rollins College"
+    },
+    {
+      "course_id": "ANT 228",
+      "course_title": "Introduction to Archaeology",
+      "credits": "3.00",
+      "description": "Surveys origins and cultures of early civilizations, including hunter-gatherers, the Neolithic, Sumerians, Egyptians, Mayans, Aztecs, and Incas. Contrasts ancient customs and processes of cultural change with those of modern civilization. Suitable for nonmajors.",
+      "institution": "Rollins College"
+    },
+    {
+      "course_id": "ANT 251",
+      "course_title": "Native American Cultures",
+      "credits": "3.00",
+      "description": "Introduces North American Indian culture, both traditional and modern, through in-depth analysis of various Indian societies, their problems, and their adaptive responses to changing environments. Places both Native American and \"Anglo\" culture in anthropological perspective. Suitable for nonmajors.",
+      "institution": "Rollins College"
+    }
+  ],
+  "timestamp": "2025-08-09T20:24:24.503802"
+}

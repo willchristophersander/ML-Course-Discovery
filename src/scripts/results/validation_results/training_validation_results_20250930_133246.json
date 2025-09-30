@@ -1,0 +1,118 @@
+{
+  "timestamp": "2025-09-30T13:32:46.561982",
+  "analysis": {
+    "total_universities": 5,
+    "discovery_success_rate": 0.8,
+    "avg_discovery_confidence": 0.84125,
+    "ct_availability_rate": 0.0,
+    "colleges_with_ct_courses": 0,
+    "validation_success_rate": 0,
+    "avg_validation_confidence": 0,
+    "course_finding_rate": 0,
+    "avg_discovery_time": 101.78630228042603,
+    "avg_validation_time": 3.37718825340271,
+    "successful_discoveries": [
+      {
+        "university": "Hope College",
+        "url": "https://hope.edu/academics/courses/index.html",
+        "discovery_confidence": 0.935,
+        "validation_confidence": 0.0,
+        "courses_found": "0/0"
+      },
+      {
+        "university": "Western Washington University",
+        "url": "https://registrar.wwu.edu/register-classes",
+        "discovery_confidence": 0.755,
+        "validation_confidence": 0.0,
+        "courses_found": "0/0"
+      },
+      {
+        "university": "United States Air Force Academy",
+        "url": "https://united.edu/schedule-a-video-call/",
+        "discovery_confidence": 0.895,
+        "validation_confidence": 0.0,
+        "courses_found": "0/0"
+      },
+      {
+        "university": "Georgia Institute of Technology",
+        "url": "https://catalog.gatech.edu/coursesaz/",
+        "discovery_confidence": 0.78,
+        "validation_confidence": 0.0,
+        "courses_found": "0/0"
+      }
+    ],
+    "failed_discoveries": [
+      {
+        "university": "MTI College",
+        "error": "Timeout 30000ms exceeded."
+      }
+    ]
+  },
+  "detailed_results": [
+    {
+      "university_name": "Hope College",
+      "discovered_url": "https://hope.edu/academics/courses/index.html",
+      "discovery_success": true,
+      "discovery_confidence": 0.935,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No test courses found in CollegeTransfer.net",
+      "discovery_time": 96.30191779136658,
+      "validation_time": 3.004148006439209
+    },
+    {
+      "university_name": "Western Washington University",
+      "discovered_url": "https://registrar.wwu.edu/register-classes",
+      "discovery_success": true,
+      "discovery_confidence": 0.755,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No test courses found in CollegeTransfer.net",
+      "discovery_time": 95.65941500663757,
+      "validation_time": 4.751275062561035
+    },
+    {
+      "university_name": "MTI College",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "Timeout 30000ms exceeded.",
+      "discovery_time": 125.27879405021667,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "United States Air Force Academy",
+      "discovered_url": "https://united.edu/schedule-a-video-call/",
+      "discovery_success": true,
+      "discovery_confidence": 0.895,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No test courses found in CollegeTransfer.net",
+      "discovery_time": 95.88525676727295,
+      "validation_time": 4.525879144668579
+    },
+    {
+      "university_name": "Georgia Institute of Technology",
+      "discovered_url": "https://catalog.gatech.edu/coursesaz/",
+      "discovery_success": true,
+      "discovery_confidence": 0.78,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No test courses found in CollegeTransfer.net",
+      "discovery_time": 95.80612778663635,
+      "validation_time": 4.604639053344727
+    }
+  ]
+}

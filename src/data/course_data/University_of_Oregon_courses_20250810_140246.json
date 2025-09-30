@@ -1,0 +1,74 @@
+{
+  "search_query": {
+    "institution": "University of Oregon",
+    "successful_variation": "University of Oregon",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=University+of+Oregon&distance=5"
+  },
+  "total_results": 9,
+  "courses": [
+    {
+      "course_id": "AEIS 103",
+      "course_title": "Comprehending Oral Academic Discourse",
+      "credits": "4.00",
+      "description": "Explores elements of aural comprehension, focusing on classroom-based academic discourse: listening strategies based on oral linguistic cues, identification of topics, use of schemata, discourse genres.",
+      "institution": "University of Oregon"
+    },
+    {
+      "course_id": "AEIS 105",
+      "course_title": "Producing Oral Academic Discourse",
+      "credits": "4.00",
+      "description": "Covers conventions of oral academic discourse including negotiating meaning, information gathering, reporting, small-group interaction.",
+      "institution": "University of Oregon"
+    },
+    {
+      "course_id": "AEIS 107",
+      "course_title": "Comprehending Written Academic Text",
+      "credits": "4.00",
+      "description": "Provides interactive reading model for effective processing of academic texts. Emphasizes development of critical reading skills, use of content schemata, and the role of context in resolving ambiguity.",
+      "institution": "University of Oregon"
+    },
+    {
+      "course_id": "AEIS 110",
+      "course_title": "Written Discourse I",
+      "credits": "4.00",
+      "description": "Introduces conventions of expository essay writing. Emphasizes clear, effective written communication and development of editing skills. Covers grammar in context.",
+      "institution": "University of Oregon"
+    },
+    {
+      "course_id": "AEIS 111",
+      "course_title": "Written Discourse II",
+      "credits": "4.00",
+      "description": "Intermediate writing for nonnative speakers of English. Critical analysis of literary readings leading to summary, paraphrase, essay-examination responses, and expository essays. Prereq: AEIS 110 or English-proficiency examination administered by UO Testing Office.",
+      "institution": "University of Oregon"
+    },
+    {
+      "course_id": "AEIS 112",
+      "course_title": "Written Discourse III",
+      "credits": "4.00",
+      "description": "Advanced writing for nonnative speakers of English. Critical reading of academic texts for response in various academic modes: reporting research, critical analysis, and argumentation. Prereq: AEIS 111 or English-proficiency examination administered by UO Testing Office.",
+      "institution": "University of Oregon"
+    },
+    {
+      "course_id": "AFR 196",
+      "course_title": "Field Studies:[Topic",
+      "credits": "3.00",
+      "description": "Field Studies:[Topic",
+      "institution": "University of Oregon"
+    },
+    {
+      "course_id": "AFR 198",
+      "course_title": "Workshop:[Topic",
+      "credits": "3.00",
+      "description": "Workshop:[Topic",
+      "institution": "University of Oregon"
+    },
+    {
+      "course_id": "AFR 199",
+      "course_title": "Special Studies:[Topic",
+      "credits": "3.00",
+      "description": "Special Studies:[Topic",
+      "institution": "University of Oregon"
+    }
+  ],
+  "timestamp": "2025-08-10T14:02:46.146333"
+}

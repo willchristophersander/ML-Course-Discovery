@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Ohio Wesleyan University",
+    "successful_variation": "Ohio Wesleyan University",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Ohio+Wesleyan+University&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ABUS 000",
+      "course_title": "Orientation/ Career Development And Search",
+      "credits": "1.00",
+      "description": "1 Credit Familiarization with the college, requirements of the majors, planning sequences of courses, university catalog and library, career investigation and guidance. Activities include a service requirement. Fall Quarter. Graded S/U.",
+      "institution": "Ohio Wesleyan University"
+    },
+    {
+      "course_id": "ABUS 120",
+      "course_title": "Ethics in Business Practice",
+      "credits": "4.00",
+      "description": "4 Credits Systematic examination of alternative ethical decision making approaches followed by case analysis and discussion. Provides individual reflection and experience in alternative ethical approaches. Business majors only.",
+      "institution": "Ohio Wesleyan University"
+    },
+    {
+      "course_id": "ABUS 190",
+      "course_title": "Special Topi cs in Business",
+      "credits": "4.00",
+      "description": "1 to 4 Credits Can be repeated as the topic varies.",
+      "institution": "Ohio Wesleyan University"
+    },
+    {
+      "course_id": "ABUS 201",
+      "course_title": "Personal Computer Applications For Business",
+      "credits": "4.00",
+      "description": "4 Credits Business applications for microcomputers. Introductory level use of software for word processing, file management, spreadsheets, and graphics.",
+      "institution": "Ohio Wesleyan University"
+    },
+    {
+      "course_id": "ABUS 222",
+      "course_title": "Principles of Entrepreneurship",
+      "credits": "4.00",
+      "description": "4 Credits Entrepreneurship and new venture creation. Prerequisite: IBEC 202.",
+      "institution": "Ohio Wesleyan University"
+    },
+    {
+      "course_id": "ABUS 240",
+      "course_title": "Management Information Systems",
+      "credits": "4.00",
+      "description": "4 Credits The development, design and implementation of management information systems with introduction to the terminology, concepts and trends in computer hardware and software. Prerequisite: ABUS 201. (Formerly MGMT 240.)",
+      "institution": "Ohio Wesleyan University"
+    },
+    {
+      "course_id": "ABUS 290",
+      "course_title": "Special Topi cs in Business",
+      "credits": "4.00",
+      "description": "1 to 4 Credits Can be repeated as the topic varies.",
+      "institution": "Ohio Wesleyan University"
+    },
+    {
+      "course_id": "ABUS 305",
+      "course_title": "Basics of Expert Testimony",
+      "credits": "4.00",
+      "description": "4 Credits Legal aspects of the forensic engagement, including rules of evidence and procedure.",
+      "institution": "Ohio Wesleyan University"
+    },
+    {
+      "course_id": "ABUS 312",
+      "course_title": "Business Law",
+      "credits": "1.00",
+      "description": "4 Credits The legal environment in which businesses must operate. Topics include business ethics, sources of law, methods of dispute resolution, and the basic law regulating contracts, agency, business organizations, the workplace, consumer transactions, purchase and sale of securities, anticompetitive activities, actions affecting the environment, and international business transactions. Prerequisite: Junior standing.",
+      "institution": "Ohio Wesleyan University"
+    },
+    {
+      "course_id": "ABUS 313",
+      "course_title": "Business Law",
+      "credits": "2.00",
+      "description": "4 Credits The law as it applies to certain private business transactions. Topics include contracts, sales, commercial paper, secured transactions, suretyship, bankruptcy, insurance, property, landlord/tenant, wills, estates, and trusts. Prerequisite: ABUS 312. Permission required for non-business college major.",
+      "institution": "Ohio Wesleyan University"
+    }
+  ],
+  "timestamp": "2025-08-10T09:29:20.795035"
+}

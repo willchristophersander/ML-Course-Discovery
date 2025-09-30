@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Community College of Baltimore County",
+    "successful_variation": "Community College of Baltimore County",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Community+College+of+Baltimore+County&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACCT 100",
+      "course_title": "Practical Accounting/Bookkeeping",
+      "credits": "3.00",
+      "description": "Provides an overview of basic accounting principles, including skills needed for setup and maintenance of a sole proprietorship; suggested for students not majoring in Accounting or Business Administration to gain thorough understanding of financial records. 3 lecture hours per week. ACCT 100 is not a substitute for ACCT 101. When both are taken, only (5 Credits) are awarded. Corequisites: ENGL 052, RDNG 052, MATH 081",
+      "institution": "Community College of Baltimore County"
+    },
+    {
+      "course_id": "ACCT 101",
+      "course_title": "Principles of Accounting I",
+      "credits": "3.00",
+      "description": "Provides in-depth study of the accounting cycle for sole proprietorships, including record-keeping, preparation of financial statements, and the theory of accounts; uses computer technology and problem-solving techniques to supplement classroom work. 3 lecture hours per week. CLEP exam is accepted. Prerequisites: RDNG 052, ENGL 052, and MATH 081",
+      "institution": "Community College of Baltimore County"
+    },
+    {
+      "course_id": "ACCT 102",
+      "course_title": "Principles of Accounting II",
+      "credits": "3.00",
+      "description": "Defines accounting practices for partnerships and corporations through the use of specific accounting problems; explains current accounting systems procedures and the preparation of financial statements, as well as managerial and cost accounting methods. 3 lecture hours per week. CLEP exam is accepted. Prerequisite: ACCT 101",
+      "institution": "Community College of Baltimore County"
+    },
+    {
+      "course_id": "ACCT 116",
+      "course_title": "Computerized Accounting",
+      "credits": "3.00",
+      "description": "Studies the use of small computers in business, emphasizing accounting applications and the importance of accounting data to business decisions; places accounting principles in a computerized setting and introduces computerized accounting software. 3 lecture hours per week. Prerequisite: ACCT 101",
+      "institution": "Community College of Baltimore County"
+    },
+    {
+      "course_id": "ACCT 132",
+      "course_title": "Comprehensive Spreadsheets",
+      "credits": "3.00",
+      "description": "Provides in-depth study of an integrated spreadsheet environment that is widely used on microcomputer and network systems; studies spreadsheet, database, graphic features, macro development, the integration of this package with other microcomputer packages, data security, and data integration techniques. 3 lecture hours. This course is delivered in a combination lecture and hands-on format. NOTE: Same as CINS 132. Credit can be earned for one course only. Prerequisite: CINS 101 or written permission from program director or academic dean required",
+      "institution": "Community College of Baltimore County"
+    },
+    {
+      "course_id": "ACCT 201",
+      "course_title": "Intermediate Accouting I",
+      "credits": "3.00",
+      "description": "Explains financial accounting standard setting, concepts of financial accounting, balance sheets and income statements, and revenue and expense recognition; defines accounting for current assets, current liabilities, fixed assets, and intangible assets. 3 lecture hours per week. Prerequisite: ACCT 102",
+      "institution": "Community College of Baltimore County"
+    },
+    {
+      "course_id": "ACCT 202",
+      "course_title": "Intermediate Accounting II",
+      "credits": "3.00",
+      "description": "Continues the study of financial accounting standards; emphasizes accounting for inventories, securities, stockholders' equity, long-term liabilities, earnings per share, accounting changes, error analysis, and cash flow. 3 lecture hours per week. Prerequisite: ACCT 201 or written permission from instructor required",
+      "institution": "Community College of Baltimore County"
+    },
+    {
+      "course_id": "ACCT 221",
+      "course_title": "Principles of Auditing I",
+      "credits": "3.00",
+      "description": "Details the fundamental principles of auditing, to include the study and review of internal accounting controls, auditing standards, professional ethics, and reporting standards; explores data processing and statistical applications of auditing. 3 lecture hours per week. Prerequisite: ACCT 202",
+      "institution": "Community College of Baltimore County"
+    },
+    {
+      "course_id": "ACCT 225",
+      "course_title": "Cost Accounting",
+      "credits": "3.00",
+      "description": "Describes the nature and purpose of cost accounting in relation to industrial situations; highlights common practices of job order cost accounting, processes, standard and direct costing, preparation of cost statements, analysis of cost information, and project planning and control. 3 lecture hours per week. Prerequisite: ACCT 102",
+      "institution": "Community College of Baltimore County"
+    },
+    {
+      "course_id": "ACCT 230",
+      "course_title": "Advanced Accounting I",
+      "credits": "3.00",
+      "description": "Studies the application of accounting and business problems; explains financial statement presentation, business combinations and consolidated financial statements, and foreign operations. 3 lecture hours per week. Prerequisite: ACCT 202",
+      "institution": "Community College of Baltimore County"
+    }
+  ],
+  "timestamp": "2025-08-10T14:34:24.144098"
+}

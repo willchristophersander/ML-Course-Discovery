@@ -1,0 +1,394 @@
+{
+  "timestamp": "2025-08-09T20:00:59.107614",
+  "analysis": {
+    "total_universities": 20,
+    "discovery_success_rate": 0.55,
+    "avg_discovery_confidence": 0.8031818181818181,
+    "ct_availability_rate": 0.15,
+    "colleges_with_ct_courses": 3,
+    "validation_success_rate": 1.0,
+    "avg_validation_confidence": 0.46666666666666673,
+    "course_finding_rate": 0.6,
+    "avg_discovery_time": 46.808662796020506,
+    "avg_validation_time": 5.609263682365418,
+    "successful_discoveries": [
+      {
+        "university": "State University of New York College of Agriculture and Technology at Cobleskill",
+        "url": "https://www.coursicle.com/cobleskill/courses/ANSC/",
+        "discovery_confidence": 0.72,
+        "validation_confidence": 0.0,
+        "courses_found": "0/0"
+      },
+      {
+        "university": "Colorado Technical University",
+        "url": "https://classes.colorado.edu/",
+        "discovery_confidence": 0.935,
+        "validation_confidence": 0.2,
+        "courses_found": "1/5"
+      },
+      {
+        "university": "University of Wisconsin - Parkside",
+        "url": "https://www.uwp.edu/learn/courseschedule/",
+        "discovery_confidence": 0.78,
+        "validation_confidence": 0.0,
+        "courses_found": "0/0"
+      },
+      {
+        "university": "University of Texas at Dallas",
+        "url": "https://registrar.utdallas.edu/registration/registering-for-classes/",
+        "discovery_confidence": 0.755,
+        "validation_confidence": 0.0,
+        "courses_found": "0/0"
+      },
+      {
+        "university": "Southern Methodist University",
+        "url": "https://www.southern.edu/catalog/",
+        "discovery_confidence": 0.905,
+        "validation_confidence": 0.0,
+        "courses_found": "0/0"
+      },
+      {
+        "university": "Corning Community College",
+        "url": "https://corning.cleancatalog.net/classes",
+        "discovery_confidence": 0.765,
+        "validation_confidence": 0.0,
+        "courses_found": "0/0"
+      },
+      {
+        "university": "Madisonville Community College",
+        "url": "https://madisonville.kctcs.edu/education-training/class-schedules/course-catalog.aspx",
+        "discovery_confidence": 0.8049999999999999,
+        "validation_confidence": 0.8,
+        "courses_found": "5/5"
+      },
+      {
+        "university": "St. Mary's University",
+        "url": "https://www.stmarytx.edu/academics/course-catalog/",
+        "discovery_confidence": 0.7949999999999999,
+        "validation_confidence": 0.0,
+        "courses_found": "0/0"
+      },
+      {
+        "university": "Solano Community College",
+        "url": "https://welcome.solano.edu/schedule-of-classes/",
+        "discovery_confidence": 0.9199999999999999,
+        "validation_confidence": 0.4,
+        "courses_found": "3/5"
+      },
+      {
+        "university": "Georgia Gwinnett College",
+        "url": "https://www.ggc.edu/academics/registrar/courses-and-registration",
+        "discovery_confidence": 0.735,
+        "validation_confidence": 0.0,
+        "courses_found": "0/0"
+      },
+      {
+        "university": "Whitman College",
+        "url": "https://selfservice.whitman.edu/Student/Courses",
+        "discovery_confidence": 0.72,
+        "validation_confidence": 0.0,
+        "courses_found": "0/0"
+      }
+    ],
+    "failed_discoveries": [
+      {
+        "university": "Kanawha Valley Community and Technical College",
+        "error": "Page.click: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"a[href='https://www.marshall.edu/site-search/?q=schedule+of+courses']\")\n"
+      },
+      {
+        "university": "Briar Cliff College",
+        "error": "Page.goto: net::ERR_ABORTED at https://www.briarcliff.edu/filesimages/Future%20Chargers/Registration/2024-2025%20Academic%20Catalog.pdf\nCall log:\n  - navigating to \"https://www.briarcliff.edu/filesimages/Future%20Chargers/Registration/2024-2025%20Academic%20Catalog.pdf\", waiting until \"load\"\n"
+      },
+      {
+        "university": "El Camino College-Compton Center",
+        "error": "Page.goto: net::ERR_ABORTED at https://www.elcamino.edu/admissions/docs/2016-17_Catalog.pdf\nCall log:\n  - navigating to \"https://www.elcamino.edu/admissions/docs/2016-17_Catalog.pdf\", waiting until \"load\"\n"
+      },
+      {
+        "university": "Brandman University",
+        "error": "Page.click: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"a[href='https://westcottcourses.com/who-uses-westcott-courses/']\")\n    - locator resolved to <a href=\"https://westcottcourses.com/who-uses-westcott-courses/\">Who Uses Westcott Courses</a>\n  - attempting click action\n    2 \u00d7 waiting for element to be visible, enabled and stable\n      - element is not visible\n    - retrying click action\n    - waiting 20ms\n    2 \u00d7 waiting for element to be visible, enabled and stable\n      - element is not visible\n    - retrying click action\n      - waiting 100ms\n    58 \u00d7 waiting for element to be visible, enabled and stable\n       - element is not visible\n     - retrying click action\n       - waiting 500ms\n"
+      },
+      {
+        "university": "Coker College",
+        "error": "Page.goto: net::ERR_ABORTED at https://www.coker.edu/wp-content/uploads/2023/07/2023-2024-Academic-Catalog_Final-7.11.23-v1-3.pdf\nCall log:\n  - navigating to \"https://www.coker.edu/wp-content/uploads/2023/07/2023-2024-Academic-Catalog_Final-7.11.23-v1-3.pdf\", waiting until \"load\"\n"
+      },
+      {
+        "university": "Bowdoin College",
+        "error": "Page.click: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"a[href='https://www.bowdoin.edu/first-year-experience/academics-course-registration/index.html']\")\n"
+      },
+      {
+        "university": "Salem Community College",
+        "error": "Page.click: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"a[href='https://www.salemcc.edu/programs/scc-course-outlines']\")\n"
+      },
+      {
+        "university": "Merrimack College",
+        "error": "Page.click: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"a[href='https://www.merrimack.edu/academics/policies_procedures/academic-calendars-and-course-catalogs/']\")\n"
+      },
+      {
+        "university": "Purdue University Northwest",
+        "error": "Could not find course search page after navigation"
+      }
+    ]
+  },
+  "detailed_results": [
+    {
+      "university_name": "State University of New York College of Agriculture and Technology at Cobleskill",
+      "discovered_url": "https://www.coursicle.com/cobleskill/courses/ANSC/",
+      "discovery_success": true,
+      "discovery_confidence": 0.72,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No test courses found in CollegeTransfer.net",
+      "discovery_time": 70.56878590583801,
+      "validation_time": 11.98698902130127
+    },
+    {
+      "university_name": "Colorado Technical University",
+      "discovered_url": "https://classes.colorado.edu/",
+      "discovery_success": true,
+      "discovery_confidence": 0.935,
+      "validation_success": true,
+      "validation_confidence": 0.2,
+      "test_courses_found": 1,
+      "total_test_courses": 5,
+      "error_message": null,
+      "discovery_time": 57.005340814590454,
+      "validation_time": 18.52437400817871
+    },
+    {
+      "university_name": "Kanawha Valley Community and Technical College",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "Page.click: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"a[href='https://www.marshall.edu/site-search/?q=schedule+of+courses']\")\n",
+      "discovery_time": 105.16674494743347,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "University of Wisconsin - Parkside",
+      "discovered_url": "https://www.uwp.edu/learn/courseschedule/",
+      "discovery_success": true,
+      "discovery_confidence": 0.78,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No test courses found in CollegeTransfer.net",
+      "discovery_time": 70.63276791572571,
+      "validation_time": 26.269948959350586
+    },
+    {
+      "university_name": "University of Texas at Dallas",
+      "discovered_url": "https://registrar.utdallas.edu/registration/registering-for-classes/",
+      "discovery_success": true,
+      "discovery_confidence": 0.755,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No test courses found in CollegeTransfer.net",
+      "discovery_time": 70.66275405883789,
+      "validation_time": 15.948439121246338
+    },
+    {
+      "university_name": "Briar Cliff College",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "Page.goto: net::ERR_ABORTED at https://www.briarcliff.edu/filesimages/Future%20Chargers/Registration/2024-2025%20Academic%20Catalog.pdf\nCall log:\n  - navigating to \"https://www.briarcliff.edu/filesimages/Future%20Chargers/Registration/2024-2025%20Academic%20Catalog.pdf\", waiting until \"load\"\n",
+      "discovery_time": 56.23298788070679,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "El Camino College-Compton Center",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "Page.goto: net::ERR_ABORTED at https://www.elcamino.edu/admissions/docs/2016-17_Catalog.pdf\nCall log:\n  - navigating to \"https://www.elcamino.edu/admissions/docs/2016-17_Catalog.pdf\", waiting until \"load\"\n",
+      "discovery_time": 56.32696485519409,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "Brandman University",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "Page.click: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"a[href='https://westcottcourses.com/who-uses-westcott-courses/']\")\n    - locator resolved to <a href=\"https://westcottcourses.com/who-uses-westcott-courses/\">Who Uses Westcott Courses</a>\n  - attempting click action\n    2 \u00d7 waiting for element to be visible, enabled and stable\n      - element is not visible\n    - retrying click action\n    - waiting 20ms\n    2 \u00d7 waiting for element to be visible, enabled and stable\n      - element is not visible\n    - retrying click action\n      - waiting 100ms\n    58 \u00d7 waiting for element to be visible, enabled and stable\n       - element is not visible\n     - retrying click action\n       - waiting 500ms\n",
+      "discovery_time": 105.16638398170471,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "Southern Methodist University",
+      "discovered_url": "https://www.southern.edu/catalog/",
+      "discovery_success": true,
+      "discovery_confidence": 0.905,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No test courses found in CollegeTransfer.net",
+      "discovery_time": 24.115270137786865,
+      "validation_time": 15.552165031433105
+    },
+    {
+      "university_name": "Coker College",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "Page.goto: net::ERR_ABORTED at https://www.coker.edu/wp-content/uploads/2023/07/2023-2024-Academic-Catalog_Final-7.11.23-v1-3.pdf\nCall log:\n  - navigating to \"https://www.coker.edu/wp-content/uploads/2023/07/2023-2024-Academic-Catalog_Final-7.11.23-v1-3.pdf\", waiting until \"load\"\n",
+      "discovery_time": 9.372137784957886,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "Corning Community College",
+      "discovered_url": "https://corning.cleancatalog.net/classes",
+      "discovery_success": true,
+      "discovery_confidence": 0.765,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No test courses found in CollegeTransfer.net",
+      "discovery_time": 9.181246042251587,
+      "validation_time": 5.280947923660278
+    },
+    {
+      "university_name": "Bowdoin College",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "Page.click: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"a[href='https://www.bowdoin.edu/first-year-experience/academics-course-registration/index.html']\")\n",
+      "discovery_time": 55.783689975738525,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "Madisonville Community College",
+      "discovered_url": "https://madisonville.kctcs.edu/education-training/class-schedules/course-catalog.aspx",
+      "discovery_success": true,
+      "discovery_confidence": 0.8049999999999999,
+      "validation_success": true,
+      "validation_confidence": 0.8,
+      "test_courses_found": 5,
+      "total_test_courses": 5,
+      "error_message": null,
+      "discovery_time": 13.360262870788574,
+      "validation_time": 8.341023921966553
+    },
+    {
+      "university_name": "Salem Community College",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "Page.click: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"a[href='https://www.salemcc.edu/programs/scc-course-outlines']\")\n",
+      "discovery_time": 47.61207890510559,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "Merrimack College",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "Page.click: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"a[href='https://www.merrimack.edu/academics/policies_procedures/academic-calendars-and-course-catalogs/']\")\n",
+      "discovery_time": 43.43993306159973,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "Purdue University Northwest",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "Could not find course search page after navigation",
+      "discovery_time": 34.42433714866638,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "St. Mary's University",
+      "discovered_url": "https://www.stmarytx.edu/academics/course-catalog/",
+      "discovery_success": true,
+      "discovery_confidence": 0.7949999999999999,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No test courses found in CollegeTransfer.net",
+      "discovery_time": 31.303067922592163,
+      "validation_time": 3.7763521671295166
+    },
+    {
+      "university_name": "Solano Community College",
+      "discovered_url": "https://welcome.solano.edu/schedule-of-classes/",
+      "discovery_success": true,
+      "discovery_confidence": 0.9199999999999999,
+      "validation_success": true,
+      "validation_confidence": 0.4,
+      "test_courses_found": 3,
+      "total_test_courses": 5,
+      "error_message": null,
+      "discovery_time": 30.326159954071045,
+      "validation_time": 2.3512911796569824
+    },
+    {
+      "university_name": "Georgia Gwinnett College",
+      "discovered_url": "https://www.ggc.edu/academics/registrar/courses-and-registration",
+      "discovery_success": true,
+      "discovery_confidence": 0.735,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No test courses found in CollegeTransfer.net",
+      "discovery_time": 31.790420055389404,
+      "validation_time": 1.9440600872039795
+    },
+    {
+      "university_name": "Whitman College",
+      "discovered_url": "https://selfservice.whitman.edu/Student/Courses",
+      "discovery_success": true,
+      "discovery_confidence": 0.72,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No test courses found in CollegeTransfer.net",
+      "discovery_time": 13.701921701431274,
+      "validation_time": 2.2096822261810303
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "search_query": {
+    "institution": "University of Charleston",
+    "successful_variation": "University of Charleston",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=University+of+Charleston&distance=5"
+  },
+  "total_results": 5,
+  "courses": [
+    {
+      "course_id": "ACCT 301",
+      "course_title": "Intermediate Accounting I",
+      "credits": "3.00",
+      "description": "A study of generally accepted accounting principles with emphasis on the application of accounting theory, standards and procedures to financial accounting problems. Topics include conceptual framework, statements of income, retained earnings, financial position and cash flows, time value of money, and current and operational assets. Prerequisite: ACCT 202 with a grade of C or better.",
+      "institution": "University of Charleston"
+    },
+    {
+      "course_id": "ACCT 302",
+      "course_title": "Intermediate Accounting II",
+      "credits": "3.00",
+      "description": "Continuation of the study of financial accounting theory and practice. Topics include accounting for current and long-term liabilities, long-term investments, and stockholders' equity. Prerequisite: ACCT 301.",
+      "institution": "University of Charleston"
+    },
+    {
+      "course_id": "ACCT 322",
+      "course_title": "Cost Accounting",
+      "credits": "3.00",
+      "description": "A study of the fundamentals of cost determination in manufacturing and service establishments from an accounting perspective, with emphasis on the significance and interpretation of cost data. Prerequisite: ACCT 202.",
+      "institution": "University of Charleston"
+    },
+    {
+      "course_id": "ACCT 350",
+      "course_title": "Special Topics",
+      "credits": "3.00",
+      "description": "Variable credit 1-3 credits; may be repeated a maximum of two semesters. Advanced study of topics not covered in regularly scheduled courses through directed study or specially scheduled lectures, depending upon the topic. Prerequisite: Consent of instructor.",
+      "institution": "University of Charleston"
+    },
+    {
+      "course_id": "ACCT 403",
+      "course_title": "Intermediate Accounting III",
+      "credits": "3.00",
+      "description": "Continuation of ACCT 302, with concentration on the more technical areas of financial accounting. Topics include disclosure, financial statement analysis, revenue recognition, and accounting for income taxes, pensions and leases. Prerequisite: ACCT 302.",
+      "institution": "University of Charleston"
+    }
+  ],
+  "timestamp": "2025-08-08T17:44:20.880578"
+}

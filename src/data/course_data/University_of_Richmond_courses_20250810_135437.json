@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "University of Richmond",
+    "successful_variation": "University of Richmond",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=University+of+Richmond&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "AMST 201",
+      "course_title": "Introduction to American Studies",
+      "credits": "3.00",
+      "description": "Surveys multidisciplinary approaches to American Studies with specific emphasis on methodologies, sources, themes and major ideas. Unit(s): 1",
+      "institution": "University of Richmond"
+    },
+    {
+      "course_id": "AMST 381",
+      "course_title": "Community Problem Solving Seminar",
+      "credits": "3.00",
+      "description": "Combines community internship with reading and discussion about community problems from multidisciplinary perspectives. Prerequisite(s): American Studies 201 and permission of program coordinator and faculty supervisor. Unit(s): 1",
+      "institution": "University of Richmond"
+    },
+    {
+      "course_id": "AMST 398",
+      "course_title": "Selected Topics",
+      "credits": "3.00",
+      "description": "Varying interdisciplinary topics related to American studies. Area of study will vary according to instructor and course topic. Unit(s): 1",
+      "institution": "University of Richmond"
+    },
+    {
+      "course_id": "AMST 399",
+      "course_title": "Independent Study",
+      "credits": "3.00",
+      "description": "Individually designed reading or research program conducted under faculty supervision. Prerequisite(s): American Studies 201 and permission of program coordinator and faculty supervisor. Unit(s): 0.5-1",
+      "institution": "University of Richmond"
+    },
+    {
+      "course_id": "AMST 400",
+      "course_title": "Seminar in American Studies",
+      "credits": "3.00",
+      "description": "Advanced seminar that examines the historical, methodological, and theoretical development of American studies as an academic discipline. Offered fall semester only. Prerequisite(s): American Studies 201 and junior or senior status. Unit(s): 1",
+      "institution": "University of Richmond"
+    },
+    {
+      "course_id": "AMST 401",
+      "course_title": "Thesis",
+      "credits": "3.00",
+      "description": "Thesis project designed, researched, and written by students under faculty supervision. Offered spring semester only. Prerequisite(s): American Studies 201, senior status, 3.5 grade point average within the major, and a prospectus with bibliography approved by the American studies advisory council. Unit(s): 1",
+      "institution": "University of Richmond"
+    },
+    {
+      "course_id": "ANTH 211",
+      "course_title": "Introduction to Ethnographic Field Methods",
+      "credits": "3.00",
+      "description": "Introduces the methodologies used in cultural anthropology, as well as theories behind these methodologies. Issues of objectivity, ethical research and presentation, the political nature of the production of knowledge, positioning the researcher, and the uses to which training in ethnographic methods might be put. Prerequisite(s): Anthropology 101. Unit(s): 1",
+      "institution": "University of Richmond"
+    },
+    {
+      "course_id": "ANTH 279",
+      "course_title": "Selected Topics in Anthropology",
+      "credits": "3.00",
+      "description": "Various topics in the field of anthropology. May be repeated for credit if topics are different. Prerequisite(s): Anthropology 101. Unit(s): 1",
+      "institution": "University of Richmond"
+    },
+    {
+      "course_id": "ANTH 290",
+      "course_title": "Theoretical Foundations of Cultural Anthropology",
+      "credits": "3.00",
+      "description": "History of cultural and social anthropological thought, major theoretical perspectives and contemporary issues as to how humans construct their social worlds. Prerequisite(s): Anthropology 101. Unit(s): 1",
+      "institution": "University of Richmond"
+    },
+    {
+      "course_id": "ANTH 300",
+      "course_title": "Sexuality and Gender Across Cultures",
+      "credits": "3.00",
+      "description": "Theoretical and ethnographic examination of masculinity and femininity within various worldwide cultures. Prerequisite(s): Anthropology 101. Unit(s): 1",
+      "institution": "University of Richmond"
+    }
+  ],
+  "timestamp": "2025-08-10T13:54:37.854549"
+}

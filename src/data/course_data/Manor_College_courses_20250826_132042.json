@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Manor College",
+    "successful_variation": "Manor College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Manor+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "AC 101",
+      "course_title": "Accounting I",
+      "credits": "3.00",
+      "description": "An introduction to the fundamental principles, theory, and concepts of accounting and their relationship to the accounting cycle. Accounting concepts and practices in the recording process, the accounting cycle and fi nancial statement preparation and interpretation. Fundamental principles of recording business transactions as applied to single proprietorships, corporate and merchandising enterprises and the analysis of transactions and the preparation of fi nancial statements.",
+      "institution": "Manor College"
+    },
+    {
+      "course_id": "AC 102",
+      "course_title": "Accounting II",
+      "credits": "3.00",
+      "description": "A continuation of the study of the accounting cycle with techniques and statements for partnerships and corporations including stockholder\u2019s equity, corporate obligations and investments, financial statement analysis and earnings per share. The interpretation and use of accounting data as a tool for management decisions in planning and controlling business operations. Topics include financial statement analysis, fund statements, cash flow analysis, budgets, and alternative methods of inventory and depreciation. Prerequisite: AC 101 Accounting I",
+      "institution": "Manor College"
+    },
+    {
+      "course_id": "AC 201",
+      "course_title": "Intermediate Accounting I",
+      "credits": "3.00",
+      "description": "Thorough examination of accounting theory, the accounting process, and the problems involved in the proper recording of transactions and the preparation of financial statements. A review of the accounting cycle; preparation and interpretation of advanced accounting statements using contemporary techniques; current standards underlying financial statements of business entities. Topics to be studied include working capital, current and non-current liabilities, and income determination. Prerequisite: AC 102 Accounting II",
+      "institution": "Manor College"
+    },
+    {
+      "course_id": "AC 202",
+      "course_title": "Intermediate Accounting II",
+      "credits": "3.00",
+      "description": "Continuation of AC 201. Thorough examination of the practices employed in the development and use of financial statements to present an accurate and fair picture of operation results, financial position, and changes in financial status of business enterprises. Use of accounting information as a basis for decisions by users of financial statements and reports. Special areas to be studied include asset valuation and plant assets; long term debts; stockholder\u2019s equity and surplus; correction of errors of prior periods; tax allocations, pensions, and leases. Preparation, analysis, and interpretation of financial statements are considered in detail. Prerequisite: AC 201 Intermediate Accounting I",
+      "institution": "Manor College"
+    },
+    {
+      "course_id": "AC 203",
+      "course_title": "Managerial Accounting",
+      "credits": "3.00",
+      "description": "This is the study of accounting concepts which will be used in the management decision making process. Emphasis is placed on the evaluation of financial statements. Additional topics of interest will include budget planning, control and cost behavior. Prerequisite: AC 102 Accounting II",
+      "institution": "Manor College"
+    },
+    {
+      "course_id": "AC 204",
+      "course_title": "Accounting Information Systems",
+      "credits": "3.00",
+      "description": "An accounting information system is designed to collect, record, store, and process data to produce information for decision makers. This course provides an introduction to modern enterprise Accounting Information Systems (AIS).The student will apply accounting information systems concepts and procedures utilizing practical hands-on applications utilizing computer software, case studies and research projects. Projects will be related to both development of current accounting information systems theory and practical uses. In addition to studying select business transaction cycles within AIS, the course will present current challenges within today's modern accounting information systems such as information systems audit, cyber security and enterprise risk management and IT governance. Prerequisite: Successful completion of 6 credit hours in accounting and IST105.",
+      "institution": "Manor College"
+    },
+    {
+      "course_id": "AC 206",
+      "course_title": "Externship",
+      "credits": "3.00",
+      "description": "A part-time participation in the business world offering students an opportunity to acquire practical experience and to test academic concepts. Students will engage in a minimum 140-hour externship in a job allied to their accounting specialization. Students are responsible for placement research, interviewing, and transportation to and from the work site. Students applying for the externship program must be matriculated in the Accounting program and have completed AC 101 Accounting I, AC 102 Accounting II, and AC 201 Intermediate Accounting I and must have maintained at least a \u201cC\u201d in all accounting courses, and have a 2.0 cumulative GPA.",
+      "institution": "Manor College"
+    },
+    {
+      "course_id": "AH 100",
+      "course_title": "Observation Placement",
+      "credits": "3.00",
+      "description": "Eighty hours of observation is provided for the pre-occupational therapy, pre-physical therapy or pre-chiropractic student. This placement takes place in an occupational or physical therapy department or chiropractic practice that is affiliated with Manor. The placement is to include observation of and limited participation in the activities of the OT or PT department or chiropractic office. Course is offered by arrangement and may be taken in either the fall or spring semester by sophomore students in good standing.",
+      "institution": "Manor College"
+    },
+    {
+      "course_id": "BA 101",
+      "course_title": "Introduction to Business Administration",
+      "credits": "3.00",
+      "description": "This course is an introduction to the concepts, principles, language, activities and philosophy of business in the world today. Topics include economic systems, business ownership, management, marketing, accounting, finance, and contemporary business trends.",
+      "institution": "Manor College"
+    },
+    {
+      "course_id": "BA 102",
+      "course_title": "Principles of Marketing",
+      "credits": "3.00",
+      "description": "An introductory course which explores the entire marketing process. Emphasis is on an integrated approach to solving marketing problems with special means and methods of the marketing mix. The course is concentrated on the major elements of marketing demand, product planning, pricing, promotion, channels, and logistics. Prerequisite: BA 101 or BA 107",
+      "institution": "Manor College"
+    }
+  ],
+  "timestamp": "2025-08-26T13:20:42.695098"
+}

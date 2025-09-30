@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "University of Dallas",
+    "successful_variation": "Dallas",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Dallas&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACC 201",
+      "course_title": "Principles of Accounting",
+      "credits": "3.00",
+      "description": "3 credit hours This course provides an introduction to financial accounting principles. Topics include basic accounting procedures, measurement of income and expense, working capital, and investments.",
+      "institution": "University of Dallas"
+    },
+    {
+      "course_id": "ACC 202",
+      "course_title": "Principles of Management Accounting",
+      "credits": "3.00",
+      "description": "3 credit hours This course provides the basic principles and applications of managerial and cost accounting, considering particularly how a manager's understanding of accounting practices influence basic operational decisions.",
+      "institution": "University of Dallas"
+    },
+    {
+      "course_id": "BIO 110",
+      "course_title": "Understanding Human Anatomy",
+      "credits": "3.00",
+      "description": "3 credit hours This course covers the structure and function of the human body with emphasis on understanding the basic systems that make up our bodies. Students will be able to identify the fundamental components of the integumentary, muscular, nervous, circulatory, digestive, respiratory, urinary, endocrine, and reproductive systems. In addition, students will acquire a basic understanding of the functional relationships between these systems.",
+      "institution": "University of Dallas"
+    },
+    {
+      "course_id": "BIO 115",
+      "course_title": "Fundamentals of Human Physiology",
+      "credits": "3.00",
+      "description": "3 credit hours This course describes how the major organs and tissues in the human body function. Basic anatomy is also reviewed to help describe the location and function of major organs and tissues. Instructional topics include the heart, blood vessels, lungs, skin, gastrointestinal system, urinary system, hormones, liver and interstitial fluid. The interrelationship between selected organs and tissues is also presented. Medical conditions and disease states are introduced as pathologically altered physiology to help students relate better to the instructional topics.",
+      "institution": "University of Dallas"
+    },
+    {
+      "course_id": "BIO 120",
+      "course_title": "Human Anatomy and Physiology",
+      "credits": "3.00",
+      "description": "3 credit hours Principles of human anatomy and physiology are introduced, including the internal regulatory mechanisms which maintain an individual in a healthy state. The relationship between normal structure and function emphasized so that the student may have a basis to continue with course emphasizing altered health states.",
+      "institution": "University of Dallas"
+    },
+    {
+      "course_id": "BUS 211",
+      "course_title": "Business Law",
+      "credits": "3.00",
+      "description": "3 credit hours Current topics in the area of law, regulatory controls, and ethical issues and their effect on decision making are examined. Attention is given to developing critical thinking skills to make humane and informed choices in resolving managerial dilemmas that pose ethical or legal problems.",
+      "institution": "University of Dallas"
+    },
+    {
+      "course_id": "BUS 212",
+      "course_title": "Business Law and Corporate Ethics",
+      "credits": "3.00",
+      "description": "3 credit hours Current topics in the area of law, regulatory controls, and ethical issues and their effect on decision making are examined. Attention is given to developing critical thinking skills to make humane and informed choices in resolving managerial dilemmas that pose ethical or legal problems. Undergraduate Courses",
+      "institution": "University of Dallas"
+    },
+    {
+      "course_id": "BUS 270",
+      "course_title": "Business Ethics",
+      "credits": "3.00",
+      "description": "3 credit hours This course examines the role of ethics in business and the ethical issues that confront today's corporate leaders, managers, and employees. Emphasis will be on advancing ethical awareness, critical reasoning skills, and core principles of ethical behavior to provide students with the basic tools to address and resolve complex, critical and at times, conflicting interests and opportunities. Students will assess the role of ethics in relationship to corporate social responsibility, managerial decision-making, executive leadership, and corporate governance through diverse perspectives.",
+      "institution": "University of Dallas"
+    },
+    {
+      "course_id": "BUS 301",
+      "course_title": "Organizational Communications",
+      "credits": "3.00",
+      "description": "3 credit hours The role of communication in the effective management of formal organizations is studied. Contemporary communication theory, as well as a set of strategies and methods helpful in analyzing an organization's ability to communicate, are examined.",
+      "institution": "University of Dallas"
+    },
+    {
+      "course_id": "BUS 312",
+      "course_title": "Critical Thinking and Planning",
+      "credits": "3.00",
+      "description": "3 credit hours Principles, procedures, and practices of good communication and their relationship to management supervision are discussed. Oral and written communication skills, critical thinking skills, and time-management planning are emphasized.",
+      "institution": "University of Dallas"
+    }
+  ],
+  "timestamp": "2025-08-10T23:56:12.227043"
+}

@@ -1,0 +1,32 @@
+{
+  "search_query": {
+    "institution": "Red Rocks Community College",
+    "successful_variation": "Red Rocks Community College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Red+Rocks+Community+College&distance=5"
+  },
+  "total_results": 3,
+  "courses": [
+    {
+      "course_id": "AAA 050",
+      "course_title": "Semester Survival",
+      "credits": "2.00",
+      "description": "Emphasizes basic study skills in order to bolster your chances of completing the current semester successfully.",
+      "institution": "Red Rocks Community College"
+    },
+    {
+      "course_id": "AAA 101",
+      "course_title": "The Student Experience",
+      "credits": "1.00",
+      "description": "Introduces you to college culture and prepares you for the challenges you will face in higher education. Through a series of interactive seminars, you will discover learning in a multicultural environment and use college and community resources to attain educational and career goals.",
+      "institution": "Red Rocks Community College"
+    },
+    {
+      "course_id": "ACC 101",
+      "course_title": "Fundamentals of Accounting",
+      "credits": "3.00",
+      "description": "Presents the basic elements and concepts of accounting, with emphasis on the procedures used for maintaining journals, ledgers, and other related records, and for the completion of end-of-period reports for small service and merchandising businesses.",
+      "institution": "Red Rocks Community College"
+    }
+  ],
+  "timestamp": "2025-08-10T01:50:25.901635"
+}

@@ -1,0 +1,67 @@
+{
+  "search_query": {
+    "institution": "Eastern New Mexico University-Roswell Campus",
+    "successful_variation": "Eastern New Mexico University-Roswell Campus",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Eastern+New+Mexico+University-Roswell+Campus&distance=5"
+  },
+  "total_results": 8,
+  "courses": [
+    {
+      "course_id": "AB 010",
+      "course_title": "Auto Body/Detail Program I",
+      "credits": "2.00",
+      "description": "Designed to introduce students to basic tools, sanding and taping, priming, and detail work. Also includes safety procedures. Corequisite: AB 011.",
+      "institution": "Eastern New Mexico University-Roswell Campus"
+    },
+    {
+      "course_id": "AB 011",
+      "course_title": "Auto Body/ Detail Program I Lab",
+      "credits": "8.00",
+      "description": "Laboratory hands-on experience in an auto body shop providing the student with the opportunity to apply skills learned in AB 010. Corequisite: AB 010.",
+      "institution": "Eastern New Mexico University-Roswell Campus"
+    },
+    {
+      "course_id": "AB 020",
+      "course_title": "Auto Body/Detail Program II",
+      "credits": "2.00",
+      "description": "Designed to introduce students to skills related to major and minor body repair. Corequisite: AB 021",
+      "institution": "Eastern New Mexico University-Roswell Campus"
+    },
+    {
+      "course_id": "AB 021",
+      "course_title": "Auto Body/ Detail Program II Lab",
+      "credits": "8.00",
+      "description": "Laboratory hands-on experience in an auto body shop providing the student with the opportunity to apply skills learned in AB 020. Corequisite: AB 020.",
+      "institution": "Eastern New Mexico University-Roswell Campus"
+    },
+    {
+      "course_id": "AB 031",
+      "course_title": "Auto Body/Detail Program III Lab",
+      "credits": "5.00",
+      "description": "Laboratory hands-on experience in auto body repairs and detail technique. Enrollment in summer session only.",
+      "institution": "Eastern New Mexico University-Roswell Campus"
+    },
+    {
+      "course_id": "AB 068",
+      "course_title": "Workshop in Auto Body/Detail",
+      "credits": "9.00",
+      "description": "As announced. (Repeatable for credit.)",
+      "institution": "Eastern New Mexico University-Roswell Campus"
+    },
+    {
+      "course_id": "AB 093",
+      "course_title": "Topics in Auto Body/Detail",
+      "credits": "9.00",
+      "description": "As announced. (May be repeated for credit with consent of instructor and administrative approval.)",
+      "institution": "Eastern New Mexico University-Roswell Campus"
+    },
+    {
+      "course_id": "AB 101",
+      "course_title": "Basic Auto Body and Paint",
+      "credits": "4.00",
+      "description": "Theory and practice in performing minor body repairs and painting. Instruction is given in safety and the proper use of tools. (Repeatable for credit.)",
+      "institution": "Eastern New Mexico University-Roswell Campus"
+    }
+  ],
+  "timestamp": "2025-08-08T21:10:03.818026"
+}

@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Schenectady County Community College",
+    "successful_variation": "Schenectady County Community College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Schenectady+County+Community+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACC 111",
+      "course_title": "College Accounting",
+      "credits": "3.00",
+      "description": "This course concentrates on the generally accepted accounting principles (GAAP) applied to a sole proprietorship. Topics include: analyzing, journalizing and posting transactions, adjusting entries, completion of the work sheet, financial statements, and the closing process for a service business. Accounting for cash, payroll accounting and the combination journal are also covered.",
+      "institution": "Schenectady County Community College"
+    },
+    {
+      "course_id": "ACC 121",
+      "course_title": "Financial Accounting",
+      "credits": "4.00",
+      "description": "This course introduces the current procedures of financial accounting and generally accepted accounting principles. The course emphasizes the analysis of business transactions and the study of the accounting cycle. Ethics issues are discussed throughout the course. Accrual based accounting concepts, internal controls, and financial statement preparation are addressed as well as the accounting elements of a corporate business entity. Each student will be asked to complete a practice set of entries for a business entity. F,S",
+      "institution": "Schenectady County Community College"
+    },
+    {
+      "course_id": "ACC 122",
+      "course_title": "Managerial Accounting",
+      "credits": "4.00",
+      "description": "This course introduces current managerial accounting concepts,theories and practices applicable to a financial entity. Job order, process cost and activity-based cost systems are introduced. Budgeting, profit analysis, product pricing and reporting concerns of decentralized operations are specific topics covered in this course. Also included are special topics focused on financial statement analysis. Ethics issues are discussed throughout the course. PR: ACC 121 F, S",
+      "institution": "Schenectady County Community College"
+    },
+    {
+      "course_id": "ACC 123",
+      "course_title": "Accounting for Decision Making-Concepts and Theory",
+      "credits": "3.00",
+      "description": "This course introduces the student to financial accounting. Emphasis is on the analysis and interpretation of financial information. Generally accepted accounting principles will be discussed throughout the course. The standard reports of financial accounting will be studied as well as the process of identifying, measuring, recording and reporting financial information. Internal control procedures, corporate assets, liabilities, and shareholders' equity will also be studied as well as reporting concerns of international companies. Interpretation and analysis of financial reports and current issues affecting these reports will be stressed. Corporate financial statements will be reviewed in and out of class via the Internet. PR: MAT 127 or equivalent F",
+      "institution": "Schenectady County Community College"
+    },
+    {
+      "course_id": "ACC 201",
+      "course_title": "Computer Applications in Accounting",
+      "credits": "1.00",
+      "description": "This course provides the student with basic computer skills specific to a financial accounting environment. Topics include setting up a business entity's accounting system, recording financial transactions, and working with budget development and evaluation. Students will create invoices, create and analyze accounts receivable and payment aging reports, and develop financial statements and reports with the assistance of a software application. Students will be required to use computers to complete projects. Outside laboratory work is required. PR: ACC 111 or ACC 121 or ACC 123 S",
+      "institution": "Schenectady County Community College"
+    },
+    {
+      "course_id": "ACC 222",
+      "course_title": "Intermediate Accounting I",
+      "credits": "3.00",
+      "description": "Intensive consideration is given to financial accounting theory and the current application of generally accepted accounting principles. A significant amount of time is devoted to financial statement preparation and presentation. Emphasis is placed on the balance sheet. Each of the principal asset accounts shown on the face of the balance sheet is studied in detail. The accounting cycle, measurement of income, acquisition and disposal of assets, and the time value of money are some of the specific topics covered. PR: ACC 122 F",
+      "institution": "Schenectady County Community College"
+    },
+    {
+      "course_id": "ACC 225",
+      "course_title": "Income Tax Accounting",
+      "credits": "3.00",
+      "description": "This course is an in-depth study of the current income tax law and tax regulations. It provides the student with practical applications in the preparation of income tax returns for individuals with supporting tax schedules. Instruction is also given on partnership and corporate taxation. Special tax situations are stressed and explanations are developed through the use of examples. A computer software application is used to complete several assignments. S",
+      "institution": "Schenectady County Community College"
+    },
+    {
+      "course_id": "ACC 226",
+      "course_title": "Intermediate Accounting II",
+      "credits": "4.00",
+      "description": "This course is a continuation of the study of financial accounting theory and practice. The study of liabilities and stockholders' equity concludes the study of the balance sheet which began in ACC 222. Specific accounts examined include current and contingent liabilities, bonds, notes, corporate income taxes, leases, capital stock and retained earnings. Preparation of the income statement, statement of retained earnings and statement of cash flows in accordance with generally accepted accounting principles is also covered. Financial statement analysis, revenue recognition rules, and accounting changes are other topics addressed. Computer software packages are utilized in and outside of class to complete several assignments. PR: ACC 222 S",
+      "institution": "Schenectady County Community College"
+    },
+    {
+      "course_id": "ACC 242",
+      "course_title": "Cost Management",
+      "credits": "3.00",
+      "description": "This course develops an understanding of accounting information for use by management in planning and controlling operations. A framework for measuring managerial performance is developed through an analytical treatment of cost behavior under dynamic conditions by employing tools such as cost-volume-profit analysis, budgeting and actual and standard cost systems. The use of costs in decision-making contexts is emphasized. PR: ACC 122",
+      "institution": "Schenectady County Community College"
+    },
+    {
+      "course_id": "ACC 246",
+      "course_title": "Auditing",
+      "credits": "3.00",
+      "description": "This course is an introduction to auditing for accounting students who have not had experience in auditing. The primary emphasis is on the auditor's decision- making process. Included are concepts in auditing related to determining the nature and amount of evidence the auditor should accumulate, the objectives to be accomplished in a given audit area, the circumstances of the engagement, and the decisions to be made to determine the appropriate evidence to gather and how to evaluate the evidence obtained. Ethical conduct and legal liability of auditors are also covered along with auditing within a computerized environment. PR: ACC 122",
+      "institution": "Schenectady County Community College"
+    }
+  ],
+  "timestamp": "2025-08-10T20:26:23.332393"
+}

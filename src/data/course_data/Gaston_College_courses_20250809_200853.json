@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Gaston College",
+    "successful_variation": "Gaston College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Gaston+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACC 122",
+      "course_title": "Principles of Financial Accounting II",
+      "credits": "3.00",
+      "description": "Prerequisites: ACC 120 Corequisites: This course provides additional instruction in the financial accounting concepts and procedures introduced in ACC 120. Emphasis is placed on the analysis of specific balance sheet accounts, with in-depth instruction of the accounting principles applied to these accounts. Upon completion, students should be able to analyze data, prepare journal entries, and prepare reports in compliance with generally accepted accounting principles.",
+      "institution": "Gaston College"
+    },
+    {
+      "course_id": "ACC 129",
+      "course_title": "Individual Income Taxes",
+      "credits": "3.00",
+      "description": "Prerequisites: ACC 120 Corequisites: None This course introduces the relevant laws governing individual income taxation. Topics include tax law, electronic research and methodologies, and the use of technology for preparation of individual tax returns. Upon completion, students should be able to analyze basic tax scenarios, research applicable tax law, and complete various individual tax forms.",
+      "institution": "Gaston College"
+    },
+    {
+      "course_id": "ACC 130",
+      "course_title": "Business Income Taxes",
+      "credits": "3.00",
+      "description": "Prerequisites: ACC 129 Corequisites: None This course introduces the relevant laws governing business and fiduciary income taxes. Topics include tax law relating to business organizations, electronic research and methodologies, and the use of technology for the preparation of business tax returns. Upon completion, students should be able to analyze basic tax scenarios, research applicable tax law, and complete various business tax forms.",
+      "institution": "Gaston College"
+    },
+    {
+      "course_id": "ACC 140",
+      "course_title": "Payroll Accounting",
+      "credits": "3.00",
+      "description": "Prerequisites: ACC 115 or ACC 120 Corequisites: None This course covers federal and state laws pertaining to wages, payroll taxes, payroll tax forms, and journal and general ledger transactions. Emphasis is placed on computing wages; calculating social security, income, and unemployment taxes; preparing appropriate payroll tax forms; and journalizing/posting transactions. Upon completion, students should be able to analyze data, make appropriate computations, complete forms, and prepare accounting entries using appropriate technology.",
+      "institution": "Gaston College"
+    },
+    {
+      "course_id": "ACC 149",
+      "course_title": "Intro to Acct.Spreadsheets",
+      "credits": "3.00",
+      "description": "Prerequisites: ACC 115 or ACC 120 Corequisites: None This course provides a working knowledge of computer spreadsheets and their use in accounting. Topics include pre-programmed problems, modelbuilding problems, beginning-level macros, graphics, and what-if analysis enhancements of template problems. Upon completion, students should be able to use a computer spreadsheet to complete many of the tasks required in accounting.",
+      "institution": "Gaston College"
+    },
+    {
+      "course_id": "ACC 150",
+      "course_title": "Accounting Software Applications",
+      "credits": "3.00",
+      "description": "Prerequisites: ACC 115 or ACC 120 and ACC 149 Corequisites: None This course introduces computer applications related to accounting systems. Topics include general ledger, accounts receivable, accounts payable, inventory, payroll, and correcting, adjusting, and closing entries. Upon completion, students should be able to use a computer accounting software package to solve accounting problems.",
+      "institution": "Gaston College"
+    },
+    {
+      "course_id": "ACC 151",
+      "course_title": "Acct Spreadsheet Appl",
+      "credits": "3.00",
+      "description": "Prerequisites: ACC 149 Corequisites: None This course is designed to facilitate the use of spreadsheet technology as applied to accounting principles. Emphasis is placed on using spreadsheet software as a problem-solving and decision-making tool. Upon completion, students should be able to demonstrate an understanding of the principles involved and display an analytical problem-solving ability for the topics covered.",
+      "institution": "Gaston College"
+    },
+    {
+      "course_id": "ACC 220",
+      "course_title": "Intermediate Accounting I",
+      "credits": "3.00",
+      "description": "Prerequisites: ACC 121, ACC 122 Corequisites: None This course is a continuation of the study of accounting principles with in-depth coverage of theoretical concepts and financial statements. Topics include generally accepted accounting principles and extensive analyses of financial statements. Upon completion, students should be able to demonstrate competence in the conceptual framework underlying financial accounting, including the application of financial standards.",
+      "institution": "Gaston College"
+    },
+    {
+      "course_id": "ACC 221",
+      "course_title": "Intermediate Acct II",
+      "credits": "3.00",
+      "description": "Prerequisites: ACC 220 Corequisites: None This course is a continuation of ACC 220. Emphasis is placed on special problems which may include leases, bonds, investments, ratio analyses, present value applications, accounting changes, and corrections. Upon completion, students should be able to demonstrate an understanding of the principles involved and display an analytical problem-solving ability for the topics covered.",
+      "institution": "Gaston College"
+    },
+    {
+      "course_id": "ACC 225",
+      "course_title": "Cost Accounting",
+      "credits": "3.00",
+      "description": "Prerequisites: ACC 121 Corequisites: None This course introduces the nature and purposes of cost accounting as an information system for planning and control. Topics include direct materials, direct labor, factory overhead, process, job order, and standard cost systems. Upon completion, students should be able to demonstrate an understanding of the principles involved and display an analytical problem-solving ability for the topics covered.",
+      "institution": "Gaston College"
+    }
+  ],
+  "timestamp": "2025-08-09T20:08:53.487868"
+}

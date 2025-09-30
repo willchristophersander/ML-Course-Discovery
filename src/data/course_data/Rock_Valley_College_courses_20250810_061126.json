@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Rock Valley College",
+    "successful_variation": "Rock Valley College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Rock+Valley+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "AMT 101",
+      "course_title": "Certified Manufacturing Assistant",
+      "credits": "3.00",
+      "description": "IAI: None 1.2 This course will provide the necessary skills for an individual to enter employment in a manufacturing environment at an entry level. Upon completion, the student will be prepared for on the job training in a specific area or may choose to enter a certificate or degree program for advancement to a technician level position. Prerequisite: None Credit: 6 semester hours Lecture: 4 Lab: 4",
+      "institution": "Rock Valley College"
+    },
+    {
+      "course_id": "AMT 110",
+      "course_title": "Manufacturing Processes I",
+      "credits": "3.00",
+      "description": "IAI: MTM 922 1.2 Manufacturing Processes I provides an introduction to machining processes including milling, turning, grinding, drilling, and cutoff operations. Laboratory activities include the fundamentals of machine setup and operations, tooling, precision measurement, process safety, care and maintenance. This course is offered at a regional training center in partnership with Rock Valley College. Prerequisite: CDT 100 or consent of instructor. Credit: 3 semester hours Lecture: 1 Lab: 4",
+      "institution": "Rock Valley College"
+    },
+    {
+      "course_id": "AMT 111",
+      "course_title": "CNC Machine Setup/Operation/Programming",
+      "credits": "3.00",
+      "description": "IAI: None 1.2 CNC Machine Setup/Operation/Programming studies the setup and operation of computer numerical control (CNC) machine tools. The course is designed to provide knowledge on the latest CNC machines using an online training environment and lab session including turning centers and machining. Exercise and laboratory projects emphasize practical problems, demonstrations, and student operation of CNC equipment. Credit: 3 semester hours Lecture: 2 Lab: 2",
+      "institution": "Rock Valley College"
+    },
+    {
+      "course_id": "AMT 120",
+      "course_title": "CNC Machine Setup/Operation",
+      "credits": "3.00",
+      "description": "IAI: MTM 915 1.2 CNC Machine Setup/Operation studies the setup and operation of computer numerical control (CNC) machine tools. The course is designed to provide knowledge on the latest CNC machines using turning centers and machining centers in the CIM Laboratory. Lecture and laboratory projects emphasize practical problems, demonstrations, and student operations of CNC equipment. Prerequisite: AMT 110 or consent of instructor. Credit: 2 semester hours Lecture: 1 Lab: 2",
+      "institution": "Rock Valley College"
+    },
+    {
+      "course_id": "AMT 121",
+      "course_title": "Fundamentals of CNC Programming",
+      "credits": "3.00",
+      "description": "IAI: MTM 915 1.2 Fundamentals of CNC Programming (Manual) is a study of the fundamentals of computer numerical control programming for machine tools within the manufacturing environment. Emphasis is on application, operation of a CNC program, tooling and machines. Students will write programs and verify them using machine or computer graphics. Prerequisite: AMT 120 or consent of instructor. Credit: 2 semester hours Lecture: 1 Lab: 2",
+      "institution": "Rock Valley College"
+    },
+    {
+      "course_id": "AMT 226",
+      "course_title": "CNC/CAM Operations I",
+      "credits": "3.00",
+      "description": "IAI: None 1.2 CNC/CAM Operations I teaches the concepts of Computer Numerical Control for machine tools, tooling, software and operating principles of CNC systems. Students develop part programs using current, industrial CAM software for program generation, editing and tool path verification. Postprocessing and G-M code verification is presented for specific machine tools.. Prerequisite: CDT 108 or CDT 133 and AMT 121 or AMT 111, or consent of instructor Credit: 3 semester hours Lecture: 2 Lab: 2",
+      "institution": "Rock Valley College"
+    },
+    {
+      "course_id": "AMT 240",
+      "course_title": "CNC/CAM Operations II",
+      "credits": "3.00",
+      "description": "IAI: None 1.2 CNC/CAM Operations II is a second course that provides the student with a background in CNC programming using CAM software. Emphasis is placed on the identification and familiarization of techniques that enhance CAM productivity and the production of CNC programs. Students develop part programs using software for program generation, editing and simulation of tool paths. Prerequisite: AMT 226 Credit: 3 semester hours Lecture: 2 Lab: 2 community interest, and ability to increase skill and/or knowledge in manufacturing technology. Variable and repeatable credit up to six credit hours may be earned. Prerequisite: Determined by the special topic. Credit: 1-6 semester hours Lecture: 1-6 Lab: 0-4",
+      "institution": "Rock Valley College"
+    },
+    {
+      "course_id": "AMT 243",
+      "course_title": "Continuous Improvement in Manufacturing",
+      "credits": "3.00",
+      "description": "IAI: None 1.2 This course is designed to bring lean manufacturing techniques and training, that are changing the world of manufacturing, into the classroom. Emphasis is placed on continuous improvement, waste elimination, customer focus and elements of lean production. Prerequisite: None Credit: 3 semester hours Lecture: 3 Lab: 0",
+      "institution": "Rock Valley College"
+    },
+    {
+      "course_id": "AMT 247",
+      "course_title": "Manufacturing Methods,Process Planning and Systems",
+      "credits": "3.00",
+      "description": "IAI: None 1.2 Manufacturing Methods, Process Planning and Systems studies the techniques, equipment and systems for successful manufacturing production. Students learn to plan an operation sequence, determine tooling requirements, and develop and utilize standard data. Lecture and case studies to improve manufacturing systems employ the principles and practices of Just-In-Time (JIT), Total Quality Management (TQM), Computer Integrated Manufacturing (CIM), and Flexible Manufacturing Systems (FMS). Prerequisite: AMT 180 Credit: 1- 3 semester hours Lecture: 1- 3 Lab: 0",
+      "institution": "Rock Valley College"
+    },
+    {
+      "course_id": "AMT 249",
+      "course_title": "Automated Production Capstone",
+      "credits": "3.00",
+      "description": "IAI: None 1.2 A capstone course, emphasizing the solving of technical programs using a multidisciplinary engineering technology approach. The instructor or student may propose an area of investigation. Successful solutions will require that the student use an interactive method using varying degrees of analysis, syntheses, and evaluation. Information, such as vendor catalogs, manuals and library references will be used. The project findings will be presented by the student in both oral and written form. Prerequisite: SPH 131, CDT 133, CDT 146, CDT 162, CDT 218, AMT 110, AMT 111, QLT 106 Credit: 3 semester hours Lecture: 2 Lab: 2",
+      "institution": "Rock Valley College"
+    }
+  ],
+  "timestamp": "2025-08-10T06:11:26.977945"
+}

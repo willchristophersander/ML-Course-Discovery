@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "North Dakota State College of Science",
+    "successful_variation": "North Dakota State College of Science",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=North+Dakota+State+College+of+Science&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ABOD 101",
+      "course_title": "Basic Auto Body Repair Techniques",
+      "credits": "8.00",
+      "description": "This is a lecture, demonstration and laboratory course covering the basic fundamentals of auto body repair. Emphasis is placed on learning the basic repair methods stressing quality of repair. Laboratory tasks are performed on donated salvage vehicles. Tasks are assigned according to the NATEF task list. (F)",
+      "institution": "North Dakota State College of Science"
+    },
+    {
+      "course_id": "ABOD 102",
+      "course_title": "Basic Auto Body Production Lab",
+      "credits": "4.00",
+      "description": "ABOD 102 applies basic procedures learned in ABOD 101 to production-type vehicles. Using NATEF task lists, the student will take vehicle from damaged state through the initial priming stage. Prerequisite: ABOD 101. (F)",
+      "institution": "North Dakota State College of Science"
+    },
+    {
+      "course_id": "ABOD 103",
+      "course_title": "Refinishing and Plastic Repair",
+      "credits": "2.00",
+      "description": "This lab/theory combination course is a continuation of ABOD 102. Major emphasis is the utilization of lecture, discussion and demonstrations with practical application in the production lab on customer repair projects. There is continued development of basic skills and introduction to paint spray systems and related refinish equipment. This course also addresses plastic welding and plastic adhesive repair. This lab/theory combination course covers the ASENATEF task list for plastic repairs. Prerequisites: ABOD 101 and ABOD 102. (S)",
+      "institution": "North Dakota State College of Science"
+    },
+    {
+      "course_id": "ABOD 104",
+      "course_title": "Refinishing Systems",
+      "credits": "2.00",
+      "description": "This lab/theory combination course is a continuation of ABOD 103. Major emphasis is the utilization of lecture, discussion and demonstrations with practical application by the student in the production lab on customer production projects. There is continuing development of basic skills and introduction to the preparation and application of current paint refinishing systems and the use of other specialized paint products related to automotive repair and refinishing. Prerequisites: ABOD 101, ABOD 102, ABOD 103. (S)",
+      "institution": "North Dakota State College of Science"
+    },
+    {
+      "course_id": "ABOD 106",
+      "course_title": "Refinishing Lab",
+      "credits": "8.00",
+      "description": "This lab course covers the ASE-NATEF task list for the auto body technician training program. Major emphasis is the utilization of lecture, discussion and demonstrations with practical application in the refinish lab on customer repair projects. There is continued development of basic skills and monitoring of student progress with use of task progress charts. Tasks listed in this course are tracked on ASE-NATEF progress chart 70- 1000c and the NATEF task list. Prerequisites: ABOD 101, ABOD 102, ABOD 103, ABOD 104. (S)",
+      "institution": "North Dakota State College of Science"
+    },
+    {
+      "course_id": "ABOD 206",
+      "course_title": "Advanced Damage Analysis Lab II",
+      "credits": "8.00",
+      "description": "This lab course will continue to provide the student practical application in advanced repair methods. This will include frame, body, suspension, glass, refinishing, and related procedures. Tasks listed in this course are tracked on ASE/NATEF progress chart 70-1000c and NATEF task list (1993). Prerequisites: ABOD 201, ABOD 202, ABOD 203. (S)",
+      "institution": "North Dakota State College of Science"
+    },
+    {
+      "course_id": "ABOD 251",
+      "course_title": "Advanced Refinishing",
+      "credits": "9.00",
+      "description": "A lecture, discussion, demonstration and practical applications course that utilizes the paint products of two major paint manufacturers and the various systems used in the refinishing process. Complete refinishing, panel and partial refinishing, spot repair, blending and tinting are covered in depth, with practical applications on actual production projects. (Su or by arrangement)",
+      "institution": "North Dakota State College of Science"
+    },
+    {
+      "course_id": "ABOD 252",
+      "course_title": "Advanced Unibody Repair & Measuring Systems",
+      "credits": "9.00",
+      "description": "A lecture, discussion, demonstration and practical applications course designed to place major emphasis on the use of advanced measuring systems and measuring system techniques. This course involves the actual repair and restoration of damaged unibody vehicles to factory specifications. Wheel alignment is included as a part of the total vehicle alignment system. (Su or by arrangement)",
+      "institution": "North Dakota State College of Science"
+    },
+    {
+      "course_id": "ABOD 253",
+      "course_title": "Auto Trim and Upholstery",
+      "credits": "9.00",
+      "description": "A lecture, discussion, demonstration and practical applications course in automotive and related trim and upholstery techniques. Students receive training in basic upholstering processes including sewing machine operation, maintenance and repair; measuring, marking and cutting covering materials; seat re-upholstering; trim panel repair; headliner recovering; carpet installation; vinyl top installation; convertible top replacement; window tinting and various other auto trim procedures. Procedures occur on actual production projects. (Su or by arrangement)",
+      "institution": "North Dakota State College of Science"
+    },
+    {
+      "course_id": "ABOD 254",
+      "course_title": "Classic Restoration",
+      "credits": "9.00",
+      "description": "A lecture, discussion, demonstration and practical applications course involving the actual repair and restoration of classic, vintage and special-interest projects. The student is expected to make arrangements to provide a project for this course. Emphasis is on top quality repairs and refinishing to provide a showroom finished vehicle. (Su or by arrangement)",
+      "institution": "North Dakota State College of Science"
+    }
+  ],
+  "timestamp": "2025-08-11T00:10:04.777657"
+}

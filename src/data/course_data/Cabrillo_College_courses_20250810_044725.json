@@ -1,0 +1,53 @@
+{
+  "search_query": {
+    "institution": "Cabrillo College",
+    "successful_variation": "Cabrillo College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Cabrillo+College&distance=5"
+  },
+  "total_results": 6,
+  "courses": [
+    {
+      "course_id": "ACCT 151A",
+      "course_title": "Introduction to Accounting:Bookkeeping Concepts",
+      "credits": "4.00",
+      "description": "4 units; 4 hours Lecture, 1 hour Laboratory Recommended Preparation: Eligibility for ENGL 100 and READ 100. Covers practical accounting, terminology, and the complete accounting cycle from documentation through journals, ledgers, and financial statements for both service and merchandising companies. Designed for careers in the field of accounting as well as business owners who wish to prepare their own accounting records. May be offered in a Distance- Learning Format.",
+      "institution": "Cabrillo College"
+    },
+    {
+      "course_id": "ACCT 154",
+      "course_title": "Income Taxation",
+      "credits": "4.00",
+      "description": "4 units; 4 hours Lecture, 1 hour Laboratory Repeatability: May be taken a total of 2 times. Recommended Preparation: Eligibility for ENGL 100 and READ 100. Teaches Federal and CA income tax concepts, planning, and preparation for individuals and businesses; qualifies for CA Tax Preparer Certification. Introduction to computer software used to prepare income tax returns.",
+      "institution": "Cabrillo College"
+    },
+    {
+      "course_id": "ACCT 155",
+      "course_title": "Payroll Accounting",
+      "credits": "3.00",
+      "description": "3 units; 3 hours Lecture, 2 hours Laboratory Prerequisite: ACCT 151A. Recommended Preparation: Eligibility for ENGL 100 and READ 100. Introducing payroll accounting. Includes payroll calculations and Federal and California payroll tax requirements for withholding and reporting. Also covers labor laws, the importance of internal control, retirement plans, and workers' compensation programs. May be offered in a Distance-Learning Format.",
+      "institution": "Cabrillo College"
+    },
+    {
+      "course_id": "ACCT 158",
+      "course_title": "Introduction to Government and Not-for-Profit Accounting",
+      "credits": "3.00",
+      "description": "3 units; 3 hours Lecture Prerequisite: ACCT 1A or ACCT 151A. Recommended Preparation: Eligibility for ENGL 100 and READ 100. Explores the similarities and differences between government/not-forprofit and commercial accounting, including applicable generally accepted accounting principles (GAAP), budgeting and fund accounting.",
+      "institution": "Cabrillo College"
+    },
+    {
+      "course_id": "ACCT 159",
+      "course_title": "Computer Accounting",
+      "credits": "4.00",
+      "description": "4 units; 3 hours Lecture, 5 hours Laboratory Prerequisite: ACCT 151A. Recommended Preparation: Eligibility for ENGL 100 and READ 100. Introduces computer accounting, from data analysis and entry, through generation, interpretation and comparison of end-of-period financial statements using Peachtree Accounting software. Includes inventory valuation, cash flow statement, financial analysis, as well as accounting for a partnership, corporation, and manufacturer. May be offered in a Distance-Learning Format.",
+      "institution": "Cabrillo College"
+    },
+    {
+      "course_id": "ACCT 163",
+      "course_title": "Using Quickbooks",
+      "credits": "3.00",
+      "description": "3 units; 2 hours Lecture, 5 hours Laboratory Recommended Preparation: ACCT 151A; Eligibility for ENGL 100 and READ 100. Introduces use of QuickBooks from the accounting practitioner's perspective. Course includes setting up new businesses, entering data, locating information, and analyzing financial statements for service, merchandising, and manufacturing companies. May be offered in a Distance- Learning Format.",
+      "institution": "Cabrillo College"
+    }
+  ],
+  "timestamp": "2025-08-10T04:47:25.530788"
+}

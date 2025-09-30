@@ -1,0 +1,74 @@
+{
+  "search_query": {
+    "institution": "MIT",
+    "successful_variation": "MIT",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=MIT&distance=5"
+  },
+  "total_results": 9,
+  "courses": [
+    {
+      "course_id": "AR 200",
+      "course_title": "Introduction to Fine Arts",
+      "credits": "3.00",
+      "description": "A survey of Western culture focusing on the great painters from the Middle Ages to the twentieth century and the great composers from J.S. Bach through Igor Stravinsky. The meaning and significance of artistic expressions will be examined from historical, philosophical, and theological points of view.",
+      "institution": "MIT"
+    },
+    {
+      "course_id": "BI 202",
+      "course_title": "Old Testament Poetry",
+      "credits": "2.00",
+      "description": "This course is an introduction to the poetic books of the Old Testament. It includes an introduction to the nature and interpretation of Hebrew poetry, presenting the major themes of the books of Job, Proverbs, Ecclesiastes, and Song of Solomon. Selected Psalms are studied to illustrate the various types of Psalms.",
+      "institution": "MIT"
+    },
+    {
+      "course_id": "BI 210",
+      "course_title": "Romans",
+      "credits": "3.00",
+      "description": "This course is a methodical and inductive study of Romans with emphasis upon the argument of the book, its doctrinal themes, and its demands upon the believer. Prerequisite: BI100",
+      "institution": "MIT"
+    },
+    {
+      "course_id": "BI 301",
+      "course_title": "Genesis",
+      "credits": "2.00",
+      "description": "This course examines the historical, theological, and prophetical themes of Genesis, matters relating to the origins of the human race and of Israel, a section-by-section exposition, including close analysis of selected passages and themes, and application of principles to contemporary life.",
+      "institution": "MIT"
+    },
+    {
+      "course_id": "BI 332",
+      "course_title": "Studies in Psalms",
+      "credits": "2.00",
+      "description": "This course is a survey of the formation and organization of the Book of Psalms, the nature of Old Testament poetry, and application of sound principles for studying the book. Selected Psalms are used to illustrate the various kinds of Psalms and the doctrinal and devotional values of the Psalms.",
+      "institution": "MIT"
+    },
+    {
+      "course_id": "BI 333",
+      "course_title": "Life of Christ",
+      "credits": "2.00",
+      "description": "This course is a study of the earthly life and ministry of Christ as revealed in the four Gospels. The study, which will place value on the harmony of the Gospels, will emphasize understanding who Jesus Christ was and is, what He did, and why such revelation is important to men and women.",
+      "institution": "MIT"
+    },
+    {
+      "course_id": "BI 337",
+      "course_title": "Prison Epistles",
+      "credits": "2.00",
+      "description": "This course is an exposition of selected portions of these epistles designed to illustrate inductive Bible study, historical setting, and the manner in which these Epistles fit into Paul's life.",
+      "institution": "MIT"
+    },
+    {
+      "course_id": "BI 338",
+      "course_title": "General Epistles",
+      "credits": "2.00",
+      "description": "This course is a study of the New Testament epistles known as the General Epistles: James, 1 and 2 Peter, 1, 2, and 3 John, and Jude. Authorship, date, historical context of each Epistle is examined. The content and theme of the epistles are analyzed in detail.",
+      "institution": "MIT"
+    },
+    {
+      "course_id": "BI 339",
+      "course_title": "Pastoral Epistles",
+      "credits": "2.00",
+      "description": "This course is designed to be a verse-by-verse study of the New Testament Epistles of 1 and 2 Timothy and Titus, the Pastoral Epistles. Authorship, date, argument, and historical setting are analyzed for each of these late Pauline epistles.",
+      "institution": "MIT"
+    }
+  ],
+  "timestamp": "2025-08-06T15:41:55.189094"
+}

@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Gadsden State Community College",
+    "successful_variation": "Gadsden State Community College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Gadsden+State+Community+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ABR 111",
+      "course_title": "Non-Structural Repair",
+      "credits": "3.00",
+      "description": "Students are introduced to basic principles of non-structural panel repairs. Topics include shop safety, identification and use of hand/power tools, panel preparation, sheet metal repairs, and materials. PREREQUISITE: As required by program CORE",
+      "institution": "Gadsden State Community College"
+    },
+    {
+      "course_id": "ABR 114",
+      "course_title": "Non-Structural Panel Replacement",
+      "credits": "0.00",
+      "description": "Students are introduced to basic principles of non-structural panel replacement. Topics include replacement and alignment of bolt-on panels, full and partial panel replacement procedures, and attachment methods. Upon completion, students should be able to replace and align non-structural panels. Prerequisite(s): As required by program CORE",
+      "institution": "Gadsden State Community College"
+    },
+    {
+      "course_id": "ABR 122",
+      "course_title": "Surface Preparation",
+      "credits": "3.00",
+      "description": "This course introduces to methods of surface preparation for vehicular refinishing. Topics include sanding techniques, metal treatment, selection and use of undercoats, and proper masking procedures. Upon completion, students should be able to prepare a vehicle for refinishing. PREREQUISITE: As required by program CORE",
+      "institution": "Gadsden State Community College"
+    },
+    {
+      "course_id": "ABR 123",
+      "course_title": "Paint Application and Equipment",
+      "credits": "3.00",
+      "description": "This course introduces students to methods of paint application and equipment used for vehicular refinishing. Topics include spray gun and related equipment use, paint mixing, matching, and applying the final topcoat. PREREQUISITE: As required by program CORE",
+      "institution": "Gadsden State Community College"
+    },
+    {
+      "course_id": "ABR 151",
+      "course_title": "Safety and Environmental Practices",
+      "credits": "3.00",
+      "description": "This course is designed to instruct the student in safe work practices. Topics include OSHA requirements, the right to know laws, EPA regulations as well as state and local laws. PREREQUISITE: As required by program CORE",
+      "institution": "Gadsden State Community College"
+    },
+    {
+      "course_id": "ABR 154",
+      "course_title": "Automotive Glass and Trim",
+      "credits": "3.00",
+      "description": "This course is a study of automotive glass and trim. Emphasis is placed on removal and replacement of structural and nonstructural glass and automotive trim. Upon completion, students should be able to remove and replace automotive trim and glass. PREREQUISITE: As required by program CORE",
+      "institution": "Gadsden State Community College"
+    },
+    {
+      "course_id": "ABR 156",
+      "course_title": "Automotive Cutting and Welding",
+      "credits": "3.00",
+      "description": "Students are introduced to the various automotive cutting and welding processes. Emphasis is placed on safety, plasma arc, oxyacetylene cutting, resistance type spot welding, and Metal Inert Gas (MIG) welding. Upon completion, students should be able to safely perform automotive cutting and welding procedures. CORE",
+      "institution": "Gadsden State Community College"
+    },
+    {
+      "course_id": "ABR 157",
+      "course_title": "Automotive Plastic Repairs",
+      "credits": "3.00",
+      "description": "This course provides instruction in automotive plastic repairs. Topics include plastic welding (airless, hot and chemical), use of flexible repair fillers, identification of types of plastics, and determining the correct repair procedures for each. Upon completion, students should be able to identify and repair the different types of automotive plastics. PREREQUISITE: As required by program",
+      "institution": "Gadsden State Community College"
+    },
+    {
+      "course_id": "ABR 181",
+      "course_title": "Special Topics in ABR",
+      "credits": "3.00",
+      "description": "This course is guided independent study in special projects to give the student additional training in a specific area selected by the instructor. Emphasis is placed on individual student needs to improve or expand skills. Upon course completion, students should be able to demonstrate skills to meet specific needs. PREREQUISITE: As required by program",
+      "institution": "Gadsden State Community College"
+    },
+    {
+      "course_id": "ABR 182",
+      "course_title": "Special Topics in ABR",
+      "credits": "3.00",
+      "description": "This course is guided independent study in special projects to give the student additional training in a specific area selected by the instructor. Emphasis is placed on individual student needs to improve or expand skills. Upon course completion, students should be able to demonstrate skills to meet specific needs. PREREQUISITE: As required by program",
+      "institution": "Gadsden State Community College"
+    }
+  ],
+  "timestamp": "2025-08-10T17:40:07.830422"
+}

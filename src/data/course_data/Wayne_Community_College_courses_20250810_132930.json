@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Wayne Community College",
+    "successful_variation": "Wayne Community College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Wayne+Community+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACA 090",
+      "course_title": "Study Skills",
+      "credits": "3.00",
+      "description": "Prerequisite: None Corequisite: None This course is intended for those who placed into credit-level course work but who are not maintaining satisfactory academic progress toward meeting program goals. Topics include study skills, note taking, learning styles and strategies, test taking, goal setting, and self-assessment skills. Upon completion, students should be able to manage their learning experiences to successfully meet educational goals. Students scoring into ENG 080, Writing Fundamentals, or RED 080, Introduction to College Reading, must also complete ACA 090, College Study Skills before registering for ENG 111, Expository Writing. (F., Sp., S.)",
+      "institution": "Wayne Community College"
+    },
+    {
+      "course_id": "ACA 111",
+      "course_title": "College Student Success",
+      "credits": "3.00",
+      "description": "Prerequisite: None Corequisite: None This course introduces the college's physical, academic, and social environment and promotes the personal development essential for success. Topics include campus facilities and resources; policies, procedures, and programs; study skills; and life management issues such as health, self-esteem, motivation, goal-setting, diversity, and communication. Upon completion, students should be able to function effectively within the college environment to meet their educational objectives. This course is also available through the Virtual Learning Community (VLC). ( F., Sp., S.)",
+      "institution": "Wayne Community College"
+    },
+    {
+      "course_id": "ACA 120",
+      "course_title": "Career Assessment",
+      "credits": "3.00",
+      "description": "Prerequisite: None Corequisite: None This course provides the information and strategies necessary to develop clear personal, academic, and professional goals. Topics include personality styles, goal setting, various college curricula, career choices, and campus leadership development. Upon completion, students should be able to clearly state their personal, academic, and professional goals and have a feasible plan of action to achieve those goals. (On Demand)",
+      "institution": "Wayne Community College"
+    },
+    {
+      "course_id": "ACC 115",
+      "course_title": "College Accounting",
+      "credits": "3.00",
+      "description": "Prerequisite: None Corequisite: None This course introduces basic accounting principles for a business. Topics include the complete accounting cycle with end-of-period statements, bank reconciliation, payrolls, and petty cash. Upon completion, students should be able to demonstrate an understanding of accounting principles and apply those skills to a business organization. (F., Sp.)",
+      "institution": "Wayne Community College"
+    },
+    {
+      "course_id": "ACC 120",
+      "course_title": "Prin Of Financial Accounting",
+      "credits": "3.00",
+      "description": "Prerequisite: MAT 060 and RED 090 Corequisite: None This course introduces business decision-making accounting information systems. Emphasis is placed on analyzing, summarizing, reporting, and interpreting fi nancial information. Upon completion, students should be able to prepare fi nancial statements, understand the role of fi nancial information in decision-making and address ethical considerations. This course has been approved to satisfy the Comprehensive Articulation Agreement pre-major and/or elective course requirement. This course is also available through the Virtual Learning Community (VLC). ( F., Sp., S.)",
+      "institution": "Wayne Community College"
+    },
+    {
+      "course_id": "ACC 121",
+      "course_title": "Prin of Managerial Accounting",
+      "credits": "3.00",
+      "description": "Prerequisite: ACC 120 Corequisite: None This course includes a greater emphasis on managerial and cost accounting skills. Emphasis is placed on managerial accounting concepts for external and internal analysis, reporting and decision-making. Upon completion, students should be able to analyze and interpret transactions relating to managerial concepts including product-costing systems. This course has been approved to satisfy the Comprehensive Articulation Agreement pre-major and/or elective course requirement. This course is also available through the Virtual Learning Community (VLC). ( F., Sp., S.)",
+      "institution": "Wayne Community College"
+    },
+    {
+      "course_id": "ACC 129",
+      "course_title": "Individual Income Taxes",
+      "credits": "3.00",
+      "description": "Prerequisite: None Corequisite: None This course introduces the relevant laws governing individual income taxation. Topics include tax law, electronic research and methodologies, and the use of technology for preparation of individual tax returns. Upon completion, students should be able to analyze basic tax scenarios, research applicable tax law, and complete various individual tax forms. This course is also available through the Virtual Learning Community (VLC). ( F., Sp.)",
+      "institution": "Wayne Community College"
+    },
+    {
+      "course_id": "ACC 130",
+      "course_title": "Business Income Taxes",
+      "credits": "3.00",
+      "description": "Prerequisite: ACC 120 and ACC 129 Corequisite: None This course introduces the relevant laws governing business and fi duciary income taxes. Topics include tax law relating to business organizations, electronic research and methodologies, and the use of technology for the preparation of business tax returns. Upon completion, students should be able to analyze basic tax scenarios, research applicable tax law, and complete various business tax forms. This course is also available through the Virtual Learning Community (VLC). ( Sp.)",
+      "institution": "Wayne Community College"
+    },
+    {
+      "course_id": "ACC 140",
+      "course_title": "Payroll Accounting",
+      "credits": "3.00",
+      "description": "Prerequisite: ACC 115 or ACC 120 Corequisite: None This course covers federal and state laws pertaining to wages, payroll taxes, payroll tax forms, and journal and general ledger transactions. Emphasis is placed on computing wages; calculating social security, income, and unemployment taxes; preparing appropriate payroll tax forms; and journalizing/posting transactions. Upon completion, students should be able to analyze data, make appropriate computations, complete forms, and prepare accounting entries using appropriate technology. This course is also available through the Virtual Learning Community (VLC). ( Sp.)",
+      "institution": "Wayne Community College"
+    },
+    {
+      "course_id": "ACC 150",
+      "course_title": "Acct Software Application",
+      "credits": "3.00",
+      "description": "Prerequisite: ACC 115 or ACC 120 Corequisite: None This course introduces microcomputer applications related to accounting systems. Topics include general ledger, accounts receivable, accounts payable, inventory, payroll, and correcting, adjusting, and closing entries. Upon completion, students should be able to use a computer accounting package to solve accounting problems. This course is also available through the Virtual Learning Community (VLC). ( F.)",
+      "institution": "Wayne Community College"
+    }
+  ],
+  "timestamp": "2025-08-10T13:29:30.116801"
+}

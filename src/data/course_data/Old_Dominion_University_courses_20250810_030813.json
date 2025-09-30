@@ -1,0 +1,53 @@
+{
+  "search_query": {
+    "institution": "Old Dominion University",
+    "successful_variation": "Old Dominion University",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Old+Dominion+University&distance=5"
+  },
+  "total_results": 6,
+  "courses": [
+    {
+      "course_id": "AAST 100",
+      "course_title": "INTRO-AFRICAN AMERICAN STUDIES",
+      "credits": "3.00",
+      "description": "Lecture 3 hours; 3 credits. An interdisciplinary examination of the African American experience in America. The course examines the historical and contemporary conditions of African American people. It also explores the various modes of artistic expression, values and philosophical underpinnings of African American culture.",
+      "institution": "Old Dominion University"
+    },
+    {
+      "course_id": "AAST 368",
+      "course_title": "INTERNSHIP",
+      "credits": "3.00",
+      "description": "3 credits. Prerequisite: permission of program director. Individual practical experience in community-based organizations, public bureaucracies, administrative agencies and other organizations and firms. Student can gain exposure in the not-for-profit and profit sectors. (qualifies as a CAP experience)",
+      "institution": "Old Dominion University"
+    },
+    {
+      "course_id": "AAST 395",
+      "course_title": "TOPICS IN AFRICAN AMER STUDIES",
+      "credits": "3.00",
+      "description": "3 credits. Prerequisite: AAST 100 or permission of the instructor. These courses are open to majors and non-majors. Ethnic studies majors may take these courses to satisfy requirements for the concentration. These courses will appear in the course schedule, and will be more fully described in information distributed to all academic advisors.",
+      "institution": "Old Dominion University"
+    },
+    {
+      "course_id": "AAST 396",
+      "course_title": "TOPICS IN AFRICAN AMER STUDIES",
+      "credits": "3.00",
+      "description": "3 credits. Prerequisite: AAST 100 or permission of the instructor. These courses are open to majors and non-majors. Ethnic studies majors may take these courses to satisfy requirements for the concentration. These courses will appear in the course schedule, and will be more fully described in information distributed to all academic advisors.",
+      "institution": "Old Dominion University"
+    },
+    {
+      "course_id": "AAST 495",
+      "course_title": "TOPICS AFRICAN AMERICAN STUDIE",
+      "credits": "3.00",
+      "description": "3 credits. Prerequisite: senior standing. This course focuses on a variety of selected topics in African American Studies. These courses will appear in the course schedule, and will be more fully described in information distributed to all academic advisors.",
+      "institution": "Old Dominion University"
+    },
+    {
+      "course_id": "AAST 497",
+      "course_title": "INDEPENDENT STUDY",
+      "credits": "3.00",
+      "description": "1-3 credits. Prerequisite: junior standing or permission of instructor. Students are exposed to opportunities to conduct independent research and/or study in areas focused on the political, social and cultural experiences of people of African descent in the U.S. and the African Diaspora.",
+      "institution": "Old Dominion University"
+    }
+  ],
+  "timestamp": "2025-08-10T03:08:13.491228"
+}

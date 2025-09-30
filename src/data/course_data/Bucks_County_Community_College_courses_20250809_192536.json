@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Bucks County Community College",
+    "successful_variation": "Bucks County Community College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Bucks+County+Community+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACCT 103",
+      "course_title": "Introductory Accounting",
+      "credits": "3.00",
+      "description": "This course provides an introduction to the principles and concepts of financial accounting. This course focuses on bookkeeping and accounting procedures through the accounting cycle for service and merchandising businesses, including special journals. This course presumes no previous knowledge of accounting.",
+      "institution": "Bucks County Community College"
+    },
+    {
+      "course_id": "ACCT 105",
+      "course_title": "Financial Accounting",
+      "credits": "4.00",
+      "description": "This course provides an introduction to the objectives, principles, assumptions and concepts of financial accounting. It focuses on procedures and practices from the accounting cycle through financial statement presentation with an emphasis on recognizing, valuing, reporting, and disclosing assets, liabilities, and equity. This course presumes no previous accounting knowledge. Prerequisite: ACCT103 (C or better) or READ110 (C or better) or COMP108 (C or better) or Reading Placement Test score Level 3",
+      "institution": "Bucks County Community College"
+    },
+    {
+      "course_id": "ACCT 106",
+      "course_title": "Managerial Accounting",
+      "credits": "4.00",
+      "description": "This course introduces students to the concepts and applications of managerial accounting. Students focus on analysis and recording of various manufacturing costs, cost-volume-profit analysis, preparation of financial statements for a manufacturer, creation of static and flexible budgets and reports, evaluation of capital investments, and various costing systems. Prerequisite: ACCT105 (C or better)",
+      "institution": "Bucks County Community College"
+    },
+    {
+      "course_id": "ACCT 110",
+      "course_title": "Personal Financial Planning",
+      "credits": "3.00",
+      "description": "This course prepares students with little or no experience in personal finance to make money management decisions. Students analyze the interrelationships of budgeting, banking, credit, taxation, investments, insurance, and estate planning as they apply to consumer decision-making.",
+      "institution": "Bucks County Community College"
+    },
+    {
+      "course_id": "ACCT 120",
+      "course_title": "Payroll Records and Accounting",
+      "credits": "3.00",
+      "description": "This course examines the various payroll laws, payroll accounting systems, and the procedures for computing wages and salaries in small, medium, and large firms. Prerequisite: ACCT103 (C or better) or ACCT105 (C or better)",
+      "institution": "Bucks County Community College"
+    },
+    {
+      "course_id": "ACCT 130",
+      "course_title": "Accounting Applications for the Computer",
+      "credits": "3.00",
+      "description": "This course provides a survey of automated accounting functions, including basic accounting procedures through the accounting cycle for service and merchandising businesses. Students implement current industry standard software to perform accounting functions and analyze financial statements. Prerequisite: ACCT103 (C or better) or ACCT105 (C or better)",
+      "institution": "Bucks County Community College"
+    },
+    {
+      "course_id": "ACCT 200",
+      "course_title": "Intermediate Accounting I",
+      "credits": "3.00",
+      "description": "This course provides an intensive study of the application of generally accepted accounting principles and financial pronouncements for financial reporting and disclosure of current and noncurrent assets. Prerequisite: ACCT105 (C or better) or permission of the Department of Business Studies",
+      "institution": "Bucks County Community College"
+    },
+    {
+      "course_id": "ACCT 201",
+      "course_title": "Intermediate Accounting II",
+      "credits": "3.00",
+      "description": "This course provides an intensive study of the application of generally accepted accounting principles and financial pronouncements to the financial reporting and disclosure of current and noncurrent liabilities and stockholders' equity. Prerequisite: ACCT105 (C or better) or permission of the Department of Business + Innovation",
+      "institution": "Bucks County Community College"
+    },
+    {
+      "course_id": "ACCT 210",
+      "course_title": "Cost Accounting I",
+      "credits": "3.00",
+      "description": "This course provides an understanding of cost accounting systems and procedures and how they are used for business strategy and implementation. This course presents an analysis of key data for planning and controlling to assist in management decisions. Prerequisite: ACCT106 (C or better) or permission of the Department of Business Studies",
+      "institution": "Bucks County Community College"
+    },
+    {
+      "course_id": "ACCT 230",
+      "course_title": "Financial Management",
+      "credits": "3.00",
+      "description": "This course examines the financial methods and techniques for a business. Analysis emphasizes problems of financial management, internal financial planning and analysis, short-term, intermediate, and long-term financial needs, conflict between profitability and solvency, and financial instruments and markets. Prerequisite: ACCT105 (C or better) or permission of the Department of Business + Innovation",
+      "institution": "Bucks County Community College"
+    }
+  ],
+  "timestamp": "2025-08-09T19:25:36.587142"
+}

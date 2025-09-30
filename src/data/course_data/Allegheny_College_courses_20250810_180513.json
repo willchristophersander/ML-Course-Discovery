@@ -1,0 +1,39 @@
+{
+  "search_query": {
+    "institution": "Allegheny College",
+    "successful_variation": "Allegheny College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Allegheny+College&distance=5"
+  },
+  "total_results": 4,
+  "courses": [
+    {
+      "course_id": "ACCEL 201",
+      "course_title": "Service Learning:Theory and Practice I",
+      "credits": "2.00",
+      "description": "A seminar focusing on the use of service and community engagement as a pedagogy for higher education. Students study the definitions, theories, and assessments of community-based service-learning as text. The role of reflection in fostering student learning is explored in depth. This is the first of a two-part sequence on service-learning theory and practice and culminates in the design of a service-learning component for an existing course. Credit: Two semester hours. Prerequisite: One service-learning course.",
+      "institution": "Allegheny College"
+    },
+    {
+      "course_id": "ACCEL 202",
+      "course_title": "Service Learning:Theory and Practice II",
+      "credits": "2.00",
+      "description": "A seminar and practicum focusing on the use of service and community engagement as a pedagogy for higher education. Students carry out the service-learning plan designed in the preceding course and serve as peer mentors for students in INTDS 201. This is the second of a two-part sequence on service-learning theory and practice and culminates in a formal presentation on the service-learning project undertaken. Credit: Two semester hours. Prerequisite: INTDS 201.",
+      "institution": "Allegheny College"
+    },
+    {
+      "course_id": "ACCEL 300",
+      "course_title": "Cross-Cultural Learning:Theory and Practice I",
+      "credits": "1.00",
+      "description": "Required of all students in Allegheny-sponsored off-campus programs. This course provides grounding in cross-cultural learning and communication, and guidelines for reflection on experiential learning. It provides a framework for students to explore the dimensions of their time off-campus differences and similarities among people, lifestyles, learning styles, and even knowledge itself. Students must complete the pre-departure orientation requirements (readings, assignments, paperwork submissions, etc.), on-site blogs, and re-entry assignments (final paper & poster session) upon return to Allegheny. The course is posted to their transcript the semester they return to campus. Credit: One semester hour.",
+      "institution": "Allegheny College"
+    },
+    {
+      "course_id": "ACCEL 594",
+      "course_title": "Experiential Learning Travel Seminars",
+      "credits": "4.00",
+      "description": "A short-term intensive course usually offered between semesters or after spring semester. Travel Seminars typically include travel in the U.S. or abroad, and incorporate direct observation of or involvement in activities that complement or illustrate the subject matter. The seminars integrate students' experiential learning activities with theory and research in various fields. Students are exposed to diverse ideas, peoples, cultures, or ways of living and thinking. The courses are designed and taught by Allegheny faculty. Individual Experiential Learning Seminars are reviewed by the International Working Group and approved by the Curriculum Committee. Credit: two, three, or four semester hours.",
+      "institution": "Allegheny College"
+    }
+  ],
+  "timestamp": "2025-08-10T18:05:13.285982"
+}

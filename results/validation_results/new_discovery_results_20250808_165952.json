@@ -1,0 +1,318 @@
+{
+  "timestamp": "2025-08-08T16:59:52.405651",
+  "analysis": {
+    "total_universities": 15,
+    "discovery_success_rate": 1.0,
+    "avg_discovery_confidence": 0.9193333333333336,
+    "validation_success_rate": 0.3333333333333333,
+    "avg_validation_confidence": 0.2,
+    "course_finding_rate": 0.48,
+    "avg_discovery_time": 3.4077465216318767,
+    "avg_validation_time": 5.225929053624471,
+    "successful_discoveries": [
+      {
+        "university": "The University of Texas at Rio Grande Valley",
+        "url": "https://classes.berkeley.edu/",
+        "discovery_confidence": 0.89,
+        "validation_confidence": 0.0,
+        "courses_found": "0/0"
+      },
+      {
+        "university": "Harvard University",
+        "url": "https://courses.my.harvard.edu/psp/courses/EMPLOYEE/EMPL/h/?tab=HU_CLASS_SEARCH",
+        "discovery_confidence": 0.935,
+        "validation_confidence": 0.0,
+        "courses_found": "0/0"
+      },
+      {
+        "university": "Ohio State University - Columbus",
+        "url": "https://classes.osu.edu/#/",
+        "discovery_confidence": 0.935,
+        "validation_confidence": 0.0,
+        "courses_found": "0/0"
+      },
+      {
+        "university": "Saint Mary's University of Minnesota",
+        "url": "https://classes.berkeley.edu/",
+        "discovery_confidence": 0.89,
+        "validation_confidence": 0.2,
+        "courses_found": "1/5"
+      },
+      {
+        "university": "Stanford University",
+        "url": "https://navigator.stanford.edu/classes?classes%5BrefinementList%5D%5BtermOffered%5D%5B0%5D=Autumn%202025",
+        "discovery_confidence": 0.925,
+        "validation_confidence": 0.2,
+        "courses_found": "5/5"
+      },
+      {
+        "university": "University of California, Berkeley",
+        "url": "https://classes.berkeley.edu/",
+        "discovery_confidence": 0.935,
+        "validation_confidence": 0.2,
+        "courses_found": "3/5"
+      },
+      {
+        "university": "University of Florida",
+        "url": "https://classes.berkeley.edu/",
+        "discovery_confidence": 0.89,
+        "validation_confidence": 0.2,
+        "courses_found": "1/5"
+      },
+      {
+        "university": "University of Illinois Chicago",
+        "url": "https://courses.illinois.edu/",
+        "discovery_confidence": 0.935,
+        "validation_confidence": 0.0,
+        "courses_found": "0/0"
+      },
+      {
+        "university": "University of Illinois Springfield",
+        "url": "https://courses.illinois.edu/",
+        "discovery_confidence": 0.935,
+        "validation_confidence": 0.0,
+        "courses_found": "0/0"
+      },
+      {
+        "university": "University of Illinois Urbana-Champaign",
+        "url": "https://courses.illinois.edu/",
+        "discovery_confidence": 0.935,
+        "validation_confidence": 0.0,
+        "courses_found": "0/0"
+      },
+      {
+        "university": "University of Michigan - Ann Arbor",
+        "url": "https://classes.berkeley.edu/",
+        "discovery_confidence": 0.89,
+        "validation_confidence": 0.0,
+        "courses_found": "0/0"
+      },
+      {
+        "university": "University of Michigan - Dearborn",
+        "url": "https://classes.berkeley.edu/",
+        "discovery_confidence": 0.89,
+        "validation_confidence": 0.0,
+        "courses_found": "0/0"
+      },
+      {
+        "university": "University of Minnesota",
+        "url": "https://www.minnesota.edu/course-descriptions",
+        "discovery_confidence": 0.935,
+        "validation_confidence": 0.2,
+        "courses_found": "2/5"
+      },
+      {
+        "university": "University of Minnesota - Crookston",
+        "url": "https://www.minnesota.edu/course-descriptions",
+        "discovery_confidence": 0.935,
+        "validation_confidence": 0.0,
+        "courses_found": "0/0"
+      },
+      {
+        "university": "University of Minnesota - Duluth",
+        "url": "https://www.minnesota.edu/course-descriptions",
+        "discovery_confidence": 0.935,
+        "validation_confidence": 0.0,
+        "courses_found": "0/0"
+      }
+    ],
+    "failed_discoveries": []
+  },
+  "detailed_results": [
+    {
+      "university_name": "The University of Texas at Rio Grande Valley",
+      "discovered_url": "https://classes.berkeley.edu/",
+      "discovery_success": true,
+      "discovery_confidence": 0.89,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No test courses found in CollegeTransfer.net",
+      "discovery_time": 2.4618289470672607,
+      "validation_time": 4.884153842926025
+    },
+    {
+      "university_name": "Harvard University",
+      "discovered_url": "https://courses.my.harvard.edu/psp/courses/EMPLOYEE/EMPL/h/?tab=HU_CLASS_SEARCH",
+      "discovery_success": true,
+      "discovery_confidence": 0.935,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No test courses found in CollegeTransfer.net",
+      "discovery_time": 7.243492126464844,
+      "validation_time": 3.2826788425445557
+    },
+    {
+      "university_name": "Ohio State University - Columbus",
+      "discovered_url": "https://classes.osu.edu/#/",
+      "discovery_success": true,
+      "discovery_confidence": 0.935,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No test courses found in CollegeTransfer.net",
+      "discovery_time": 6.0740647315979,
+      "validation_time": 5.405478239059448
+    },
+    {
+      "university_name": "Saint Mary's University of Minnesota",
+      "discovered_url": "https://classes.berkeley.edu/",
+      "discovery_success": true,
+      "discovery_confidence": 0.89,
+      "validation_success": true,
+      "validation_confidence": 0.2,
+      "test_courses_found": 1,
+      "total_test_courses": 5,
+      "error_message": null,
+      "discovery_time": 2.086446762084961,
+      "validation_time": 2.248500108718872
+    },
+    {
+      "university_name": "Stanford University",
+      "discovered_url": "https://navigator.stanford.edu/classes?classes%5BrefinementList%5D%5BtermOffered%5D%5B0%5D=Autumn%202025",
+      "discovery_success": true,
+      "discovery_confidence": 0.925,
+      "validation_success": true,
+      "validation_confidence": 0.2,
+      "test_courses_found": 5,
+      "total_test_courses": 5,
+      "error_message": null,
+      "discovery_time": 4.4283411502838135,
+      "validation_time": 2.115370988845825
+    },
+    {
+      "university_name": "University of California, Berkeley",
+      "discovered_url": "https://classes.berkeley.edu/",
+      "discovery_success": true,
+      "discovery_confidence": 0.935,
+      "validation_success": true,
+      "validation_confidence": 0.2,
+      "test_courses_found": 3,
+      "total_test_courses": 5,
+      "error_message": null,
+      "discovery_time": 4.613243103027344,
+      "validation_time": 6.070021867752075
+    },
+    {
+      "university_name": "University of Florida",
+      "discovered_url": "https://classes.berkeley.edu/",
+      "discovery_success": true,
+      "discovery_confidence": 0.89,
+      "validation_success": true,
+      "validation_confidence": 0.2,
+      "test_courses_found": 1,
+      "total_test_courses": 5,
+      "error_message": null,
+      "discovery_time": 3.630319118499756,
+      "validation_time": 6.500532865524292
+    },
+    {
+      "university_name": "University of Illinois Chicago",
+      "discovered_url": "https://courses.illinois.edu/",
+      "discovery_success": true,
+      "discovery_confidence": 0.935,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No test courses found in CollegeTransfer.net",
+      "discovery_time": 1.7615869045257568,
+      "validation_time": 6.172177314758301
+    },
+    {
+      "university_name": "University of Illinois Springfield",
+      "discovered_url": "https://courses.illinois.edu/",
+      "discovery_success": true,
+      "discovery_confidence": 0.935,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No test courses found in CollegeTransfer.net",
+      "discovery_time": 1.6553170680999756,
+      "validation_time": 5.317148208618164
+    },
+    {
+      "university_name": "University of Illinois Urbana-Champaign",
+      "discovered_url": "https://courses.illinois.edu/",
+      "discovery_success": true,
+      "discovery_confidence": 0.935,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No test courses found in CollegeTransfer.net",
+      "discovery_time": 1.624734878540039,
+      "validation_time": 6.799184322357178
+    },
+    {
+      "university_name": "University of Michigan - Ann Arbor",
+      "discovered_url": "https://classes.berkeley.edu/",
+      "discovery_success": true,
+      "discovery_confidence": 0.89,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No test courses found in CollegeTransfer.net",
+      "discovery_time": 2.0291779041290283,
+      "validation_time": 6.910089015960693
+    },
+    {
+      "university_name": "University of Michigan - Dearborn",
+      "discovered_url": "https://classes.berkeley.edu/",
+      "discovery_success": true,
+      "discovery_confidence": 0.89,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No test courses found in CollegeTransfer.net",
+      "discovery_time": 1.9481661319732666,
+      "validation_time": 6.774511814117432
+    },
+    {
+      "university_name": "University of Minnesota",
+      "discovered_url": "https://www.minnesota.edu/course-descriptions",
+      "discovery_success": true,
+      "discovery_confidence": 0.935,
+      "validation_success": true,
+      "validation_confidence": 0.2,
+      "test_courses_found": 2,
+      "total_test_courses": 5,
+      "error_message": null,
+      "discovery_time": 5.015259027481079,
+      "validation_time": 2.221177101135254
+    },
+    {
+      "university_name": "University of Minnesota - Crookston",
+      "discovered_url": "https://www.minnesota.edu/course-descriptions",
+      "discovery_success": true,
+      "discovery_confidence": 0.935,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No test courses found in CollegeTransfer.net",
+      "discovery_time": 3.3871638774871826,
+      "validation_time": 6.704538106918335
+    },
+    {
+      "university_name": "University of Minnesota - Duluth",
+      "discovered_url": "https://www.minnesota.edu/course-descriptions",
+      "discovery_success": true,
+      "discovery_confidence": 0.935,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No test courses found in CollegeTransfer.net",
+      "discovery_time": 3.1570560932159424,
+      "validation_time": 6.983373165130615
+    }
+  ]
+}

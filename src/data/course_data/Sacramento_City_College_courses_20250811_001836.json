@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Sacramento City College",
+    "successful_variation": "Sacramento City College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Sacramento+City+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ADAPT 310",
+      "course_title": "Adapted Lifetime Sports",
+      "credits": "1.00",
+      "description": "Prerequisite: None. General Education: AA/AS Area III(a); CSU Area E2 Enrollment Limitation: A student must have a temporary or permanent disability. Student must have a medical release form signed by a physician or appropriate medical professional. Student must fill out the Intake Procedures Forms from the Disability Resource Center (DRC). Course Transferable to UC/CSU Hours: 54 hours LAB This is a physical education course designed to expose individuals with physical disabilities to a variety of individual sports in which they can participate. Modifications and assisted devices will be used to enable students to participate in sports such as basketball, kayaking (in the pool), tennis, etc. This course may be taken four times for credit.",
+      "institution": "Sacramento City College"
+    },
+    {
+      "course_id": "ADAPT 320",
+      "course_title": "Arthritis Exercise, Individual Exercise for Individuals with Arthritis",
+      "credits": "1.00",
+      "description": "Prerequisite: None. General Education: AA/AS Area III(a); CSU Area E2 Enrollment Limitation: A student must have a temporary or permanent disability. Student must have a medical release form signed by a physician or appropriate medical professionals. Student must fill out the Intake Procedures Forms from the Disability Resource Center (DRC). Course Transferable to UC/CSU Hours: 54 hours LAB This is a physical education course that is specifically designed for individuals with arthritis. Planned individualized and group activities will promote wellness and fitness. General principles of safe, appropriate stretching and exercise will be discussed and practiced. This course may be taken four times for credit.",
+      "institution": "Sacramento City College"
+    },
+    {
+      "course_id": "ADAPT 322",
+      "course_title": "Back Care",
+      "credits": "1.00",
+      "description": "Prerequisite: None. General Education: AA/AS Area III(a); CSU Area E2 Enrollment Limitation: A student must have a temporary or permanent disability. Student must have a medical release form signed by a physician or appropriate medical professionals. Student must fill out the Intake Procedures Forms from the Disability Resource Center (DRC). Course Transferable to CSU Hours: 54 hours LAB This is a physical education course designed to help relieve or reduce back pain. Individualized and/or group exercise programs will be designed and utilized for students with back disorders. This course may be taken four times for credit.",
+      "institution": "Sacramento City College"
+    },
+    {
+      "course_id": "ADAPT 324",
+      "course_title": "Heart Healthy",
+      "credits": "1.00",
+      "description": "Prerequisite: None. General Education: AA/AS Area III(a); CSU Area E2 Enrollment Limitation: A student must have a temporary or permanent disability. Student must have medical release form signed by a physician or appropriate medical professionals. Student must fill out the Intake Procedures Forms from the Disability Resource Center (DRC). Course Transferable to UC/CSU Hours: 54 hours LAB This is a physical education course that is specifically designed for individuals who are recovering from a cardiac disability. Individualized and/or group activities will be used to increase fitness. General specific exercise principles will be discussed to encourage a continued healthy and active lifestyle. This course may be taken four times for credit.",
+      "institution": "Sacramento City College"
+    },
+    {
+      "course_id": "ADAPT 331",
+      "course_title": "Mobility Training for the Physically Limited",
+      "credits": "1.00",
+      "description": "Prerequisite: None. General Education: AA/AS Area III(a); CSU Area E2 Enrollment Limitation: A student must have a temporary or permanent disability. Student must have a medical release form signed by a physician or appropriate medical professionals. Student must fill out the Intake Procedures Forms from the Disability Resource Center (DRC). Course Transferable to UC/CSU Hours: 54 hours LAB This is a weight training course for physically limited students who need to increase muscular strength. All exercise programs are designed to meet the student's individual goals. General strengthening, conditioning, and body mechanics are included. This course may be taken four times for credit.",
+      "institution": "Sacramento City College"
+    },
+    {
+      "course_id": "ADAPT 332",
+      "course_title": "Adapted Aquatics",
+      "credits": "1.00",
+      "description": "Prerequisite: None. General Education: AA/AS Area III(a); CSU Area E2 Enrollment Limitation: A student must have a temporary or permanent disability. Student must have a medical release form signed by a physician or appropriate medical professional. Student must fill out the Intake Procedures Forms from the Disability Resource Center (DRC). Course Transferable to UC/CSU Hours: 54 hours LAB Water exercises will be individually designed for students with physical limitations. This course may be taken four times for credit.",
+      "institution": "Sacramento City College"
+    },
+    {
+      "course_id": "ADAPT 499",
+      "course_title": "Experimental Offering in. Adapted Physical Education",
+      "credits": "5.00",
+      "description": "Prerequisite: None Course Transferable to UC/CSU Hours: 270 hours LAB See Experimental Offerings.",
+      "institution": "Sacramento City College"
+    },
+    {
+      "course_id": "ARABIC 401",
+      "course_title": "Elementary Arabic",
+      "credits": "5.00",
+      "description": "Prerequisite: None. General Education: AA/AS Area I; CSU Area C2; IGETC Area 6 Course Transferable to UC/CSU Hours: 90 hours LEC This beginning course in Arabic emphasizes the development of listening, speaking, reading, and writing language skills; mastering the sound and writing systems of Arabic; understanding and using formulaic and functional phrases; using numbers; and mastering some basic morphological and syntactic features of the language.",
+      "institution": "Sacramento City College"
+    },
+    {
+      "course_id": "ARABIC 402",
+      "course_title": "Elementary Arabic",
+      "credits": "5.00",
+      "description": "Prerequisite: ARABIC 401 with a grade of \"C\" or betterGeneral Education: AA/AS Area I; CSU Area C2; IGETC Area 6 Course Transferable to UC/CSU Hours: 90 hours LEC This course allows students to further develop language skills in understanding, speaking, reading, and writing Arabic. Students will learn past and future tenses and how to express negation, expand vocabulary relating to people, places, objects, and professions; and learn to keep a written journal in Arabic. The emphasis is on communicating effectively in Arabic.",
+      "institution": "Sacramento City College"
+    },
+    {
+      "course_id": "ARABIC 495",
+      "course_title": "Independent Studies in Arabic",
+      "credits": "3.00",
+      "description": "Prerequisite: None Course Transferable to CSU Hours: 54 hours LEC See Independent Studies.",
+      "institution": "Sacramento City College"
+    }
+  ],
+  "timestamp": "2025-08-11T00:18:36.777341"
+}

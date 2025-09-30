@@ -1,0 +1,74 @@
+{
+  "search_query": {
+    "institution": "University of Mississippi",
+    "successful_variation": "University of Mississippi",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=University+of+Mississippi&distance=5"
+  },
+  "total_results": 9,
+  "courses": [
+    {
+      "course_id": "AAS 170",
+      "course_title": "Introduction to African History",
+      "credits": "3.00",
+      "description": "An introduction survey of African history from the earliest times to the present.",
+      "institution": "University of Mississippi"
+    },
+    {
+      "course_id": "AAS 201",
+      "course_title": "African American Experience I",
+      "credits": "3.00",
+      "description": "General overview including focus on race, economy, institutions, and key historical periods.",
+      "institution": "University of Mississippi"
+    },
+    {
+      "course_id": "AAS 202",
+      "course_title": "African American Experience II",
+      "credits": "3.00",
+      "description": "Survey of black experience using the study of culture and the arts as a major focus.",
+      "institution": "University of Mississippi"
+    },
+    {
+      "course_id": "AAS 302",
+      "course_title": "Judicial System & African Amer Community",
+      "credits": "3.00",
+      "description": "An examination of the historical and contemporary relationships and interactions between the black population and the legal system in America. Concepts covered will include considerations of definitions of criminal conduct, societal responses to minority pressures and demands for justice, as well as intergroup relations between nondominant ethnic groups and enforcement components of society.",
+      "institution": "University of Mississippi"
+    },
+    {
+      "course_id": "AAS 307",
+      "course_title": "Peoples of Africa",
+      "credits": "3.00",
+      "description": "This course examines the peoples of modern Sub-Saharan Africa, including patterns of African religions, the arts, politics, economics, and societies.",
+      "institution": "University of Mississippi"
+    },
+    {
+      "course_id": "AAS 308",
+      "course_title": "Politics of Civil Liberties",
+      "credits": "3.00",
+      "description": "American legal and political freedoms, judicial policy making, criminal justice, civil rights.",
+      "institution": "University of Mississippi"
+    },
+    {
+      "course_id": "AAS 310",
+      "course_title": "Experiences of African American Miss",
+      "credits": "3.00",
+      "description": "Cross-disciplinary focus on the social, political, economic, and cultural aspects of African American history in the state with the largest concentration of African Americans in the United States.",
+      "institution": "University of Mississippi"
+    },
+    {
+      "course_id": "AAS 315",
+      "course_title": "Political Systems of Sub-Saharan Africa",
+      "credits": "3.00",
+      "description": "Analysis of the political systems of sub-Saharan Africa and their development from the interaction of African and European social forces.",
+      "institution": "University of Mississippi"
+    },
+    {
+      "course_id": "AAS 320",
+      "course_title": "African American Politics",
+      "credits": "3.00",
+      "description": "An overview of the interaction between African Americans and the American political system.",
+      "institution": "University of Mississippi"
+    }
+  ],
+  "timestamp": "2025-08-10T18:57:14.998070"
+}

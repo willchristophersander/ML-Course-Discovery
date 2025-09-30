@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Guilford Technical Community College",
+    "successful_variation": "Guilford Technical Community College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Guilford+Technical+Community+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACA 115",
+      "course_title": "Success and Study Skills 0 2",
+      "credits": "1.00",
+      "description": "This course provides an orientation to the campus resources and academic skills necessary to achieve educational objectives. Emphasis is placed on an exploration of facilities and services, study skills, library skills, self-assessment, wellness, goal-setting, and critical thinking. Upon completion, students should be able to manage their learning experiences to successfully meet educational goals.",
+      "institution": "Guilford Technical Community College"
+    },
+    {
+      "course_id": "ACA 118",
+      "course_title": "College Study Skills 1 2",
+      "credits": "2.00",
+      "description": "This course covers skills and strategies designed to improve study behaviors. Topics include time management, note taking, test taking, memory techniques, active reading strategies, critical thinking, communication skills, learning styles, and other strategies for effective learning. Upon completion, students should be able to apply appropriate study strategies and techniques to the development of an effective study plan.",
+      "institution": "Guilford Technical Community College"
+    },
+    {
+      "course_id": "ACC 125",
+      "course_title": "Mathematics of Finance 3 0",
+      "credits": "3.00",
+      "description": "This course covers computations necessary in accounting for various business transactions. Emphasis is placed on time value of money concepts and calculations needed for topics such as stocks and bonds, annuities, sinking funds, and amortization. Upon completion, students should be able to make computations necessary in accounting for transactions involving these topics. Pre-requisite: BUS 121, MAT 115, MAT 120, MAT 140 or MAT 151.",
+      "institution": "Guilford Technical Community College"
+    },
+    {
+      "course_id": "ACC 129",
+      "course_title": "Individual Income Taxes 2 2",
+      "credits": "3.00",
+      "description": "This course introduces the relevant laws governing individual income taxation. Topics include tax law, electronic research and methodologies, and the use of technology for preparation of individual tax returns. Upon completion, students should be able to analyze basic tax scenarios, research applicable tax law, and complete various individual tax forms.",
+      "institution": "Guilford Technical Community College"
+    },
+    {
+      "course_id": "ACC 130",
+      "course_title": "Business Income Taxes 2 2",
+      "credits": "3.00",
+      "description": "This course introduces the relevant laws governing business and fiduciary income taxes. Topics include tax law relating to business organizations, electronic research and methodologies, and the use of technology for the preparation of business tax returns. Upon completion, students should be able to analyze basic tax scenarios, research applicable tax law, and complete various business tax forms. Pre-requisite: ACC 129.",
+      "institution": "Guilford Technical Community College"
+    },
+    {
+      "course_id": "ACC 140",
+      "course_title": "Payroll Accounting 1 2",
+      "credits": "2.00",
+      "description": "This course covers federal and state laws pertaining to wages, payroll taxes, payroll tax forms, and journal and general ledger transactions. Emphasis is placed on computing wages; calculating social security, income, and unemployment taxes; preparing appropriate payroll tax forms; and journalizing/posting transactions. Upon completion, students should be able to analyze data, make appropriate computations, complete forms, and prepare accounting entries using appropriate technology. Pre-requisite: ACC 115 or ACC 120.",
+      "institution": "Guilford Technical Community College"
+    },
+    {
+      "course_id": "ACC 149",
+      "course_title": "Introduction to 2 0 2 Accounting Spreadsheets",
+      "credits": "1.00",
+      "description": "This course provides a working knowledge of computer spreadsheets and their use in accounting. Topics include pre-programmed problems, model-building problems, beginning-level macros, graphics, and what-if analysis enhancements of template problems. Upon completion, students should be able to use a computer spreadsheet to complete many of the tasks required in accounting. Pre-requisite: ACC 115 or ACC 120.",
+      "institution": "Guilford Technical Community College"
+    },
+    {
+      "course_id": "ACC 150",
+      "course_title": "Accounting Software Applications 1 2",
+      "credits": "2.00",
+      "description": "This course introduces microcomputer applications related to the major accounting systems. Topics include general ledger, accounts receivable, accounts payable, inventory, payroll, and correcting, adjusting, and closing entries. Upon completion, students should be able to use a computer accounting package to solve accounting problems. Pre-requisite: ACC 115 or ACC 120. Prefix Course Course Title _______ Hours per Week ____________ Credit Number Lecture Lab / Shop Clinic / Co-op Hours",
+      "institution": "Guilford Technical Community College"
+    },
+    {
+      "course_id": "ACC 151",
+      "course_title": "Accounting Spreadsheet Applications 1 2",
+      "credits": "2.00",
+      "description": "This course is designed to facilitate the use of spreadsheet technology as applied to accounting principles. Emphasis is placed on using spreadsheet software as a problem-solving and decision-making tool. Upon completion, students should be able to demonstrate an understanding of the principles involved and display an analytical problem-solving ability for the topics covered. Pre-requisites: ACC 149 and BUS 225.",
+      "institution": "Guilford Technical Community College"
+    },
+    {
+      "course_id": "ACC 180",
+      "course_title": "Practices in Bookkeeping 3 0",
+      "credits": "3.00",
+      "description": "This course provides advanced instruction in bookkeeping and record-keeping functions. Emphasis is placed on mastering adjusting entries, correction of errors, depreciation, payroll, and inventory. Upon completion, students should be able to conduct all key bookkeeping functions for small business. This course can be taken by non-degree seeking individuals who wish to obtain the Certified Bookkeeper Credential. Pre-requisite: ACC 120.",
+      "institution": "Guilford Technical Community College"
+    }
+  ],
+  "timestamp": "2025-08-11T00:13:37.037154"
+}

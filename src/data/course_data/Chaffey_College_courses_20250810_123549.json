@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Chaffey College",
+    "successful_variation": "Chaffey College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Chaffey+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACC 459",
+      "course_title": "Simplified Commercial Accounting Software",
+      "credits": "1.50",
+      "description": "Class hours: 24-27 lecture. Basic concepts and techniques for using simplified commercial accounting software as a powerful planning tool for small businesses. Develop an understanding of the accounting process and how to enter and process data, create reports and interpret the results for effective business planning. May be taken twice. 0502.00",
+      "institution": "Chaffey College"
+    },
+    {
+      "course_id": "ACC 460",
+      "course_title": "Commercial Accounting Software",
+      "credits": "3.00",
+      "description": "Class hours: 48-54 lecture. Advisory: Completion of Accounting 1A. Basic concepts and techniques for using commercial accounting software designed for microcomputers in businesses grossing less than $500,000 annually. How to enter and process data, create reports and interpret the information. May be taken twice. 0502.00",
+      "institution": "Chaffey College"
+    },
+    {
+      "course_id": "ACC 461",
+      "course_title": "Advanced Commercial Accounting Software",
+      "credits": "3.00",
+      "description": "Class hours: 48-54 lecture. Advisory: Completion of Accounting 1A. Basic concepts and techniques for using commercial accounting software designed for microcomputers in businesses grossing $500,000 or more annually. How to enter and process data, prepare financial reports, and interpret financial information. May be taken twice. 0502.00",
+      "institution": "Chaffey College"
+    },
+    {
+      "course_id": "ACC 462",
+      "course_title": "Advanced Techniques in Accounting Software Programs",
+      "credits": "1.50",
+      "description": "Class hours: 24-27 lecture. Advisory: Completion of Accounting 459 or 460, or experience in accounting software including spreadsheets. Advanced concepts and techniques for using simplified accounting software, in conjunction with other business software programs, to generate a variety of technical reports, tables, and graphs. How to export data and interpret the resultant documents. May be taken twice. 0502.00",
+      "institution": "Chaffey College"
+    },
+    {
+      "course_id": "ACC 480",
+      "course_title": "Bookkeeping I [Cx",
+      "credits": "3.00",
+      "description": "Class hours: 48-54 lecture. Introduction to the bookkeeping of a small business, with emphasis on service-oriented sole proprietorships. Skills and tasks covered include journalizing business transactions, maintaining a general ledger system, and preparing and analyzing financial statements. Course is suitable preparation for Accounting 481 and for students interested in basic accounting for a small business. 0502.00",
+      "institution": "Chaffey College"
+    },
+    {
+      "course_id": "ACC 481",
+      "course_title": "Bookkeeping II",
+      "credits": "3.00",
+      "description": "Class hours: 48-54 lecture. Prerequisite: Accounting 480. Continuation of bookkeeping for a small service business, with an introduction to bookkeeping for a merchandising enterprise and accounting for partnerships and corporations. Course culminates in a comprehensive review of full-charge bookkeeping practices, and is suitable preparation for Accounting 1A or the Certified Bookkeeper exam, and for students interested in small business accounting. 0502.00",
+      "institution": "Chaffey College"
+    },
+    {
+      "course_id": "ACC 492A",
+      "course_title": "H Special Topics:Accounting",
+      "credits": "6.00",
+      "description": "Class hours: 16-18 hours/term lecture for each unit of credit. Selected topics for students who wish to pursue certain specializations in accounting. See class schedule for emphasis. May be taken four times regardless of the unit combination. However, no single-subject, special- interest class may be repeated. May require corequisites and/or prerequisites based on the content of the course. 0502.00",
+      "institution": "Chaffey College"
+    },
+    {
+      "course_id": "ACCTG 430",
+      "course_title": "Accounting for Governmental and Not-for-Profit Organizations",
+      "credits": "4.00",
+      "description": "Class hours: 64-72 lecture. Prerequisite: Accounting 1A. Introduction to the fundamentals of governmental and not-for-profit accounting. Emphasis on accounting for the various fund types and restrictions relevant to government and not-for-profit agencies. Both theoretical and practical aspects are explored. 0502.00",
+      "institution": "Chaffey College"
+    },
+    {
+      "course_id": "ACCTG 435",
+      "course_title": "Payroll Accounting",
+      "credits": "3.00",
+      "description": "Class hours: 48-54 lecture. Advisory: Completion of Accounting 1A, 480, or 481. Comprehensive overview of federal and state payroll laws and their effect on payroll records and required government reports. Course may be taken every three years as needed to maintain currency with payroll laws. May be taken four times. 0502.00",
+      "institution": "Chaffey College"
+    },
+    {
+      "course_id": "ACCTG 450",
+      "course_title": "Federal Tax Principles I",
+      "credits": "3.00",
+      "description": "Class hours: 48-54 lecture. Federal income tax principles relating to individuals and, to a lesser degree, to corporations. 0502.10",
+      "institution": "Chaffey College"
+    }
+  ],
+  "timestamp": "2025-08-10T12:35:49.573066"
+}

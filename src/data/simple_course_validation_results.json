@@ -1,0 +1,39 @@
+[
+  {
+    "valid": false,
+    "college_name": "University of California Berkeley",
+    "search_page_url": "https://classes.berkeley.edu/",
+    "course_info": {
+      "name": "Alaska",
+      "code": "UNKNOWN",
+      "description": "No description available",
+      "college": "Unknown College"
+    },
+    "course_found": false,
+    "message": "Course not found in search results"
+  },
+  {
+    "valid": false,
+    "error": "No search forms found",
+    "college_name": "CUNY",
+    "search_page_url": "https://globalsearch.cuny.edu/",
+    "course_info": {
+      "name": "Alaska",
+      "code": "UNKNOWN",
+      "description": "No description available",
+      "college": "Unknown College"
+    }
+  },
+  {
+    "valid": false,
+    "error": "No working search forms found",
+    "college_name": "University of Illinois",
+    "search_page_url": "https://go.illinois.edu/courseexplorer",
+    "course_info": {
+      "name": "Alaska",
+      "code": "UNKNOWN",
+      "description": "No description available",
+      "college": "Unknown College"
+    }
+  }
+]

@@ -1,0 +1,67 @@
+{
+  "search_query": {
+    "institution": "Le Moyne College",
+    "successful_variation": "Le Moyne College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Le+Moyne+College&distance=5"
+  },
+  "total_results": 8,
+  "courses": [
+    {
+      "course_id": "ACT 203",
+      "course_title": "Financial Accounting",
+      "credits": "3.00",
+      "description": "An introduction to the fundamentals of financial accounting involving the communication of relevant financial information to external parties. Includes interpretation and effective use of financial statements through study of accounting model, the measurement processes, data classification and terminology. Discussions emphasize concepts, standards and generally accepted accounting principles as the rationale for accounting procedures.",
+      "institution": "Le Moyne College"
+    },
+    {
+      "course_id": "ACT 301",
+      "course_title": "Intermediate Accounting",
+      "credits": "4.00",
+      "description": "An extension of study of accounting theory applied to corporate accounting and the preparation and interpretation of financial statements. Topics include a review of the accounting process; structure and content of the basic financial statements; and coverage of theory, practice and procedures related to current assets, current liabilities and long-lived assets, tangible and intangible. Prerequisite: a grade of C or above in ACT 202 or permission of department chair.",
+      "institution": "Le Moyne College"
+    },
+    {
+      "course_id": "ACT 302",
+      "course_title": "Intermediate Accounting",
+      "credits": "4.00",
+      "description": "A continuation of coverage of theory, practice and procedure relative to long-term liabilities and equities. Additional topics are income and revenue recognition, accounting for leases, pensions and income taxes, price-level accounting, statement of cash flow and analysis of financial statements. Prerequisite: a grade of C or above in ACT 301.",
+      "institution": "Le Moyne College"
+    },
+    {
+      "course_id": "ACT 303",
+      "course_title": "Cost Accounting",
+      "credits": "3.00",
+      "description": "Basic cost accounting concepts and the cost accumulation process are presented. These are related to the process of inventory valuation and internal use for planning and control. Topics include cost accumulation, budgets, standards, responsibility accounting, relevant costing, direct costing and cost-volume-profit analysis. Prerequisites: ACT 201-202.",
+      "institution": "Le Moyne College"
+    },
+    {
+      "course_id": "ACT 304",
+      "course_title": "Advanced Cost Accounting",
+      "credits": "3.00",
+      "description": "Cost concepts and cost information systems are presented in relation to managerial decision making and control. The course emphasizes the internal use of cost information and procedures for developing this information. Topics covered are cost for pricing control, inventory policy and control, transfer pricing, performance measures, capital budgeting and application of probability and statistical concepts to problems in cost control and analysis. Prerequisite: ACT 303.",
+      "institution": "Le Moyne College"
+    },
+    {
+      "course_id": "ACT 310",
+      "course_title": "Federal Income Tax",
+      "credits": "3.00",
+      "description": "Provides instruction by application of federal income tax laws to incomes of individuals. Various tax returns are prepared. Includes a comprehensive explanation of the federal tax structure and training in the application of tax principles to specific problems. Prerequisite: ACT 201 or 203.",
+      "institution": "Le Moyne College"
+    },
+    {
+      "course_id": "ACT 350",
+      "course_title": "Accounting Information Systems",
+      "credits": "3.00",
+      "description": "See course description for MIS 350.",
+      "institution": "Le Moyne College"
+    },
+    {
+      "course_id": "ACT 401",
+      "course_title": "Advanced Accounting",
+      "credits": "3.00",
+      "description": "A study of the advanced phases of partnership accounting and extended application of fundamental theory to specialized fields and activities. Among the topics covered are partnership and joint venture accounting; agency and branch accounting; mergers; consolidations; parent and subsidiary relations; foreign operations; governmental and fiduciary accounting. Prerequisites: a grade of C or above in ACT 301 and 302.",
+      "institution": "Le Moyne College"
+    }
+  ],
+  "timestamp": "2025-08-11T00:04:40.105093"
+}

@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Leech Lake Tribal College",
+    "successful_variation": "Leech Lake Tribal College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Leech+Lake+Tribal+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACCT 150",
+      "course_title": "Financial Accounting",
+      "credits": "4.00",
+      "description": "Introduction to the fundamentals of accounting. Topics include the general accounting cycle, the balance sheet, and the income statement. Prerequisite: MATH 140 (equivalent or higher).",
+      "institution": "Leech Lake Tribal College"
+    },
+    {
+      "course_id": "ANI 100",
+      "course_title": "Introduction to Anishinaabe Studies",
+      "credits": "3.00",
+      "description": "Introduction to the content areas of the Indigenous Leadership curriculum, including an overview of Anishinaabe culture, history, and philosophy, federal Indian policy, land and environment, Anishinaabe gender roles, and contemporary social issues.",
+      "institution": "Leech Lake Tribal College"
+    },
+    {
+      "course_id": "ANI 200",
+      "course_title": "Indigenous Leadership",
+      "credits": "3.00",
+      "description": "In this course, each student will build a personal vision of and commitment to community engagement. Students will explore concepts of ?leadership? in society and in Anishinaabe communities. Through several active learning modules, students will gain confidence through achievement in identifying community concerns, developing and doing service-related projects, and reflecting actively on their experience. Emphasis will be on Anishinaabe thought, communication and behavior.",
+      "institution": "Leech Lake Tribal College"
+    },
+    {
+      "course_id": "ANI 290",
+      "course_title": "Knowledge Bowl Preparation",
+      "credits": "2.00",
+      "description": "Students will study for and answer trivia-type questions, based on information gleaned from select books and videos, in preparation for the Knowledge Bowl competition at the annual AIHEC Student Conference. Questions may pertain to various Indigenous cultures, languages, histories, and literatures. The final team will consist of four members, plus an alternate, who will travel to the spring AIHEC Conference. Total commitment and a willingness to engage in extra hours of outside study are essential for making the team. This course may be taken only once for credit.",
+      "institution": "Leech Lake Tribal College"
+    },
+    {
+      "course_id": "ART 100",
+      "course_title": "Introduction to Traditional/Contemporary Art",
+      "credits": "3.00",
+      "description": "A studio art course teaching students an appreciation for, and skills in, both traditional and contemporary art media, design, beadwork, and techniques of basic drawing, painting, three-dimensional art, carving and pottery. Course Fee: $60.",
+      "institution": "Leech Lake Tribal College"
+    },
+    {
+      "course_id": "ART 102",
+      "course_title": "Introduction to Pottery",
+      "credits": "3.00",
+      "description": "This studio art class introduces students to traditional and contemporary pottery techniques. Hand-building will be the main focus. Videos and demonstrations will help students understand the methods of various hand-building techniques. All students will be required to produce a project in each of these methods: pinch pot, coil, slab, press mold, and function sculpture. Course fee: $50.",
+      "institution": "Leech Lake Tribal College"
+    },
+    {
+      "course_id": "ART 104",
+      "course_title": "Moccasin Making",
+      "credits": "3.00",
+      "description": "A studio art class introducing students to the traditional practice and history of Ojibwe-style puckered, round-toe moccasin making. Students will have opportunity to work with smoke-tanned moose hide (a traditional material), with a selection of seed beads. They will learn the traditional practice of designing an Anishinaabe floral pattern, as well as appliqu\u00e9 stitch beadwork and hand-stitching of the moccasin. Documentary notes and diagrams of each stage of the process will be required. Prerequisite: Art 100. Course fee: $60.",
+      "institution": "Leech Lake Tribal College"
+    },
+    {
+      "course_id": "ART 107",
+      "course_title": "Drawing I",
+      "credits": "3.00",
+      "description": "A studio course emphasizing basic drawing techniques such as how to hold a pencil when drawing and shading or putting tone into a drawing. Some drawing vocabulary must be learned, and students will explore a variety of drawing subjects (squares, cones, circles, and cylinders). From these basic shapes, students will advance to landscapes and many other natural subjects. Course fee: $50.",
+      "institution": "Leech Lake Tribal College"
+    },
+    {
+      "course_id": "ART 108",
+      "course_title": "Sculpture",
+      "credits": "3.00",
+      "description": "A studio art class focusing on Native American imagery with a 3-dimensional objective. Students will be expected to research Native imagery from a legendary point of view. Learning basic carving techniques and the use of electric and hand tools, taking appropriate safety precautions, will be a primary objective. Carving-rock suitable for the beginning stone carver will be used. Course fee: $50.",
+      "institution": "Leech Lake Tribal College"
+    },
+    {
+      "course_id": "ART 109",
+      "course_title": "Water Color Painting",
+      "credits": "3.00",
+      "description": "A studio course teaching basic water color techniques and fundamentals. Students will learn the simplicity and dynamics of water and color combined to create uncontrolled translucent washes. Control of the techniques will be acquired with repetition and practice. Prerequisite: Art 107. Course fee: $50. ART 110 Acrylic and Oil Painting This course will provide a foundation in painting. Students will learn basic fundamentals, as well as technical skills. Creativity and composition, along with the study of traditional painting, will be strongly emphasized. Students will also learn of the contributions of great Native American painters who paved the way for painting enthusiasts of the 20th Century. Prerequisite: Art 107. Course fee: $50.",
+      "institution": "Leech Lake Tribal College"
+    }
+  ],
+  "timestamp": "2025-08-10T06:21:04.742496"
+}

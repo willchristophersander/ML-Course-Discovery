@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Genesee Community College",
+    "successful_variation": "Genesee Community College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Genesee+Community+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACC 101",
+      "course_title": "Accounting",
+      "credits": "1.00",
+      "description": "Credits: 3 Catalog Description: The concepts, principles and standards of financial accounting as they apply to financial statements including the statement of cash flows are developed from a user perspective. Generally Accepted Accounting Principles are applied to cash, receivables, payables, inventory, long-term operational assets, long-term debt and equity. Prerequisite: Math skills equivalent to or concurrent registration in MAT092.",
+      "institution": "Genesee Community College"
+    },
+    {
+      "course_id": "ACC 102",
+      "course_title": "Accounting",
+      "credits": "2.00",
+      "description": "Credits: 3 Catalog Description: The concepts and principles of managerial accounting as they apply to financial statements including the statement of cash flows are developed from a user perspective. Topics include manufacturing accounting, cost-volume-profit analysis, decision making, cost accumulation and allocation, budgeting, performance evaluation, responsibility accounting, capital budgeting, cost accounting systems and financial statement analysis. Prerequisite: ACC101.",
+      "institution": "Genesee Community College"
+    },
+    {
+      "course_id": "ACC 106",
+      "course_title": "Basic Accounting Practices",
+      "credits": "3.00",
+      "description": "Credits: 3 Catalog Description: Basic principles and standards of financial accounting as they apply to the income statement, balance sheet, and statement of changes in owner's equity are developed from a preparer perspective. Topics include journalizing, posting, preparation of trial balance and financial statements, closing entries, cash and internal control , payroll accounting, special journals and subsidiary ledgers. Accounting software is used throughout the course. Prerequisite: None. (Not open to students with credit in ACC101. Designed primarily for Office Technology, Tourism and Hospitality Management, and Fashion Buying and Merchandising Management students).",
+      "institution": "Genesee Community College"
+    },
+    {
+      "course_id": "ACC 201",
+      "course_title": "Computer Applications in Accounting",
+      "credits": "3.00",
+      "description": "Credits: 3 Catalog Description: Develops skills using currently popular accounting software, converting a manual accounting system to a computerized system. Emphasizes the computer as a problem-solving tool in various accounting and financial situations. Prerequisites: CIS116 and ACC102.",
+      "institution": "Genesee Community College"
+    },
+    {
+      "course_id": "ACC 211",
+      "course_title": "Intermediate Accounting",
+      "credits": "1.00",
+      "description": "Credits: 3 Catalog Description: In-depth study of Generally Accepted Accounting Principles. Topics include the conceptual framework of accounting, financial statements and related disclosures, accounting for cash, receivables and inventories, asset acquisition, cost allocation and asset disposition. Prerequisite: ACC102.",
+      "institution": "Genesee Community College"
+    },
+    {
+      "course_id": "ACC 212",
+      "course_title": "Intermediate Accounting",
+      "credits": "2.00",
+      "description": "Credits: 3 Catalog Description: A continuation ACC211, Generally Accepted Accounting Principles. Topics include current liabilities and contingencies, long-term liabilities and receivables, investments, contributed capital, retained earnings, earnings per share, income recognition, income taxes, post employment benefits, leases, statement of cash flows and accounting for changes and errors. Prerequisite: ACC211.",
+      "institution": "Genesee Community College"
+    },
+    {
+      "course_id": "ACC 215",
+      "course_title": "Cost Accounting",
+      "credits": "3.00",
+      "description": "Credits: 3 Catalog Description: Studies managerial accounting in-depth from the preparer's perspective. Topics include managerial decision support systems, elements of costs, job-order and process costing, just-in-time and flexible manufacturing systems, cost-volume-profit analysis, budgets and performance evaluation. Prerequisite: ACC102.",
+      "institution": "Genesee Community College"
+    },
+    {
+      "course_id": "ACC 217",
+      "course_title": "Tax Procedures",
+      "credits": "3.00",
+      "description": "Credits: 3 Catalog Description: Survey of current Federal Income Tax law and practice in the preparation of tax returns for the individual taxpayer. Topics include determination of gross income, deductions, exemptions, income from trade or business, retirement plans, credits and special taxes, accounting periods and methods, depreciation, gains and losses, withholding, estimated tax, payroll taxes, tax administration and tax planning. Prerequisite: ACC102.",
+      "institution": "Genesee Community College"
+    },
+    {
+      "course_id": "ANT 102",
+      "course_title": "Cultural Anthropology",
+      "credits": "3.00",
+      "description": "Credits: 3 Catalog Description: Examines different levels of technological complexity of selected cultures and analyzes topics common to all societies such as religion, kinship, marriage, child-rearing practices, social structure, ecological relationships, linguistics, and other areas.",
+      "institution": "Genesee Community College"
+    },
+    {
+      "course_id": "ANT 118",
+      "course_title": "Forensic Anthropology",
+      "credits": "3.00",
+      "description": "Credits: 3 Catalog Description: Examines human skeletal remains in the context of medicolegal issues. Analyzes the scientific evidence of skeletal or badly decomposed remains in order to establish circumstances of death and identification of the decedent by estimating age, gender, racial affinity, stature, pathologic conditions, and traumatic injury. Introduces human osteology, and presents methods and techniques used in forensic anthropology. Discusses case reports, contexts in which remains are found, and methods of recovery.",
+      "institution": "Genesee Community College"
+    }
+  ],
+  "timestamp": "2025-08-09T19:49:59.629515"
+}

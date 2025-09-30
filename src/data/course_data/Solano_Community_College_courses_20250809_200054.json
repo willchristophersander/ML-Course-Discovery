@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Solano Community College",
+    "successful_variation": "Solano Community College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Solano+Community+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACR 100",
+      "course_title": "Air Conditioning and Refrigeration",
+      "credits": "3.00",
+      "description": "Course Advisory: SCC minimum English standard. A study of compression systems, controls, refrigerants, various refrigeration systems, and commercial applications designed to develop the ability to understand and apply the basic principles required to maintain and service this type of specialized equipment. Three hours lecture.",
+      "institution": "Solano Community College"
+    },
+    {
+      "course_id": "ACR 101",
+      "course_title": "Air Conditioning and Refrigeration",
+      "credits": "3.00",
+      "description": "Course Advisories: ACR 100; SCC minimum English standard. The maintenance and servicing of commercial air conditioning and refrigeration systems with the study of techniques applied to refrigerant handling, systems controls, and compression systems. Three hours lecture.",
+      "institution": "Solano Community College"
+    },
+    {
+      "course_id": "AMST 001",
+      "course_title": "An Interdisciplinary Study of American Culture",
+      "credits": "3.00",
+      "description": "Course Advisories: ENGL 001 and SCC minimum math standard. An interdisciplinary study of American civilization to the end of the Civil War. The course interrelates history, culture, philosophy and literature with emphasis on continuing themes. Critical papers and examinations are required. Three hours lecture.",
+      "institution": "Solano Community College"
+    },
+    {
+      "course_id": "AMST 002",
+      "course_title": "An Interdisciplinary Study of American Culture",
+      "credits": "3.00",
+      "description": "Course Advisories: ENGL 001 and SCC minimum math standard. An interdisciplinary survey of American civilization from the late 19th century to the present. The course interrelates history, culture, philosophy and literature with emphasis on continuing themes. Critical papers and examinations are required. Three hours lecture.",
+      "institution": "Solano Community College"
+    },
+    {
+      "course_id": "ANTH 001",
+      "course_title": "Physical Anthropology",
+      "credits": "3.00",
+      "description": "Course Advisory: SCC minimum English standard. An introduction to physical anthropology covering evolutionary theory, human disease and genetics, human variation and adaptation, primatology, primate and hominid evolution. (CAN ANTH 2). Three hours lecture.",
+      "institution": "Solano Community College"
+    },
+    {
+      "course_id": "ANTH 002",
+      "course_title": "Cultural Anthropology",
+      "credits": "3.00",
+      "description": "Course Advisory: SCC minimum English standard. Introduction to the study of human culture, with an emphasis on the changing relations between individual people, families, and other social groups, and various types of social inequality. We will also study cultural institutions from around the world, such as religion and magic, political and economic change, varieties of art forms, and the cultural future. (CAN ANTH 4). Three hours lecture.",
+      "institution": "Solano Community College"
+    },
+    {
+      "course_id": "ANTH 007",
+      "course_title": "Prehistoric Archaeology",
+      "credits": "3.00",
+      "description": "Course Advisory: SCC minimum English and math standards. An introduction to the theories and methods of anthropological archaeology, with an emphasis on and an overview of prehistory. This course will stress the evolution of social systems and technology. Case studies from around the world will illustrate the various ways archaeology deciphers past behavior. (CAN ANTH 6). Three hours lecture.",
+      "institution": "Solano Community College"
+    },
+    {
+      "course_id": "ANTH 049",
+      "course_title": "Anthropology Honors",
+      "credits": "3.00",
+      "description": "Prerequisites: Completion of 2(4 Units) of college credit with a minimum GPA of 3.3; a minimum of (5 Units) in the discipline with a grade of \"B\" or better; an ability to workindependently; and permission of the Division Dean based on instructor availability. Open to students qualified to do advanced work in the field. The program may include research, directed reading, field work, or other advanced study. Repeatable 1 time. Six hours weekly by arrangement. This program is designed to provide students with a basic science background, preparing them to move into a curriculum at a four-year institution leading to a degree in such fields as chemistry, biology, physics, geology, or health sciences. This program is a path for immediate entry into science-based technology careers. The Associate in Arts Degree can be obtained by completing a total of 60 units, including a minimum of 1(8 Units) in the major with a grade of \"C\" (2.0) or betterin each course, the general education requirements, and electives. The major consists of courses selected from the lists below and must include twelve (12) units in courses with laboratory work and at least one course in each of the areas Biological Science and Physical Science.",
+      "institution": "Solano Community College"
+    },
+    {
+      "course_id": "ART 001",
+      "course_title": "Art History",
+      "credits": "3.00",
+      "description": "Course Advisory: Eligibility for ENGL 001. Covers the history of art in the Western World from the Paleolithic era to the Middle Ages, focusing on the interrelation of art and culture, with a comparative study of selected non-Western art. (CAN ART 2) (ART 001 & 002 = CAN ART SEQ A). Three hours lecture.",
+      "institution": "Solano Community College"
+    },
+    {
+      "course_id": "ART 002",
+      "course_title": "Art History",
+      "credits": "3.00",
+      "description": "Course Advisory: Eligibility for ENGL 001. Covers the history of Western Art through a critical analysis of Renaissance art through Modern Art. Students will examine the connection between art and culture, and evaluate the historic, religious, and political influences on the artistic choices of diverse men and women of art history from the 15th century to today. (CAN ART 4) (ART 001 & 002 = CAN ART SEQ A). Three hours lecture.",
+      "institution": "Solano Community College"
+    }
+  ],
+  "timestamp": "2025-08-09T20:00:54.057710"
+}

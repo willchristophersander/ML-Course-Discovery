@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Tacoma Community College",
+    "successful_variation": "Tacoma Community College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Tacoma+Community+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACCT 110",
+      "course_title": "Practical Accounting I",
+      "credits": "5.00",
+      "description": "(Formerly ACCNT-110) Introduces students to basic accounting concepts and procedures, emphasizing sole proprietors. Topics include analysis of business transactions and completion of the accounting cycle, including preparation of financial statements. Students will be introduced to computers. Prerequisite(s): Recommended: Concurrent or prior enrollment in CU-103 or CU-105 and READ-095 level.",
+      "institution": "Tacoma Community College"
+    },
+    {
+      "course_id": "ACCT 120",
+      "course_title": "Accounting for Decision Makers",
+      "credits": "5.00",
+      "description": "(Formerly ACCNT 120) An accounting class from the user's perspective, this class will review the accounting cycle with some attention directed toward procedures and techniques. The major emphasis is on the content of accounting reports and the interpretation and possible uses of this information. Prerequisite(s): ACCT-110 or ACCT&-201",
+      "institution": "Tacoma Community College"
+    },
+    {
+      "course_id": "ACCT 130",
+      "course_title": "Practical Accounting II",
+      "credits": "5.00",
+      "description": "(formerly ACCNT 141) A continuation of financial accounting topics, including an introduction to accounting for partnerships. Students will be encouraged to complete assignments using the computer. Prerequisite(s): ACCT-110 or equivalent with a grade of \"C\" or higher, or ACCT&-201",
+      "institution": "Tacoma Community College"
+    },
+    {
+      "course_id": "ACCT 145",
+      "course_title": "Payroll and Business Taxes",
+      "credits": "5.00",
+      "description": "(Formerly ACCNT-145) Reviews state and federal laws and regulations on payroll computations, deductions and other business taxes. Prerequisite(s): ACCT-110 or ACCT&-201 or instructor permission.",
+      "institution": "Tacoma Community College"
+    },
+    {
+      "course_id": "ACCT 165",
+      "course_title": "Accounting with Peachtree",
+      "credits": "5.00",
+      "description": "(Formerly ACCNT-165) Introduction to automated accounting methods using Peachtree. Peachtree is used to examine the complete accounting cycle. Includes analysis, demonstration, exporting, importing and hands-on experience using the general ledger, accounts payable, accounts receivable and payroll modules. Prerequisite(s): CU-103 or CU-105; ACCT-130 or ACCT&-202 with a grade of 'C' of higher.",
+      "institution": "Tacoma Community College"
+    },
+    {
+      "course_id": "ACCT 175",
+      "course_title": "Accounting with QuickBooks",
+      "credits": "5.00",
+      "description": "(Formerly ACCNT-175) Introduction to automated accounting methods using QuickBooks. QuickBooks is used to examine the complete accounting cycle. Includes analysis, demonstration, exporting, importing and hands-on experience using the general ledger, accounts payable, accounts receivable and payroll modules. Prerequisite(s): ACCT-110",
+      "institution": "Tacoma Community College"
+    },
+    {
+      "course_id": "ACCT 201",
+      "course_title": "Principles of Accounting I",
+      "credits": "5.00",
+      "description": "(Formerly ACCNT-210) Emphasis is on the development and interpretation of financial statements: the balance sheet, income statement and the statement of owner's equity. Prerequisite(s): MATH-099 or equivalent.",
+      "institution": "Tacoma Community College"
+    },
+    {
+      "course_id": "ACCT 202",
+      "course_title": "Principles of Accounting II",
+      "credits": "5.00",
+      "description": "(Formerly ACCNT-220) ACCT&-202 is a continuation of ACCT&-201. Introduces accounting for long-term debt and investments. Examines the measuring and reporting of Stockholders' Equity and consolidated statements. Re-emphasizes the preparation of the Statement of Cash Flows. Introduction to methods used to interpret financial statements. Prerequisite(s): ACCT&-201 with a 'C' or higher.",
+      "institution": "Tacoma Community College"
+    },
+    {
+      "course_id": "ACCT 203",
+      "course_title": "Principles of Accounting III",
+      "credits": "5.00",
+      "description": "(Formerly ACCNT-230) Introduction to cost concepts such as cost-volume-profit analysis and the budgeting process. Examines methods to determine product costs of a manufacturing business and the methods employed to control costs, such as the use of the standard cost system. Prerequisite(s): ACCT&-201 with a 'C' or higher.",
+      "institution": "Tacoma Community College"
+    },
+    {
+      "course_id": "ACCT 250",
+      "course_title": "Federal Income Tax",
+      "credits": "5.00",
+      "description": "(Formerly ACCNT-250) Federal income tax for the layman, accounting student, working accountant/bookkeeper and small business owner, with special emphasis on tax issues affecting individuals.",
+      "institution": "Tacoma Community College"
+    }
+  ],
+  "timestamp": "2025-08-10T14:14:03.473519"
+}

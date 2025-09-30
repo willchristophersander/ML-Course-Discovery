@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Montgomery County Community College",
+    "successful_variation": "Montgomery County Community College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Montgomery+County+Community+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACC 105",
+      "course_title": "Survey of Accounting",
+      "credits": "3.00",
+      "description": "Students will develop an understanding of the basic concepts and processes of financial and managerial accounting. Students will learn to interpret accounting information and reports from the perspective of managers, investors, and other business stakeholders. (Business majors planning to transfer may not substitute this course for ACC 115 - Financial Accounting, or ACC 116 - Managerial Accounting.)",
+      "institution": "Montgomery County Community College"
+    },
+    {
+      "course_id": "ACC 110",
+      "course_title": "Business Mathematics",
+      "credits": "3.00",
+      "description": "This course is designed for business non-transfer students. Students will expand literacy and skills in business mathematical topics such as bank reconciliations, equations, trade and cash discounts, simple and compound interest, present value, mortgages, stocks, and business statistics.",
+      "institution": "Montgomery County Community College"
+    },
+    {
+      "course_id": "ACC 115",
+      "course_title": "Financial Accounting",
+      "credits": "4.00",
+      "description": "Students will develop literacy and skills in the application of the basic principles of financial accounting including accounting principles and practices, accounting journals and ledgers for recording business transactions, and application of the accounting cycle for service and merchandising enterprises from analysis of business transactions through preparation and evaluation of the income statement, balance sheet and statement of cash flows.",
+      "institution": "Montgomery County Community College"
+    },
+    {
+      "course_id": "ACC 116",
+      "course_title": "Managerial Accounting",
+      "credits": "3.00",
+      "description": "Students will develop literacy and skills in the application of the basic principles of managerial accounting including the preparation of manufacturing financial statements. Students will apply various costing systems including job order, process, activity based and variable costing, cost-volume-profit analysis, budgeting, and management decision making.",
+      "institution": "Montgomery County Community College"
+    },
+    {
+      "course_id": "ACC 117",
+      "course_title": "Payroll Accounting",
+      "credits": "3.00",
+      "description": "Students will develop literacy and skills in the application of the principles of payroll accounting including the calculation of salaries and wages, federal, state, Social Security, Medicare and unemployment taxes including matching employer taxes. Students will prepare the necessary payroll entries and produce quarterly and year-end tax returns. This course is designed to prepare students to pass the national certification exam and to obtain the American Payroll Association's (APA) Fundamental Payroll Certification (FPC) designation.",
+      "institution": "Montgomery County Community College"
+    },
+    {
+      "course_id": "ACC 118",
+      "course_title": "Professional Bookkeeping",
+      "credits": "3.00",
+      "description": "Students will expand literacy and skills in the application of the basic principles covered in Financial Accounting (ACC115). Course topics include and emphasis placed on the specialized applications of the principles of financial accounting including adjusting journal entries, depreciation, inventory cost flow methods, correction of accounting errors, internal controls and fraud prevention. Using accounting software, students will create a company file, enter transaction data, generate management reports and financial statements, and complete the year end closing process. Spreadsheet technology will be used to prepare reports and perform data analytics. This course, in conjunction with Payroll Accounting (ACC117) is designed to prepare students for national certification exams and to obtain a certified bookkeeper designation.",
+      "institution": "Montgomery County Community College"
+    },
+    {
+      "course_id": "ACC 150",
+      "course_title": "Legal Environment of Business",
+      "credits": "3.00",
+      "description": "Students study the regulatory environment in which business operates and the political, social, and economic forces behind and evolution of the forms and types of law that govern disputes and transactions between individuals (including business organizations). The Constitutional foundation of law and the role played by administrative agencies in regulating business activity are studied including remedies in and out of court. Issues of crimes, torts, contracts, property, business organizations, consumer rights, employment, intellectual property rights, and international transactions will be discussed.",
+      "institution": "Montgomery County Community College"
+    },
+    {
+      "course_id": "ACC 211",
+      "course_title": "Intermediate Accounting I",
+      "credits": "3.00",
+      "description": "Students will learn Generally Accepted Accounting Principles as applied to current and non-current assets, fixed assets (property, plant & equipment), intangible assets, current and long-term liabilities, stockholders' equity, related income statement and balance sheet accounts, and the time value of money.",
+      "institution": "Montgomery County Community College"
+    },
+    {
+      "course_id": "ACC 221",
+      "course_title": "Accounting Information Systems",
+      "credits": "3.00",
+      "description": "Students learn the principles of accounting information systems. Students will document business processes, review source documents, assess business transaction cycles and processing within the accounting information system, understand and apply data analytics to accounting information systems generated data and reports. The principles of internal control will be applied to business systems and information technology. In a hands-on environment, students will learn the design and function of a computerized accounting information system. Using QuickBooks accounting software, students will create a company file, enter transaction data, generate management reports and financial statements, and complete the year end closing process. This course is designed to prepare students for the Intuit QuickBooks Certified User exam.",
+      "institution": "Montgomery County Community College"
+    },
+    {
+      "course_id": "ACC 230",
+      "course_title": "Cost Accounting",
+      "credits": "3.00",
+      "description": "Students study cost management systems including job costing, process costing and activity based costing. Students learn to use these systems to manage the cost of customers, suppliers, capacity, quality, and the allocation of service department and joint costs. Students study management control systems including performance measurement, transfer pricing, and variance analysis. These analyses are applied to support the overall business strategy.",
+      "institution": "Montgomery County Community College"
+    }
+  ],
+  "timestamp": "2025-08-09T20:23:59.216555"
+}

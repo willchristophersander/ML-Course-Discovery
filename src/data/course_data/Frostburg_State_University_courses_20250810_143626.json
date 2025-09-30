@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Frostburg State University",
+    "successful_variation": "Frostburg State University",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Frostburg+State+University&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ART 216",
+      "course_title": "Illustration",
+      "credits": "3.00",
+      "description": "3 cr. Drawing and painting techniques to develop technical proficiency with emphasis on observation, composition and imagination. Emphasis on processes pertaining to illustrated visual imagery in editorial, digital, institutional and scientific/environmental themes. Two hr. lecture, 2 hr. lab. Spring. Prerequisites: ART 212 and ART 104.",
+      "institution": "Frostburg State University"
+    },
+    {
+      "course_id": "ART 414",
+      "course_title": "Advanced Graphic Design:Interactive Multimedia Design",
+      "credits": "2.00",
+      "description": "3 cr. Processes include digital imaging, digital video and audio production, animation, and interface design and scripting. Emphasis on the formal, historical, and sociological aspects of interactive design. May be taken no more than 4 times for credit. Two hr. lecture, 2 hr. lab. Every semester. Prerequisites: ART 407 (twice).",
+      "institution": "Frostburg State University"
+    },
+    {
+      "course_id": "ART 416",
+      "course_title": "Advanced Illustration",
+      "credits": "2.00",
+      "description": "3 cr. Professional applications in drawing and illustration related to traditional and digital technology. Assignments present industry-specific problems, which encourage students to examine the transition from conceptualization to execution. Professional portfolio development. May be taken no more than 4 times for credit. Two hr. lecture, 2 hr. lab. Every semester. Prerequisites: ART 212 and ART 216, or permission of instructor.",
+      "institution": "Frostburg State University"
+    },
+    {
+      "course_id": "ART 499",
+      "course_title": "Independent Study",
+      "credits": "6.00",
+      "description": "1-6 cr.",
+      "institution": "Frostburg State University"
+    },
+    {
+      "course_id": "BIOL 438",
+      "course_title": "Biotechnology Lab",
+      "credits": "3.00",
+      "description": "3 cr.. Spring.",
+      "institution": "Frostburg State University"
+    },
+    {
+      "course_id": "COSC 102",
+      "course_title": "Foundations of Computer Science",
+      "credits": "4.00",
+      "description": "4 cr. Introduction to the foundations of computer science.Topics include memory addressing, computer functions, architectures found in computer science, digital logic circuits, correctness of computer algorithms, finitestate automata, computability, recursion, and O-notation and efficiency of algorithms. Three hrs. lecture, 2 hrs. lab. Every semester. Prerequisite: Level III or above on the mathematics placement test, or a Level II mathematics course.",
+      "institution": "Frostburg State University"
+    },
+    {
+      "course_id": "COSC 241",
+      "course_title": "Computer Science II",
+      "credits": "4.00",
+      "description": "4 cr. Continues introduction to the methodology of programming from an object-oriented perspective. Design and implementation of data structures used in programming such as linked lists, stacks and queues. Internal sorting and searching. Recursion. Performance analysis of algorithms. Three hours lecture; two hour lab. Every semester. Credit may not be earned for both COSC 201 and COSC 241. Prerequisite: Grade of C or better in COSC 240 and corequisite of COSC 102.",
+      "institution": "Frostburg State University"
+    },
+    {
+      "course_id": "COSC 300",
+      "course_title": "Structured Systems Analysis and Design",
+      "credits": "3.00",
+      "description": "3 cr. Analysis and design of information processing systems. Topics include system development life cycle: study phase, design phase, development phase, operation phase. Student will design and analyze a simple system. Spring. Prerequisite: Grade of C or better in COSC 240 or grade of C or better in ITEC 315.",
+      "institution": "Frostburg State University"
+    },
+    {
+      "course_id": "COSC 305",
+      "course_title": "Computer Ethics",
+      "credits": "3.00",
+      "description": "3 cr. Ethical issues related to computing. Includes topics such as responsibility of the computer professional, computerized crime, technology and employment, equitable access to computing, national databases and privacy, software ownership, and responsibilities of the computing profession. Every semester. Prerequisite: Grade of C or better in COSC 240; or grade of C or better in COSC 100/110 or COSC 101 and a grade of C or better in COSC 130.",
+      "institution": "Frostburg State University"
+    },
+    {
+      "course_id": "COSC 310",
+      "course_title": "Data Structures and Algorithm Analysis",
+      "credits": "3.00",
+      "description": "3 cr. Design and implementation of intermediate and advanced data structures and a rigorous introduction to the asymptotic analysis of algorithms. Topics include Huffman coding trees; binary search trees; splay trees; heightbalanced binary search trees; general trees; graphs; hash tables; skip lists; multilists; omega, theta, and omicron notation; and limits to computation. Research paper and presentation required. Fall. Prerequisites: MATH 236 and a grade of C or better in COSC 241.",
+      "institution": "Frostburg State University"
+    }
+  ],
+  "timestamp": "2025-08-10T14:36:26.297500"
+}

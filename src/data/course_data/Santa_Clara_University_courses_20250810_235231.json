@@ -1,0 +1,53 @@
+{
+  "search_query": {
+    "institution": "Santa Clara University",
+    "successful_variation": "Santa Clara University",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Santa+Clara+University&distance=5"
+  },
+  "total_results": 6,
+  "courses": [
+    {
+      "course_id": "ACTG 130",
+      "course_title": "Intermediate Financial Actg I",
+      "credits": "5.00",
+      "description": "An in-depth study of the concepts underlying external financial reporting, along with expanded coverage of the basic financial statements. Detailed analysis of the measurement and reporting of current assets, operational assets, and investments, to include the treatment of related revenues and expenses. Significant attention is given to income statement presentation and revenue recognition. Prerequisites: ACTG 12 and ACTG 20 and must have 96 completed units or Department's permission is required prior to enrollment (ACTG 20 may be taken concurrently if necessary.)",
+      "institution": "Santa Clara University"
+    },
+    {
+      "course_id": "ACTG 131",
+      "course_title": "Intermediate Financial Actg II",
+      "credits": "5.00",
+      "description": "Intensive analysis of generally accepted accounting principles as applied to accounting for liabilities, stockholder's equity, and the statement of cash flows. Accounting for income taxes, pensions, leases, and the reporting of corporate earnings per share. Prerequisite: ACTG 130.",
+      "institution": "Santa Clara University"
+    },
+    {
+      "course_id": "ACTG 132",
+      "course_title": "Advanced Financial Accounting",
+      "credits": "5.00",
+      "description": "The main subject is accounting for business combinations, and the consolidation of financial statements of a parent company and its subsidiaries. A broad spectrum of financial reporting issues in the context of consolidated financial statements is examined. The course also covers partnership accounting and other advanced financial accounting topics. Prerequisite: ACTG 131.",
+      "institution": "Santa Clara University"
+    },
+    {
+      "course_id": "ACTG 134",
+      "course_title": "Accounting Information Systems",
+      "credits": "5.00",
+      "description": "Introduction to procedures by which accounting data is captured, processed, and communicated in computerized information systems. The course describes the ways that accounting information systems are designed, used and maintained by accounting professionals with an emphasis on the internal controls over such systems. Prerequisites: ACTG 11 and ACTG 12 and junior or senior standing.",
+      "institution": "Santa Clara University"
+    },
+    {
+      "course_id": "ACTG 135",
+      "course_title": "Auditing",
+      "credits": "5.00",
+      "description": "Introduction to the basic concepts of auditing. Discussion of applicable regulations, the audit risk model and client risk assessment. Focus is on an overview of the audit process. Auditors' professional and ethical responsibilities, sampling and historical cases will also be discussed. Prerequisite: ACTG 131. (ACTG 131 may be taken concurrently.)",
+      "institution": "Santa Clara University"
+    },
+    {
+      "course_id": "ACTG 198",
+      "course_title": "Accounting Internship",
+      "credits": "5.00",
+      "description": "Opportunity for upper-division students to work in local accounting/corporate firms. Two written reports and the employer's evaluation of the student's work will be required. This course may be repeated for credit, depending on nature of assignment. Prerequisites: Declared accounting major and permission of instructor and chair required prior to enrollment.",
+      "institution": "Santa Clara University"
+    }
+  ],
+  "timestamp": "2025-08-10T23:52:31.136719"
+}

@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Lindenwood University",
+    "successful_variation": "Lindenwood University",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Lindenwood+University&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACCT 213",
+      "course_title": "Principles of Accounting I",
+      "credits": "3.00",
+      "description": "An introductory study of accounting with emphasis on the accounting cycle, accounting terminology, the collection of accounting data, the recording of data into the accounting system, and the preparation and interpretation of basic financial statements. Topics include journals, work sheets, payroll, bank reconciliations, and the complete accounting cycle. Three Hours, Fall, Summer",
+      "institution": "Lindenwood University"
+    },
+    {
+      "course_id": "ACCT 223",
+      "course_title": "Principles of Accounting II",
+      "credits": "3.00",
+      "description": "A study of corporate accounting, job order, process cost, and standard accounting systems. Includes corporate financial statements, bond liabilities, investments, statement of cash flows, and decision making topics such as: variable (direct) costing, break-even analysis, EOQ method, budgeting, and financial statement analysis. Prerequisite(s): ACCT 213. Three Hours, Spring, Summer",
+      "institution": "Lindenwood University"
+    },
+    {
+      "course_id": "ACCT 313",
+      "course_title": "Intermediate Accounting I",
+      "credits": "3.00",
+      "description": "A study of theoretical foundations and the conceptual framework of accounting with emphasis of study placed on the balance sheet, income statement, control accounts, present and future values theory, cash and investments, inventory, and inventory problems. Prerequisite(s): ACCT 223. Three Hours, Fall, Odd Years",
+      "institution": "Lindenwood University"
+    },
+    {
+      "course_id": "ACCT 323",
+      "course_title": "Intermediate Accounting II",
+      "credits": "3.00",
+      "description": "A continuation of the study of theoretical foundations in accounting with emphasis placed on the accounting of liabilities, capital stock, retained earnings, stockholder's equity changes, debt financing through bonds and other securities, statement of cash flows, and accounting for income taxes. Prerequisite(s): ACCT 313 or consent of instructor. Three Hours, Spring, Even Years",
+      "institution": "Lindenwood University"
+    },
+    {
+      "course_id": "ACCT 333",
+      "course_title": "Cost Accounting",
+      "credits": "3.00",
+      "description": "The study of cost determination as applied to a variety of business operations. An emphasis is placed upon job-order, process, and standard cost accounting systems. Prerequisite(s): ACCT 223. Three Hours, Fall, Even Years",
+      "institution": "Lindenwood University"
+    },
+    {
+      "course_id": "ACCT 343",
+      "course_title": "Governmental And Fund Accounting",
+      "credits": "3.00",
+      "description": "A study of the principles of fund accounting and reporting for governmental units and non-profit organizations, such as colleges and hospitals, including budgetary controls, systems theory and application of specialized procedures and methods. Prerequisite(s): ACCT 223. Three Hours, Spring, Odd Years",
+      "institution": "Lindenwood University"
+    },
+    {
+      "course_id": "ACCT 353",
+      "course_title": "Budgeting",
+      "credits": "3.00",
+      "description": "This course is designed to help present and future managers understand and apply budgeting theories, principles and techniques. Students examine revenue expenditures, the budgeting process, and analyze budget variances. .Prerequisite: ACCT 223 or consent of instructor. This course is required for students who plan to sit for the CPA exam. Three Hours, Fall Odd Years",
+      "institution": "Lindenwood University"
+    },
+    {
+      "course_id": "ACCT 413",
+      "course_title": "Tax Accounting",
+      "credits": "3.00",
+      "description": "A study of current federal income tax laws and accounting practices as they apply to tax regulations. An emphasis is placed upon individual tax returns. Prerequisite(s): ACCT 223. Three Hours, Fall, Even Years",
+      "institution": "Lindenwood University"
+    },
+    {
+      "course_id": "ACCT 423",
+      "course_title": "Current Topics in Financial Accounting And Reporting",
+      "credits": "3.00",
+      "description": "In this course students examine current issues in financial accounting and reporting. Issues are examined within the framework of generally accepted accounting principles for valuation, presentation and disclosure of items in financial statements. The course emphasizes the application of the pronouncements of the Financial Accounting Standards Board and the AICPA accounting research bulletins. Prerequisite: Accounting 323. This course is required for students who plan to sit for the CPA exam. Three Hours, Spring Odd Years",
+      "institution": "Lindenwood University"
+    },
+    {
+      "course_id": "ACCT 443",
+      "course_title": "Auditing",
+      "credits": "3.00",
+      "description": "A study of the work and practice of the independent public accountant. Topics emphasized include internal accounting controls, working papers, audit procedures, and audit controls. Prerequisite(s): ACCT 223. Three Hours, Fall, Odd Years",
+      "institution": "Lindenwood University"
+    }
+  ],
+  "timestamp": "2025-08-10T04:25:27.330940"
+}

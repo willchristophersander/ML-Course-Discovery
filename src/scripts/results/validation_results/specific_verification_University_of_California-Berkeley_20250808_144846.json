@@ -1,0 +1,15 @@
+{
+  "timestamp": "2025-08-08T14:48:46.399296",
+  "verification_results": {
+    "university_name": "University of California-Berkeley",
+    "course_search_url": "https://classes.berkeley.edu/",
+    "verification_success": false,
+    "verification_confidence": 0.0,
+    "collegetransfer_courses_found": 0,
+    "total_collegetransfer_courses": 0,
+    "error_message": "Verification error: 'list' object has no attribute 'get'",
+    "verification_time": 2.8026843070983887,
+    "collegetransfer_courses": [],
+    "found_courses": []
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Hawkeye Community College",
+    "successful_variation": "Hawkeye Community College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Hawkeye+Community+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACC 111",
+      "course_title": "Introduction to Accounting",
+      "credits": "3.00",
+      "description": "This course covers the terminology, concepts, and procedures involved in financial accounting for businesses. Topics include accounting for cash and accounting for payroll. Lecture: 48 hours. Laboratory: 0 hours. Course Fee: $5.00 Prior to Fall 2006 the course number was BS103U",
+      "institution": "Hawkeye Community College"
+    },
+    {
+      "course_id": "ACC 115",
+      "course_title": "Introduction to Accounting",
+      "credits": "4.00",
+      "description": "This course presents the fundamental concepts, procedures, and applications of the accounting cycle for service and merchandising businesses. The proprietorship form of ownership is studied. Topics include the special journals, payroll accounting, and accounting for cash. Lecture: 64 hours. Laboratory: 0 hours. Course Fee: $12.00 Prior to Fall 2006 the course number was AC103U",
+      "institution": "Hawkeye Community College"
+    },
+    {
+      "course_id": "ACC 116",
+      "course_title": "Introduction to Accounting II",
+      "credits": "4.00",
+      "description": "This course is a continuation of ACC-115 Introduction to Accounting emphasizing the principles of accrual accounting. Emphasis is placed on accounting for corporations and a manufacturing business. Topics include accounting for receivables, inventory, and long-term assets. Lecture: 64 hours. Laboratory: 0 hours. Prerequisite(s): ACC115 Introduction to Accounting or ACC131 Principles of Accounting I Course Fee: $12.00 Prior to Fall 2006 the course number was AC135U",
+      "institution": "Hawkeye Community College"
+    },
+    {
+      "course_id": "ACC 131",
+      "course_title": "Principles of Accounting I",
+      "credits": "4.00",
+      "description": "This course is an introduction to basic financial accounting concepts and procedures for service and merchandising businesses. Topics included are the accounting cycle; accounting systems; financial statements; and accounting for cash, receivables, payables, inventories, plant assets; partnerships and corporations. Lecture: 64 hours. Laboratory: 0 hours. Course Fee: $12.00 Prior to Fall 2006 the course number was AC101T",
+      "institution": "Hawkeye Community College"
+    },
+    {
+      "course_id": "ACC 132",
+      "course_title": "Principles of Accounting II",
+      "credits": "4.00",
+      "description": "This course continues to address topics in financial accounting that began in ACC-131 Principles of Accounting I. Primary emphasis is on managerial accounting and the corporate form of ownership. Topics include accounting for bonds, the statement of cash flows, and financial statement analysis. Managerial accounting topics include job order and process cost systems, cost-volume-profit analysis, budgeting, and standard cost systems. Capital investment analysis and activity-based costing are also addressed. Lecture: 64 hours. Laboratory: 0 hours. Prerequisite(s): ACC131 Principles of Accounting I Course Fee: $12.00 Prior to Fall 2006 the course number was AC102T",
+      "institution": "Hawkeye Community College"
+    },
+    {
+      "course_id": "ACC 190",
+      "course_title": "Financial Analysis",
+      "credits": "2.00",
+      "description": "This course provides the student with a general framework of corporate finance. The emphasis is limited to analysis and evaluation of alternative choices for investments and working capital. The objective is accomplished through assigned readings, lectures, completed assignments and projects, as well as through quizzes and tests. Lecture: 16 hours. Laboratory: 32 hours. Prerequisite(s): ACC132 Principles of Accounting II or ACC116 Introduction to Accounting II Course Fee: $2.00 Prior to Fall 2006 the course number was AC237U",
+      "institution": "Hawkeye Community College"
+    },
+    {
+      "course_id": "ACC 222",
+      "course_title": "Cost Accounting",
+      "credits": "4.00",
+      "description": "This course provides an introduction to accounting concepts of manufacturing systems. In addition job order and process costing systems, profit planning, and control programs are emphasized. Lecture: 64 hours. Laboratory: 0 hours. Prerequisite(s): ACC132 Principles of Accounting II or ACC116 Introduction to Accounting II Course Fee: $13.00 Prior to Fall 2006 the course number was AC201U",
+      "institution": "Hawkeye Community College"
+    },
+    {
+      "course_id": "ACC 231",
+      "course_title": "Intermediate Accounting I",
+      "credits": "4.00",
+      "description": "This course emphasizes accounting theory as students work with detailed applications of various balance sheet and income statement accounts. Applicable generally accepted accounting principles are emphasized as they relate to each subject area. Time values of money concepts are also introduced. Lecture: 64 hours. Laboratory: 0 hours. Prerequisite(s): ACC116 Introduction to Accounting II or ACC132 Principles of Accounting II Course Fee: $12.00 Prior to Fall 2006 the course number was AC206U",
+      "institution": "Hawkeye Community College"
+    },
+    {
+      "course_id": "ACC 232",
+      "course_title": "Intermediate Accounting II",
+      "credits": "4.00",
+      "description": "This course continues the detailed applications that began in ACC-231 Intermediate Accounting I. Emphasis is on corporate debt and equity. The statement of cash flows is addressed extensively as well as the accounting for business combinations. The course will conclude with financial statement analysis. Lecture: 64 hours. Laboratory: 0 hours. Prerequisite(s): ACC231 Intermediate Accounting I Course Fee: $12.00 Prior to Fall 2006 the course number was AC236U",
+      "institution": "Hawkeye Community College"
+    },
+    {
+      "course_id": "ACC 250",
+      "course_title": "Review for the LPA Exam",
+      "credits": "3.00",
+      "description": "This course reviews and summarizes the accounting, law, and ethics information received in the accounting program over four semesters to prepare students for the licensing exam. Lecture: 48 hours. Laboratory: 0 hours. Co-op Hours: Prerequisite(s): A minimum grade of 'C' in ACC132 Principles of Accounting II, or a minimum grade of 'C' in ACC116 Introduction to Accounting II, or instructor approval. Course Fee:",
+      "institution": "Hawkeye Community College"
+    }
+  ],
+  "timestamp": "2025-08-10T06:17:31.275402"
+}

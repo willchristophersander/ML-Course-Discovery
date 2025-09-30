@@ -1,0 +1,30 @@
+[
+  {
+    "generation": 1,
+    "id": "agent_1",
+    "fitness_score": 0.184440725933828,
+    "successful_discoveries": 8,
+    "total_attempts": 12,
+    "average_discovery_time": 2.614530702431997,
+    "genes": {
+      "max_depth": 6,
+      "max_links_per_page": 15,
+      "patience_factor": 0.9246838867550151,
+      "exploration_rate": 0.6901368163971452,
+      "link_preference_weights": {
+        "course_search": 0.7647430041951511,
+        "catalog": 0.8010656451623297,
+        "academic": 0.6226150402193413,
+        "search": 0.8252587689599379,
+        "find": 0.7401046364395772,
+        "browse": 0.6812290179760413,
+        "schedule": 0.5620314841814658,
+        "classes": 0.7140079357684171,
+        "content.php": 0.8050561008046263,
+        "search.php": 0.9202913295883973,
+        "catalog.php": 0.8614346605955954,
+        "random": 0.11251531422876158
+      }
+    }
+  }
+]

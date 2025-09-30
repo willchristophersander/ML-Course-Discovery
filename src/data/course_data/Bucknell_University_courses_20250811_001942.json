@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Bucknell University",
+    "successful_variation": "Bucknell University",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Bucknell+University&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ANBE 266",
+      "course_title": "Animal Behavior",
+      "credits": "3.00",
+      "description": "A survey of important theories, issues, and empirical techniques in the interdisciplinary field of animal behavior emphasizing both proximate and ultimate mechanisms and explanations for behavior. Crosslisted as BIOL 266 and PSYC 266.",
+      "institution": "Bucknell University"
+    },
+    {
+      "course_id": "ANBE 266R",
+      "course_title": "Recitation-Animal Behavior",
+      "credits": "0.00",
+      "description": "Recitation for ANBE 266 Animal Behavior.",
+      "institution": "Bucknell University"
+    },
+    {
+      "course_id": "ANBE 296",
+      "course_title": "Applied Research Animal Behavr",
+      "credits": "1.00",
+      "description": "Laboratory and/or field research to accompany ANBE/PSYC 266.",
+      "institution": "Bucknell University"
+    },
+    {
+      "course_id": "ANBE 309",
+      "course_title": "Appetite and Eating Behavior",
+      "credits": "1.00",
+      "description": "Advanced seminar considering psychological factors involved in appetite, food preferences, and food intake.",
+      "institution": "Bucknell University"
+    },
+    {
+      "course_id": "ANBE 317",
+      "course_title": "Comparative Animal Cognition",
+      "credits": "3.00",
+      "description": "Advanced seminar in issues of nature/nurture, learning, development, and adaptation, in behaviors such as foraging, mating and communication in several species. Prerequisites: ANBE/BIOL/PSYC 266 and PSYC 203 or permission of the instructor. Crosslisted as PSYC 317.",
+      "institution": "Bucknell University"
+    },
+    {
+      "course_id": "ANBE 319",
+      "course_title": "Topics in Animal Behavior",
+      "credits": "1.00",
+      "description": "Occasional seminar on selected topics of current interest in animal behavior.",
+      "institution": "Bucknell University"
+    },
+    {
+      "course_id": "ANBE 320",
+      "course_title": "Topics in Animal Behavior",
+      "credits": "1.00",
+      "description": "Occasional seminar on selected topics of current interest in animal behavior.",
+      "institution": "Bucknell University"
+    },
+    {
+      "course_id": "ANBE 321",
+      "course_title": "Behavioral Ecology",
+      "credits": "3.00",
+      "description": "The consideration of behavioral adaptations to various ecological situations. Topics include habitat choice, foraging behavior, defenses against predation, mate choice, and brood care. Prerequisites: BIOL 208 and permission of the instructor. Crosslisted as BIOL 321.",
+      "institution": "Bucknell University"
+    },
+    {
+      "course_id": "ANBE 341",
+      "course_title": "Organic Evolution",
+      "credits": "3.00",
+      "description": "The principles and mechanisms of evolution in plants and animals, covering population phenomena, speciation, life history strategies, adaptation, systematics, and biogeography. Prerequisites: BIOL 208 and permission of the instructor. Crosslisted as BIOL 341.",
+      "institution": "Bucknell University"
+    },
+    {
+      "course_id": "ANBE 342",
+      "course_title": "Neuroethology",
+      "credits": "3.00",
+      "description": "A course that integrates neurobiology and behavior in natural contexts. Emphasis on signal detection, recognition, discrimination, localization, orientation, and the control of complex acts. Neuronal and hormonal mechanisms, ontogeny and evolution of behavior will be considered. Prerequisites: BIOL 206, BIOL 208 and permission of the instructor. Crosslisted as BIOL 342.",
+      "institution": "Bucknell University"
+    }
+  ],
+  "timestamp": "2025-08-11T00:19:42.796044"
+}

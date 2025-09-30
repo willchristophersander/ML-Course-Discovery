@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "University of Kansas",
+    "successful_variation": "University of Kansas",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=University+of+Kansas&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "AAAS 102",
+      "course_title": "Arabic and Islamic Studies",
+      "credits": "3.00",
+      "description": "An introduction to the study of Islam and the Arabic language in relation to Islamic cultures in Africa, the Mediterranean region, and beyond. Topics covered include the historical origins of Islam in relation to the Arabic language and its cultures of origin. This course is interdisciplinary, including attention to the topic from the perspectives of historical unfolding of both the language and religion, geographic and cultural perspectives, political and economic concerns, and aesthetic perspectives, including literature and the arts. LEC",
+      "institution": "University of Kansas"
+    },
+    {
+      "course_id": "AAAS 103",
+      "course_title": "Introduction to Africa",
+      "credits": "3.00",
+      "description": "An introduction to the interdisciplinary study of African cultures and societies focusing on contemporary life on the continent. Topics to be covered include the geography, history, politics, and economics of the continent, as well as the religion, languages and literatures, music, and the arts. The interdisciplinary perspective will provide students with a sound basis for understanding contemporary African societies. LEC",
+      "institution": "University of Kansas"
+    },
+    {
+      "course_id": "AAAS 104",
+      "course_title": "Introduction to African-American Studies",
+      "credits": "3.00",
+      "description": "Interdisciplinary introduction to the basic concepts and literature in the disciplines covered in African American Studies. Includes the social sciences, and humanities (including history, religion, and literature) as well as conceptual framework for investigation and analysis of Black history and culture and society. LEC",
+      "institution": "University of Kansas"
+    },
+    {
+      "course_id": "AAAS 105",
+      "course_title": "Introduction to African History",
+      "credits": "3.00",
+      "description": "An introduction to important historical developments in Africa, mainly south of the Sahara. Topics will include pre-history, empires, kingdoms and city-states, the slave trade, southern Africa, partition and colonialism, the independence era, military and civilian governments, and liberation movements. Approaches will include literature, the visual arts, politics, economics, and geography. (Same as HIST 104.) LEC",
+      "institution": "University of Kansas"
+    },
+    {
+      "course_id": "AAAS 106",
+      "course_title": "The Black Experience in the Americas",
+      "credits": "3.00",
+      "description": "An interdisciplinary study of the history of the African peoples of the New World, relating their cultures and institutions to the African background and to their peculiar New World experiences up to and including the nineteenth century. While the main emphasis will be on the U.S.A., attention will also be paid to the Caribbean and Latin America. Approaches will include demography, economics, social and political developments, literature, and music. LEC",
+      "institution": "University of Kansas"
+    },
+    {
+      "course_id": "AAAS 115",
+      "course_title": "Introduction to African History, Honors",
+      "credits": "3.00",
+      "description": "An intensive version of AAAS 105. Open only to students on Dean's Honor Roll or enrolled in Honors Program, or consent of instructor. LEC",
+      "institution": "University of Kansas"
+    },
+    {
+      "course_id": "AAAS 116",
+      "course_title": "The Black Experience in the Americas, Honors",
+      "credits": "3.00",
+      "description": "An intensive version of AAAS 106. Open only to students on Dean's Honor Roll or enrolled in Honors Program, or consent of instructor. LEC",
+      "institution": "University of Kansas"
+    },
+    {
+      "course_id": "AAAS 160",
+      "course_title": "Introduction to West African History",
+      "credits": "3.00",
+      "description": "This course treats West African history through the first part of the twentieth century. The student is provided with a perspective on the major historical patterns that gave rise to West Africa's development as an integral part of world history. Special attention is paid to anthropological, geographical, and technological developments that influenced West African political and socioeconomic changes. (Same as HIST 160.) LEC",
+      "institution": "University of Kansas"
+    },
+    {
+      "course_id": "AAAS 300",
+      "course_title": "African Traditional Religion and Thought",
+      "credits": "3.00",
+      "description": "A study of African traditional religious beliefs, systems and practices and how these have conditioned spiritual, moral and social values, attitudes, social relationships and institutions, art, literature and music. Topics covered include the African world-view, concepts of birth, life, marriage, death and reincarnation; the concurrent practice or monotheism, polytheism and the cult of the ancestors; and the extent of relevance to Black societies in the New World. Prerequisite: AAAS 103 or AAAS 105 or AAAS 106 or consent of instructor. LEC",
+      "institution": "University of Kansas"
+    },
+    {
+      "course_id": "AAAS 301",
+      "course_title": "Portrait of a Third-World Nation: Haiti",
+      "credits": "3.00",
+      "description": "Case study of Third-World problems and aspirations through the first Black nation to win independence from colonialism. Topics include: profile of the Third World; Caribbean diversity; the Columbian exchange; piracy; slavery and plantocracy; Revolution and the burden of freedom; U.S. occupation; Papa Doc, Baby Doc, and the Tontons Macoute; Liberation theology; peasant life; government and corruption; poverty and hunger; morality of foreign aid; Voodoo; folk medicine. No knowledge of Haitian or French required. Students may not receive credit for both HAIT 200 and AAAS 301. LEC",
+      "institution": "University of Kansas"
+    }
+  ],
+  "timestamp": "2025-08-10T14:35:47.875465"
+}

@@ -1,0 +1,74 @@
+{
+  "search_query": {
+    "institution": "University of Notre Dame",
+    "successful_variation": "Notre Dame",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Notre+Dame&distance=5"
+  },
+  "total_results": 9,
+  "courses": [
+    {
+      "course_id": "AR 102",
+      "course_title": "Drawing II",
+      "credits": "3.00",
+      "description": "3 cr. Continuation of AR 101. Designed to further develop the student's perceptual and conceptual drawing skills. Students are encouraged to experiment and explore assigned problems. Two, two-and-one-half hour lab periods weekly. Prerequisite: AR 101.",
+      "institution": "University of Notre Dame"
+    },
+    {
+      "course_id": "AR 103",
+      "course_title": "Life Drawing",
+      "credits": "2.00",
+      "description": "2 cr. An introduction to drawing the human figure emphasizing the fundamentals of structure. Includes the study of the human skeletal and muscular systems as they apply to drawing a likeness. One, two-and-one-half hour lab period weekly. Prerequisite: AR 101.",
+      "institution": "University of Notre Dame"
+    },
+    {
+      "course_id": "AR 114",
+      "course_title": "Introduction to Graphic Design",
+      "credits": "3.00",
+      "description": "3 cr. The entry level course for the graphic design major providing the student design elements and principles for the method of problem solving, group critiques as well as practical and hands-on application of specific graphic design problems. Emphasis will be placed on traditional techniques with a transition to cyber-based technology. Two, two and one half-hour lab periods weekly. Prerequisite: AR 221.",
+      "institution": "University of Notre Dame"
+    },
+    {
+      "course_id": "AR 200",
+      "course_title": "Calligraphy I",
+      "credits": "2.00",
+      "description": "2 cr. Fundamentals of basic lettering, layout, and composition. One two-hour lab period weekly.",
+      "institution": "University of Notre Dame"
+    },
+    {
+      "course_id": "AR 201",
+      "course_title": "Calligraphy II",
+      "credits": "2.00",
+      "description": "2 cr. A continuation of lettering fundamentals with emphasis on mastering a chosen alphabet. Concentration on layout, composition, and color. One two-hour lab period weekly. Prerequisite: AR 200.",
+      "institution": "University of Notre Dame"
+    },
+    {
+      "course_id": "AR 209",
+      "course_title": "Black and White Photography I",
+      "credits": "3.00",
+      "description": "3 cr. An introduction to the basic elements of black and white photography. Fundamental camera and darkroom techniques are studied. Emphasis on photography as an interpretive and illustrative medium in art. Student supplies manual camera and film. Introduction to digital photography as well. Two, two-and-one-half hour lab periods weekly.",
+      "institution": "University of Notre Dame"
+    },
+    {
+      "course_id": "AR 210",
+      "course_title": "Photography II",
+      "credits": "3.00",
+      "description": "3 cr. Continuation of AR 209. Designed to further develop the student's technical and interpretive understanding of black and white photography. Introduction to digital imagery and color. Student supplies manual camera and film. Two, two-and-one-half hour lab periods weekly. Prerequisite: AR 209.",
+      "institution": "University of Notre Dame"
+    },
+    {
+      "course_id": "AR 222",
+      "course_title": "Color and Design",
+      "credits": "3.00",
+      "description": "3 cr. Study of color and its application to various design concepts as the continuation of design fundamentals and organization. Two, two-and-one-half hour lab periods weekly. Prerequisite: AR 221.",
+      "institution": "University of Notre Dame"
+    },
+    {
+      "course_id": "AR 223",
+      "course_title": "Graphic Design I",
+      "credits": "3.00",
+      "description": "3 cr. Introduction to computers working with vector-based and current programs. An introduction to graphic design based on an organizational grid structure. Students will continue their studies in text placement, color, layout and basic design and learn to use external digital enhancement. They will develop pieces of work common in graphic design such as letterheads, logos and fliers. Two, two and one-half hour lab periods weekly. Prerequisites: AR 114 and AR 221.",
+      "institution": "University of Notre Dame"
+    }
+  ],
+  "timestamp": "2025-08-26T13:50:27.584350"
+}

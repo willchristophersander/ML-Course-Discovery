@@ -1,0 +1,39 @@
+{
+  "search_query": {
+    "institution": "University of Akron Wayne College",
+    "successful_variation": "University of Akron Wayne College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=University+of+Akron+Wayne+College&distance=5"
+  },
+  "total_results": 4,
+  "courses": [
+    {
+      "course_id": "ART 131",
+      "course_title": "Foundation Drawing",
+      "credits": "3.00",
+      "description": "Introduction to drawing materials and techniques with an emphasis on observation, representation, and formal principles of composition and design.",
+      "institution": "University of Akron Wayne College"
+    },
+    {
+      "course_id": "ART 210",
+      "course_title": "Visual Arts Awareness",
+      "credits": "3.00",
+      "description": "Prerequisite: 3400:210. Lecture course providing appreciation and understanding of various types/periods with emphasis on topics and infl uences on societies, rather than on historical sequences.",
+      "institution": "University of Akron Wayne College"
+    },
+    {
+      "course_id": "ART 274",
+      "course_title": "Photography I For Non- Art Majors",
+      "credits": "3.00",
+      "description": "A study of photography through lecture, demonstration and studio work. An exploration and enrichment opportunity for the non-art major. No credit toward a major in art.",
+      "institution": "University of Akron Wayne College"
+    },
+    {
+      "course_id": "ART 275",
+      "course_title": "Introduction to Photography",
+      "credits": "3.00",
+      "description": "Prerequisite: 7100:131 and 144, or 286 or 2240:124. Lecture, studio and laboratory course techniques and aesthetics are studied using 35mm cameras. A 35mm camera with full manual control is required.",
+      "institution": "University of Akron Wayne College"
+    }
+  ],
+  "timestamp": "2025-08-10T21:22:51.191526"
+}

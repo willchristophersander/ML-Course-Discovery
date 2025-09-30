@@ -1,0 +1,67 @@
+{
+  "search_query": {
+    "institution": "Bossier Parish Community College",
+    "successful_variation": "Bossier Parish Community College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Bossier+Parish+Community+College&distance=5"
+  },
+  "total_results": 8,
+  "courses": [
+    {
+      "course_id": "ACCT 210",
+      "course_title": "Personal Income Tax",
+      "credits": "3.00",
+      "description": "An introduction to basic federal income tax law for individuals and sole proprietorships that integrates computer software. Course focuses on learning the various forms and procedures, timing of returns, understanding tax terms, preparing tax returns, and evaluating tax planning.",
+      "institution": "Bossier Parish Community College"
+    },
+    {
+      "course_id": "ACCT 212",
+      "course_title": "Computerized Accounting",
+      "credits": "3.00",
+      "description": "Prerequisite: ACCT 205. An integration of accounting principles and methods with modern computer software. Simulation emphasizes a hands-on approach to setting up an accounting system, completing an accounting cycle, accounting for payroll, and analyzing financial statements.",
+      "institution": "Bossier Parish Community College"
+    },
+    {
+      "course_id": "ALHT 105",
+      "course_title": "Medical Ethics and Law",
+      "credits": "3.00",
+      "description": "Introduces students, in allied health fields, to potential legal and ethical issues which may be experienced in the health care environment. Students will discuss the legal system as it applies to the patient, health care provider, and medical institution; and review medical ethical and bioethical issues.",
+      "institution": "Bossier Parish Community College"
+    },
+    {
+      "course_id": "ALHT 109",
+      "course_title": "Health Care Systems and Safety",
+      "credits": "2.00",
+      "description": "Health care delivery systems, cultural diversity, health care careers, employment skills, patient and personal safety issues, infection control; OSHA, HIPAA, and current standards for BLS for health care providers.",
+      "institution": "Bossier Parish Community College"
+    },
+    {
+      "course_id": "ALHT 114",
+      "course_title": "Introduction to Medical Coding",
+      "credits": "3.00",
+      "description": "Prerequisite: ZLGY 110 and permission of the Division. ICD-9-CM and CPT systems used in the coding of diagnoses and procedures in health care facilities. Emphasis is on the development of basic skills needed for accurate coding for medical billing purposes. (Medical Office Specialist majors must take this class concurrently with MOS 110.)",
+      "institution": "Bossier Parish Community College"
+    },
+    {
+      "course_id": "ALHT 115",
+      "course_title": "Pharmacology for Allied Health Students",
+      "credits": "3.00",
+      "description": "Prerequisite: ZLGY 120 or ZLGY 124. Pharmacology as it relates to current drug therapy. The major concepts include drug classification, mechanisms of action, therapeutic effects, clinical indication, methods of administration, adverse reactions, and drug interactions.",
+      "institution": "Bossier Parish Community College"
+    },
+    {
+      "course_id": "ALHT 116",
+      "course_title": "Pharmaceutical Dosage Calculations and Measurements",
+      "credits": "3.00",
+      "description": "Prerequisite: Placement into MATH 098 or completion of MATH 097. Proper calculation of medication dosages. The course includes mathematics review, metric system conversions, dosage measurement equipment, drug orders, drug labels, dosage of drugs, methods to calculate dosages, and IV solutions.",
+      "institution": "Bossier Parish Community College"
+    },
+    {
+      "course_id": "ALHT 201",
+      "course_title": "Medical Supplies and Patient Preparation",
+      "credits": "4.00",
+      "description": "Prerequisite: Acceptance into the Medical Assistant clinical program. Must be taken concurrently with MOS 206L and ALHT 209. Patient care, knowledge and skills utilized by the medical assistant in the clinical setting. Laboratory activities reinforce lecture. (Days only/fall semester only)",
+      "institution": "Bossier Parish Community College"
+    }
+  ],
+  "timestamp": "2025-08-10T06:13:28.024849"
+}

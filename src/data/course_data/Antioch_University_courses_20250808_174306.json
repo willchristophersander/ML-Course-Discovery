@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Antioch University",
+    "successful_variation": "Antioch University",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Antioch+University&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ANT 311",
+      "course_title": "Analyzing Hybrid Los Angeles",
+      "credits": "3.00",
+      "description": "This class approaches Los Angeles as a robust breeding ground for hybrid cultural practices such as trans-genre music, gastronomic fusion, mediated dating, rejuvenating procedures, architectural and landscaping accents, trans-gender possibilities and migrant, border identities. This course understands hybridization as a cultural process in which diverse beliefs and preferences merge into new, often unexpected and ambiguous practices derived from concrete historical, political and aesthetic contexts. Through field trips, readings, discussions and specific examples from the arts, media and popular culture, students learn to identify and analyze how hybrids evolve from cultural sources, what role they play in mainstream Angeleno culture, and which dilemmas and opportunities they pose. SOCIAL SCIENCE DOMAIN",
+      "institution": "Antioch University"
+    },
+    {
+      "course_id": "ANT 313",
+      "course_title": "The Cultural Shades of Downtown Los Angeles",
+      "credits": "1.00",
+      "description": "This Dash-hosted one-day field trip visits Chinatown, Olvera Street, Union Station, the Arts district, Little Tokyo, Central Market and the Financial district. Students are introduced to urban setting observation tools used to grasp and record the unique social patterns of each visited zone. In addition, students are immersed in the local cultures of these areas via window shopping, lunch time, snack time, walking and the experience of riding on the Dash system in downtown Los Angeles. No grade equivalent allowed. SOCIAL SCIENCE DOMAIN",
+      "institution": "Antioch University"
+    },
+    {
+      "course_id": "ANT 322",
+      "course_title": "Urban Ethnography: The Pensive Observer",
+      "credits": "3.00",
+      "description": "This course offers ethnographic training in Naturalistic Observation, a sharp, unobtrusive fieldwork tool appropriate to the short-term study of concrete urban public behavior patterns. Students focus on the repeated and systematic observation of one single kind of public behavior taking place in Los Angeles. Examples of these may be standing in-line rituals, elevator riding etiquette, or cell phone multitasking. Through lectures, readings, one field trip, several fieldwork drills, educational media, and samples of ethnographic research reports, students learn to discern the larger, deeper cultural and political meaning of these deceivingly innocuous behaviors. The course cultivates the students' historical outlook, theoretical reasoning, research ethics, theory-grounded design of data collection protocols, systematic and selective application of observation and documentation skills, qualitative data coding, data-driven interpretation methods, as well as the command of appropriate formats to report and disseminate their findings. SOCIAL SCIENCE DOMAIN",
+      "institution": "Antioch University"
+    },
+    {
+      "course_id": "ANT 383",
+      "course_title": "Myth and the Psyche: Analysis of the Concept of Self",
+      "credits": "3.00",
+      "description": "This class explores the fundamental concepts of the unconscious and the mythological journey of transformation that human beings experience as a part of the life process. The class explores the meaning and purpose of the inner, mythic journey to both society and the individual. It also examines mythological interpretations of universal themes and symbols found in various mythologies throughout the world both past and present and concepts presented by C.G. Jung in his analysis of the Self, including archetypal images and the collective unconscious. Through this study, the student will gain a better understanding of the process of the psychological journey and its power to create a sense of harmony and wholeness. HUMANITES & SOCIAL SCIENCE DOMAIN",
+      "institution": "Antioch University"
+    },
+    {
+      "course_id": "ANT 401",
+      "course_title": "Socially Just Knowledge Production: Introduction to Qualitative Research Methods",
+      "credits": "3.00",
+      "description": "The purpose of this class is to learn how to ask better research questions, to develop better means of answering those questions, to learn what resources are available, and to recognize the researcher's own limitations - with the goal of learning to create knowledge that will support a more socially just world. Specifically, the course explores qualitative methods, which focus on understanding interactive processes and events and interpreting constructed socio-cultural meanings. While students consider theoretical and ethical research issues, the emphasis is on learning methods by putting them into practice. The class travels to several sites throughout the city where research is conducted in different ways; students speak to and learn from researchers inside and outside of the academy; and students learn to apply some of the methods through small but tangible projects. SOCIAL SCIENCE DOMAIN",
+      "institution": "Antioch University"
+    },
+    {
+      "course_id": "ART 310",
+      "course_title": "Sources of Creativity: Theory and Process",
+      "credits": "3.00",
+      "description": "This class is designed to examine a variety of current psychological theories on creativity, as students apply this knowledge to music, art, writing, science, psychotherapy, and theatre. The course also focuses on creative blocks, burnout and breakdowns. The class includes discussion, reading and hands-on experience. SOCIAL SCIENCE & FINE ARTS DOMAINS",
+      "institution": "Antioch University"
+    },
+    {
+      "course_id": "ART 311",
+      "course_title": "Fundamentals of Drawing in Pencil",
+      "credits": "3.00",
+      "description": "This is studio course for developing fundamental drawing skills. Students learn about all the formal elements that create a successful drawing: line, value, texture, composition, light logic, spatial construction. FINE ARTS DOMAIN",
+      "institution": "Antioch University"
+    },
+    {
+      "course_id": "ART 317",
+      "course_title": "Postmodern Art Practices",
+      "credits": "3.00",
+      "description": "This is a studio course for those who would like to discover their own style, materials, and methods for making authentic artworks. Use of traditional and non-traditional contemporary art practices and media are presented to encourage students to find their own visual language and approach. The nature and methods of various contemporary art movements and genres are examined. Students learn about contemporary art theory by completing projects that utilize various theories including mapping, constructing a personal lexicon, conceptual art, and installation. FINE ARTS DOMAIN",
+      "institution": "Antioch University"
+    },
+    {
+      "course_id": "ART 321",
+      "course_title": "Documentary Photography: Image, Idea, and History",
+      "credits": "3.00",
+      "description": "This course introduces students to some of the most significant historical and contemporary documentary photographers. Students view and discuss photography projects focused on urban subjects and environments. Emphasis is placed on understanding the sociopolitical aspirations and stylistic approaches of the documentary genre. Photographers covered will include Margaret Bourke White, Walker Evans, Lauren Greenfield, Lewis Hine, Gordon Parks, Dorothea Lange, Mary Ellen Mark, Catherine Opie, Susan Meiselas, Sebastiao Salgado, and W. Eugene Smith. FINE ARTS DOMAIN",
+      "institution": "Antioch University"
+    },
+    {
+      "course_id": "ART 331",
+      "course_title": "An Artist's Lexicon: Developing a Visual Vocabulary",
+      "credits": "3.00",
+      "description": "There are two vital elements in developing an artistic voice; one is form and the other is content. This course focuses on identifying the content that is meaningful to each student and helps students to translate that content into visual and textual signs. FINE ARTS DOMAIN",
+      "institution": "Antioch University"
+    }
+  ],
+  "timestamp": "2025-08-08T17:43:06.295116"
+}

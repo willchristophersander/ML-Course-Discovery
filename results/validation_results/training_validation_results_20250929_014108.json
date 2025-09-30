@@ -1,0 +1,105 @@
+{
+  "timestamp": "2025-09-29T01:41:08.078306",
+  "analysis": {
+    "total_universities": 5,
+    "discovery_success_rate": 0.0,
+    "avg_discovery_confidence": 0,
+    "ct_availability_rate": 0.0,
+    "colleges_with_ct_courses": 0,
+    "validation_success_rate": 0,
+    "avg_validation_confidence": 0,
+    "course_finding_rate": 0,
+    "avg_discovery_time": 0.11911158561706543,
+    "avg_validation_time": 0.0,
+    "successful_discoveries": [],
+    "failed_discoveries": [
+      {
+        "university": "Stanly Community College",
+        "error": "No search results found with any strategy"
+      },
+      {
+        "university": "Lewis and Clark Community College",
+        "error": "No search results found with any strategy"
+      },
+      {
+        "university": "Henry Ford College",
+        "error": "No search results found with any strategy"
+      },
+      {
+        "university": "West Valley College",
+        "error": "No search results found with any strategy"
+      },
+      {
+        "university": "Air Force Institute of Technology",
+        "error": "No search results found with any strategy"
+      }
+    ]
+  },
+  "detailed_results": [
+    {
+      "university_name": "Stanly Community College",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No search results found with any strategy",
+      "discovery_time": 0.11506080627441406,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "Lewis and Clark Community College",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No search results found with any strategy",
+      "discovery_time": 0.11542296409606934,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "Henry Ford College",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No search results found with any strategy",
+      "discovery_time": 0.11895203590393066,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "West Valley College",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No search results found with any strategy",
+      "discovery_time": 0.1218101978302002,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "Air Force Institute of Technology",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No search results found with any strategy",
+      "discovery_time": 0.12431192398071289,
+      "validation_time": 0.0
+    }
+  ]
+}

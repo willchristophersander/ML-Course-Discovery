@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Middlesex Community College",
+    "successful_variation": "Middlesex Community College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Middlesex+Community+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ANT 101",
+      "course_title": "Cultural Anthropology 3.00 Formerly so 1101",
+      "credits": "3.00",
+      "description": "An introduction to the origins of contemporary human culture. Compares traditional and modern cultural patterns for universality and diversity. Basic concepts and methods of cultural analysis are covered. Prerequisite: Placement above or successful completion of ENG 060 (EN 2103) and eligible for ENG 101 (EN 1103). Recommendation: Concurrent enrollment in ENG 075 (EN 2122) or ENG 085 (EN 2131) if CPT reading placement test is between 68 and 75. General Education Electives: Behavioral Science Intensive Value: Multicultural/Global Awareness",
+      "institution": "Middlesex Community College"
+    },
+    {
+      "course_id": "ANT 102",
+      "course_title": "Aging in a Multicultural Society 3.00 Formerly so 6163",
+      "credits": "3.00",
+      "description": "This course will examine the influence of cultural systems on the universal human process of aging. Within a cross-cultural framework, the following topics will be covered: demographics of aging (including consideration of gender and social class), conceptions of life course, historical perspectives of aging, caring and social support networks for elders, social implications of the physical/mental changes associated with growing older and endof- life conceptions, rituals and belief systems. A variety of cultures world-wide, as well as our own multicultural city of Lowell, Massachusetts, will be considered. Students will have the opportunity to complete Service-Learning at a local site serving the elderly. Prerequisites: ANT 101 (SO 1101), PSY 101 (SO 5101), and/or SOC 101 (SO 6101). General Education Electives: Behavioral Science; Social Science Intensive Values: Multicultural/Global Awareness; Values/Ethics/Social Policy",
+      "institution": "Middlesex Community College"
+    },
+    {
+      "course_id": "ART 101",
+      "course_title": "Art Appreciation 3.00 Formerly hu 2101",
+      "credits": "3.00",
+      "description": "An introduction to the nature, vocabulary, and media of art from many cultures. Emphasis will be placed on finding continuity between the arts of the past and those of the present. Prerequisite: Eligible for ENG 101 (EN 1103). General Education Electives: Humanities Intensive Values: Multicultural/Global Awareness; Written Communication",
+      "institution": "Middlesex Community College"
+    },
+    {
+      "course_id": "ART 105",
+      "course_title": "Art History I 3.00 Formerly hu 2105",
+      "credits": "3.00",
+      "description": "An introduction to the history of painting, sculpture, and architecture in the Western world. The period to be covered ranges from prehistoric times to the year 1500 and includes the Stone Age, ancient Egypt, Greece and Rome, the Byzantine and Medieval worlds, and early Renaissance. General Education Electives: Humanities",
+      "institution": "Middlesex Community College"
+    },
+    {
+      "course_id": "ART 106",
+      "course_title": "Art History II 3.00 Formerly hu 2106",
+      "credits": "3.00",
+      "description": "A continuation of ART 105 (HU 2105), focusing on the period from the Italian Renaissance to the present. General Education Electives: Humanities",
+      "institution": "Middlesex Community College"
+    },
+    {
+      "course_id": "ART 113",
+      "course_title": "Color And Design 3.00 Formerly hu 2113",
+      "credits": "3.00",
+      "description": "Basic concepts of composition and color theory. Stresses the process and conceptual development of ideas in two dimensions and the development of a strong sensitivity to color. General Education Electives: Humanities",
+      "institution": "Middlesex Community College"
+    },
+    {
+      "course_id": "ART 115",
+      "course_title": "Introduction to Sculpture And d Design 3.00 Formerly hu 2117",
+      "credits": "3.00",
+      "description": "An introduction to the basic materials and techniques of sculpture and their relationship to the artist's concepts. Students learn to formulate and visualize sculptural ideas through practice and utilization of readily available materials and processes. General Education Electives: Humanities",
+      "institution": "Middlesex Community College"
+    },
+    {
+      "course_id": "ART 121",
+      "course_title": "DRAWING I 3.00 Formerly HU 2121",
+      "credits": "3.00",
+      "description": "The fundamentals of representational and imaginative drawing. Students explore a variety of techniques with media including charcoal, pastel, graphite, pen and ink, wash, and conte crayon. General Education Electives: Humanities",
+      "institution": "Middlesex Community College"
+    },
+    {
+      "course_id": "ART 122",
+      "course_title": "DRAWING II 3.00 Formerly HU 2122",
+      "credits": "3.00",
+      "description": "This course is a continuation of ART 121 (HU 2121) General Education Electives: Humanities",
+      "institution": "Middlesex Community College"
+    },
+    {
+      "course_id": "ART 123",
+      "course_title": "Figure Drawing I 3.00 Formerly hu 2127",
+      "credits": "3.00",
+      "description": "Drawing the figure from the model. Studio work is supplemented by discussion and slide lecture. Prior instruction in drawing is recommended. General Education Electives: Humanities",
+      "institution": "Middlesex Community College"
+    }
+  ],
+  "timestamp": "2025-08-10T06:23:07.590029"
+}

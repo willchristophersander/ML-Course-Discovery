@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Colorado Mesa University",
+    "successful_variation": "Colorado Mesa University",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Colorado+Mesa+University&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACCT 201",
+      "course_title": "Prin of Financial Acct",
+      "credits": "3.00",
+      "description": "Course description unavailable",
+      "institution": "Colorado Mesa University"
+    },
+    {
+      "course_id": "ACCT 202",
+      "course_title": "Principles of Managerial Accounting",
+      "credits": "3.00",
+      "description": "A basic course that introduces the use of accounting information in managerial decision making, control, and planning. Prerequisites: ACCT 201, and CISB 101 or CISB 205.",
+      "institution": "Colorado Mesa University"
+    },
+    {
+      "course_id": "ACCT 311",
+      "course_title": "Advanced Managerial Accounting",
+      "credits": "3.00",
+      "description": "An advanced course primarily for nonaccounting majors that provides in-depth coverage on the applications of accounting information in decision-making, organization, control and planning. Prerequisites: ACCT 202, and CISB 101 or CISB 205.",
+      "institution": "Colorado Mesa University"
+    },
+    {
+      "course_id": "ACCT 321",
+      "course_title": "Intermediate Accounting I",
+      "credits": "5.00",
+      "description": "Development of a foundational understanding of Generally Accepted Accounting Principles and their application to external financial statements. Prerequisite: ACCT 201.",
+      "institution": "Colorado Mesa University"
+    },
+    {
+      "course_id": "ACCT 322",
+      "course_title": "Intermediate Accounting II",
+      "credits": "4.00",
+      "description": "Continuation of ACCT 321. Prerequisite: ACCT 321.",
+      "institution": "Colorado Mesa University"
+    },
+    {
+      "course_id": "ACCT 331",
+      "course_title": "Cost Accounting",
+      "credits": "3.00",
+      "description": "Costs and their relationship to planning, controlling, inventory valuation, and decision making. Prerequisite: ACCT 202, CISB 205.",
+      "institution": "Colorado Mesa University"
+    },
+    {
+      "course_id": "ACCT 392",
+      "course_title": "Accounting Information Systems",
+      "credits": "3.00",
+      "description": "A study of the concepts and design of the Accounting Information System with emphasis on the internal control structures, requirements, and professional standards. Prerequisites: ACCT 322; CISB 205.",
+      "institution": "Colorado Mesa University"
+    },
+    {
+      "course_id": "ACCT 393",
+      "course_title": "Cooperative Education",
+      "credits": "12.00",
+      "description": "Cooperative Education provides students an opportunity to put their education to practical use in the workplace under the joint supervision of an employer participating in the Cooperative Education program and a faculty member designated by the institution. (See \"Cooperative Education\" in this catalog).",
+      "institution": "Colorado Mesa University"
+    },
+    {
+      "course_id": "ACCT 395",
+      "course_title": "Independent Study",
+      "credits": "3.00",
+      "description": "Independent Study",
+      "institution": "Colorado Mesa University"
+    },
+    {
+      "course_id": "ACCT 396",
+      "course_title": "Topics",
+      "credits": "3.00",
+      "description": "Topics",
+      "institution": "Colorado Mesa University"
+    }
+  ],
+  "timestamp": "2025-08-09T20:03:14.657695"
+}

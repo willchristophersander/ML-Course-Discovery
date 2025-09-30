@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Central Carolina Community College",
+    "successful_variation": "Central Carolina Community College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Central+Carolina+Community+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACA 090",
+      "course_title": "Study Skills",
+      "credits": "3.00",
+      "description": "This course is intended for those who placed into credit-level coursework but who are not maintaining satisfactory academic progress toward meeting program goals. Topics include study skills, note taking, learning styles and strategies, test taking, goal setting, and self-assessment skills. Upon completion, students should be able to manage their learning experiences to successfully meet educational goals.",
+      "institution": "Central Carolina Community College"
+    },
+    {
+      "course_id": "ACA 111",
+      "course_title": "College Student Success",
+      "credits": "1.00",
+      "description": "This course introduces the college's physical, academic, and social environment and promotes the personal development essential for success. Topics include campus facilities and resources; policies, procedures, and programs; study skills; and life management issues such as health, self-esteem, motivation, goal-setting, diversity, and communication. Upon completion, students should be able to function effectively within the college environment to meet their educational objectives.",
+      "institution": "Central Carolina Community College"
+    },
+    {
+      "course_id": "ACA 115",
+      "course_title": "Success and Study Skills",
+      "credits": "1.00",
+      "description": "This course provides an orientation to the campus resources and academic skills necessary to achieve educational objectives. Emphasis is placed on an exploration of facilities and services, study skills, library skills, self-assessment, wellness, goal-setting, and critical thinking. Upon completion, students should be able to manage their learning experiences to successfully meet educational goals.",
+      "institution": "Central Carolina Community College"
+    },
+    {
+      "course_id": "ACA 118",
+      "course_title": "College Study Skills",
+      "credits": "2.00",
+      "description": "This course covers skills and strategies designed to improve study behaviors. Topics include time management, note taking, test taking, memory techniques, active reading strategies, critical thinking, communication skills, learning styles, and other strategies for effective learning. Upon completion, students should be able to apply appropriate study strategies and techniques to the development of an effective study plan.",
+      "institution": "Central Carolina Community College"
+    },
+    {
+      "course_id": "ACA 122",
+      "course_title": "College Transfer Success",
+      "credits": "1.00",
+      "description": "Prerequisite: None Corequisite: None This course provides information and strategies necessary to develop clear academic and professional goals beyond the community college experience. Topics include the CAA, college culture, career exploration, gathering information on senior institutions, strategic planning, critical thinking, and communications skills for a successful academic transition. Upon completion, students should be able to develop an academic plan to transition successfully to senior institutions. This course has been approved to satisfy the Comprehensive Articulation Agreement for transferability as a pre-major and/or elective course requirement.",
+      "institution": "Central Carolina Community College"
+    },
+    {
+      "course_id": "ACC 115",
+      "course_title": "College Accounting",
+      "credits": "4.00",
+      "description": "This course introduces basic accounting principles for a business. Topics include the complete accounting cycle with end-of-period statements, bank reconciliation, payrolls, and petty cash. Upon completion, students should be able to demonstrate an understanding of accounting principles and apply those skills to a business organization.",
+      "institution": "Central Carolina Community College"
+    },
+    {
+      "course_id": "ACC 120",
+      "course_title": "Prin.of Financial Acct",
+      "credits": "4.00",
+      "description": "This course introduces business decision-making using accounting information systems. Emphasis is placed on analyzing, summarizing, reporting, and interpreting financial information. Upon completion, students should be able to prepare financial statements, understand the role of financial information in decisionmaking and address ethical considerations. This course has been approved to satisfy the Comprehensive Articulation Agreement pre-major and/or elective course requirement.",
+      "institution": "Central Carolina Community College"
+    },
+    {
+      "course_id": "ACC 121",
+      "course_title": "Prin.of Managerial Acct",
+      "credits": "4.00",
+      "description": "Prerequisite: ACC 120 This course is a continuation of accounting principles. Emphasis is placed on managerial accounting concepts for external and internal analysis, reporting and decision-making. Upon completion, students should be able to analyze and interpret transactions relating to managerial concepts including product costing systems. This course has been approved to satisfy the Comprehensive Articulation Agreement pre-major and/or elective course requirement.",
+      "institution": "Central Carolina Community College"
+    },
+    {
+      "course_id": "ACC 122",
+      "course_title": "Principles of Financial Accounting II",
+      "credits": "3.00",
+      "description": "Prerequisite: ACC 120 This course provides additional instruction in the financial accounting concepts and procedures introduced in ACC 120. Emphasis is placed on the analysis of specific balance sheet accounts, with in-depth instruction of the accounting principles applied to these accounts. Upon completion, students should be able to analyze data, prepare journal entries, and prepare reports in compliance with generally accepted accounting principles.",
+      "institution": "Central Carolina Community College"
+    },
+    {
+      "course_id": "ACC 129",
+      "course_title": "Individual Income Taxes",
+      "credits": "3.00",
+      "description": "This course introduces the relevant laws governing individual income taxation. Topics include tax law, electronic research and methodologies, and the use of technology for preparation of individual tax returns. Upon completion, students should be able to analyze basic tax scenarios, research applicable tax law, and complete various individual tax forms.",
+      "institution": "Central Carolina Community College"
+    }
+  ],
+  "timestamp": "2025-08-10T06:26:57.195213"
+}

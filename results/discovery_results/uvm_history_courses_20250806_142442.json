@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "University of Vermont",
+    "keyword": "history",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=University+of+Vermont&desc=history&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "POLS 168",
+      "course_title": "Middle East Politics",
+      "credits": "3.00",
+      "description": "State formation in the Middle East and problems it has occasioned. Review of modern history and examination of contemporary politics of several countries. Prerequisite: 71 Credits: 3.",
+      "institution": "University of Vermont"
+    },
+    {
+      "course_id": "REL 027",
+      "course_title": "Integr Humanities",
+      "credits": "3.00",
+      "description": "Study of religious and philosophical thought in Western culture from Hebraic and Greek antiquity to present. Prerequisites: Concurrent enrollment in Integrated Humanities Program, English 27, 28 and History 27, 28. Credits: 3.",
+      "institution": "University of Vermont"
+    },
+    {
+      "course_id": "REL 028",
+      "course_title": "Integrated Humanities",
+      "credits": "3.00",
+      "description": "Study of religious and philosophical thought in Western culture from Hebraic and Greek antiquity to present. Prerequisites: Concurrent enrollment in Integrated Humanities Program, English 27, 28 and History 27, 28. Credits: 3.",
+      "institution": "University of Vermont"
+    },
+    {
+      "course_id": "HST 014",
+      "course_title": "Ideas in the Western Tradition",
+      "credits": "3.00",
+      "description": "Great books of Western civilization in their historical setting. Renaissance to Existentialism. Credit will not be given for History 14 and History 25 or 26. Prerequisites: Concurrent enrollment in English 27, 28; Religion 27, 28; Integrated Humanities Program. Credits: 3.",
+      "institution": "University of Vermont"
+    },
+    {
+      "course_id": "HST 183",
+      "course_title": "US Military History",
+      "credits": "3.00",
+      "description": "Development of the U.S. military establishment within the framework of U.S. history from the Colonial era to the present. Prerequisite: 10 or 11 or 12. Credits: 3",
+      "institution": "University of Vermont"
+    },
+    {
+      "course_id": "HST 040",
+      "course_title": "D2:African History to C-1870",
+      "credits": "3.00",
+      "description": "Introduction to the political, social and economic history of Africa, focusing on the major events and forces that shaped the continent before the colonial period. Credits: 3",
+      "institution": "University of Vermont"
+    },
+    {
+      "course_id": "PBIO 260",
+      "course_title": "Plant Population Biology",
+      "credits": "3.00",
+      "description": "Study of how environmental and life-history characteristics of plants determine the dynamics and evolution of populations. Prerequisites: Biology 102 or PBIO 160 or instructor permission. Credits: 3",
+      "institution": "University of Vermont"
+    },
+    {
+      "course_id": "HST 138",
+      "course_title": "History of Russia since 1917",
+      "credits": "3.00",
+      "description": "Soviet political and social history, 1917-1991, centering on the Stalin era and on efforts of post-Stalin regimes to deal with the Stalinist legacy. Prerequisite: 10, 26 or 137. Credits: 3",
+      "institution": "University of Vermont"
+    },
+    {
+      "course_id": "HST 114",
+      "course_title": "East European Nationalism",
+      "credits": "3.00",
+      "description": "Politics and culture of nationalisms in East-Central and Southeastern Europe since 1772, focusing on the Czech, Hungarian, Polish and Serb nations. Pre/co-requisites: HST 16 or 6 hrs history. Credits: 3",
+      "institution": "University of Vermont"
+    },
+    {
+      "course_id": "FTS 008",
+      "course_title": "Dev Motion Pct II:1930-1960",
+      "credits": "3.00",
+      "description": "Introduction to basic film history, theory, and analytical skills. An historical overview of international cinema from the onset of sound to 1960. Credits: 3",
+      "institution": "University of Vermont"
+    }
+  ],
+  "timestamp": "2025-08-06T14:24:42.449717"
+}

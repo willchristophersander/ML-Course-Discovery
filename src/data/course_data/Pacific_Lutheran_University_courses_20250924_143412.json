@@ -1,0 +1,67 @@
+{
+  "search_query": {
+    "institution": "Pacific Lutheran University",
+    "successful_variation": "Pacific Lutheran University",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Pacific+Lutheran+University&distance=5"
+  },
+  "total_results": 8,
+  "courses": [
+    {
+      "course_id": "ANTH 101",
+      "course_title": "Introduction to Human Biological Diversity-SM",
+      "credits": "3.00",
+      "description": "Introduction to biological anthropology with a special focus on human evolution, the fossil evidence for human development, the role of culture in human evolution, and a comparison with the development and social life of the nonhuman primates. (4)",
+      "institution": "Pacific Lutheran University"
+    },
+    {
+      "course_id": "ANTH 102",
+      "course_title": "Introduction to Human Cultural Diversity-C,S1",
+      "credits": "3.00",
+      "description": "Introduction to social-cultural anthropology, concentrating on the exploration of the infinite variety of human endeavors in all aspects of culture and all types of societies; religion, politics, law, kinship and art. (4)",
+      "institution": "Pacific Lutheran University"
+    },
+    {
+      "course_id": "ANTH 103",
+      "course_title": "Introduction to Archaeology and World Prehistory-S1",
+      "credits": "3.00",
+      "description": "Introduction to the ideas and practice of archaeology used to examine the sweep of human prehistory from the earliest stone tools to the development of agriculture and metallurgy and to enrich our understanding of extinct societies. (4)",
+      "institution": "Pacific Lutheran University"
+    },
+    {
+      "course_id": "ANTH 104",
+      "course_title": "Introduction to Language in Society-S1",
+      "credits": "3.00",
+      "description": "Introduction to anthropological linguistics and symbolism, including the origin of language; sound systems, structure and meaning; language acquisition; the social context of speaking; language change; nonverbal communication; and sex differences in language use. (4)",
+      "institution": "Pacific Lutheran University"
+    },
+    {
+      "course_id": "ANTH 192",
+      "course_title": "Practicing Anthropology:Makah Culture Past and Present-A,S1",
+      "credits": "3.00",
+      "description": "Study of Makah culture through archaeology and history and by interacting with the Makah. Active and service learning in Neah Bay, visiting the Makah Nation. Prerequisite: Consent of instructor. (4)",
+      "institution": "Pacific Lutheran University"
+    },
+    {
+      "course_id": "ANTH 210",
+      "course_title": "Global Perspectives:The World in Change-C,S1",
+      "credits": "3.00",
+      "description": "A survey of global issues: modernization and development; economic change and international trade; diminishing resources; war and revolution; peace and justice; and cultural diversity. (Although this course is cross-listed with POLS 210 and HIST 210, students receive anthropology credit only when this course has a faculty member from anthropology.) (4)",
+      "institution": "Pacific Lutheran University"
+    },
+    {
+      "course_id": "ANTH 220",
+      "course_title": "Peoples of the World-S1",
+      "credits": "3.00",
+      "description": "Exploration of the world's cultures through anthropological films, novels, and eyewitness accounts. Case studies chosen from Africa, Native America, Asia, the Pacific, and Euro- America provide an insider's view of ways of life different from our own. (2)",
+      "institution": "Pacific Lutheran University"
+    },
+    {
+      "course_id": "ANTH 225",
+      "course_title": "Past Cultures of Washington State-S1",
+      "credits": "3.00",
+      "description": "Native Americans have lived in Washington State for at least the last 12,000 years. Cultures of the people in coastal and interior Washington beginning with the first northwesterners. An examination of the ways that cultures change through time until the emergence of the distinctive cultures observed by the earliest European visitors to the area. (2)",
+      "institution": "Pacific Lutheran University"
+    }
+  ],
+  "timestamp": "2025-09-24T14:34:12.621257"
+}

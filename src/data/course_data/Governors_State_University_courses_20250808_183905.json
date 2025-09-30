@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Governors State University",
+    "successful_variation": "Governors State University",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Governors+State+University&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACCT 301",
+      "course_title": "Financial Accounting",
+      "credits": "3.00",
+      "description": "Emphasizes the beginning accounting cycle. Integrates accounting principles and their applications to business objectives, financial statement preparation, flow of funds, current assets, noncurrent assets, short-term liabilities, stockholders equities, inventory methods and evaluation, depreciation methods, and development of accounting principles.",
+      "institution": "Governors State University"
+    },
+    {
+      "course_id": "ACCT 302",
+      "course_title": "Managerial Accounting",
+      "credits": "3.00",
+      "description": "Focuses on analysis of managerial accounting information needed for planning and control. Investigates the manner in which accounting can provide this information. Emphasizes accounting as a management information tool. Prerequisite: ACCT301.",
+      "institution": "Governors State University"
+    },
+    {
+      "course_id": "ACCT 331",
+      "course_title": "Cost Accounting I",
+      "credits": "3.00",
+      "description": "Includes exposure to a broad range of cost accounting concepts and their terminology. Topics include how to identify, measure, and accumulate direct and indirect costs, how to apply burden, introduction to job costing systems, budgeting, cost-volume-profit relationships, and relevant costing. Prerequisite: ACCT302 or equivalent.",
+      "institution": "Governors State University"
+    },
+    {
+      "course_id": "ACCT 332",
+      "course_title": "Cost Accounting II",
+      "credits": "3.00",
+      "description": "An advanced study of cost accounting and decision-making concepts, objectives, and terminology essential to the cost accountant's role in business. Topics include accounting for spoilage and waste, joint products and by-product costing, process costing, decision modeling, capital budgeting, operations management, non-manufacturing costing, applications of operations research methods, probabilities, transfer pricing, variances, and regression analysis. Prerequisite: ACCT331.",
+      "institution": "Governors State University"
+    },
+    {
+      "course_id": "ACCT 351",
+      "course_title": "Intermediate Accounting I",
+      "credits": "3.00",
+      "description": "Focuses on the study of problems in financial accounting measurement, including an introduction to theory, presentvalue concepts and applications, current assets, including cash, receivable, and inventory valuation problems. Prerequisite: ACCT301.",
+      "institution": "Governors State University"
+    },
+    {
+      "course_id": "ACCT 352",
+      "course_title": "Intermediate Accounting II",
+      "credits": "3.00",
+      "description": "Continuation of ACCT351. Focuses on the study of problems in financial accounting measurement, including plant and equipment, depreciation, intangible assets, current and long-term liabilities, and stockholder's equity, including earnings per share and investments. Prerequisite: ACCT351.",
+      "institution": "Governors State University"
+    },
+    {
+      "course_id": "ACCT 353",
+      "course_title": "Intermediate Accounting III",
+      "credits": "3.00",
+      "description": "Focuses on topics in financial accounting measurement, including reporting of income taxes, accounting changes and correction of errors, revenue measurement, leases, pensions, cash flow, financial statement analysis, interim financial reports, and reporting for segments of a business enterprise. Prerequisites: ACCT351 and ACCT352.",
+      "institution": "Governors State University"
+    },
+    {
+      "course_id": "ACCT 410",
+      "course_title": "Advanced Accounting",
+      "credits": "3.00",
+      "description": "Application of accounting practice for an understanding of the complexities comprising business and finance. Examines corporate combinations and the special applications of measurement and realization principles in such matters as consolidations, conglomerates, pooling of interests, and international operations. Prerequisite: ACCT353.",
+      "institution": "Governors State University"
+    },
+    {
+      "course_id": "ACCT 424",
+      "course_title": "Taxation of Individuals I",
+      "credits": "3.00",
+      "description": "Covers the study of individuals' federal income taxation with an emphasis on the following topics: income, exclusions from income, deductions, exemptions, credits, property transactions, and depreciation. Explores the tax structure and its role, both as a source of revenue and as a device to control the economy. Emphasizes Form 1040 tax return preparation using tax preparation software including common schedules and worksheets. Prerequisite: ACCT 301 or equivalent.",
+      "institution": "Governors State University"
+    },
+    {
+      "course_id": "ACCT 425",
+      "course_title": "Taxation of Individuals II",
+      "credits": "3.00",
+      "description": "Covers advanced topics in the federal income taxation of individuals with an emphasis on Form 1040 tax preparation using tax preparation software. Explores federal gift and estate taxation and the federal income taxation of fiduciaries. Introduces computerized tax research using a state of the art online tax research database. Prerequisite: ACCT424 or its equivalent.",
+      "institution": "Governors State University"
+    }
+  ],
+  "timestamp": "2025-08-08T18:39:05.619385"
+}

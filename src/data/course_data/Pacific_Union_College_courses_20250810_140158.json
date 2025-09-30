@@ -1,0 +1,74 @@
+{
+  "search_query": {
+    "institution": "Pacific Union College",
+    "successful_variation": "Pacific Union College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Pacific+Union+College&distance=5"
+  },
+  "total_results": 9,
+  "courses": [
+    {
+      "course_id": "ACCT 114",
+      "course_title": "Small Business Accounting",
+      "credits": "3.00",
+      "description": "The accounting procedures and practices necessary for efficient and effective small business operation. Not applicable toward a baccalaureate major in the department. Credit may not be earned in both ACCT 114 and ACCT 391.",
+      "institution": "Pacific Union College"
+    },
+    {
+      "course_id": "ACCT 121",
+      "course_title": "Principles of Accounting I",
+      "credits": "3.00",
+      "description": "Accounting practices and procedures needed in various types of ownership entities for financial reporting. No prior accounting knowledge necessary.",
+      "institution": "Pacific Union College"
+    },
+    {
+      "course_id": "ACCT 122",
+      "course_title": "Principles of Accounting II",
+      "credits": "4.00",
+      "description": "A continuation of ACCT 121 with particular emphasis on the partnership and the corporate form of organization; income statement and balance sheet analysis. Three lectures and one laboratory per week. Prerequisite: ACCT 121.",
+      "institution": "Pacific Union College"
+    },
+    {
+      "course_id": "ACCT 123",
+      "course_title": "Principles of Accounting III",
+      "credits": "3.00",
+      "description": "Use of accounting data for managerial planning, control, and decision-making. Particular emphasis on entities which produce a product. Prerequisite: ACCT 121.",
+      "institution": "Pacific Union College"
+    },
+    {
+      "course_id": "ACCT 307",
+      "course_title": "Government and Nonprofit Accounting",
+      "credits": "3.00",
+      "description": "Accounting principles and practices unique to state and local units, educational, health care, charity, religious, and other not-for-profit organizations. Financial reporting and record keeping. Prerequisite: ACCT 121, 122. Even years.",
+      "institution": "Pacific Union College"
+    },
+    {
+      "course_id": "ACCT 321",
+      "course_title": "Cost Accounting I",
+      "credits": "3.00",
+      "description": "Analysis of accounting cost data for management planning, control, and decision- making. Cost behavior concepts, variable and relevant costing, inventory planning and control, budgeting, performance measurement and evaluation, transfer pricing, capital budgeting, and quality control. Prerequisites: ACCT 121, 122, 123; STAT 222.",
+      "institution": "Pacific Union College"
+    },
+    {
+      "course_id": "ACCT 322",
+      "course_title": "Cost Accounting II",
+      "credits": "3.00",
+      "description": "Theories and practices of cost accumulation and analysis for management planning and control. Job order and process costing, activity-based cost systems, indirect-cost allocation, standard costs, variance analysis, direct vs. full costing, joint and by-product, and quality issues. Prerequisite: ACCT 121, 122, 123.",
+      "institution": "Pacific Union College"
+    },
+    {
+      "course_id": "ACCT 341",
+      "course_title": "Taxation for Individuals",
+      "credits": "4.00",
+      "description": "Federal income taxation and tax planning for individuals. Designed for nonmajors as well as for business majors and minors.",
+      "institution": "Pacific Union College"
+    },
+    {
+      "course_id": "ACCT 343",
+      "course_title": "Taxation for Corporations and Partnerships",
+      "credits": "4.00",
+      "description": "Federal taxation and tax planning in relationship to corporations and partnerships. Even years.",
+      "institution": "Pacific Union College"
+    }
+  ],
+  "timestamp": "2025-08-10T14:01:58.156634"
+}

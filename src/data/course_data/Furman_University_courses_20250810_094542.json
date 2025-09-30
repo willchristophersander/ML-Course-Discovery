@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Furman University",
+    "successful_variation": "Furman University",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Furman+University&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACC 111",
+      "course_title": "Principles of Financial Accounting",
+      "credits": "4.00",
+      "description": "Theory and practice of accounting as applied to the corporate form of business organization. Analysis of business transactions, valuation of assets and liabilities, determination of income, and preparation and interpretation of financial statements. 4 credits.",
+      "institution": "Furman University"
+    },
+    {
+      "course_id": "ACC 301",
+      "course_title": "Principles of Managerial Accounting",
+      "credits": "3.00",
+      "description": "Prerequisite: ACC-111 The use of accounting information by management in planning, control and decision-making in business enterprises. Topics include production decisions, activitybased costing, budgeting and standards, and capital investment decisions. Not available to accounting majors. 4 credits.",
+      "institution": "Furman University"
+    },
+    {
+      "course_id": "ACC 311",
+      "course_title": "Intermediate Financial Accounting I",
+      "credits": "3.00",
+      "description": "Prerequisite: ACC-111 In-depth study of financial accounting standards, the accounting process, and problems related to presenting income statements and balance sheets for business enterprises. Consideration of working capital accounts, non-current assets, non-current liabilities, and related income statement accounts. 4 credits.",
+      "institution": "Furman University"
+    },
+    {
+      "course_id": "ACC 312",
+      "course_title": "Intermediate Financial Accounting II",
+      "credits": "3.00",
+      "description": "Prerequisite: ACC-311 In-depth study of financial accounting standards and problems related to presenting an enterprise's balance sheet, income statement and statement of cash flows. Topics include investments, stockholders' equity, dilutive securities, tax allocation, pensions, leases and revenue recognition. 4 credits.",
+      "institution": "Furman University"
+    },
+    {
+      "course_id": "ACC 320",
+      "course_title": "Cost Accounting",
+      "credits": "3.00",
+      "description": "Prerequisite: ACC-311 Collection and utilization of cost data by management for short-term planning and control purposes. Topics include cost-volume-profit relationships, product-costing methods, flexible budgets, standard cost variances and cost allocations. 4 credits.",
+      "institution": "Furman University"
+    },
+    {
+      "course_id": "ACC 330",
+      "course_title": "Auditing",
+      "credits": "3.00",
+      "description": "Prerequisite: ACC-312 Theory integrated with procedures for gathering evidential matter to provide a basis for the auditor's report on the financial statements of business enterprises. Review of standards, ethics, planning, internal control, procedures and reports. 4 credits.",
+      "institution": "Furman University"
+    },
+    {
+      "course_id": "ACC 340",
+      "course_title": "Federal Income Taxation",
+      "credits": "3.00",
+      "description": "Prerequisite: ACC-111 Current federal income tax law pertaining to individuals, partnerships and corporations. Focus on compliance matters with supplementary study in tax planning and research fundamentals. 4 credits.",
+      "institution": "Furman University"
+    },
+    {
+      "course_id": "ACC 350",
+      "course_title": "Accounting Information Systems",
+      "credits": "3.00",
+      "description": "Prerequisite: ACC-312 Examination and analysis accounting systems utilizing transaction processing cycles and accounting-based information technology (IT) including e-commerce, electronic data processing, and continuous auditing. The design, development, implementation, and auditing of accounting-based information systems. 4 credits.",
+      "institution": "Furman University"
+    },
+    {
+      "course_id": "ACC 360",
+      "course_title": "International Accounting",
+      "credits": "3.00",
+      "description": "Prerequisite: ACC-312 Focus on the accounting issues encountered by multinational companies engaged in international trade and invested in foreign operations. 4 credits.",
+      "institution": "Furman University"
+    },
+    {
+      "course_id": "ACC 450",
+      "course_title": "Advanced Topics in Accounting",
+      "credits": "3.00",
+      "description": "Prerequisite: ACC-312 Selected topics in the field of accounting not covered in other courses. 4 credits.",
+      "institution": "Furman University"
+    }
+  ],
+  "timestamp": "2025-08-10T09:45:42.505532"
+}

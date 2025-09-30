@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Canada College",
+    "successful_variation": "Canada College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Canada+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACTG 100",
+      "course_title": "Accounting Procedures",
+      "credits": "3.00",
+      "description": "Units (Grade Option) 3; Class Hours: Minimum of 48 lecture hours/ semester; Recommended: Eligibility for READ 836, ENGL 836 or ESL 400, and MATH 110 or 111; Prerequisite(s): None. Description: Introduction to basic accounting principles and procedures. The accounting equation is utilized to record business transactions in journal form to create worksheets, trial balances, income statements, and balance sheets. Successful completion of BUS. 110 or 115 is recommended. Transfer: CSU.",
+      "institution": "Canada College"
+    },
+    {
+      "course_id": "ACTG 121",
+      "course_title": "Financial Accounting",
+      "credits": "3.00",
+      "description": "Units 4; Class Hours: Minimum of 64 lecture hours/semester; Recommended: Eligibility for READ 836, ENGL 836 or ESL 400, and MATH 110 or 111; Prerequisite(s): None. Description: Introduction to the fundamentals of basic accounting including how to record business transactions, prepare financial statements, and use accounting information in accordance with generally accepted accounting standards. The course includes both theoretical and practical problem-solving learning experiences to help the student develop analytical abilities in using financial data. Recommended for all business major transfer students. Transfer: CSU, UC.",
+      "institution": "Canada College"
+    },
+    {
+      "course_id": "ACTG 131",
+      "course_title": "Managerial Accounting",
+      "credits": "3.00",
+      "description": "Units 4; Class Hours: Minimum of 64 lecture hours/semester; Recommended: Eligibility for READ 836, and ENGL 836 or ESL 400; Prerequisite(s): ACTG 121. Description: Prepare financial information used in the planning, organizing, directing, controlling, and decisionmaking process. The course includes managerial accounting concepts, systems for manufacturing business, cost behavior and cost estimating, budgeting, break-even analysis, financial statement analysis, and discussion of ethical issues related to Business. Recommended for all business major transfer students. Transfer: CSU, UC.",
+      "institution": "Canada College"
+    },
+    {
+      "course_id": "ACTG 133",
+      "course_title": "Introduction to Spreadsheets For Managerial Accounting",
+      "credits": "3.00",
+      "description": "Units (Grade Option) 1; Class Hours: Minimum of 16 lecture/16 lab hours/semester; Recommended: Eligibility for READ 836, ENGL 836 or ESL 400, and MATH 120 or 122; Prerequisite(s): None. Description: The use of spreadsheets to solve complex managerial accounting problems. Problems include job and process cost accounting, contribution margin analysis as applied to product marketing decisions, cash budgets, capital investment decisions, and alternative choice decisions. Transfer: CSU.",
+      "institution": "Canada College"
+    },
+    {
+      "course_id": "ACTG 171",
+      "course_title": "Individual Income Tax Procedures",
+      "credits": "3.00",
+      "description": "Units (Grade Option) 3; Class Hours: Minimum of 48 lecture hours/ semester; Recommended: Eligibility for READ 836, and ENGL 836 or ESL 400; Prerequisite(s): None. Description: An introduction to the use of the internal revenue code including evaluating tax regulations and using other reference materials for preparing individual tax returns. Transfer: CSU.",
+      "institution": "Canada College"
+    },
+    {
+      "course_id": "ACTG 180",
+      "course_title": "Payroll And Business Taxes",
+      "credits": "3.00",
+      "description": "Units (Grade Option) 1.5; Class Hours: Minimum of 24 lecture hours/ semester; Recommended: Eligibility for READ 836, and ENGL 836 or ESL 400; Prerequisite(s): ACTG 100 or 121 (4 units) or equivalent. Description: Overview of payroll accounting procedures including state and federal laws and regulations. Also included is an evaluation of California sales tax regulations and requirements for declarations of real and personal property valuation.",
+      "institution": "Canada College"
+    },
+    {
+      "course_id": "ACTG 190",
+      "course_title": "Quickbooks And Quickbooks Pro For The Paraprofessional I",
+      "credits": "3.00",
+      "description": "Units 1.5; Class Hours: Minimum of 24 lecture/32 by arrangement lab hours/semester; Recommended: Eligibility for READ 836, and ENGL 836 or ESL 400; Prerequisite(s): ACTG 100 or 121 (4 units) or equivalent , and CBOT 430 or equivalent. Description: Development and operation of a computerized accounting system using QuickBooks or QuickBooks Pro including the basic features for a service company. Transfer: CSU.",
+      "institution": "Canada College"
+    },
+    {
+      "course_id": "ACTG 192",
+      "course_title": "Quickbooks And Quickbooks Pro For The Paraprofessional II",
+      "credits": "3.00",
+      "description": "Units 1.5; Class Hours: Minimum of 24 lecture/32 by arrangement lab hours/semester; Recommended: Eligibility for READ 836, and ENGL 836 or ESL 400; Prerequisite(s): ACTG 190. Description: Intermediate accounting procedures for the paraprofessionals using QuickBooks and QuickBooks Pro on the computer. Students develop skills in accounts receivable, payroll, accounts payable, and inventory control for a merchandising company. Transfer: CSU.",
+      "institution": "Canada College"
+    },
+    {
+      "course_id": "ACTG 194",
+      "course_title": "Quickbooks And Quickbooks Pro For The Small Business Person I",
+      "credits": "3.00",
+      "description": "Units (Grade Option) 1; Class Hours: Minimum of 16 lecture/16 by arrangement lab hours/semester; Recommended: Eligibility for READ 836, and ENGL 836 or ESL 400; Prerequisite(s): None. Description: Introduction to the financial accounting features of QuickBooks and QuickBooks Pro . Students learn how to develop an accounting system and gain experience processing information for businesses. Transfer: CSU.",
+      "institution": "Canada College"
+    },
+    {
+      "course_id": "ACTG 196",
+      "course_title": "Quickbooks And Quickbooks Pro For The Small Business Person II",
+      "credits": "3.00",
+      "description": "Units (Grade Option) 1; Class Hours: Minimum of 16 lecture/16 by arrangement lab hours/semester; Recommended: Eligibility for READ 836, ENGL 836 or ESL 400, and MATH 110 or 111; Prerequisite(s): ACTG 194. Description: Introduces students to the complex issues encountered when setting up a company and maintaining the system once the company is set up. More complex financial data input and report generation aspects of QuickBooks Pro are introduced to enhance students' overall knowledge of many problems encountered with the program. Transfer: CSU. Cou rse Desc riptio ns 97 *With limitations. Refer to pages 53-54 or see your counselor. Ca ada College 2008-2009",
+      "institution": "Canada College"
+    }
+  ],
+  "timestamp": "2025-08-10T14:21:46.482837"
+}

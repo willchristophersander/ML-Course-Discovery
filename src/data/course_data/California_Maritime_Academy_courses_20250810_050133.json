@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "California Maritime Academy",
+    "successful_variation": "California Maritime Academy",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=California+Maritime+Academy&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "BUS 100",
+      "course_title": "Accounting Principles I: Financial",
+      "credits": "3.00",
+      "description": "CLASS HOURS: 3, CREDIT: 3 Prerequisite: None The objective of this course is to provide the financial accounting principles within which a company functions. Topics include measuring income, establishing financial position, and reporting the results of the accounting cycle.",
+      "institution": "California Maritime Academy"
+    },
+    {
+      "course_id": "BUS 101",
+      "course_title": "Accounting Principles II: Managerial",
+      "credits": "3.00",
+      "description": "CLASS HOURS: 3, CREDIT: 3 Prerequisite: BUS 100 The focus of this course is on planning and controlling business operations. The course includes data analysis, budgets, product costing and pricing, and quantitative decision-making.",
+      "institution": "California Maritime Academy"
+    },
+    {
+      "course_id": "BUS 105",
+      "course_title": "Business Law",
+      "credits": "3.00",
+      "description": "CLASS HOURS: 3, CREDIT: 3 Prerequisite: None This course provides an introduction to our legal system and its background. Students learn how the legal system facilitates business operations and discourages or controls harmful business practices. Students will recognize that the law is an integral part of our social system, both in shaping and being shaped by the broader society. Covered specifically are law and the legal system, tort and criminal law, contracts, sales, agency, property and estates, commercial paper, business organizations, and government regulation of business, including bankruptcy.",
+      "institution": "California Maritime Academy"
+    },
+    {
+      "course_id": "BUS 110",
+      "course_title": "International Law",
+      "credits": "3.00",
+      "description": "CLASS HOURS: 3, CREDIT: 3 Prerequisite: None This survey course presents international law in a maritime context. Materials presented include the sources of international law; the nature of the state system; the legal aspects of land, air and water territories; the law of the sea; persons and ships as affected by international law; and the law of war at sea. Practical, useful, present-day knowledge is provided, as well as a discussion of the esoteric nature of international law.",
+      "institution": "California Maritime Academy"
+    },
+    {
+      "course_id": "BUS 115",
+      "course_title": "Environmental Law",
+      "credits": "3.00",
+      "description": "CLASS HOURS: 3, CREDIT: 3 Prerequisite: None This survey course presents environmental law in a marine context. The course reviews laws governing pollution, radioactive wastes, fisheries conservation, maritime occupational safety laws, and enforcement. Upon completion of the course, students will have current information concerning how environmental laws and regulations affect the mariner.",
+      "institution": "California Maritime Academy"
+    },
+    {
+      "course_id": "BUS 120",
+      "course_title": "The Environment of Modern Business",
+      "credits": "3.00",
+      "description": "CLASS HOURS: 3, CREDIT: 3 Prerequisite: None A survey course to introduce the student to the various components and issues relating to modern business. Topics to be covered include: management, human resources, marketing, financial management, and business ethical issues. The focus of the course will be the introduction to the student of the business faculty and the different aspects of business today. Business career opportunities will also be addressed during each segment of the course.",
+      "institution": "California Maritime Academy"
+    },
+    {
+      "course_id": "BUS 200",
+      "course_title": "Introduction to Marketing",
+      "credits": "3.00",
+      "description": "CLASS HOURS: 3, CREDIT: 3 Prerequisite: ECO 100 This course introduces the student to the marketing function in a business environment. The various marketing components of product, price, promotion, and place are examined in the con-text of the competitive business arena. Case studies and the analysis of marketing plans are discussed.",
+      "institution": "California Maritime Academy"
+    },
+    {
+      "course_id": "BUS 205",
+      "course_title": "Business Statistics",
+      "credits": "3.00",
+      "description": "CLASS HOURS: 3, CREDIT: 3 Prerequisite: MTH 205 This foundation course discusses statistical methods that management would find useful in solving common business problems. The course discusses such topics as decision-making in the face of uncertainty, probability and expectation, estimation, tests of hypothesis, regression analysis, and analysis of variance.",
+      "institution": "California Maritime Academy"
+    },
+    {
+      "course_id": "BUS 300",
+      "course_title": "International Business",
+      "credits": "3.00",
+      "description": "CLASS HOURS: 3, CREDIT: 3 Prerequisite: ECO 100 This course introduces the student to the effects of multi-national operations on business strategy and decision making by exploring the economic, political, financial, legal, and social nature of the international environment. The formulation, selection, and implementation of multi-national strategies are examined in the context of the global business environment.",
+      "institution": "California Maritime Academy"
+    },
+    {
+      "course_id": "BUS 301",
+      "course_title": "International Business II- Country Research Analysis And Globalmarketing",
+      "credits": "3.00",
+      "description": "CLASS HOURS: 3, CREDIT: 3 Prerequisites: BUS 120, BUS 200, BUS 300 The course follows on material introduced in BUS 200 and BUS 300, and examines major examples of country research analysis, including the reports of the U.S. Commercial Service and major international institutions and organizations that perform country research analysis or contribute standard statistical indicators. Such entities include the Organization for Economic Cooperation and Development (OECD), the International Bank for Reconstruction and Development (IBRD), the International Monetary Fund (IMF), and private sector entities. The course explicates the problems of conducting market research in or about foreign markets, including a contrast of primary versus secondary research methods, and the subsequent transformation of the research into marketing strategy.",
+      "institution": "California Maritime Academy"
+    }
+  ],
+  "timestamp": "2025-08-10T05:01:33.194285"
+}

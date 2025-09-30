@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Niagara County Community College",
+    "successful_variation": "Niagara County Community College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Niagara+County+Community+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "AAC 040",
+      "course_title": "Reading Foundations I",
+      "credits": "6.00",
+      "description": "This course is designed for students whose academic foundation in language and reading will be best strengthened through an intensive, one semester approach. Instruction focuses on improvement of reading, comprenehsion, vocabulary development, enhancement of listening and critical thinking abilities, and academic achievement strategies which promote college success. Credits apply only to the College's academic foundations requirements. (Occasionally offered.) Prerequisite: Appropriate for students who scored at or below a score of 39 on the ACT Compass Test.",
+      "institution": "Niagara County Community College"
+    },
+    {
+      "course_id": "AAC 041",
+      "course_title": "Reading Foundations II",
+      "credits": "3.00",
+      "description": "This course is designed for students in need of strengthening fundamental reading abilities. Instruction focuses on vocabulary development and improvement of reading comprehension\u00bfmoving from complicated sentences, to sophisticated paragraphs and passages of significant length. Credits apply only to the College's academic foundations requirement. (Usually offered Fall and Spring semesters.) Prerequisite: Appropriate for students who score 64 or below on the College\u00bfs Placement Test, COMPASS.",
+      "institution": "Niagara County Community College"
+    },
+    {
+      "course_id": "AAC 042",
+      "course_title": "Reading Foundations III",
+      "credits": "3.00",
+      "description": "This course is designed for students whose academic foundation in the areas of reading and study is in need of strengthening. Course content focuses on presentation of techniques which improve study and reading abilities crucial to academic success. Instruction includes approaches for improved comprehension of textual information, and study strategies which enhance learning and memory. Credits apply only to the College\u00bfs academic foundations requirement. (Usually offered Fall, Spring, and Summer semesters.) Prerequisite: AAC 041 if required. Most appropriate for students who score between 65 and 74 on the College\u00bfs Placement Test, COMPASS.",
+      "institution": "Niagara County Community College"
+    },
+    {
+      "course_id": "AAC 104",
+      "course_title": "College Reading",
+      "credits": "3.00",
+      "description": "This course focuses on reading and interpreting textbooks, articles, essays, and fiction. Students are taught how to recognize and analyze the modes of discourse, which are narration, description, exposition and persuasion. Critical reading and thinking (including topics such as evaluating sources, recognizing author\u00bfs purpose, tone, and bias) are emphasized. Does not fulfill Humanities requirement, but is considered a general elective. (Usually offered Fall and Spring semesters.) Prerequisite: AAC 041 and AAC 042 if required. Also appropriate, and strongly recommended, for students who score 75-84 on the College Placement Test, COMPASS.",
+      "institution": "Niagara County Community College"
+    },
+    {
+      "course_id": "AAC 108",
+      "course_title": "College Study Strategies",
+      "credits": "3.00",
+      "description": "The course is designed to develop learning and study strategies that contribute to college and workplace success. The course is intended for students who have adequate or superior reading skills who wish to develop more efficient and effective study and critical thinking strategies. Students will be recommended for this course by advisors and faculty from various academic disciplines. Learning strategies include techniques for notetaking, annotation and study of textual material, synthesizing course content, preparing for and taking exams. Critical thinking abilities include analytical problem solving and decision making, and recognizing patterns of academic thought. Does not fulfill Humanities requirement, but is considered a general elective. (Usually offered Fall and Spring semesters.) Prerequisite: AAC 042 if required, a score at or above 85 on the College\u00bfs Placement Test, COMPASS.",
+      "institution": "Niagara County Community College"
+    },
+    {
+      "course_id": "AAC 109",
+      "course_title": "Speed and Efficiency in Rdg",
+      "credits": "3.00",
+      "description": "This course develops reading ability through instructional emphasis on comprehension and rate improvement, skimming and scanning techniques, and adjustment of reading rate according to purpose and difficulty. Does not fulfill Humanities requirement, but is considered a general elective. (Usually offered Fall and Spring semesters.) Prerequisite: AAC 042 if required, a score at or above 85 on the College\u00bfs Placement Test, COMPASS.",
+      "institution": "Niagara County Community College"
+    },
+    {
+      "course_id": "AAC 999",
+      "course_title": "Academic Foundation Elective",
+      "credits": "3.00",
+      "description": "No course description available.",
+      "institution": "Niagara County Community College"
+    },
+    {
+      "course_id": "ACC 116",
+      "course_title": "Accounting Principles I",
+      "credits": "3.00",
+      "description": "A survey course in accounting for the service and merchandising operations of sole proprietors. Procedural approach is used to a limited extent to explain how accounting information is developed for management. (Usually offered Fall and Spring semesters.) Prerequisites: Passing score on College Placement Test for Mathematics or MAT 004.",
+      "institution": "Niagara County Community College"
+    },
+    {
+      "course_id": "ACC 117",
+      "course_title": "Accounting Principles II",
+      "credits": "3.00",
+      "description": "A continuation of ACC 116. The uses of accounting information by business managers outside the accounting department are studied. There is an analysis of information provided by the income statement and balance sheet. Cost methods, budgeting, cost behavior analysis, corporate reporting, bonds payable, and the statement of cash flows are also covered. (Usually offered Fall and Spring semesters.) Prerequisite: ACC 116",
+      "institution": "Niagara County Community College"
+    },
+    {
+      "course_id": "ACC 203",
+      "course_title": "Intermed Acc I",
+      "credits": "3.00",
+      "description": "A detailed study of the income statement and balance sheet. Topics covered include current assets, current liabilities, inventory valuation, the time value of money, fixed and intangible assets. (Usually offered Fall semester. Evening offerings are the Fall of odd numbered years.) Prerequisite: ACC 117",
+      "institution": "Niagara County Community College"
+    }
+  ],
+  "timestamp": "2025-08-10T06:11:00.550623"
+}

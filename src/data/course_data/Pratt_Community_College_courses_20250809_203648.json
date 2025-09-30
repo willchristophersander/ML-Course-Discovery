@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Pratt Community College",
+    "successful_variation": "Pratt Community College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Pratt+Community+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACC 111",
+      "course_title": "Intro To Accounting",
+      "credits": "3.00",
+      "description": "Introduction to Accounting is designed to meet the needs of students with no previous accounting background. The student will develop a basic knowledge of accounting terminology, concepts, and procedures to be proficient in basic accounting fundamentals. Prerequisite: None",
+      "institution": "Pratt Community College"
+    },
+    {
+      "course_id": "ACC 177",
+      "course_title": "Accounting I",
+      "credits": "3.00",
+      "description": "Accounting I is the first in a six-hour sequence, ACC177 and ACC178, required for accounting and business majors. It is a study of accounting as a means of communicating financial information about the activities of a business enterprise. The student will be able to understand and prepare financial statements for business organizations. Students with no previous accounting background should enroll in Introduction to Accounting. Prerequisite: high school accounting, ACC 111, Introduction to Accounting with a grade \"C\" or better, or permission of instructor.",
+      "institution": "Pratt Community College"
+    },
+    {
+      "course_id": "ACC 178",
+      "course_title": "Accounting II",
+      "credits": "3.00",
+      "description": "Accounting II is a continuation of Accounting I. It will include the study of partnerships, corporations, the cash flow statement, financial statement analysis, responsibility accounting, manufacturing operations, and budgeting and the decision-making tools necessary for businesses today. Prerequisite: ACC 177 Accounting I with grade \"C\" or better.",
+      "institution": "Pratt Community College"
+    },
+    {
+      "course_id": "ACC 231",
+      "course_title": "Computerized Accounting",
+      "credits": "3.00",
+      "description": "This course is designed for accounting and/or business majors and will provide them with the knowledge and skills needed to work in computerized accounting environments. The student will be able to use a computerized general ledger, accounts receivable, accounts payable, fixed assets, payroll, financial statement analysis, and inventory system. Prerequisite: ACC177 with grade C or better.",
+      "institution": "Pratt Community College"
+    },
+    {
+      "course_id": "ACC 232",
+      "course_title": "Managerial Accounting",
+      "credits": "3.00",
+      "description": "Managerial accounting relates to the internal operations of a company. The student will study the tools that are needed for making management decisions, planning, and controlling the activities of a firm. The student will develop an understanding of management accounting, cost accounting terms and applications, the budgetary control functions of an organization, and decision support analysis. Prerequisite: ACC 178 with grade C or better",
+      "institution": "Pratt Community College"
+    },
+    {
+      "course_id": "AGR 017",
+      "course_title": "Horticulture",
+      "credits": "3.00",
+      "description": "Introduction to the basic concept and practices of horticulture. Emphasis is on the establishment, management and use of horticulture plants in the garden and home. Students will have hands-on experience while learning about seedlings, cuttings, potting and planting.",
+      "institution": "Pratt Community College"
+    },
+    {
+      "course_id": "AGR 102",
+      "course_title": "Horse Care & Training",
+      "credits": "2.00",
+      "description": "This course is an introduction to all aspects of horsemanship for the beginner, including horse care, horse handling, and riding techniques.",
+      "institution": "Pratt Community College"
+    },
+    {
+      "course_id": "AGR 103",
+      "course_title": "Wild Game Processing",
+      "credits": "1.00",
+      "description": "This course includes structured hands-on activities in the areas of meat science and processing. The student will be working with fresh carcasses and raw meat products harvested from wild game. Food handling safety practices will be strictly adhered to. Students are expected to work safely with sharp knives/equipment and perform physical lifting of over 40 pounds. Students are expected to adhere to common safety and sanitation practices. Animals legally harvested by the student can be processed in this course with instructor approval. This course counts as an activity course.",
+      "institution": "Pratt Community College"
+    },
+    {
+      "course_id": "AGR 115",
+      "course_title": "Horsemanship",
+      "credits": "2.00",
+      "description": "This course is designed for students who understand the fundamentals of horse care and feeding and have some proficiency in Western riding. Major topics for the course include horse anatomy and conformation, health care, training, and advanced riding techniques.",
+      "institution": "Pratt Community College"
+    },
+    {
+      "course_id": "AGR 116",
+      "course_title": "Beginning Horseshoeing",
+      "credits": "1.00",
+      "description": "This course deals with the theory and application of hoof care and hoof trimming.",
+      "institution": "Pratt Community College"
+    }
+  ],
+  "timestamp": "2025-08-09T20:36:48.569767"
+}

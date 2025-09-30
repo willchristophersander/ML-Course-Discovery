@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "University of Evansville",
+    "successful_variation": "University of Evansville",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=University+of+Evansville&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACCT 150",
+      "course_title": "Introductory Accounting Lab",
+      "credits": "1.00",
+      "description": "Computerized business simulation dealing with the procedural details of financial accounting. Covers analyzing and recording transactions through the preparation of financial statements presented in a corporate approach.",
+      "institution": "University of Evansville"
+    },
+    {
+      "course_id": "ACCT 210",
+      "course_title": "Principles of Accounting I",
+      "credits": "3.00",
+      "description": "Study of the internal and external uses and users of accounting information, including the roles of managers, owners, and creditors. Covers accounting issues involving income and cash flows.",
+      "institution": "University of Evansville"
+    },
+    {
+      "course_id": "ACCT 211",
+      "course_title": "Principles of Accounting II",
+      "credits": "3.00",
+      "description": "A continuation of Accounting 210 with additional emphasis on the measurement and interpretation of accounting information and its use in appraising past, controlling present, and planning future business operations. Includes accounting for manufacturing companies. Prerequisite: Accounting 210.",
+      "institution": "University of Evansville"
+    },
+    {
+      "course_id": "ACCT 310",
+      "course_title": "Intermediate Accounting I",
+      "credits": "3.00",
+      "description": "Stresses basic theory and alternative approaches to income determination and asset valuation. Includes study of basic financial statements, the accounting cycle, cash, receivables, inventory, property, plant and equipment, intangibles, and liabilities. Prerequisites: Accounting 150, 210. (Accounting 150 and 310 may be taken concurrently.) Fall.",
+      "institution": "University of Evansville"
+    },
+    {
+      "course_id": "ACCT 311",
+      "course_title": "Intermediate Accounting II",
+      "credits": "3.00",
+      "description": "Examines problems in accounting for stockholders' equity, investment, revenue recognition, income taxes, pensions, and leases. In-depth study of accounting changes and error analysis, statement of cash flows, financial statement analysis, disclosure requirements, and changing prices. Prerequisite: Accounting 310. Spring.",
+      "institution": "University of Evansville"
+    },
+    {
+      "course_id": "ACCT 317",
+      "course_title": "Cost Accounting",
+      "credits": "3.00",
+      "description": "Examines issues and procedures in product costing for financial statement purposes under both historical and standard costing. Includes budgeting, variance analysis, and other advanced topics. Prerequisite: Accounting 211. Fall.",
+      "institution": "University of Evansville"
+    },
+    {
+      "course_id": "ACCT 321",
+      "course_title": "Accounting Information Systems",
+      "credits": "3.00",
+      "description": "Focuses on the role of the system of data collection and processing in accounting-management reporting for business and industry. Includes design factors, internal controls, and implementation issues. Student gains knowledge of basic techniques in application of accounting computer software. Prerequisites: Accounting 150, 211. Credit not given for both Accounting 321 and Management 311. Spring.",
+      "institution": "University of Evansville"
+    },
+    {
+      "course_id": "ACCT 329",
+      "course_title": "Federal Income Tax I",
+      "credits": "3.00",
+      "description": "Studies current federal income tax law concepts of income and deductions for all entities. Prerequisite: Accounting 211. Fall.",
+      "institution": "University of Evansville"
+    },
+    {
+      "course_id": "ACCT 330",
+      "course_title": "Federal Income Tax II",
+      "credits": "3.00",
+      "description": "Studies other current federal income tax law concepts not included in Accounting 329 for all entities. Concepts relating to partnerships, corporations, trusts, and estates are also examined. Prerequisite: Accounting 329. Spring.",
+      "institution": "University of Evansville"
+    },
+    {
+      "course_id": "ACCT 380",
+      "course_title": "Special Topics in Accounting",
+      "credits": "3.00",
+      "description": "Covers topics not included in other courses, gives greater depth in certain areas, and explores current accounting topics. Topic varies each offering. Prerequisite: Accounting 211. Offered periodically.",
+      "institution": "University of Evansville"
+    }
+  ],
+  "timestamp": "2025-08-11T00:04:34.683806"
+}

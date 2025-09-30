@@ -1,0 +1,46 @@
+{
+  "search_query": {
+    "institution": "University of California, San Francisco",
+    "successful_variation": "University of California-San Francisco",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=University+of+California-San+Francisco&distance=5"
+  },
+  "total_results": 5,
+  "courses": [
+    {
+      "course_id": "ANATOMY 115",
+      "course_title": "Histology",
+      "credits": "3.00",
+      "description": "\u00a7 Wi. Lecture 2 hours. H. Ralston The lecture series begins with a description of the microscopic structure of the basic tissues found in the human body, and then goes on to cover the microscopic structure of most of the organs in the body. Functional aspects of the structures are stressed. Intended for students in the School of Pharmacy.",
+      "institution": "University of California, San Francisco"
+    },
+    {
+      "course_id": "ANATOMY 116",
+      "course_title": "Gross Anatomy",
+      "credits": "3.00",
+      "description": "\u00a7 Sp. Lecture 2 hours. Laboratory 3 hours. A. Donjacour A study of the macroscopic structure of the human body by means of lectures and dissections. Functional aspects of the structures are stressed. Intended for students in the School of Pharmacy.",
+      "institution": "University of California, San Francisco"
+    },
+    {
+      "course_id": "ANATOMY 198",
+      "course_title": "Supervised Study",
+      "credits": "5.00",
+      "description": "\u00a7 Su, Fa, Wi, Sp, SS1, SS2, SS3. Staff Library research and directed reading under supervision of a member of the faculty with the approval of the chairperson of the department.",
+      "institution": "University of California, San Francisco"
+    },
+    {
+      "course_id": "ANATOMY 207",
+      "course_title": "Neuroscience",
+      "credits": "5.00",
+      "description": "\u00a7 Su, SS1, SS2, SS3. Prerequisites: Basic Human Anatomy and Physiology or consent of instructor. Lecture 4 hours. Laboratory 3 hours. S. Rosi The structural organization and function of the physiology of the central nervous system with an emphasis on the physiology of striated muscle and peripheral nerve relative to control mechanisms within the nervous system is presented. Emphasis is on clinical functional correlations of motor control.",
+      "institution": "University of California, San Francisco"
+    },
+    {
+      "course_id": "ANATOMY 250",
+      "course_title": "Research",
+      "credits": "8.00",
+      "description": "\u00a7 Fa, Wi, Sp, SS1, SS2, SS3. Laboratory 3-24 hours. Staff",
+      "institution": "University of California, San Francisco"
+    }
+  ],
+  "timestamp": "2025-08-10T14:33:08.362179"
+}

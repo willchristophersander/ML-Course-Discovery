@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Community College of Aurora",
+    "successful_variation": "Community College of Aurora",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Community+College+of+Aurora&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "AAA 090",
+      "course_title": "Academic Achievement Strategies",
+      "credits": "3.00",
+      "description": "3 Credit hours 45 Contact hours Develops personalized approaches to learn and succeed for easier transition to college. Topics include goal-setting, time management, textbook reading strategies, note-taking, test-taking, listening techniques, concentration and memory devices, and critical thinking for student success. Prerequisite: Asessment Sentence Skills and Reading Skills score of 25+ or ACT English score of 15+ and ACT Reading score of 14+. Course Note: Does apply to CCA degrees or certificates.",
+      "institution": "Community College of Aurora"
+    },
+    {
+      "course_id": "AAA 101",
+      "course_title": "The Student Experience",
+      "credits": "1.00",
+      "description": "1 Credit hour 15 Contact hours Introduces students to college culture and prepares them for the challenges they will face in higher education. Through a series of interactive seminars, students discover learning in a multicultural environment and use college and community resources to attain education and career goals.",
+      "institution": "Community College of Aurora"
+    },
+    {
+      "course_id": "AAA 109",
+      "course_title": "Advanced Academic Achievement",
+      "credits": "3.00",
+      "description": "3 Credit hours 45 Contact hours Examines theories and practices associated with successful learning to enhance college success. Areas of study include education and career planning, effective communication, personal management, critical and creative thinking, development of community and awareness of diversity, leadership, and techniques for successful academic performance. Recommended for new and returning students.",
+      "institution": "Community College of Aurora"
+    },
+    {
+      "course_id": "ACC 101",
+      "course_title": "Fundamentals of Accounting",
+      "credits": "3.00",
+      "description": "3 Credit hours 45 Contact hours Presents the basic elements and concepts of accounting, with emphasis on the procedures used for maintaining journals, ledgers, and other related records, and for completion of end-ofperiod reports for small service and merchandising business. Prerequisite: Successful completion of REA 060 (grade C or higher) or equivalent assessment scores.",
+      "institution": "Community College of Aurora"
+    },
+    {
+      "course_id": "ACC 115",
+      "course_title": "Payroll Accounting",
+      "credits": "3.00",
+      "description": "3 Credit hours 45 Contact hours Studies federal and state employment laws and their effects on personnel and payroll records. The course is non-technical and is intended to give students a practical working knowledge of the current tax laws and actual experience in applying regulations. Students will be exposed to computerized payroll procedures Prerequisite: Successful completion of ACC 101 or 121 (grade C or higher). Course Note: Also available as an online course",
+      "institution": "Community College of Aurora"
+    },
+    {
+      "course_id": "ACC 121",
+      "course_title": "Accounting Principles I",
+      "credits": "4.00",
+      "description": "4 Credit hours 60 Contact hours Introduces the study of accounting principles for understanding the theory and logic that underlie procedures and practices. Major topics include the accounting cycle for service and merchandising companies, special journals, subsidiary ledgers, internal control principles and practices, notes and interest, inventory systems, costing, plant assets, intangible asset accounting, depreciation methods, and practices. Prerequisite: Successful completion of REA 060 (grade C or higher) or equivalent assessment scores (RC: 62+, ACT Reading 16+) Course Note: Also available online.",
+      "institution": "Community College of Aurora"
+    },
+    {
+      "course_id": "ACC 122",
+      "course_title": "Accounting Principles II",
+      "credits": "4.00",
+      "description": "4 Credit hours 60 Contact hours Continues the study of accounting principles as they apply to partnerships and corporations. Major topics include stocks and bonds; investments; cash flow statements; financial analysis; budgeting; and cost and managerial accounting. Prerequisite: Successful completion of ACC 121 or equivalent (grade C or higher) Course Note: Also available as an online course.",
+      "institution": "Community College of Aurora"
+    },
+    {
+      "course_id": "ACC 125",
+      "course_title": "Computerized Accounting",
+      "credits": "3.00",
+      "description": "3 Credit hours 45 Contact hours Introduces the capabilities of computer applications in accounting. Includes solving accounting problems of a financial nature and hardware and software controls. Prerequisite: Successful completion of ACC 101 or ACC 121 (grade C or higher).",
+      "institution": "Community College of Aurora"
+    },
+    {
+      "course_id": "ACC 131",
+      "course_title": "Income Tax",
+      "credits": "3.00",
+      "description": "3 Credit hours 45 Contact hours Studies basic concepts of federal income taxation, including gross income, deductions, accounting periods and methods, and property transactions, with emphasis on taxation of individuals and sole proprietorships. Prerequisite: Successful completion of ACC 121 (grade C or higher). Course Note: Offered Spring Semester only.",
+      "institution": "Community College of Aurora"
+    },
+    {
+      "course_id": "ACC 132",
+      "course_title": "Tax Help Colorado",
+      "credits": "2.00",
+      "description": "2 Credit hours 30 Contact hours This course prepares the students for preparation of federal and state income tax returns for individuals. Emphasis is placed on form preparation with the use of tax software. Prepares student to take the IRS Volunteer Tax Preparer's Certification at the Intermediate level. Course Note: Offered Fall Semester only",
+      "institution": "Community College of Aurora"
+    }
+  ],
+  "timestamp": "2025-09-24T14:34:10.920775"
+}

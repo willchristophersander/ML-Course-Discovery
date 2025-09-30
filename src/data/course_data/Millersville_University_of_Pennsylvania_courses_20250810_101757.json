@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Millersville University of Pennsylvania",
+    "successful_variation": "Millersville University of Pennsylvania",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Millersville+University+of+Pennsylvania&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACCT 179",
+      "course_title": "Experimental",
+      "credits": "3.00",
+      "description": "Experimental course in Accounting.",
+      "institution": "Millersville University of Pennsylvania"
+    },
+    {
+      "course_id": "ACCT 279",
+      "course_title": "Experimental",
+      "credits": "3.00",
+      "description": "Experimental Course in Accounting",
+      "institution": "Millersville University of Pennsylvania"
+    },
+    {
+      "course_id": "ACCT 302",
+      "course_title": "Organizations and Transactions",
+      "credits": "3.00",
+      "description": "Continuation of BUAD 202. Includes such topics as consumer law, debtor-creditor law, secured transactions, bankruptcy, forms of business organization, securities regulation, antitrust, labor-management relations, employment discrimination, environmental law, international business, wills and trusts. Recommended for students studying for the CPA exam, or for business students who wish to broaden their knowledge of the legal environment of business. Counts as a business administration departmental elective, or as an accounting elective in the accounting option. Prerequisite: BUAD 202.",
+      "institution": "Millersville University of Pennsylvania"
+    },
+    {
+      "course_id": "ACCT 361",
+      "course_title": "Intermediate Accounting 1",
+      "credits": "3.00",
+      "description": "Financial statement preparation with special attention to revenue recognition and asset valuation. Emphasis on generally accepted accounting principles and accounting theory. Students will develop a familiarity with the official pronouncements. Prerequisite: C- or higher in BUAD 162.",
+      "institution": "Millersville University of Pennsylvania"
+    },
+    {
+      "course_id": "ACCT 362",
+      "course_title": "Intermediate Accounting 2",
+      "credits": "3.00",
+      "description": "Examination of generally accepted accounting principles as they apply to long term liabilities and equity. This course is a continuation of Intermediate Accounting I. Includes issues of current interest. Selected readings from pronouncements. Prerequisite: C- or higher in BUAD 341 and ACCT (formerly BUAD) 361.",
+      "institution": "Millersville University of Pennsylvania"
+    },
+    {
+      "course_id": "ACCT 363",
+      "course_title": "Accounting Information System",
+      "credits": "3.00",
+      "description": "Special emphasis on current problems and issues using small business accounting software. Prerequisite: C- or higher in ACCT (formerly BUAD) 361.",
+      "institution": "Millersville University of Pennsylvania"
+    },
+    {
+      "course_id": "ACCT 364",
+      "course_title": "Cost Accounting",
+      "credits": "3.00",
+      "description": "Investigates cost accounting techniques such as budgeting, accounting controls, standard cost, operation evaluation techniques, variance analysis and performance analysis. The role of cost accounting in profit planning and decision making is examined. Prerequisite: C- or higher in BUAD 162, 206 (formerly 306).",
+      "institution": "Millersville University of Pennsylvania"
+    },
+    {
+      "course_id": "ACCT 365",
+      "course_title": "Not-For-Profit Accounting",
+      "credits": "3.00",
+      "description": "A review of fund accounting, application of fund accounting to nonprofit organizations such as state and local governments and health care institutions. Prerequisite: BUAD 161.",
+      "institution": "Millersville University of Pennsylvania"
+    },
+    {
+      "course_id": "ACCT 366",
+      "course_title": "Federal Income Tax 1",
+      "credits": "3.00",
+      "description": "Study of federal income tax laws as they relate to individuals and businesses. Topics include gross income, deductions, basis, gains and losses and tax computations. Students are introduced to tax research techniques and applications. Prerequisite: C- or higher in both BUAD 162 and 202.",
+      "institution": "Millersville University of Pennsylvania"
+    },
+    {
+      "course_id": "ACCT 367",
+      "course_title": "Federal Income Tax 2",
+      "credits": "3.00",
+      "description": "Study of corporate, S Corporations and partnership taxation. Topics include corporate organization, distribution, reorganization, accumulated earnings, S elections, partnership formation, operation, and transfers. Introduction to estate planning and wealth accumulation. Prerequisite: ACCT (formerly BUAD) 366.",
+      "institution": "Millersville University of Pennsylvania"
+    }
+  ],
+  "timestamp": "2025-08-10T10:17:57.689784"
+}

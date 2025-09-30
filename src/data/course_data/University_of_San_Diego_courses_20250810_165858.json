@@ -1,0 +1,74 @@
+{
+  "search_query": {
+    "institution": "University of San Diego",
+    "successful_variation": "University of San Diego",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=University+of+San+Diego&distance=5"
+  },
+  "total_results": 9,
+  "courses": [
+    {
+      "course_id": "ANTH 101",
+      "course_title": "Introduction to Biological Anthropology",
+      "credits": "3.00",
+      "description": "An investigation of the nature of humankind, including the history of evolutionary theory, the fossil record, dating techniques, primate evolution and behavior, and human heredity, variation, and adaptation. (every semester)",
+      "institution": "University of San Diego"
+    },
+    {
+      "course_id": "ANTH 102",
+      "course_title": "Introduction to Cultural Anthropology",
+      "credits": "3.00",
+      "description": "An introduction to the nature of culture, techniques of fieldwork, linguistics, components of cultural systems, such as subsistence patterns, socio-political organization, religion, worldview, diversity, change, and current problems. (every semester)",
+      "institution": "University of San Diego"
+    },
+    {
+      "course_id": "ANTH 103",
+      "course_title": "Introduction to Archaeology",
+      "credits": "3.00",
+      "description": "A discussion of the techniques and concepts used by archaeologists for developing insights into the behavior of past societies; a survey of past societies as revealed by archaeological research. (every semester)",
+      "institution": "University of San Diego"
+    },
+    {
+      "course_id": "ANTH 310",
+      "course_title": "Human Evolution",
+      "credits": "3.00",
+      "description": "An examination of early developments and current knowledge about origins of modern humans and their relationships to the Neandertals. Examples from contemporary literature will be analyzed in light of recent scientific reconstructions. Prerequisite: ANTH 101 and 103, or consent of instructor.",
+      "institution": "University of San Diego"
+    },
+    {
+      "course_id": "ANTH 311",
+      "course_title": "Primatology",
+      "credits": "3.00",
+      "description": "An introduction to the study of non-human primates: prosimians, New World monkeys, Old World monkeys, and apes. The course focuses on primate behavior and how it relates to the study of human biocultural evolution. Of special concern are the relationships and adaptations of the primates to varied environments. The primate collection at the San Diego Zoo will be an integral part of the course. Various observational and data collecting techniques will be employed in zoo projects. Prerequisite: ANTH 101 or consent of instructor.",
+      "institution": "University of San Diego"
+    },
+    {
+      "course_id": "ANTH 312",
+      "course_title": "Paleopathology",
+      "credits": "3.00",
+      "description": "An introduction to the study of ancient human pathologies through the study of bones and mummies. The course will focus on how the human skeletal system adapts to trauma, disease organisms, and environmental conditions, such as diet, climate, temperature, soil, and water. Basic skeletal anatomy and other osteological techniques such as age and sex determination will be an essential part of the course. Current problems in epidemiology will be examined in relation to diseases of the past. Prerequisite: ANTH 101 or consent of instructor.",
+      "institution": "University of San Diego"
+    },
+    {
+      "course_id": "ANTH 313",
+      "course_title": "Forensic Anthropology",
+      "credits": "3.00",
+      "description": "A survey of the techniques used by forensic anthropologists to assist in the identification of human skeletal remains. The course will focus on learning how to tell human from animal bones, sex identification from the skeleton, age estimation from bone and teeth, stature estimation from measurements of limb bones, and occupational inferences from stress marks on bones. Prerequisite: ANTH 101 or consent of instructor.",
+      "institution": "University of San Diego"
+    },
+    {
+      "course_id": "ANTH 314",
+      "course_title": "Bones:Human Osteology",
+      "credits": "3.00",
+      "description": "The study of the human skeleton in two main areas: identification of recently deceased individuals in a legal context, and historic or prehistoric remains as a contribution to human history. This hands-on course will include bone biology, development, growth, variation, and repair. Students will identify all parts of the skeletal system and dentition and learn how to measure bones and identify non-metric features and stress markers. Prerequisite: ANTH 101 or consent of instructor.",
+      "institution": "University of San Diego"
+    },
+    {
+      "course_id": "ANTH 320D",
+      "course_title": "North American Indian Cultures",
+      "credits": "3.00",
+      "description": "A survey of prehistory, history, social organization, economy, worldview, and contemporary issues of American Indian and Inuit groups across North America (north of Mexico) from ethnohistorical and applied anthropology perspectives. Regional adaptations stemming from environmental and intercultural linkages are highlighted. Prerequisite: ANTH 102 or consent of instructor.",
+      "institution": "University of San Diego"
+    }
+  ],
+  "timestamp": "2025-08-10T16:58:58.145313"
+}

@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "University of Vermont",
+    "successful_variation": "University of Vermont",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=University+of+Vermont&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "AIS 005",
+      "course_title": "Glimpses of Chinese Culture",
+      "credits": "6.00",
+      "description": "Explore and experience important and intriguing aspects of Chinese culture through lectures and activities. Content is distinct from AIS 006. Credits: 1",
+      "institution": "University of Vermont"
+    },
+    {
+      "course_id": "AIS 006",
+      "course_title": "Glimpses of Chinese Culture",
+      "credits": "5.00",
+      "description": "Explore and experience important and intriguing aspects of Chinese culture through lectures and activities. Content is distinct from AIS 005. Credits: 1",
+      "institution": "University of Vermont"
+    },
+    {
+      "course_id": "AIS 007",
+      "course_title": "Directed Language Study",
+      "credits": "3.00",
+      "description": "Credits: 3",
+      "institution": "University of Vermont"
+    },
+    {
+      "course_id": "AIS 008",
+      "course_title": "Directed Language Study",
+      "credits": "3.00",
+      "description": "Credits: 3",
+      "institution": "University of Vermont"
+    },
+    {
+      "course_id": "AIS 009",
+      "course_title": "Directed Language Study",
+      "credits": "3.00",
+      "description": "Credits: 3",
+      "institution": "University of Vermont"
+    },
+    {
+      "course_id": "AIS 010",
+      "course_title": "Directed Language Study",
+      "credits": "3.00",
+      "description": "Credits: 3",
+      "institution": "University of Vermont"
+    },
+    {
+      "course_id": "AIS 091",
+      "course_title": "Introduction to Area",
+      "credits": "3.00",
+      "description": "Introduction to Canada: A team-taught introduction to Canada through interdisciplinary perspective. (B) Introduction to Russia and East Europe: An interdisciplinary overview from the perspectives of economics, fine arts, geography, history, political science, Russian language and literature, and sociology. (C) Introduction to Western Europe. Primarily designed for first-year students. Credits: 3",
+      "institution": "University of Vermont"
+    },
+    {
+      "course_id": "AIS 093",
+      "course_title": "So Africa:Politic/Race&Culture",
+      "credits": "3.00",
+      "description": "An interdisciplinary introduction analyzing the forces that led to creation of that system of government known as Apartheid. Assessment of strategies and tactics of change. Credits: 3",
+      "institution": "University of Vermont"
+    },
+    {
+      "course_id": "AIS 095",
+      "course_title": "Introductory Special Topics",
+      "credits": "3.00",
+      "description": "See Schedule of Courses for specific titles. Credits: 1 - 3",
+      "institution": "University of Vermont"
+    },
+    {
+      "course_id": "AIS 096",
+      "course_title": "Introductory Special Topics",
+      "credits": "6.00",
+      "description": "See Schedule of Courses for specific titles. Credits: 1 - 6",
+      "institution": "University of Vermont"
+    }
+  ],
+  "timestamp": "2025-08-09T20:22:34.967643"
+}

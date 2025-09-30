@@ -1,0 +1,74 @@
+{
+  "search_query": {
+    "institution": "Creighton University",
+    "successful_variation": "Creighton University",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Creighton+University&distance=5"
+  },
+  "total_results": 9,
+  "courses": [
+    {
+      "course_id": "ACC 201",
+      "course_title": "Introduction To Financial Accounting",
+      "credits": "3.00",
+      "description": "The course includes a thorough discussion of the fundamental principles of financial accounting with an emphasis on the corporate form of a business entity. These principles are studied in connection with financial accounting systems, and are taught with the use of assigned problems and questions. Information technology and various other means are used for problem solving and to study the applications of the basic principles as they relate to financial statement preparation and understanding. P: Open to all students who have completed a minimum of 15 semester hours of college credit.",
+      "institution": "Creighton University"
+    },
+    {
+      "course_id": "ACC 202",
+      "course_title": "Introduction to Managerial Accounting I, II",
+      "credits": "3.00",
+      "description": "The course includes a thorough discussion of the fundamental principles of managerial accounting with an emphasis on traditional and modern cost measurement, recording, and reporting systems to support managerial decision making. Specific managerial accounting topics covered include cost and revenue classification approaches; planning and control techniques, including operational budgeting; cost behavior analysis; cost-volume-profit analysis; and product costing, including activity-based costing. Also included in the course is coverage of the statement of cash flows, financial statement analysis, and individual and corporate income taxes. Information technology and various other means are used for managerial problem solving. P: ACC 201; So. stdg.",
+      "institution": "Creighton University"
+    },
+    {
+      "course_id": "ACC 301",
+      "course_title": "Fundamentals Of Income Taxation",
+      "credits": "3.00",
+      "description": "This course provides an overview of the federal income tax system. It includes an analysis of the individual and corporate tax systems including recognition of tax issues, tax return preparation, and basic tax planning. Coverage includes general concepts of gross income, deductions and credits, property transactions, capital cost recovery provisions, tax impact of choice of business entity with particular emphasis on small businesses and methods of tax accounting. This course is not open to accounting majors. P: Jr. stdg.",
+      "institution": "Creighton University"
+    },
+    {
+      "course_id": "ACC 313",
+      "course_title": "External Financial Reporting Issues",
+      "credits": "3.00",
+      "description": "The course involves an intermediate study of contemporary accounting theory and practice. Emphasis is placed on understanding the four financial statements presented in an audited set of financial reports, including an in-depth examination of earnings per share and the statement of cash flows. Financial accounting standards and practices related to cash, receivables, and inventory are examined in detail. The functions, nature, and limitations of accounting as expressed in professional literature are analyzed. Skills for assessing and solving problems in unstructured business settings are introduced in the course. P: ACC 202 with a grade of C or better; Jr. stdg.",
+      "institution": "Creighton University"
+    },
+    {
+      "course_id": "ACC 315",
+      "course_title": "Managerial Accounting for Decision Making",
+      "credits": "3.00",
+      "description": "The course includes a study of cost and managerial accounting issues, including costing systems, cost-volume-profit analysis, operational budgeting, and cost allocation. The course highlights the importance and significance of cost data for management decision making. Current topics and cost accounting techniques used in industry and the private business sector are presented. P: ACC 202; Jr. stdg.",
+      "institution": "Creighton University"
+    },
+    {
+      "course_id": "ACC 319",
+      "course_title": "Financial Accounting And Reporting Standards",
+      "credits": "3.00",
+      "description": "The course involves an in-depth study of the theory and concepts of accounting with the emphasis placed on corporations. Financial accounting standards and practices related to fixed assets, current liabilities, investments in securities, stockholders' equity, and leases are examined in detail. Financial accounting standards and practices for governmental entities are also studied in depth. The interpretation and application of relevant professional literature, including accounting pronouncements, to specific business situations are stressed. The means of analyzing and interpreting accounting data, including financial reports, is also presented in the course. P: ACC 313; Jr. stdg.",
+      "institution": "Creighton University"
+    },
+    {
+      "course_id": "ACC 343",
+      "course_title": "Principles Of Taxation",
+      "credits": "3.00",
+      "description": "This is an introductory course in federal income taxation. The emphasis is placed on technical rules, underlying theory, and applications, with primary coverage of the concepts of income, deductions, tax entities, and property transactions. Greater emphasis is placed on income taxes for individuals than for corporate entities. A tax planning approach is integrated throughout the course, and tax research methodology is introduced. P: ACC 313.",
+      "institution": "Creighton University"
+    },
+    {
+      "course_id": "ACC 366",
+      "course_title": "Internships in Accounting",
+      "credits": "3.00",
+      "description": "The course is designed to provide students with practical accounting experience by applying accounting concepts and technical skills learned in the classroom. It requires 150 hours with an employer, designated class meetings, written assignments, and oral presentations. Although the department will try to help a student obtain an accounting internship, the responsibility for finding the internship lies with the student. The course is pass/fail and may be taken only once. Enrollment is limited. P: Second semester Jr. or higher stdg; I.C.",
+      "institution": "Creighton University"
+    },
+    {
+      "course_id": "ACC 377",
+      "course_title": "Accounting Information Systems",
+      "credits": "3.00",
+      "description": "An introduction to the design and use of computer-based information systems in accounting. Topics addressed include computer-based accounting systems, systems development, accounting cycles, and internal controls in and auditing of computer-based systems. P: ACC 202, MIS 253; Jr. stdg.",
+      "institution": "Creighton University"
+    }
+  ],
+  "timestamp": "2025-08-11T00:11:29.796696"
+}

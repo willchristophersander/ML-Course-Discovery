@@ -1,0 +1,74 @@
+{
+  "search_query": {
+    "institution": "New Jersey City University",
+    "successful_variation": "New Jersey City University",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=New+Jersey+City+University&distance=5"
+  },
+  "total_results": 9,
+  "courses": [
+    {
+      "course_id": "AFRO 101",
+      "course_title": "African Diaspora",
+      "credits": "3.00",
+      "description": "This course studies the history of the slave trade and the cultures that developed among the descendants of Africans in South America, Central America, North America, and the Caribbean.",
+      "institution": "New Jersey City University"
+    },
+    {
+      "course_id": "AFRO 106",
+      "course_title": "Blac k Identit y and Culture",
+      "credits": "3.00",
+      "description": "This course examines the cultural practices of African Americans in the 20th and 21st centuries. Topics discussed include the Harlem Renaissance, the Garvey Movement, the Cultural Arts Movement of the 1960s, and hip hop culture, as well as African American musical traditions such as jazz and blues.",
+      "institution": "New Jersey City University"
+    },
+    {
+      "course_id": "AFRO 108",
+      "course_title": "African American Histor y",
+      "credits": "3.00",
+      "description": "This course surveys important themes in the history of African Americans including African life before the slave trade, the Atlantic slave trade, the struggle for emancipation and independence, and the struggle for civil rights.",
+      "institution": "New Jersey City University"
+    },
+    {
+      "course_id": "AFRO 118",
+      "course_title": "The Blac k Experience",
+      "credits": "3.00",
+      "description": "This course offers an examination of the political and social movements of the 20th century with emphasis on the civil rights movement and the black power movements of the 1950s and 1960s.",
+      "institution": "New Jersey City University"
+    },
+    {
+      "course_id": "AFRO 164",
+      "course_title": "Introduction to African Civili zations",
+      "credits": "3.00",
+      "description": "This course offers students a survey of African civilizations from earliest times to the present. The course highlights the important civilizations of Ancient Egypt, Nubia, Sudan, Ghana, Mali, Songhai, Zimbabwe, and others.",
+      "institution": "New Jersey City University"
+    },
+    {
+      "course_id": "AFRO 283",
+      "course_title": "African Union Model Assembl y",
+      "credits": "3.00",
+      "description": "This course prepares students to participate in a simulation of the African Union annual assembly. Students attend a four-day conference hosted by Howard University to debate and discuss the problems of the countries of the African continent. Students act as diplomatic representatives of selected African nations and have the opportunity to interact with the embassy officials from the country that they represent.",
+      "institution": "New Jersey City University"
+    },
+    {
+      "course_id": "AFRO 285",
+      "course_title": "Modern Africa",
+      "credits": "3.00",
+      "description": "This course offers an analysis of post-1945 Africa focusing upon the political, economic, and social experiences of African nations. The course traces the evolution of Africa from the colonial period to political independence and analyzes the nation-building process and its impact on the international political economy.",
+      "institution": "New Jersey City University"
+    },
+    {
+      "course_id": "ART 102",
+      "course_title": "Principles of Painting",
+      "credits": "3.00",
+      "description": "This Fine Arts general studies course combines classroom studio painting and research writing. The course researches painting techniques and styles. A museum visit is required. Students compile information on different painting techniques and materials, which is then presented in written comparative essays and classroom studio painting.",
+      "institution": "New Jersey City University"
+    },
+    {
+      "course_id": "ART 104",
+      "course_title": "Ceramics I",
+      "credits": "3.00",
+      "description": "This course provides basic experiences with clay and those techniques common to pottery and ceramic sculpture, with an emphasis on Three Dimensional design concepts and the technique of hand building.",
+      "institution": "New Jersey City University"
+    }
+  ],
+  "timestamp": "2025-08-11T00:12:26.335830"
+}

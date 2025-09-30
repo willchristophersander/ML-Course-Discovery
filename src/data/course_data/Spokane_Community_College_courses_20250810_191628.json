@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Spokane Community College",
+    "successful_variation": "Spokane Community College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Spokane+Community+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACCT 103",
+      "course_title": "Fundamental Bookkeeping Procedures",
+      "credits": "3.00",
+      "description": "This course is an introduction to fundamental bookkeeping for a sole proprietorship. It focuses on learning how and when to record transactions and how and when to prepare financial statements. (SFCC)",
+      "institution": "Spokane Community College"
+    },
+    {
+      "course_id": "ACCT 112",
+      "course_title": "Excel for Accounting",
+      "credits": "3.00",
+      "description": "This course utilizes Excel to solve accounting problems and aid decision making. Areas covered include projection, cash flows, debt management, planning/budgeting and graphical presentation of accounting data. Prerequisite: ACCT 103, 104, CAPPS 112 or permission of instructor. (SFCC)",
+      "institution": "Spokane Community College"
+    },
+    {
+      "course_id": "ACCT 114",
+      "course_title": "Access for Accounting",
+      "credits": "2.00",
+      "description": "This course develops an understanding of the theory and practice of relational database management systems in accounting settings. The course enables students to build accounting system elements for three main accounting transaction cycles: the revenue cycle, the purchase cycle and the payroll cycle. Prerequisite: ACCT 103, 104, CAPPS 114 or permission of instructor. (SFCC)",
+      "institution": "Spokane Community College"
+    },
+    {
+      "course_id": "ACCT 121",
+      "course_title": "Payroll Procedures",
+      "credits": "3.00",
+      "description": "This course enables students to properly prepare, file and report quarterly payroll taxes; to prepare all necessary journal entries for payroll expenses; and to prepare all necessary end-of-year reports for payroll. Prerequisite: ACCT 103, 115 or permission of instructor. (SFCC)",
+      "institution": "Spokane Community College"
+    },
+    {
+      "course_id": "ACCT 122",
+      "course_title": "Business Tax Accounting",
+      "credits": "1.00",
+      "description": "This course enables students to understand and account for the additional taxes (other than income taxes) paid by business in Washington state, Spokane County and the City of Spokane. Prerequisite: ACCT 103 or permission of instructor. (SFCC)",
+      "institution": "Spokane Community College"
+    },
+    {
+      "course_id": "ACCT 141",
+      "course_title": "QuickBooks",
+      "credits": "5.00",
+      "description": "This course offers a practical approach to computerized accounting using QuickBooks Pro. Students are exposed to basic setup and entry of daily accounting transactions and learn to manage revenue and expense accounts, payroll, inventory, bank reconciliation, and year-end procedures. This course does not fulfill the requirements for students majoring in accounting. Prerequisite: SCC: ACCT 151 or permission of instructor. SFCC: ACCT& 201 (formerly ACCT 101), ACCT 151 or permission of instructor. (SCC, SFCC)",
+      "institution": "Spokane Community College"
+    },
+    {
+      "course_id": "ACCT 142",
+      "course_title": "Advanced QuickBooks",
+      "credits": "5.00",
+      "description": "This course offers a practical approach to computerized accounting using QuickBooks Pro. Students are exposed to advanced setup for service and merchandising companies. Processing quarterly payroll including, preparation of quarterly tax reports, tax transmittals and W2 forms are addressed. This course does not fulfill requirements for students majoring in accounting. Prerequisite: ACCT 141 or permission of instructor. (SCC, SFCC, IEL)",
+      "institution": "Spokane Community College"
+    },
+    {
+      "course_id": "ACCT 151",
+      "course_title": "College Accounting I",
+      "credits": "5.00",
+      "description": "Students learn the basic concepts of accounting for office, sales and small business personnel. The basic accounting cycle, use of general journals, worksheets, adjusting and closing entries, and complete financial statement preparation are emphasized. Payroll processing and employer payroll tax calculations, and reporting also are covered. These courses must be taken in sequence. These courses do not fulfill requirements for students majoring in accounting. (SCC, SFCC)",
+      "institution": "Spokane Community College"
+    },
+    {
+      "course_id": "ACCT 152",
+      "course_title": "College Accounting II",
+      "credits": "5.00",
+      "description": "Students learn the basic concepts of accounting for office, sales and small business personnel. The basic accounting cycle, use of general journals, worksheets, adjusting and closing entries, and complete financial statement preparation are emphasized. Payroll processing and employer payroll tax calculations, and reporting also are covered. These courses must be taken in sequence. These courses do not fulfill requirements for students majoring in accounting. (SCC, SFCC)",
+      "institution": "Spokane Community College"
+    },
+    {
+      "course_id": "ACCT 161",
+      "course_title": "Payroll Procedures",
+      "credits": "4.00",
+      "description": "This course enables students to properly prepare, file and report quarterly payroll taxes; prepare all necessary journal entries for payroll expenses; and prepare all essential end-of-the-year reports for payroll. Prerequisite: SCC: ACCT 151 or permission of instructor and concurrent enrollment in ACCT 162. SFCC: ACCT 103, 115 or permission of instructor and concurrent enrollment in ACCT 162. (SCC, SFCC)",
+      "institution": "Spokane Community College"
+    }
+  ],
+  "timestamp": "2025-08-10T19:16:28.362664"
+}

@@ -1,0 +1,586 @@
+[
+  {
+    "url": "https://soc.uvm.edu",
+    "title": "UNIVERSITY OF VERMONT - Schedule of Courses",
+    "description": "Course search and schedule of courses",
+    "university": "University of Vermont",
+    "confidence": 0.999,
+    "verified": true
+  },
+  {
+    "url": "https://courses.yale.edu",
+    "title": "Search Yale Courses",
+    "description": "Yale Course Search is the official resource for viewing course offerings",
+    "university": "Yale University",
+    "confidence": 0.999,
+    "verified": true
+  },
+  {
+    "url": "https://catalog.yale.edu",
+    "title": "Yale University Publications",
+    "description": "Course catalog and academic information",
+    "university": "Yale University",
+    "confidence": 0.999,
+    "verified": true
+  },
+  {
+    "url": "https://catalog.mit.edu",
+    "title": "MIT Course Catalog",
+    "description": "MIT course catalog and academic information",
+    "university": "MIT",
+    "confidence": 1.0,
+    "verified": true
+  },
+  {
+    "url": "https://catalog.berkeley.edu",
+    "title": "UC Berkeley Course Catalog",
+    "description": "UC Berkeley course catalog and academic information",
+    "university": "University of California Berkeley",
+    "confidence": 0.998,
+    "verified": true
+  },
+  {
+    "url": "https://courses.utexas.edu",
+    "title": "UT Course Schedule",
+    "description": "University of Texas course schedule and catalog",
+    "university": "University of Texas Austin",
+    "confidence": 0.979,
+    "verified": true
+  },
+  {
+    "url": "https://registrar.washington.edu",
+    "title": "UW Course Catalog",
+    "description": "University of Washington course catalog",
+    "university": "University of Washington",
+    "confidence": 0.911,
+    "verified": true
+  },
+  {
+    "url": "https://registrar.wisc.edu",
+    "title": "UW Madison Course Catalog",
+    "description": "University of Wisconsin Madison course catalog",
+    "university": "University of Wisconsin Madison",
+    "confidence": 0.813,
+    "verified": true
+  },
+  {
+    "url": "https://courses.illinois.edu",
+    "title": "UIUC Course Catalog",
+    "description": "University of Illinois Urbana-Champaign course catalog",
+    "university": "University of Illinois Urbana-Champaign",
+    "confidence": 0.999,
+    "verified": true
+  },
+  {
+    "url": "https://catalog.unc.edu",
+    "title": "UNC Course Catalog",
+    "description": "University of North Carolina Chapel Hill course catalog",
+    "university": "University of North Carolina Chapel Hill",
+    "confidence": 0.996,
+    "verified": true
+  },
+  {
+    "url": "https://catalog.ufl.edu",
+    "title": "UF Course Catalog",
+    "description": "University of Florida course catalog",
+    "university": "University of Florida",
+    "confidence": 0.998,
+    "verified": true
+  },
+  {
+    "url": "https://catalog.umn.edu",
+    "title": "UMN Course Catalog",
+    "description": "University of Minnesota course catalog",
+    "university": "University of Minnesota",
+    "confidence": 0.946,
+    "verified": true
+  },
+  {
+    "url": "https://napavalley.edu/catalog",
+    "title": "Course Catalog - Napa Valley College",
+    "description": "Course catalog for Napa Valley College",
+    "university": "Napa Valley College",
+    "confidence": 0.998314408052429,
+    "verified": true
+  },
+  {
+    "url": "https://walshcollege.edu/catalog",
+    "title": "Course Catalog - Walsh College",
+    "description": "Course catalog for Walsh College",
+    "university": "Walsh College",
+    "confidence": 0.999996921463748,
+    "verified": true
+  },
+  {
+    "url": "https://catalog.benedictine.edu",
+    "title": "Course Catalog - Benedictine College",
+    "description": "Course catalog for Benedictine College",
+    "university": "Benedictine College",
+    "confidence": 0.9364618696455469,
+    "verified": true
+  },
+  {
+    "url": "https://catalog.schreiner.edu",
+    "title": "Course Catalog - Schreiner University",
+    "description": "Course catalog for Schreiner University",
+    "university": "Schreiner University",
+    "confidence": 0.988386236500698,
+    "verified": true
+  },
+  {
+    "url": "https://catalog.stchas.edu",
+    "title": "Course Catalog - St Charles Community College",
+    "description": "Course catalog for St Charles Community College",
+    "university": "St Charles Community College",
+    "confidence": 0.9940459241015276,
+    "verified": true
+  },
+  {
+    "url": "https://catalog.arbor.edu",
+    "title": "Course Catalog - Spring Arbor College",
+    "description": "Course catalog for Spring Arbor College",
+    "university": "Spring Arbor College",
+    "confidence": 0.9987370902835764,
+    "verified": true
+  },
+  {
+    "url": "https://ewc.edu/registrar",
+    "title": "Course Catalog - Edward Waters University",
+    "description": "Course catalog for Edward Waters University",
+    "university": "Edward Waters University",
+    "confidence": 0.806761038319289,
+    "verified": true
+  },
+  {
+    "url": "https://catalog.collin.edu",
+    "title": "Course Catalog - Collin County Community College District",
+    "description": "Course catalog for Collin County Community College District",
+    "university": "Collin County Community College District",
+    "confidence": 0.9997617225106807,
+    "verified": true
+  },
+  {
+    "url": "https://registrar.sewanee.edu",
+    "title": "Course Catalog - Sewanee, University of the South",
+    "description": "Course catalog for Sewanee, University of the South",
+    "university": "Sewanee, University of the South",
+    "confidence": 0.9938767036064313,
+    "verified": true
+  },
+  {
+    "url": "https://catalog.wwcc.edu",
+    "title": "Course Catalog - Walla Walla Community College",
+    "description": "Course catalog for Walla Walla Community College",
+    "university": "Walla Walla Community College",
+    "confidence": 0.9933513797003324,
+    "verified": true
+  },
+  {
+    "url": "https://registrar.stanford.edu",
+    "title": "Course Catalog - Stanford University",
+    "description": "Course catalog for Stanford University",
+    "university": "Stanford University",
+    "confidence": 0.936111778749089,
+    "verified": true
+  },
+  {
+    "url": "https://catalog.stonybrook.edu",
+    "title": "Course Catalog - State University of New York at Stony Brook",
+    "description": "Course catalog for State University of New York at Stony Brook",
+    "university": "State University of New York at Stony Brook",
+    "confidence": 0.9997311246238548,
+    "verified": true
+  },
+  {
+    "url": "https://coursecatalog.bigbend.edu",
+    "title": "Course Catalog - Big Bend Community College",
+    "description": "Course catalog for Big Bend Community College",
+    "university": "Big Bend Community College",
+    "confidence": 0.9999959696756887,
+    "verified": true
+  },
+  {
+    "url": "https://stfrancis.edu/courses",
+    "title": "Course Catalog - College of St. Francis",
+    "description": "Course catalog for College of St. Francis",
+    "university": "College of St. Francis",
+    "confidence": 0.9998383790300196,
+    "verified": true
+  },
+  {
+    "url": "https://eckerd.edu/catalog",
+    "title": "Course Catalog - Eckerd College",
+    "description": "Course catalog for Eckerd College",
+    "university": "Eckerd College",
+    "confidence": 0.9992188922921323,
+    "verified": true
+  },
+  {
+    "url": "https://uu.edu/courses",
+    "title": "Course Catalog - Union University",
+    "description": "Course catalog for Union University",
+    "university": "Union University",
+    "confidence": 0.807900088261749,
+    "verified": true
+  },
+  {
+    "url": "https://catalog.una.edu",
+    "title": "Course Catalog - University of North Alabama",
+    "description": "Course catalog for University of North Alabama",
+    "university": "University of North Alabama",
+    "confidence": 0.9999704148911835,
+    "verified": true
+  },
+  {
+    "url": "https://catalog.century.edu",
+    "title": "Course Catalog - Century College",
+    "description": "Course catalog for Century College",
+    "university": "Century College",
+    "confidence": 0.9999997995945498,
+    "verified": true
+  },
+  {
+    "url": "https://catalog.jwu.edu",
+    "title": "Course Catalog - Johnson & Wales University",
+    "description": "Course catalog for Johnson & Wales University",
+    "university": "Johnson & Wales University",
+    "confidence": 0.9999365175001025,
+    "verified": true
+  },
+  {
+    "url": "https://umdearborn.edu/catalog",
+    "title": "Course Catalog - University of Michigan - Dearborn",
+    "description": "Course catalog for University of Michigan - Dearborn",
+    "university": "University of Michigan - Dearborn",
+    "confidence": 0.9999958039496667,
+    "verified": true
+  },
+  {
+    "url": "https://arapahoe.edu/courses",
+    "title": "Course Catalog - Arapahoe Community College",
+    "description": "Course catalog for Arapahoe Community College",
+    "university": "Arapahoe Community College",
+    "confidence": 0.9999926656457914,
+    "verified": true
+  },
+  {
+    "url": "https://stlawu.edu/registrar",
+    "title": "Course Catalog - St. Lawrence University",
+    "description": "Course catalog for St. Lawrence University",
+    "university": "St. Lawrence University",
+    "confidence": 0.9999501112064819,
+    "verified": true
+  },
+  {
+    "url": "https://catalog.atu.edu",
+    "title": "Course Catalog - Arkansas Tech University",
+    "description": "Course catalog for Arkansas Tech University",
+    "university": "Arkansas Tech University",
+    "confidence": 0.999932380045997,
+    "verified": true
+  },
+  {
+    "url": "https://catalog.oneonta.edu",
+    "title": "Course Catalog - State University of New York College at Oneonta",
+    "description": "Course catalog for State University of New York College at Oneonta",
+    "university": "State University of New York College at Oneonta",
+    "confidence": 0.9996742209965473,
+    "verified": true
+  },
+  {
+    "url": "https://hutchcc.edu/courses",
+    "title": "Course Catalog - Hutchinson Community College",
+    "description": "Course catalog for Hutchinson Community College",
+    "university": "Hutchinson Community College",
+    "confidence": 0.9999399673611065,
+    "verified": true
+  },
+  {
+    "url": "https://catalog.nku.edu",
+    "title": "Course Catalog - Northern Kentucky University",
+    "description": "Course catalog for Northern Kentucky University",
+    "university": "Northern Kentucky University",
+    "confidence": 0.9994550832768964,
+    "verified": true
+  },
+  {
+    "url": "https://deanza.edu/catalog",
+    "title": "Course Catalog - De Anza College",
+    "description": "Course catalog for De Anza College",
+    "university": "De Anza College",
+    "confidence": 0.978211493764963,
+    "verified": true
+  },
+  {
+    "url": "https://catalog.gbc.edu",
+    "title": "Course Catalog - Goldey-Beacom College",
+    "description": "Course catalog for Goldey-Beacom College",
+    "university": "Goldey-Beacom College",
+    "confidence": 0.9999999999748883,
+    "verified": true
+  },
+  {
+    "url": "https://catalog.rider.edu",
+    "title": "Course Catalog - Rider University",
+    "description": "Course catalog for Rider University",
+    "university": "Rider University",
+    "confidence": 0.999999478848093,
+    "verified": true
+  },
+  {
+    "url": "https://lamarcc.edu/catalog",
+    "title": "Course Catalog - Lamar Community College",
+    "description": "Course catalog for Lamar Community College",
+    "university": "Lamar Community College",
+    "confidence": 0.999999999999764,
+    "verified": true
+  },
+  {
+    "url": "https://anc.edu/catalog",
+    "title": "Course Catalog - Arkansas Northeastern College",
+    "description": "Course catalog for Arkansas Northeastern College",
+    "university": "Arkansas Northeastern College",
+    "confidence": 0.9999991233046103,
+    "verified": true
+  },
+  {
+    "url": "https://catalog.tnstate.edu",
+    "title": "Course Catalog - Tennessee State University",
+    "description": "Course catalog for Tennessee State University",
+    "university": "Tennessee State University",
+    "confidence": 0.9999999999999998,
+    "verified": true
+  },
+  {
+    "url": "https://catalog.indianatech.edu",
+    "title": "Course Catalog - Indiana Institute of Technology",
+    "description": "Course catalog for Indiana Institute of Technology",
+    "university": "Indiana Institute of Technology",
+    "confidence": 0.9999999999286779,
+    "verified": true
+  },
+  {
+    "url": "https://catalog.pueblocc.edu",
+    "title": "Course Catalog - Pueblo Community College",
+    "description": "Course catalog for Pueblo Community College",
+    "university": "Pueblo Community College",
+    "confidence": 0.9999999999612856,
+    "verified": true
+  },
+  {
+    "url": "https://catalog.widener.edu",
+    "title": "Course Catalog - Widener University",
+    "description": "Course catalog for Widener University",
+    "university": "Widener University",
+    "confidence": 0.9999999999987121,
+    "verified": true
+  },
+  {
+    "url": "https://fuller.edu/registrar",
+    "title": "Course Catalog - Fuller Theological Seminary",
+    "description": "Course catalog for Fuller Theological Seminary",
+    "university": "Fuller Theological Seminary",
+    "confidence": 0.9999992850912685,
+    "verified": true
+  },
+  {
+    "url": "https://catalog.alvernia.edu",
+    "title": "Course Catalog - Alvernia University",
+    "description": "Course catalog for Alvernia University",
+    "university": "Alvernia University",
+    "confidence": 0.9999999999430871,
+    "verified": true
+  },
+  {
+    "url": "https://catalog.ucmerced.edu",
+    "title": "Course Catalog - University of California, Merced",
+    "description": "Course catalog for University of California, Merced",
+    "university": "University of California, Merced",
+    "confidence": 0.9999998637147874,
+    "verified": true
+  },
+  {
+    "url": "https://catalog.lssu.edu",
+    "title": "Course Catalog - Lake Superior State University",
+    "description": "Course catalog for Lake Superior State University",
+    "university": "Lake Superior State University",
+    "confidence": 0.9999998352035985,
+    "verified": true
+  },
+  {
+    "url": "https://ripon.edu/catalog",
+    "title": "Course Catalog - Ripon College",
+    "description": "Course catalog for Ripon College",
+    "university": "Ripon College",
+    "confidence": 0.9999965811130127,
+    "verified": true
+  },
+  {
+    "url": "https://catalog.etsu.edu",
+    "title": "Course Catalog - East Tennessee State University",
+    "description": "Course catalog for East Tennessee State University",
+    "university": "East Tennessee State University",
+    "confidence": 0.9999999969733167,
+    "verified": true
+  },
+  {
+    "url": "https://catalog.terra.edu",
+    "title": "Course Catalog - Terra State Community College",
+    "description": "Course catalog for Terra State Community College",
+    "university": "Terra State Community College",
+    "confidence": 0.9999999999992053,
+    "verified": true
+  },
+  {
+    "url": "https://strayer.edu/catalog",
+    "title": "Course Catalog - Strayer College",
+    "description": "Course catalog for Strayer College",
+    "university": "Strayer College",
+    "confidence": 0.9999999931520165,
+    "verified": true
+  },
+  {
+    "url": "https://catalog.tougaloo.edu",
+    "title": "Course Catalog - Tougaloo College",
+    "description": "Course catalog for Tougaloo College",
+    "university": "Tougaloo College",
+    "confidence": 0.9999999989503205,
+    "verified": true
+  },
+  {
+    "url": "https://catalog.smcm.edu",
+    "title": "Course Catalog - St. Mary's College of Maryland",
+    "description": "Course catalog for St. Mary's College of Maryland",
+    "university": "St. Mary's College of Maryland",
+    "confidence": 0.9999999999989573,
+    "verified": true
+  },
+  {
+    "url": "https://catalog.wssu.edu",
+    "title": "Course Catalog - Winston-Salem State University",
+    "description": "Course catalog for Winston-Salem State University",
+    "university": "Winston-Salem State University",
+    "confidence": 0.9999999970592728,
+    "verified": true
+  },
+  {
+    "url": "https://catalog.ulm.edu",
+    "title": "Course Catalog - University of Louisiana at Monroe",
+    "description": "Course catalog for University of Louisiana at Monroe",
+    "university": "University of Louisiana at Monroe",
+    "confidence": 0.9999999961994666,
+    "verified": true
+  },
+  {
+    "url": "https://ohsu.edu/registrar",
+    "title": "Course Catalog - Oregon Health Sciences University",
+    "description": "Course catalog for Oregon Health Sciences University",
+    "university": "Oregon Health Sciences University",
+    "confidence": 0.9999767426633973,
+    "verified": true
+  },
+  {
+    "url": "https://brandeis.edu/registrar",
+    "title": "Course Catalog - Brandeis University",
+    "description": "Course catalog for Brandeis University",
+    "university": "Brandeis University",
+    "confidence": 0.9999999899960405,
+    "verified": true
+  },
+  {
+    "url": "https://catalog.calpoly.edu",
+    "title": "Course Catalog - California Polytechnic State University, San Luis Obispo",
+    "description": "Course catalog for California Polytechnic State University, San Luis Obispo",
+    "university": "California Polytechnic State University, San Luis Obispo",
+    "confidence": 0.9999990554073496,
+    "verified": true
+  },
+  {
+    "url": "https://catalog.shorter.edu",
+    "title": "Course Catalog - Shorter College",
+    "description": "Course catalog for Shorter College",
+    "university": "Shorter College",
+    "confidence": 0.9999999999084199,
+    "verified": true
+  },
+  {
+    "url": "https://catalog.kctcs.edu",
+    "title": "Course Catalog - Kentucky Community & Technical College System",
+    "description": "Course catalog for Kentucky Community & Technical College System",
+    "university": "Kentucky Community & Technical College System",
+    "confidence": 0.9999286322999406,
+    "verified": true
+  },
+  {
+    "url": "https://catalog.ut.edu",
+    "title": "Course Catalog - University of Tampa",
+    "description": "Course catalog for University of Tampa",
+    "university": "University of Tampa",
+    "confidence": 0.9999999947439144,
+    "verified": true
+  },
+  {
+    "url": "https://catalog.creighton.edu",
+    "title": "Course Catalog - Creighton University",
+    "description": "Course catalog for Creighton University",
+    "university": "Creighton University",
+    "confidence": 0.9999997473505501,
+    "verified": true
+  },
+  {
+    "url": "https://catalog.sierracollege.edu",
+    "title": "Course Catalog - Sierra College",
+    "description": "Course catalog for Sierra College",
+    "university": "Sierra College",
+    "confidence": 0.9999982854429682,
+    "verified": true
+  },
+  {
+    "url": "https://catalog.csum.edu",
+    "title": "Course Catalog - California Maritime Academy",
+    "description": "Course catalog for California Maritime Academy",
+    "university": "California Maritime Academy",
+    "confidence": 0.9999997758423728,
+    "verified": true
+  },
+  {
+    "url": "https://berkshirecc.edu/catalog",
+    "title": "Course Catalog - Berkshire Community College",
+    "description": "Course catalog for Berkshire Community College",
+    "university": "Berkshire Community College",
+    "confidence": 0.9999998093494468,
+    "verified": true
+  },
+  {
+    "url": "https://catalog.pnw.edu",
+    "title": "Course Catalog - Purdue University Northwest",
+    "description": "Course catalog for Purdue University Northwest",
+    "university": "Purdue University Northwest",
+    "confidence": 0.9999999976857754,
+    "verified": true
+  },
+  {
+    "url": "https://nccu.edu/registrar",
+    "title": "Course Catalog - North Carolina Central University",
+    "description": "Course catalog for North Carolina Central University",
+    "university": "North Carolina Central University",
+    "confidence": 0.999999954909063,
+    "verified": true
+  },
+  {
+    "url": "https://schedule.kvcc.edu",
+    "title": "Course Catalog - Kalamazoo Valley Community College",
+    "description": "Course catalog for Kalamazoo Valley Community College",
+    "university": "Kalamazoo Valley Community College",
+    "confidence": 0.99976151140303,
+    "verified": true
+  },
+  {
+    "url": "https://catalog.d.umn.edu",
+    "title": "Course Catalog - University of Minnesota - Duluth",
+    "description": "Course catalog for University of Minnesota - Duluth",
+    "university": "University of Minnesota - Duluth",
+    "confidence": 0.9999926176116823,
+    "verified": true
+  }
+]

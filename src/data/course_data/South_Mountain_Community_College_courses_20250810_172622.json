@@ -1,0 +1,67 @@
+{
+  "search_query": {
+    "institution": "South Mountain Community College",
+    "successful_variation": "South Mountain Community College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=South+Mountain+Community+College&distance=5"
+  },
+  "total_results": 8,
+  "courses": [
+    {
+      "course_id": "AAA 150",
+      "course_title": "Strategies for College Success",
+      "credits": "3.00",
+      "description": "LEC 3 Credit(s) 3 Period(s) Focus on increasing student success through college orientation and personal growth, study skills development, and educational and career planning. Prerequisites: None. Cross-Reference: CPD150",
+      "institution": "South Mountain Community College"
+    },
+    {
+      "course_id": "ACC 107",
+      "course_title": "Bookkeeping Theory & Practice",
+      "credits": "4.00",
+      "description": "LAB +LEC 4 Credits 5 Periods Fundamental accounting practices; application to retail stores, professional firms, and personal service operations. Prerequisites: None.",
+      "institution": "South Mountain Community College"
+    },
+    {
+      "course_id": "ACC 109",
+      "course_title": "Accounting Concepts",
+      "credits": "3.00",
+      "description": "LEC 3 Credits 3 Periods Introduction to accounting with emphasis on analysis and applications of financial information. Prerequisites: None. GBS151 and reading ability equivalent to RDG091 suggested but not required.",
+      "institution": "South Mountain Community College"
+    },
+    {
+      "course_id": "ACC 111",
+      "course_title": "Accounting Principles I",
+      "credits": "3.00",
+      "description": "LEC 3 Credits 3 Periods Fundamental theory of accounting principles and procedures. Prerequisites: None.",
+      "institution": "South Mountain Community College"
+    },
+    {
+      "course_id": "ACC 115",
+      "course_title": "Computerized Accounting",
+      "credits": "3.00",
+      "description": "L + L Credits 3 Periods",
+      "institution": "South Mountain Community College"
+    },
+    {
+      "course_id": "ACC 211",
+      "course_title": "Financial Accounting",
+      "credits": "3.00",
+      "description": "LEC 3 Credits 3 Periods Introduction to theory and practice in the preparation and interpretation of general purpose financial statements. Prerequisites: None.",
+      "institution": "South Mountain Community College"
+    },
+    {
+      "course_id": "ACC 230",
+      "course_title": "Uses of Accounting Information I",
+      "credits": "3.00",
+      "description": "LEC 3 Credits 3 Periods Introduction to the uses of accounting information for internal and external purposes with emphasis on financial statement analysis. Prerequisites: Grade of \"C\" or better inACC111 or ACC211, or a grade of \"C\" or better in (ENG101and MAT151 and CRE101), or equivalent, or satisfactory score on District placement exam.",
+      "institution": "South Mountain Community College"
+    },
+    {
+      "course_id": "ACC 240",
+      "course_title": "Uses of Accounting Information II",
+      "credits": "3.00",
+      "description": "LEC 3 Credits 3 Periods Introduction to the uses of accounting information for internal and external purposes with emphasis on analysis for use by management. Prerequisites: ACC 230",
+      "institution": "South Mountain Community College"
+    }
+  ],
+  "timestamp": "2025-08-10T17:26:22.678958"
+}

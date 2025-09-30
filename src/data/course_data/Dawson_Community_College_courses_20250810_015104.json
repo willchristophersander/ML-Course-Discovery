@@ -1,0 +1,67 @@
+{
+  "search_query": {
+    "institution": "Dawson Community College",
+    "successful_variation": "Dawson Community College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Dawson+Community+College&distance=5"
+  },
+  "total_results": 8,
+  "courses": [
+    {
+      "course_id": "AG 104",
+      "course_title": "Range and Range Plants",
+      "credits": "3.00",
+      "description": "This course is a description of the rangelands of the Western U.S. and their historical, present, and potential use. It explains how utilization affects the biological cycles of rangelands. Basic range management skills are studied and practiced. Concepts of ecological condition and trends are introduced. Plants and their cycles are studied. Co-requisite: AG114. Tech Prep.",
+      "institution": "Dawson Community College"
+    },
+    {
+      "course_id": "AG 110",
+      "course_title": "Animal Science",
+      "credits": "3.00",
+      "description": "This course is an introductory animal science course which includes basic principles of animal genetics, nutrition, live animal evaluation, reproduction, and application to the production of beef and dairy cattle, sheep, swine, horses, and poultry. Tech Prep.",
+      "institution": "Dawson Community College"
+    },
+    {
+      "course_id": "AG 111",
+      "course_title": "Plant Science",
+      "credits": "3.00",
+      "description": "This course provides an understanding of basic plant science principles and environmental components that impact plant growth and plant interaction with agriculture and humankind. Students develop solutions to problems. Prerequisite: AG104",
+      "institution": "Dawson Community College"
+    },
+    {
+      "course_id": "AG 114",
+      "course_title": "Range and Range Plants Lab",
+      "credits": "1.00",
+      "description": "The laboratory exercises are designed to complement the lectures of AG104. Rangeland inventory and classification methods will be reviewed. Sixty common native and introduced plants will be identified in the field and in the classroom. Co-requisite: AG104. Tech Prep.",
+      "institution": "Dawson Community College"
+    },
+    {
+      "course_id": "AG 121",
+      "course_title": "Training and Development of the Horse I",
+      "credits": "3.00",
+      "description": "This course involves gentling and starting a green horse, 2-3 years of age, halter breaking, leading at walk, trotting and backing, handling of feet and legs, feeding, reproduction, and selection practices. Students must have a horse and consent of the instructor. Additional fee required.",
+      "institution": "Dawson Community College"
+    },
+    {
+      "course_id": "AG 122",
+      "course_title": "Training and Development of the Horse II",
+      "credits": "3.00",
+      "description": "A continuation of AG 121. Starting the horse on a bit (snaffle or hackmore), driving, backing, lunging and ground work, advanced horse management practices, anatomy, physiology and training practices. Student must have a horse. Prerequisite: AG121. Additional fee required.",
+      "institution": "Dawson Community College"
+    },
+    {
+      "course_id": "AG 125",
+      "course_title": "Artificial Insemination",
+      "credits": "3.00",
+      "description": "This course deals with techniques needed to inseminate a herd of cows successfully, using cattle for practice. Also covered are sanitation, health, nutrition, regulations, and other subjects pertaining to herd improvement using artificial insemination. Additional fee required.",
+      "institution": "Dawson Community College"
+    },
+    {
+      "course_id": "AG 140",
+      "course_title": "Leadership/ Development in Ag",
+      "credits": "3.00",
+      "description": "This course deals with the process of developing and managing individuals by providing leadership and guidance at all levels of personnel development. Self concepts are developed through situational leadership and management, principles of people management, goal setting, and belief systems. Collaborative learning and field experience are utilized.",
+      "institution": "Dawson Community College"
+    }
+  ],
+  "timestamp": "2025-08-10T01:51:04.534744"
+}

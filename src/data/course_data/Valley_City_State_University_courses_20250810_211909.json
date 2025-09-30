@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Valley City State University",
+    "successful_variation": "Valley City State University",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Valley+City+State+University&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACCT 200",
+      "course_title": "Elements of Accounting I",
+      "credits": "3.00",
+      "description": "3 HOURS Basic principles of the complete accounting cycle. (Fall, Spring)",
+      "institution": "Valley City State University"
+    },
+    {
+      "course_id": "ACCT 201",
+      "course_title": "Elements of Accounting II",
+      "credits": "3.00",
+      "description": "3 HOURS Special emphasis on corporate accounting and the uses of accounting information by managers. Prerequisite: \"C\" or better in ACCT 200.(Fall, Spring)",
+      "institution": "Valley City State University"
+    },
+    {
+      "course_id": "ACCT 207",
+      "course_title": "Managerial Accounting",
+      "credits": "3.00",
+      "description": "3 HOURS Course is designed for non-accounting majors. Coverage includes the application of accounting concepts and techniques to managerial activities of planning, control, and decision making. Prerequisites: ACCT 201 and BOTE 336. (Spring)",
+      "institution": "Valley City State University"
+    },
+    {
+      "course_id": "ACCT 305",
+      "course_title": "Cost Accounting",
+      "credits": "3.00",
+      "description": "3 HOURS An introduction to modern cost accounting with insight and breadth regarding both the accountant's and the manager's role in anorganization. Prerequisites: ACCT 201 and BOTE 336. (Fall)",
+      "institution": "Valley City State University"
+    },
+    {
+      "course_id": "ACCT 315",
+      "course_title": "Business in The Legal Environment",
+      "credits": "3.00",
+      "description": "3 HOURS The legal environment of business, governmental regulation, contracts and property. (Fall, Spring)",
+      "institution": "Valley City State University"
+    },
+    {
+      "course_id": "ACCT 321",
+      "course_title": "Financial Reporting & Analysis I",
+      "credits": "3.00",
+      "description": "3 HOURS The rst course in a two-course sequence. This course covers the asset side of the balance sheet and is an equal blend of accounting and reporting theory as well as application of generally accepted accounting principles (GAAP). The course provides an understanding of the environment in which nancial reporting choices are made and how to use the data in making decisions. Prerequisite: ACCT 201. (Fall, Spring)",
+      "institution": "Valley City State University"
+    },
+    {
+      "course_id": "ACCT 322",
+      "course_title": "Financial Reporting & Analysis II",
+      "credits": "3.00",
+      "description": "3 HOURS The second course in a two-course sequence. This course covers the liability and equity side of the balance sheet and provides an overview of international nancial reporting differences. It is an equal blend of accounting and reporting theory as well as application of generally accepted accounting principles. The course is designed to provide a working knowledge of generally accepted accounting principles (GAAP), as well as an understanding of the environment in which nancial reporting choices are made and how to use the data in making decisions. Prerequisite: ACCT 321. (Spring)",
+      "institution": "Valley City State University"
+    },
+    {
+      "course_id": "ACCT 355",
+      "course_title": "Federal Taxation",
+      "credits": "3.00",
+      "description": "3 HOURS Fundamentals of federal income tax with major emphasis upon tax law and regulations applicable to individuals. Prerequisite: ACCT 201. (Fall)",
+      "institution": "Valley City State University"
+    },
+    {
+      "course_id": "ACCT 460",
+      "course_title": "Fund Accounting",
+      "credits": "3.00",
+      "description": "3 HOURS Financial accounting, control, and reporting for governmental and nonpro t entities. Prerequisite: ACCT 321 (Spring)",
+      "institution": "Valley City State University"
+    },
+    {
+      "course_id": "ART 110",
+      "course_title": "Introduction to The Visual Arts",
+      "credits": "3.00",
+      "description": "3 HOURS A study of the visual arts of western and non western cultures with an emphasis on understanding art and art making through form, content, and cultural context. (Spring)",
+      "institution": "Valley City State University"
+    }
+  ],
+  "timestamp": "2025-08-10T21:19:09.686996"
+}

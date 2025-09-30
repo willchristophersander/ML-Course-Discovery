@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Montgomery Community College",
+    "successful_variation": "Montgomery Community College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Montgomery+Community+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACA 111",
+      "course_title": "College Student Success",
+      "credits": "1.00",
+      "description": "This course introduces the college\u2019s physical, academic, and social environment and promotes the personal development essential for success. Topics include campus facilities and resources; policies, procedures, and programs; study skills; and life management issues such as health, self-esteem, motivation, goal-setting, diversity, and communication. Upon completion, students should be able to function effectively within the college environment to meet their educational objectives.",
+      "institution": "Montgomery Community College"
+    },
+    {
+      "course_id": "ACA 122",
+      "course_title": "College Transfer Success",
+      "credits": "1.00",
+      "description": "This course provides information and strategies necessary to develop clear academic and professional goals beyond the community college experience. Topics include the CAA, college culture, career exploration, gathering information on senior institutions, strategic planning, critical thinking, and communications skills for a successful academic transition. Upon completion, students should be able to develop an academic plan to transition successfully to senior institutions. This course has been approved to satisfy the Comprehensive Articulation Agreement for transferability as a premajor and/or elective course requirement.",
+      "institution": "Montgomery Community College"
+    },
+    {
+      "course_id": "ACC 120",
+      "course_title": "Principles of Financial Accounting",
+      "credits": "4.00",
+      "description": "This course introduces business decision-making accounting information systems. Emphasis is placed on analyzing, summarizing, reporting, and interpreting financial information. Upon completion, students should be able to prepare financial statements, understand the role of financial information in decision-making and address ethical considerations. This course has been approved to satisfy the Comprehensive Articulation Agreement pre-major and/or elective course requirement.",
+      "institution": "Montgomery Community College"
+    },
+    {
+      "course_id": "ACC 121",
+      "course_title": "Principles of Managerial Accounting",
+      "credits": "4.00",
+      "description": "This course includes a greater emphasis on managerial and cost accounting skills. Emphasis is placed on managerial accounting concepts for external and internal analysis, reporting and decision-making. Upon completion, students should be able to analyze and interpret transactions relating to managerial concepts including product-costing systems. This course has been approved to satisfy the Comprehensive Articulation Agreement pre-major and/or elective course requirement.",
+      "institution": "Montgomery Community College"
+    },
+    {
+      "course_id": "ACC 129",
+      "course_title": "Individual Income Taxes",
+      "credits": "3.00",
+      "description": "This course introduces the relevant laws governing individual income taxation. Emphasis is placed on filing status, exemptions for dependents, gross income, adjustments, deductions, and computation of tax. Upon completion, students should be able to complete various tax forms pertaining to the topics covered in the course.",
+      "institution": "Montgomery Community College"
+    },
+    {
+      "course_id": "ACC 140",
+      "course_title": "Payroll Accounting",
+      "credits": "2.00",
+      "description": "This course covers federal and state laws pertaining to wages, payroll taxes, payroll tax forms, and journal and general ledger transactions. Emphasis is placed on computing wages; calculating social security, income, and unemployment taxes; preparing appropriate payroll tax forms; and journalizing/posting transactions. Upon completion, students should be able to analyze data, make appropriate computations, complete forms, and prepare accounting entries using appropriate technology.",
+      "institution": "Montgomery Community College"
+    },
+    {
+      "course_id": "ACC 150",
+      "course_title": "Accounting Software Applications",
+      "credits": "2.00",
+      "description": "This course introduces microcomputer applications related to the major accounting systems. Topics include general ledger, accounts receivable, accounts payable, inventory, payroll, and correcting, adjusting, and closing entries. Upon completion, students should be able to use a computer accounting package to solve accounting problems.",
+      "institution": "Montgomery Community College"
+    },
+    {
+      "course_id": "ACC 220",
+      "course_title": "Intermediate Accounting I",
+      "credits": "4.00",
+      "description": "This course is a continuation of the study of accounting principles with in-depth coverage of theoretical concepts and financial statements. Topics include generally accepted accounting principles and statements and extensive analyses of balance sheet components. Upon completion, students should be able to demonstrate competence in the conceptual framework underlying financial accounting, including the application of financial standards.",
+      "institution": "Montgomery Community College"
+    },
+    {
+      "course_id": "ACC 225",
+      "course_title": "Cost Accounting",
+      "credits": "3.00",
+      "description": "This course introduces the nature and purposes of cost accounting as an information system for planning and control. Topics include direct materials, direct labor, factory overhead, process, job order, and standard cost systems. Upon completion, students should be able to demonstrate an understanding of the principles involved and display an analytical problem-solving ability for the topics covered.",
+      "institution": "Montgomery Community College"
+    },
+    {
+      "course_id": "ANT 210",
+      "course_title": "General Anthropology",
+      "credits": "3.00",
+      "description": "This course introduces the physical, archaeological, linguistic, and ethnological fields of anthropology. Topics include human origins, genetic variations, archaeology, linguistics, primatology, and contemporary cultures. Upon completion, students should be able to demonstrate an understanding of the four major fields of anthropology. This course has been approved to satisfy the Comprehensive Articulation Agreement general education core requirement in social/behavioral sciences.",
+      "institution": "Montgomery Community College"
+    }
+  ],
+  "timestamp": "2025-08-10T20:13:01.617080"
+}

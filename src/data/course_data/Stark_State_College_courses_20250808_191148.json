@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Stark State College",
+    "successful_variation": "Stark State College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Stark+State+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACC 121",
+      "course_title": "Principles of Accounting",
+      "credits": "3.00",
+      "description": "This course is an introduction to accounting which covers the accounting cycle and generally accepted accounting principles in finanical accounting as applied to business entities. Upon completion of this course, students should be able to analyze and record transcations, prepare financial statements and use financial information in decision making.",
+      "institution": "Stark State College"
+    },
+    {
+      "course_id": "ACC 124",
+      "course_title": "Individual Taxation",
+      "credits": "3.00",
+      "description": "This course examines principles of taxation for individuals, including computation of income and deductions, both personal and for the taxpayer's businesses and income-producing properties. In addition, cost recovery, gains and losses, tax credits, and the overall classifications and filing statuses are discussed. Students will prepare a comprehensive tax case on IRS tax forms to gain practical knowledge. Upon completion of the course, the student should be able to analyze complex tax scenarios and determine their impact on an individual's tax liability.",
+      "institution": "Stark State College"
+    },
+    {
+      "course_id": "ACC 130",
+      "course_title": "Business Law and Ethics",
+      "credits": "3.00",
+      "description": "An examination of the functions of the legal system in the business environment. This course includes the study of traditional business law topics and other basic topics applicable to business. A close examination of the intersection between professional ethical decision-making and the legal system as it applies to business. Upon completion, students should be able to demonstrate competence in the fundamental concepts of business law and ethics. TAG approved course-OBU004 effective Fall 2005.",
+      "institution": "Stark State College"
+    },
+    {
+      "course_id": "ACC 132",
+      "course_title": "Financial Accounting",
+      "credits": "4.00",
+      "description": "This course introduces the student to the fundamental processes of accounting through coverage of the accounting cycle consisting of transaction analysis, the recording function and financial statement preparation and analysis. Course coverage continues with a review of receivables; inventory, property, plant and equipment; bonds and stockholder's equity. Emphasis is given to why certain procedures are followed and their financial statement impact. Students may elect to take ACC121, Principles of Accounting, as an introduction to accounting prior to taking this course. TAG approved course-OBU010, effective summer 2015.",
+      "institution": "Stark State College"
+    },
+    {
+      "course_id": "ACC 133",
+      "course_title": "Managerial Accounting",
+      "credits": "4.00",
+      "description": "The emphasis in this course is on the use of accounting information as an internal tool for planning and control. Course coverage includes ratios, cost behavior, cost accumulation and reporting, cost-volume-profit analysis, budgeting, and other decision criteria. While primary coverage will be of this material in a manufacturing setting, service and merchandising applications will also be presented. Upon completion of this course, students should be able to apply the fundamental concepts of managerial accounting to a variety of business decisions. TAG approved course- OBU011, effective summer 2015.",
+      "institution": "Stark State College"
+    },
+    {
+      "course_id": "ACC 221",
+      "course_title": "Intermediate Accounting I",
+      "credits": "4.00",
+      "description": "This is the first in a two-course sequence in the detailed study of accounting theory. It is a study of the conceptual framework of accounting, disclosure standards for general purpose financial statements, and measurement standards for assets, and associated revenues and expenses, including application of compound interest techniques. Upon completion, students should be able to demonstrate competence in applying generally accepted accounting principles in the preparation of financial statements.",
+      "institution": "Stark State College"
+    },
+    {
+      "course_id": "ACC 222",
+      "course_title": "Intermediate Accounting II",
+      "credits": "3.00",
+      "description": "This is the completion of a two-course sequence in the study of accounting theory. In this semester, students become more involved in the discussion of the intention of management in engaging in certain types of transactions and the impact of alternate methods of reporting in the financial statements. The subject areas studied include long-term debt, intercorporate investments, corporate equity matters, earnings per share, revenue recognition, pensions, leases, cash flow statements, and accounting for income taxes. Some review items include certain analytical ratios and other concepts underlying the preparation of meaningful and complete financial statements. Upon completion of the course, students should be able to demonstrate competence in recognition of important disclosures in financial statements, discuss and evaluate alternative",
+      "institution": "Stark State College"
+    },
+    {
+      "course_id": "ACC 223",
+      "course_title": "Cost Accounting",
+      "credits": "4.00",
+      "description": "This course places an emphasis on manufacturing and service organizations. Course coverage includes job costing, process costing, activity-based costing/activity-based management, standard costing, and analysis of cost variances. Upon completion of this course, the student should be able to apply fundamental concepts of cost accounting in making business decisions.",
+      "institution": "Stark State College"
+    },
+    {
+      "course_id": "ACC 225",
+      "course_title": "Auditing",
+      "credits": "4.00",
+      "description": "Emphasis is placed on the philosophy and environment of the public accounting profession, with special attention paid to the nature and economic purpose of audit and assurance services, professional standards, professional conduct, legal liability, audit evidence, audit planning, consideration of internal control, audit sampling, audit workpapers and SOX compliance. Upon completion, students should be able to demonstrate competence in applying the generally accepted auditing standards and the procedures for conducting audits of public and non-public companies.",
+      "institution": "Stark State College"
+    },
+    {
+      "course_id": "ACC 226",
+      "course_title": "Advanced Accounting",
+      "credits": "3.00",
+      "description": "This course covers higher level accounting topics including business combinations and consolidations, accounting for partnerships, as well as the fundamentals of derivatives and the accountant's role in estates and trusts. Consolidation topics include an understanding of the entries necessary to prepare consolidated financial statements including elimination entries for inter-company sales, loans, asset and inventory transfers and preparation of consolidated statement of cash flows. Topics also include understanding the international business environment. Upon completion of the course, the student should understand the fundamentals of consolidations, partnerships, derivatives, and estates and trusts.",
+      "institution": "Stark State College"
+    }
+  ],
+  "timestamp": "2025-08-08T19:11:48.964548"
+}

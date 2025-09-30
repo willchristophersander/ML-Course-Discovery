@@ -1,0 +1,60 @@
+{
+  "search_query": {
+    "institution": "Touro College",
+    "successful_variation": "Touro College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Touro+College&distance=5"
+  },
+  "total_results": 7,
+  "courses": [
+    {
+      "course_id": "BIO 113",
+      "course_title": "Human Biology",
+      "credits": "3.00",
+      "description": "This course is designed to provide an understanding of principles of human biology for the non-science student. Topics include cell structure and function, genetics and reproduction. 3 credits",
+      "institution": "Touro College"
+    },
+    {
+      "course_id": "BIO 117",
+      "course_title": "Anatomy and Physiology",
+      "credits": "1.00",
+      "description": "This course is designed for pre-professional students as an introduction to a basic understanding of the structural organization of the human body starting with the tissues, integumentary, skeletal, muscular, digestive and nervous systems. The course will focus on the cellular organization and on the tissue and organ level of each system. In laboratory exercises, students study and learn structures from various available anatomical models. Not for science majors. 4 credits",
+      "institution": "Touro College"
+    },
+    {
+      "course_id": "BIO 118",
+      "course_title": "Anatomy and Physiology I I",
+      "credits": "4.00",
+      "description": "This course is designed for students who are interested in pursuing careers in healthcare, and particularly for students looking to enter the nursing field. We will learn about the cardiovascular, respiratory, urinary, endocrine and reproductive systems. Selected readings and class discussions are an integral part of the course. Lab exercises will involve observation and dissection of organisms as well as the study of charts, slides and models. 4 credits",
+      "institution": "Touro College"
+    },
+    {
+      "course_id": "BIO 151",
+      "course_title": "Topics in Biology",
+      "credits": "2.00",
+      "description": "An introductory course that presents the basic principles and processes of biological science. Topics include the reproductive systems, development and differentiation, hormonal and nervous control, and the immune response. 2 credits.",
+      "institution": "Touro College"
+    },
+    {
+      "course_id": "BIO 202",
+      "course_title": "Developmental Biology",
+      "credits": "3.00",
+      "description": "Basic principles of animal development, based primarily on development of the vertebrate body. Includes descriptive and experimental studies, readings and reports of classical experiments. (Lecture and laboratory course.) Prerequisites: BIO 101-102. 4 credits.",
+      "institution": "Touro College"
+    },
+    {
+      "course_id": "BIO 206",
+      "course_title": "Cel lular Physiology",
+      "credits": "3.00",
+      "description": "Structure and function of the cell and its organelles. Topics include membrane structure and function, organelle functions, signal transduction, cell cycle and cancer. Prerequisites: BIO 101-102. 3 credits.",
+      "institution": "Touro College"
+    },
+    {
+      "course_id": "BIO 211",
+      "course_title": "Genet ics",
+      "credits": "3.00",
+      "description": "Basic laws of heredity and their physical basis (classical genetics); structure and function of the gene (molecular genetics); and population genetics with some attention to human genetic abnormalities. The laboratory work familiarizes the student with basic techniques in genetic research including making crosses, analysis of data, recombinant DNA technology and problem solving. (Lecture and laboratory course.) Prerequisites: BIO 101-102. 4 credits.",
+      "institution": "Touro College"
+    }
+  ],
+  "timestamp": "2025-08-10T20:57:40.589242"
+}

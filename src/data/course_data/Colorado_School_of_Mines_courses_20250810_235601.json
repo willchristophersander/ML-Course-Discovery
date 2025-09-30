@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Colorado School of Mines",
+    "successful_variation": "Colorado School of Mines",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Colorado+School+of+Mines&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "AFGN 101",
+      "course_title": "Foundations of The United States Air Force",
+      "credits": "1.00",
+      "description": "Introduces students to the U.S. Air Force and the USAF officer profession. Uses instructor lectures, films and videos, and group activities to examine Air Force issues, officership qualities, and military customs and courtesies. Emphasizes the communication skills necessary for an Air Force officer. 1-hour lecture, 2.0 hours lab, 1.5 semester hours.",
+      "institution": "Colorado School of Mines"
+    },
+    {
+      "course_id": "AFGN 102",
+      "course_title": "Foundations of The United States Air Force",
+      "credits": "2.00",
+      "description": "A continuation of AFGN101. 1-hous lecture, 2.0 hours lab, 1.5 semester hours.",
+      "institution": "Colorado School of Mines"
+    },
+    {
+      "course_id": "AFGN 201",
+      "course_title": "The Evolution of Usaf Air And Space Power",
+      "credits": "1.00",
+      "description": "Studies air power from balloons and dirigibles through the jet age and historically reviews air power employment in military and non-military operations in support of national objectives. Looks at the evolution of air power concepts and doctrine and introduces the development of communicative skills. 1-hour lecture, 2.0 hours lab, 1.5 semester hours.",
+      "institution": "Colorado School of Mines"
+    },
+    {
+      "course_id": "AFGN 202",
+      "course_title": "The Evolution of Usaf Air And Space Power",
+      "credits": "3.00",
+      "description": "A continuation of AFGN201. 1-hours lecture, 2.0 hours lab, 1.5 semester hours.",
+      "institution": "Colorado School of Mines"
+    },
+    {
+      "course_id": "AFGN 301",
+      "course_title": "Air Force Leaderhip Studies",
+      "credits": "2.00",
+      "description": "Provides an integrated management course emphasizing concepts and skills required by the successful manager and leader. Includes individual motivational and behavioral processes, leadership, communication, and group dynamics while providing foundation for the development of the junior officer's professional skills (officership). Emphasizes deci- sion making and use of analytic aids in planning, organizing and controlling in a changing environment. Discusses organizational and personal values (ethics), management of change, organizational power, politics, managerial strategy, and tactics within the context of military organization. Uses actual Air Force case studies throughout the course to enhance the learning and communication process. Two 1.5 hour seminars/lectures, 2.0 hours lab, 3.5 semester hours.",
+      "institution": "Colorado School of Mines"
+    },
+    {
+      "course_id": "AFGN 302",
+      "course_title": "Air Force Leaderhip Studies",
+      "credits": "2.00",
+      "description": "A continuation of AFGN301. Emphasizes basic managerial process while employing group discussions, case studies, and role playing as learning devices. Continues to emphasize the development of communicative skills. Two 1.5 hour seminars/ lectures, 2.0 hours lab, 3.5 semester hours.",
+      "institution": "Colorado School of Mines"
+    },
+    {
+      "course_id": "AFGN 401",
+      "course_title": "National Security Affairs And Preparation For Active Duty",
+      "credits": "2.00",
+      "description": "Studies the formulation, organization, and implementation of U.S. national security policy; context of national security; evolution of strategy; management of conflict; and civil-military interaction. Also includes blocks of instruction on the military profession/ officership, the military justice system, and communicative skills. Provides future Air Force officers with the background of U.S. national security policy so they can effectively function in today's Air Force. Two 1.5 hour seminars, 2.0 hours lab, 3.5 semester hours.",
+      "institution": "Colorado School of Mines"
+    },
+    {
+      "course_id": "AFGN 402",
+      "course_title": "National Security Affairs And Preparation For Active Duty",
+      "credits": "2.00",
+      "description": "A continuation of AFGN401. Includes defense strategy conflict management, formulation/implementation of U.S. defense policy, and organizational factors and case studies in policy making, military law, uniform code of military justice, and communication skills. Two 1.5 hour seminars/lectures, 2.0 hours lab, 3..5 semester hours.",
+      "institution": "Colorado School of Mines"
+    },
+    {
+      "course_id": "BELS 301",
+      "course_title": "Esgn301. General Biology I",
+      "credits": "3.00",
+      "description": "This is the first semester of an introductory course in Biology. Emphasis is placed on the methods of science; structural, molecular, and energetic basis of cellular activities; genetic variability and evolution; diversity and life processes in plants and animals; and, principles of ecology. Prerequisite: None. 3 hours lecture; 3 hours semester hours.",
+      "institution": "Colorado School of Mines"
+    },
+    {
+      "course_id": "BELS 303",
+      "course_title": "Esgn303 General Biology II",
+      "credits": "3.00",
+      "description": "This is the continuation of General Biology I. Emphasis is placed on an examination of organisms as the products of evolution. The diversity of life forms will be explored. Special attention will be given to the vertebrate body (organs, tissues, and systems) and how it functions. Prerequisite: General Biology I, or equivalent. 3 hours lecture; 3 semester hours.",
+      "institution": "Colorado School of Mines"
+    }
+  ],
+  "timestamp": "2025-08-10T23:56:01.508781"
+}

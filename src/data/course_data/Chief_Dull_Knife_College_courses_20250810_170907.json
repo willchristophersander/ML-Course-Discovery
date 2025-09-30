@@ -1,0 +1,74 @@
+{
+  "search_query": {
+    "institution": "Chief Dull Knife College",
+    "successful_variation": "Chief Dull Knife College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Chief+Dull+Knife+College&distance=5"
+  },
+  "total_results": 9,
+  "courses": [
+    {
+      "course_id": "AC 150",
+      "course_title": "Foundations of Art",
+      "credits": "3.00",
+      "description": "An introduction to the principles of design, artistic styles and art history with attention to beginning techniques in art.",
+      "institution": "Chief Dull Knife College"
+    },
+    {
+      "course_id": "AC 154",
+      "course_title": "Introduction to Photography",
+      "credits": "3.00",
+      "description": "This class introduces the student to the skills, theory and ethics of photography. Students will learn how to handle a digital camera and work in an interactive environment. The emphasis is based on photographic content, and producing digital images from a variety of assignments such as: portraits, quality of light, features and photo stories.",
+      "institution": "Chief Dull Knife College"
+    },
+    {
+      "course_id": "AC 165",
+      "course_title": "Introduction to Drawing",
+      "credits": "3.00",
+      "description": "Introduces the student to the basic fundamentals of drawing and linear perspective.",
+      "institution": "Chief Dull Knife College"
+    },
+    {
+      "course_id": "AG 100",
+      "course_title": "Introduction to Welding OD",
+      "credits": "3.00",
+      "description": "Introduction to welding includes a strong emphasis on welding safety and situational facility awareness, welding nomenclature as well as basic weldment layout and fit-up procedures. Topics include oxy-acetylene cutting, welding and brazing as well as shielded metal-arc welding processes. The student will work to develop manual skills necessary to produce high quality gas and shielded metal-arc welds and flame cuts. The student learns to set related equipment for all phases of oxy-acetylene welding and cutting. This course specifically develops basic shielded metal arc welding skills such as safety, striking/maintaining proper arc length, adjusting equipment and manipulating the electrode.",
+      "institution": "Chief Dull Knife College"
+    },
+    {
+      "course_id": "AG 120",
+      "course_title": "Introduction to Small Gasoline Engines OD",
+      "credits": "3.00",
+      "description": "This course introduces students to the theory and operating principles of internal combustion engines. Emphasis is placed on basic engine systems, special tools and testing equipment, shop safety rules and equipment. Upon completion, students will understand shop rules and be able to identify engine components, identify special tools and demonstrate their use, discuss the process of internal combustion; identify shop safety rules, list engine components and explain their function.",
+      "institution": "Chief Dull Knife College"
+    },
+    {
+      "course_id": "AG 150",
+      "course_title": "Introduction to World AgriScience and Technology",
+      "credits": "3.00",
+      "description": "Studies the needs of all people: food, fiber and shelter. Blends science, agriculture, and technology together. It emphasizes biological, earth and physical sciences as related to agriculture. Students examine agriculture and its related areas as \"science in action.\"",
+      "institution": "Chief Dull Knife College"
+    },
+    {
+      "course_id": "AG 155",
+      "course_title": "Microcomputers in Agriculture",
+      "credits": "3.00",
+      "description": "Designed to familiarize the student with computer applications as related to general agriculture. This class is designed to be student friendly, and to provide students the opportunity to use personal computers in a variety of agriculture applications.",
+      "institution": "Chief Dull Knife College"
+    },
+    {
+      "course_id": "AG 160",
+      "course_title": "Rangeland Science",
+      "credits": "3.00",
+      "description": "Description of the rangelands of the world: historical, present, and potential use(s). Explanation of how uses affect the nutrient, biological and hydrologic cycles of rangelands and how the ecosystem responds to changes. Concepts as related to ecological condition, land potential and ecological trends will be introduced.",
+      "institution": "Chief Dull Knife College"
+    },
+    {
+      "course_id": "AG 250",
+      "course_title": "Introduction to Animal Science",
+      "credits": "3.00",
+      "description": "Provides the student an overview of the opportunities associated with the production of domestic animals for food, fiber, power, and recreation. Students will have the opportunity to become familiar with breeds and management practices of beef and dairy cattle, sheep, swine, equine and other domesticated livestock.",
+      "institution": "Chief Dull Knife College"
+    }
+  ],
+  "timestamp": "2025-08-10T17:09:07.489850"
+}

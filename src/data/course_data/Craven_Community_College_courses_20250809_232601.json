@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Craven Community College",
+    "successful_variation": "Craven Community College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Craven+Community+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACA 090",
+      "course_title": "Study Skills",
+      "credits": "3.00",
+      "description": "Prerequisites: None Corequisites: None This course is intended for those who placed into credit-level course work but who are not maintaining satisfactory academic progress toward meeting program goals. Topics include study skills, note taking, learning styles and strategies, test taking, goal setting, and self-assessment skills. Upon completion, students should be able to manage their learning experiences to successfully meet educational goals.",
+      "institution": "Craven Community College"
+    },
+    {
+      "course_id": "ACA 111",
+      "course_title": "College Student Success",
+      "credits": "3.00",
+      "description": "Prerequisites: None Corequisites: None This course introduces the college's physical, academic, and social environment and promotes the personal development essential for success. Topics include campus facilities and resources; policies, procedures, and programs; study skills; and life management issues such as health, self-esteem, motivation, goal-setting, diversity, and communication. Upon completion, students should be able to function effectively within the college environment to meet their educational objectives. This course is also available through the Virtual Learning Community (VLC).",
+      "institution": "Craven Community College"
+    },
+    {
+      "course_id": "ACA 115",
+      "course_title": "Success & Study Skills",
+      "credits": "3.00",
+      "description": "Prerequisites: None Corequisites: None This course provides an orientation to the campus resources and academic skills necessary to achieve educational objectives. Emphasis is placed on an exploration of facilities and services, study skills, library skills, self-assessment, wellness, goal-setting, and critical thinking. Upon completion, students should be able to manage their learning experiences to successfully meet educational goals.",
+      "institution": "Craven Community College"
+    },
+    {
+      "course_id": "ACA 118",
+      "course_title": "College Study Skills",
+      "credits": "3.00",
+      "description": "Prerequisites: None Corequisites: None This course covers skills and strategies designed to improve study behaviors. Topics include time management, note taking, test taking, memory techniques, active reading strategies, critical thinking, communication skills, learning styles, and other strategies for effective learning. Upon completion, students should be able to apply appropriate study strategies and techniques to the development of an effective study plan. Library skills and research are introduced.",
+      "institution": "Craven Community College"
+    },
+    {
+      "course_id": "ACA 122",
+      "course_title": "College Transfer Success",
+      "credits": "3.00",
+      "description": "Prerequisites: None Corequisites: None This course provides information and strategies necessary to develop clear academic and professional goals beyond the community college experience. Topics include the CAA, college culture, career exploration, gathering information on senior institutions, strategic planning, critical thinking, and communications skills for a successful academic transition. Upon completion, students should be able to develop an academic plan to transition successfully to senior institutions. This course has been approved to satisfy the Comprehensive Articulation Agreement for transferability as a premajor and/or elective course requirement. Course Title Lec Lab Wk Exp/ Clinic Credit",
+      "institution": "Craven Community College"
+    },
+    {
+      "course_id": "ACC 110",
+      "course_title": "Ten-Key Skills",
+      "credits": "3.00",
+      "description": "Prerequisites: None Corequisites: None This course is designed to enable mastery of the \"touch system\" on a ten-key device.Emphasis is placed on the \"touch system\" on a ten-key device. Upon completion,students should be able to use the \"touch system\" on a ten-key device in makingcomputations necessary in accounting.",
+      "institution": "Craven Community College"
+    },
+    {
+      "course_id": "ACC 115",
+      "course_title": "College Accounting",
+      "credits": "3.00",
+      "description": "Prerequisites: None Corequisites: None This course introduces basic accounting principles for a business. Topics include the complete accounting cycle with end-of-period statements, bank reconciliation, payrolls, and petty cash. Upon completion, students should be able to demonstrate an understanding of accounting principles and apply those skills to a business organization.",
+      "institution": "Craven Community College"
+    },
+    {
+      "course_id": "ACC 120",
+      "course_title": "Prin of Financial Accounting",
+      "credits": "3.00",
+      "description": "Prerequisites: None Corequisites: None This course introduces business decision-making accounting information systems. Emphasis is placed on analyzing, summarizing, reporting, and interpreting financial information. Upon completion, students should be able to prepare financial statements, understand the role of financial information in decision-making and address ethical considerations. This course has been approved to satisfy the Comprehensive Articulation Agreement for transferability as a pre-major and/or elective course requirement. This course is also available through the Virtual Learning Community (VLC).",
+      "institution": "Craven Community College"
+    },
+    {
+      "course_id": "ACC 121",
+      "course_title": "Prin of Managerial Accounting",
+      "credits": "3.00",
+      "description": "Prerequisites: ACC 120 Corequisites: None This course includes a greater emphasis on managerial and cost accounting skills. Emphasis is placed on managerial accounting concepts for external and internal analysis, reporting and decision-making. Upon completion, students should be able to analyze and interpret transactions relating to managerial concepts including product-costing systems. This course has been approved to satisfy the Comprehensive Articulation Agreement for transferability as a pre-major and/or elective course requirement. This course is also available through the Virtual Learning Community (VLC).",
+      "institution": "Craven Community College"
+    },
+    {
+      "course_id": "ACC 130",
+      "course_title": "Business Income Taxes",
+      "credits": "3.00",
+      "description": "Prerequisites: None Corequisites: None This course introduces the relevant laws governing business and fiduciary income taxes. Topics include tax law relating to business organizations, electronic research and methodologies, and the use of technology for the preparation of business tax returns. Upon completion, students should be able to analyze basic tax scenarios, research applicable tax law, and complete various business tax forms. This course is also available through the Virtual Learning Community (VLC). Course Title Lec Lab Wk Exp/ Clinic Credit",
+      "institution": "Craven Community College"
+    }
+  ],
+  "timestamp": "2025-08-09T23:26:01.400984"
+}

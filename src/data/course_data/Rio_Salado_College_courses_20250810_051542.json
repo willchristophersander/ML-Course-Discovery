@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Rio Salado College",
+    "successful_variation": "Rio Salado College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Rio+Salado+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ABA 102",
+      "course_title": "Electrical Fundamentals",
+      "credits": "1.00",
+      "description": "Fundamentals of electricity including electrical hazards, Occupational Safety and Health Administration (OSHA) regulations, units of measurements and using Ohm's law. Circuit characteristics and the use of Kirchoff's voltage and current laws to calculate voltage drop, current and resistance. Operation and use of specific meters. Includes an introduction to the National Electrical Code (NEC). Prerequisites: None.",
+      "institution": "Rio Salado College"
+    },
+    {
+      "course_id": "ABA 103",
+      "course_title": "Hand Bending of Electrical Conduit",
+      "credits": "0.50",
+      "description": "Conduit bending and installation. Techniques for using hand operated and step conduit benders. Cutting, reaming and threading conduit. Prerequisites: None.",
+      "institution": "Rio Salado College"
+    },
+    {
+      "course_id": "ABA 104",
+      "course_title": "Raceways, Boxes, Fittings, Anchors/ Supports",
+      "credits": "1.50",
+      "description": "Types and applications of conduit, raceways, wireways and ducts. Types, applications and wiring techniques for conductors. Hardware and systems used to mount and support boxes, receptacles and other electrical components. Prerequisites: Registered Apprentice status or permission of the apprenticeship coordinator.",
+      "institution": "Rio Salado College"
+    },
+    {
+      "course_id": "ABA 120",
+      "course_title": "Carpentry Fundamentals",
+      "credits": "1.00",
+      "description": "Overview of the carpentry trade. Apprenticeship programs and responsibilities of the apprentice. Types and uses of nails, fasteners and adhesives. Types of wood, lumber and manufactured wood products. Prerequisites: Registered apprentice status or permission of the apprenticeship coordinator.",
+      "institution": "Rio Salado College"
+    },
+    {
+      "course_id": "ABA 121",
+      "course_title": "Floor and Wall Systems",
+      "credits": "2.00",
+      "description": "Framing systems, floor construction, center beam and post support systems. Construction of sills, joists and bridging. Subflooring, mechanical connectors and the use of prefabricated joists. Wall construction, stud walls, panelized walls, masonry walls, post and beam walls, use of metal studs and drywall construction. Prerequisites: (Registered apprentice status and ABA120) or permission of the apprenticeship coordinator.",
+      "institution": "Rio Salado College"
+    },
+    {
+      "course_id": "ABA 130",
+      "course_title": "Installation of Electric Services",
+      "credits": "1.00",
+      "description": "Electric services for commercial and industrial installations. Blueprints, diagrams and electrical calculations. Grounding, connecting three phase services and the installation of panelboards, switches and load centers. Prerequisites: Registered Apprentice status or permission of the apprenticeship coordinator.",
+      "institution": "Rio Salado College"
+    },
+    {
+      "course_id": "ABA 150",
+      "course_title": "Advanced Calculations for Electricians",
+      "credits": "1.50",
+      "description": "Advanced mathematical calculations in the electrical industry. Powers and roots in watts, voltage, current and resistance. Metric and engineering units. English and metric systems for length, area, volume and mass, and energy and temperature measurements. Ratios, proportions, formulas, symbols and representation. Trigonometry and the Pythagorean theory. Plane and rotating vectors. Basic functions of the scientific calculator for electricians. Prerequisites: Registered apprentice status or permission of apprenticeship coordinator.",
+      "institution": "Rio Salado College"
+    },
+    {
+      "course_id": "ABC 119",
+      "course_title": "Basic Safety",
+      "credits": "1.00",
+      "description": "Overview of safety rules and procedures for working on construction job sites. Prerequisites: Registered Apprentice status or permission of the apprenticeship coordinator.",
+      "institution": "Rio Salado College"
+    },
+    {
+      "course_id": "ABC 120",
+      "course_title": "Basic Calculations for Construction",
+      "credits": "1.50",
+      "description": "Addition, subtraction, multiplication and division of whole, decimal, fractional and metric numbers. Metric units of length, weight, volume and temperature. Metric system as it relates to the construction trade. Basic algebraic operations and equations. Prerequisites: Registered Apprentice status or permission of the apprenticeship coordinator.",
+      "institution": "Rio Salado College"
+    },
+    {
+      "course_id": "ABC 121",
+      "course_title": "Introduction to Hand and Power Tools",
+      "credits": "1.00",
+      "description": "Overview of the use, maintenance and safety procedures for common hand and power tools. Prerequisites: Registered Apprentice status or permission of the apprenticeship coordinator.",
+      "institution": "Rio Salado College"
+    }
+  ],
+  "timestamp": "2025-08-10T05:15:42.243725"
+}

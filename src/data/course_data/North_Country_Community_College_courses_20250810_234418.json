@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "North Country Community College",
+    "successful_variation": "North Country Community College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=North+Country+Community+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ANT 100",
+      "course_title": "Cultural Anthropology",
+      "credits": "3.00",
+      "description": "An introduction to the discipline of anthropology and its theoretical framework. Case studies will be used to demonstrate the comparative technique and to develop an objectivity that can be applied to the study of one's own culture.",
+      "institution": "North Country Community College"
+    },
+    {
+      "course_id": "ANT 135",
+      "course_title": "Archaeology",
+      "credits": "3.00",
+      "description": "The study of past cultures based upon their physical remains: buildings, tools, and other artifacts. Archaeology produces a better understanding of the human past, showing how people lived and used their environment and resources.",
+      "institution": "North Country Community College"
+    },
+    {
+      "course_id": "ANT 140",
+      "course_title": "Introduction to Human Origins",
+      "credits": "3.00",
+      "description": "The study of the origins and subsequent evolution of the human species based upon analysis of the fossil record, the origins of culture, language and other characteristics which make us human. Contemporary human variation will also be examined.",
+      "institution": "North Country Community College"
+    },
+    {
+      "course_id": "ART 100",
+      "course_title": "Art- Western World;Renaissance to Modern",
+      "credits": "3.00",
+      "description": "An examination of the importance of art as cultural expression from the Renaissance to modern times and from a global perspective. Each course section will cover basic issues and approaches to art, including stylistic analysis, patronage, art's relationship to religion, ideology, society and economy, gender roles, and the interaction of cultures. Case studies will include architecture, sculpture, paintings, and other arts, such as ceramics, textiles, and photography.",
+      "institution": "North Country Community College"
+    },
+    {
+      "course_id": "ART 101",
+      "course_title": "Drawing I",
+      "credits": "3.00",
+      "description": "An introductory studio art course that teaches students how to learn to draw. Through correct observation and experimentation with various materials, students can become aware of their own ability to draw and to express themselves creatively.",
+      "institution": "North Country Community College"
+    },
+    {
+      "course_id": "ART 105",
+      "course_title": "Intro to Computer Graphics",
+      "credits": "3.00",
+      "description": "An introductory course focused on various computer software and hardware components for computer graphic design, and on the underlying principles and processes employed in the dynamic field of computer graphics.",
+      "institution": "North Country Community College"
+    },
+    {
+      "course_id": "ART 111",
+      "course_title": "Design I",
+      "credits": "3.00",
+      "description": "Investigation of the tools, materials, and principles of design in two and three dimensional form. Design principles such as line, texture, color, space, balance, rhythm, unity, composition, and solids and voids will be discussed and applied in a series of exercises.",
+      "institution": "North Country Community College"
+    },
+    {
+      "course_id": "ART 125",
+      "course_title": "Intro to Digital Illustration",
+      "credits": "3.00",
+      "description": "An introductory course focused on expanding student knowledge of software and hardware components for computer illustration design. Students will master vectorbased drawing tools and the techniques essential to production of attractive digital drawings and illustrated documents.",
+      "institution": "North Country Community College"
+    },
+    {
+      "course_id": "ART 131",
+      "course_title": "Sculpture",
+      "credits": "3.00",
+      "description": "An introduction to the materials, techniques, and theories of sculpture. Students will create three dimensional works through modeling in clay, carving in wood, and constructing from a variety of materials.",
+      "institution": "North Country Community College"
+    },
+    {
+      "course_id": "ART 150",
+      "course_title": "Photography I",
+      "credits": "3.00",
+      "description": "A technical and aesthetic approach to photography that enables the individual to approach the subject creatively. Major topics include the camera, film, light, composition, the darkroom, and processing. Film and darkroom work are required outside of class time.",
+      "institution": "North Country Community College"
+    }
+  ],
+  "timestamp": "2025-08-10T23:44:18.645288"
+}

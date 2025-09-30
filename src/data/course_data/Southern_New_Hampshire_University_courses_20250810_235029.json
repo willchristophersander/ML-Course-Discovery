@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Southern New Hampshire University",
+    "successful_variation": "Southern New Hampshire University",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Southern+New+Hampshire+University&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACC 201",
+      "course_title": "Financial Accounting",
+      "credits": "3.00",
+      "description": "Financial Accounting establishes the rules and regulations for preparing accounting information used by internal and external sources to evaluate the financial health of an organization. This course will develop the student's ability to interpret financial accounting information, to communicate this information and to understand the accounting system that produces this information.",
+      "institution": "Southern New Hampshire University"
+    },
+    {
+      "course_id": "ACC 202",
+      "course_title": "Managerial Accounting",
+      "credits": "3.00",
+      "description": "Managerial Accounting will explore the financial impact of alternative business decisions and the financial benefits of new business practices. After completing this course, the student will understand how accounting and other productivity information can be used to assess the past and improve the future performance of a business by giving managers essential information they need to make more informed decisions.",
+      "institution": "Southern New Hampshire University"
+    },
+    {
+      "course_id": "ACC 207",
+      "course_title": "Cost Accounting",
+      "credits": "3.00",
+      "description": "This course examines the accounting concepts and practices used in the recording, classifying and reporting of cost data. An analysis is made of the behavior of costs and its use to management in the planning and control process. Budgeting, standard cost, job order and process are examined, along with special problems in cost accounting.",
+      "institution": "Southern New Hampshire University"
+    },
+    {
+      "course_id": "ACC 307",
+      "course_title": "Intermediate Acct I",
+      "credits": "3.00",
+      "description": "This is the first of three courses in intermediate accounting. These courses are designed to extend a student's knowledge of financial accounting practices. The first course focuses on understanding the theoretical framework that provides the foundations for the development of various accounting standards, regulations and practices. This followed by a review of the accounting cycle, including adjusting, correcting, reversing, and closing entries. Students will learn how to prepare accurate and complex financial statements including required disclosures that must accompany an organization's income statement, balance sheet and statement of cash flows; and how time value of money impacts the recording of various transactions. The course concludes with a presentation of techniques to analyze income measurement and profitability analysis.",
+      "institution": "Southern New Hampshire University"
+    },
+    {
+      "course_id": "ACC 308",
+      "course_title": "Intermediate Acct II",
+      "credits": "3.00",
+      "description": "This is the second of three courses in intermediate accounting. These courses are designed to extend a student's knowledge of financial accounting practices. The second course focuses on an improved understanding of a company's assets and begins a discussion of liabilities. Students will study the recording and disclosure requirements for cash and receivables, inventories, long-lived operational assets and investments, which also serve as financial instruments for an organization. The course concludes with a presentation of recording and disclosure requirements for current and long-term liabilities. Integrated within this course will be exposure to CPA simulation questions and the use of the FARS database for conducting accounting research.",
+      "institution": "Southern New Hampshire University"
+    },
+    {
+      "course_id": "ACC 309",
+      "course_title": "Intermediate Acct III",
+      "credits": "3.00",
+      "description": "This is the last of three courses in intermediate accounting. These courses are designed to extend a student's knowledge of financial accounting practices. Students will study the reporting and disclosure requirements for more complex accounting topics that would include leases, accounting for income taxes and pensions, and shareholders' equity, including share-based compensation and various earnings per share (EPS) computations. Other financial reporting issues discussed include accounting changes and error corrections as well as the presentation of requirements for partnership accounting issues. Integrated within this course will be exposure to CPA simulation questions and the use of the FARS database for conducting accounting research.",
+      "institution": "Southern New Hampshire University"
+    },
+    {
+      "course_id": "ACC 312",
+      "course_title": "International Mgrl Accounting",
+      "credits": "3.00",
+      "description": "The study of foreign currencies and exchange risk management, global organization and control, planning and performance evaluation in multinational enterprises, multinational taxation, global financial statement analysis, and transparency and disclosure in global environment to gain an appreciation and understanding of international managerial accounting. The above studies will relate to international accounting and reporting considerations, standards, and responsibilities. Global marker.",
+      "institution": "Southern New Hampshire University"
+    },
+    {
+      "course_id": "ACC 315",
+      "course_title": "Accounting System Applications",
+      "credits": "3.00",
+      "description": "This course introduces the student to various commercial accounting software application programs. The student will have hands-on experience with actual computer preparation of accounting transactions using accounting software in general ledger, financial statement preparation, accounts receivable, accounts payable, cost control and allocation and budgeting. It is assumed that students have a basic working knowledge of personal computers. Programming knowledge is not necessary.",
+      "institution": "Southern New Hampshire University"
+    },
+    {
+      "course_id": "ACC 322",
+      "course_title": "Governmental/Non-Profit Acctng",
+      "credits": "3.00",
+      "description": "This course covers the accounting principles and procedures applicable to governmental and nonprofit institutions.",
+      "institution": "Southern New Hampshire University"
+    },
+    {
+      "course_id": "ACC 330",
+      "course_title": "Federal Taxation I",
+      "credits": "3.00",
+      "description": "A detailed presentation is made of the theory and practice applicable to the preparation of federal income tax returns for individuals.",
+      "institution": "Southern New Hampshire University"
+    }
+  ],
+  "timestamp": "2025-08-10T23:50:29.878767"
+}

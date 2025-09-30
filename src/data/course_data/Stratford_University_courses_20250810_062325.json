@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Stratford University",
+    "successful_variation": "Stratford University",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Stratford+University&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACC 299",
+      "course_title": "Intermediate Accounting I",
+      "credits": "4.50",
+      "description": "This course provides an in-depth study of accounting theory and a review of the accounting cycle. Concentrates on the preparation of financial statements, the valuation of cash and temporary investments, receivables, and accounting for inventories. Refers to pronouncements of the Financial Accounting Standards Board (FASB). Prerequisite: BUS 122 or Experience.",
+      "institution": "Stratford University"
+    },
+    {
+      "course_id": "ACC 300",
+      "course_title": "Intermediate Accounting II",
+      "credits": "4.50",
+      "description": "This course covers the accounting for intangible assets, current and non-current liabilities, stockholders' equity, investments, income taxes, compensation, leases, additional reporting issues, and discounted cash flows. The material refers to pronouncements of the Financial Accounting Standards Board and the American Institute of Certified Public Accountants. Prerequisite: Intermediate Accounting I.",
+      "institution": "Stratford University"
+    },
+    {
+      "course_id": "ACC 301",
+      "course_title": "Intermediate Accounting III",
+      "credits": "4.50",
+      "description": "This course is an extension of ACC 304, Intermediate II. Topics covered include the accounting for investments, revenue recognition, income taxes, pensions and postretirement benefits, and leases; accounting changes and error analysis; preparation of the statement of cash flows; and full disclosure in financial reporting. The material refers to pronouncements of the Financial Accounting Standards Board and the American Institute of Certified Public Accountants. Prerequisite: Intermediate Accounting II.",
+      "institution": "Stratford University"
+    },
+    {
+      "course_id": "ACC 330",
+      "course_title": "Cost Accounting",
+      "credits": "4.50",
+      "description": "This course covers accounting procedures relating to the process cost system, the estimated cost system, and the standard cost system. Examines the accounting for by-products and includes comprehensive coverage of budgeting for all areas of business enterprise: sales, production, commercial expenses, capital investments, and forecasting. Prerequisite: Accounting II.",
+      "institution": "Stratford University"
+    },
+    {
+      "course_id": "ACC 335",
+      "course_title": "Auditing",
+      "credits": "4.50",
+      "description": "This course covers theory of auditing, including the educational and moral qualifications for auditors, as well as the role of the auditor in the American economy. Emphasizes professional standards, professional ethics, and the legal liability of auditors. Comprehensively covers planning and designing the audit program, gathering and summarizing evidence, and internal control. Prerequisite: Intermediate Accounting II.",
+      "institution": "Stratford University"
+    },
+    {
+      "course_id": "ACC 350",
+      "course_title": "Non- Profi t/ Municipal Accounting",
+      "credits": "4.50",
+      "description": "This course analyzes accounting procedures peculiar to non-profit organizations and municipalities. It illustrates statements commonly prepared for each type of organization, fund, and account group. The course also encompasses GAAP standards and reporting requirements that pertain to non-profit organizations and GASB standards and reporting requirements that relate to government accounting. Prerequisite: Intermediate Accounting II.",
+      "institution": "Stratford University"
+    },
+    {
+      "course_id": "ACC 410",
+      "course_title": "Advanced Accounting",
+      "credits": "4.50",
+      "description": "This course covers accounting for home office and branches, business combinations, and consolidations. It provides a continuation of the preparation for the CPA examination as well as various techniques for solving some of the more complex problems in the business environment. Prerequisite: Intermediate Accounting II.",
+      "institution": "Stratford University"
+    },
+    {
+      "course_id": "ACC 460",
+      "course_title": "Advanced Federal Taxation",
+      "credits": "4.50",
+      "description": "This course includes a comprehensive study of the federal income tax structure and the practical application of income tax accounting to specific problems as related to individuals and proprietorships. Emphasizes the general filing status, includable and excludable income, analysis of the categories of itemized and other deductions, tax treatment of sales and exchange of property, available depreciation methods and recapture provisions. Introduces the alternative minimum tax on individuals, the earned income credit, child care credit, and credit for the elderly. Prerequisite: BUS 122.",
+      "institution": "Stratford University"
+    },
+    {
+      "course_id": "ACC 490",
+      "course_title": "Accounting Capstone: Senior Seminar in Accounting",
+      "credits": "4.50",
+      "description": "This course is designed to aid the student in synthesizing and applying knowledge gained in earlier courses and to conduct applied professional research in accounting. Discussion questions, exercises, and research cases will be assigned and reviewed from the research textbook. The initial class sessions will also be used to assist the students to define a research project, develop a research proposal, and initiate a research effort. The final report will be defended by the student in a presentation to the instructor. Prerequisite: None.",
+      "institution": "Stratford University"
+    },
+    {
+      "course_id": "BAK 124",
+      "course_title": "Artisan Breads",
+      "credits": "4.50",
+      "description": "This course focuses on the art of bread baking from quick and yeast breads to laminated doughs and international and breakfast breads. Students will also learn how artisan baking differs from commercial bread baking. Food Usage and Supplemental Instructional Fee applies. Prerequisite: CUL160.",
+      "institution": "Stratford University"
+    }
+  ],
+  "timestamp": "2025-08-10T06:23:25.291442"
+}

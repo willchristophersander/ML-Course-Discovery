@@ -1,0 +1,67 @@
+{
+  "search_query": {
+    "institution": "Mercyhurst University",
+    "successful_variation": "Mercyhurst University",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Mercyhurst+University&distance=5"
+  },
+  "total_results": 8,
+  "courses": [
+    {
+      "course_id": "ACCT 201",
+      "course_title": "Intermediate Accounting I",
+      "credits": "3.00",
+      "description": "A detailed examination of the development of specific accounting theories relating to the principles of valuation of the major balance sheet accounts. Prerequisite: Acct 102. 3 credits.",
+      "institution": "Mercyhurst University"
+    },
+    {
+      "course_id": "ACCT 202",
+      "course_title": "Intermediate Accounting II",
+      "credits": "3.00",
+      "description": "A continuation of Intermediate Accounting I which deals with accounting theories relating to the valuation of the major balance sheet accounts. Prerequisite: Acct 201. 3 credits.",
+      "institution": "Mercyhurst University"
+    },
+    {
+      "course_id": "ACCT 203",
+      "course_title": "Intermediate Accounting III",
+      "credits": "3.00",
+      "description": "A continuation of the Intermediate Accounting cycle which deals with several advanced topics including the accounting for leases, pensions, and income taxes. Prerequisite: Acct 202. 3 credits.",
+      "institution": "Mercyhurst University"
+    },
+    {
+      "course_id": "ACCT 210",
+      "course_title": "Managerial Accounting",
+      "credits": "3.00",
+      "description": "A study of a variety of financial data and financial analysis tools employed by management in the functions of planning, control and decision making. The course will survey the elements of cost systems and the accounting structure. Prerequisite: Acct 102. 3 credits.",
+      "institution": "Mercyhurst University"
+    },
+    {
+      "course_id": "ACCT 330",
+      "course_title": "Tax Accounting",
+      "credits": "3.00",
+      "description": "A study of the Internal Revenue Code with primary emphasis on the provisions affecting individual taxpayers. Major topics include identification of items of gross income, business deductions, qualifications for dependents, itemized deductions, filing status, and computation of taxable income. Prerequisite: Acct 102. 3 credits.",
+      "institution": "Mercyhurst University"
+    },
+    {
+      "course_id": "ACCT 335",
+      "course_title": "Corporate Tax Accounting",
+      "credits": "3.00",
+      "description": "A study of the Internal Revenue Code as it relates to corporations, subchapter S corporations, partnerships and other business entities. Major topics include a review of the tax implications of capital contributions and withdrawals, tax research, and various special tax situations. Prerequisite: Acct 330. 3 credits.",
+      "institution": "Mercyhurst University"
+    },
+    {
+      "course_id": "ACCT 340",
+      "course_title": "Cost Accounting",
+      "credits": "3.00",
+      "description": "Examination of accounting techniques for control of material, labor, and overhead costs in a manufacturing operation. Material includes types of cost systems, cost records, job order costing and budget controls. Prerequisite: Acct 201. 3 credits.",
+      "institution": "Mercyhurst University"
+    },
+    {
+      "course_id": "ACCT 350",
+      "course_title": "Accounting For Governmental And Nonprofit Entities",
+      "credits": "3.00",
+      "description": "A study of governmental, college and university, and health care entities' accounting. The governmental accounting course focuses on the eleven funds. Prerequisite: Acct 201. 3 credits.",
+      "institution": "Mercyhurst University"
+    }
+  ],
+  "timestamp": "2025-08-10T14:37:32.229648"
+}

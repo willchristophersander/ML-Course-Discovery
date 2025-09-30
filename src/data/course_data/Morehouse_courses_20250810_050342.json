@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Morehouse",
+    "successful_variation": "Morehouse",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Morehouse&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "HAAS 100",
+      "course_title": "Intro to African-American Stud",
+      "credits": "3.00",
+      "description": "No course description available.",
+      "institution": "Morehouse"
+    },
+    {
+      "course_id": "HAAS 102",
+      "course_title": "Cultural Anthropology",
+      "credits": "3.00",
+      "description": "No course description available.",
+      "institution": "Morehouse"
+    },
+    {
+      "course_id": "HAAS 106",
+      "course_title": "Intro to Computer Science",
+      "credits": "3.00",
+      "description": "No course description available.",
+      "institution": "Morehouse"
+    },
+    {
+      "course_id": "HAAS 156",
+      "course_title": "Men in Society",
+      "credits": "3.00",
+      "description": "No course description available.",
+      "institution": "Morehouse"
+    },
+    {
+      "course_id": "HAAS 200",
+      "course_title": "Theories of Africentricity",
+      "credits": "3.00",
+      "description": "No course description available.",
+      "institution": "Morehouse"
+    },
+    {
+      "course_id": "HAAS 202",
+      "course_title": "Cultural Anthropology",
+      "credits": "3.00",
+      "description": "No course description available.",
+      "institution": "Morehouse"
+    },
+    {
+      "course_id": "HAAS 210",
+      "course_title": "Black Aesthetic/Hip Hop",
+      "credits": "3.00",
+      "description": "No course description available.",
+      "institution": "Morehouse"
+    },
+    {
+      "course_id": "HAAS 211",
+      "course_title": "Survey of U.S. History to 1800",
+      "credits": "3.00",
+      "description": "No course description available.",
+      "institution": "Morehouse"
+    },
+    {
+      "course_id": "HAAS 213",
+      "course_title": "History of U.S.--1876-1929",
+      "credits": "3.00",
+      "description": "No course description available.",
+      "institution": "Morehouse"
+    },
+    {
+      "course_id": "HAAS 221",
+      "course_title": "History of Afri. Amer. to 1865",
+      "credits": "3.00",
+      "description": "No course description available.",
+      "institution": "Morehouse"
+    }
+  ],
+  "timestamp": "2025-08-10T05:03:42.151335"
+}

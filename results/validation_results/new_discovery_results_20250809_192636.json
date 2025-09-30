@@ -1,0 +1,680 @@
+{
+  "timestamp": "2025-08-09T19:26:36.406203",
+  "analysis": {
+    "total_universities": 35,
+    "discovery_success_rate": 0.6285714285714286,
+    "avg_discovery_confidence": 0.8350000000000001,
+    "validation_success_rate": 0.11428571428571428,
+    "avg_validation_confidence": 0.25,
+    "course_finding_rate": 0.65,
+    "avg_discovery_time": 21.25157583100455,
+    "avg_validation_time": 2.0535986627851215,
+    "successful_discoveries": [
+      {
+        "university": "Colorado Community College System",
+        "url": "https://classes.colorado.edu/",
+        "discovery_confidence": 0.935,
+        "validation_confidence": 0.0,
+        "courses_found": "0/0"
+      },
+      {
+        "university": "Washington University, Saint Louis",
+        "url": "https://courses.washington.edu/",
+        "discovery_confidence": 0.935,
+        "validation_confidence": 0.0,
+        "courses_found": "0/0"
+      },
+      {
+        "university": "Bucks County Community College",
+        "url": "https://www.bucks.edu/catalog/",
+        "discovery_confidence": 0.905,
+        "validation_confidence": 0.2,
+        "courses_found": "4/5"
+      },
+      {
+        "university": "Brandman University",
+        "url": "https://catalog.umassglobal.edu/academic-policies-procedures/undergraduate-credit-hour-based/",
+        "discovery_confidence": 0.68,
+        "validation_confidence": 0.0,
+        "courses_found": "0/0"
+      },
+      {
+        "university": "Clark State Community College",
+        "url": "https://www.clark.edu/404.php",
+        "discovery_confidence": 0.925,
+        "validation_confidence": 0.0,
+        "courses_found": "0/0"
+      },
+      {
+        "university": "New Mexico State University-Alamogordo",
+        "url": "https://catalogs.nmsu.edu/alamogordo/",
+        "discovery_confidence": 0.665,
+        "validation_confidence": 0.2,
+        "courses_found": "2/5"
+      },
+      {
+        "university": "Kankakee Community College",
+        "url": "https://kcc.smartcatalogiq.com/en/2024-2025/academic-catalog/courses/",
+        "discovery_confidence": 0.7949999999999999,
+        "validation_confidence": 0.0,
+        "courses_found": "0/0"
+      },
+      {
+        "university": "Augustana College (SD)",
+        "url": "https://www.augustana.edu/academics/catalog",
+        "discovery_confidence": 0.905,
+        "validation_confidence": 0.0,
+        "courses_found": "0/0"
+      },
+      {
+        "university": "Grossmont College",
+        "url": "https://www.grossmont.edu/classes",
+        "discovery_confidence": 0.925,
+        "validation_confidence": 0.0,
+        "courses_found": "0/0"
+      },
+      {
+        "university": "United States Air Force Academy",
+        "url": "https://united.edu/schedule-a-video-call/",
+        "discovery_confidence": 0.895,
+        "validation_confidence": 0.0,
+        "courses_found": "0/0"
+      },
+      {
+        "university": "Washington & Lee University",
+        "url": "https://courses.washington.edu/",
+        "discovery_confidence": 0.935,
+        "validation_confidence": 0.0,
+        "courses_found": "0/0"
+      },
+      {
+        "university": "Arkansas State University-Beebe",
+        "url": "https://www.asub.edu/college-catalog/",
+        "discovery_confidence": 0.68,
+        "validation_confidence": 0.0,
+        "courses_found": "0/0"
+      },
+      {
+        "university": "Marine Biological Laboratory",
+        "url": "https://www.mbl.edu/education/advanced-research-training-courses/course-offerings",
+        "discovery_confidence": 0.77,
+        "validation_confidence": 0.0,
+        "courses_found": "0/0"
+      },
+      {
+        "university": "Hartwick College",
+        "url": "https://www.hartwick.edu/academics/student-services/office-of-the-registrar/course-offerings-registration/",
+        "discovery_confidence": 0.735,
+        "validation_confidence": 0.0,
+        "courses_found": "0/0"
+      },
+      {
+        "university": "Stevenson University",
+        "url": "https://www.stevenson.edu/academics/catalog/",
+        "discovery_confidence": 0.905,
+        "validation_confidence": 0.0,
+        "courses_found": "0/0"
+      },
+      {
+        "university": "Concordia College - Moorhead",
+        "url": "https://catalog.concordiacollege.edu/",
+        "discovery_confidence": 0.68,
+        "validation_confidence": 0.0,
+        "courses_found": "0/0"
+      },
+      {
+        "university": "Augustana College (IL)",
+        "url": "https://www.augustana.edu/academics/catalog",
+        "discovery_confidence": 0.905,
+        "validation_confidence": 0.0,
+        "courses_found": "0/0"
+      },
+      {
+        "university": "Central Connecticut State University",
+        "url": "https://central.edu/event/classes-resume/",
+        "discovery_confidence": 0.925,
+        "validation_confidence": 0.0,
+        "courses_found": "0/0"
+      },
+      {
+        "university": "Alvin Community College",
+        "url": "https://self-service.alvincollege.edu/Student/Courses",
+        "discovery_confidence": 0.735,
+        "validation_confidence": 0.0,
+        "courses_found": "0/0"
+      },
+      {
+        "university": "University of Arkansas - Fort Smith",
+        "url": "https://catalog.mit.edu/",
+        "discovery_confidence": 0.8500000000000001,
+        "validation_confidence": 0.0,
+        "courses_found": "0/0"
+      },
+      {
+        "university": "Columbia Basin College",
+        "url": "https://catalog.columbiabasin.edu/current/courses/index.html",
+        "discovery_confidence": 0.78,
+        "validation_confidence": 0.4,
+        "courses_found": "4/5"
+      },
+      {
+        "university": "McHenry County College",
+        "url": "https://catalog.mchenry.edu/",
+        "discovery_confidence": 0.905,
+        "validation_confidence": 0.2,
+        "courses_found": "3/5"
+      }
+    ],
+    "failed_discoveries": [
+      {
+        "university": "Dodge City Community College",
+        "error": "Timeout 30000ms exceeded."
+      },
+      {
+        "university": "Troy University",
+        "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.troy.edu/academics/academic-resources/schedule-of-classes.html\", waiting until \"load\"\n"
+      },
+      {
+        "university": "University of Hawaii at Manoa",
+        "error": "Page.click: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"a[href='https://catalog.manoa.hawaii.edu/']\")\n"
+      },
+      {
+        "university": "Westmont College",
+        "error": "Page.click: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"a[href='https://www.westmont.edu/office-registrar/course-information']\")\n"
+      },
+      {
+        "university": "University of Cincinnati",
+        "error": "Page.click: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"a[href='https://carnegieclassifications.acenet.edu/carnegie-classification/classification-methodology/2021-enrollment-profile-classification/']\")\n    - locator resolved to <a class=\"nav-link\" title=\"2021 Enrollment Profile Classification\" href=\"https://carnegieclassifications.acenet.edu/carnegie-classification/classification-methodology/2021-enrollment-profile-classification/\">2021 Enrollment Profile Classification</a>\n  - attempting click action\n    2 \u00d7 waiting for element to be visible, enabled and stable\n      - element is not visible\n    - retrying click action\n    - waiting 20ms\n    2 \u00d7 waiting for element to be visible, enabled and stable\n      - element is not visible\n    - retrying click action\n      - waiting 100ms\n    58 \u00d7 waiting for element to be visible, enabled and stable\n       - element is not visible\n     - retrying click action\n       - waiting 500ms\n"
+      },
+      {
+        "university": "Bunker Hill Community College",
+        "error": "Page.click: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"a[href='https://en.wikipedia.org/wiki/Special:Search']\")\n"
+      },
+      {
+        "university": "Lansing Community College",
+        "error": "Page.click: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"a[href='https://starnetb.lcc.edu/StudentRegistrationSsb/ssb/term/termSelection?mode=search']\")\n    - locator resolved to 2 elements. Proceeding with the first one: <a target=\"_blank\" href=\"https://starnetb.lcc.edu/StudentRegistrationSsb/ssb/term/termSelection?mode=search\">\u2026</a>\n  - attempting click action\n    2 \u00d7 waiting for element to be visible, enabled and stable\n      - element is not visible\n    - retrying click action\n    - waiting 20ms\n    2 \u00d7 waiting for element to be visible, enabled and stable\n      - element is not visible\n    - retrying click action\n      - waiting 100ms\n    58 \u00d7 waiting for element to be visible, enabled and stable\n       - element is not visible\n     - retrying click action\n       - waiting 500ms\n"
+      },
+      {
+        "university": "Lehigh Carbon Community College",
+        "error": "Page.click: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"a[href='https://www2.lehigh.edu/research/research-centers-institutes']\")\n"
+      },
+      {
+        "university": "University of Charleston",
+        "error": "Could not find course search page after navigation"
+      },
+      {
+        "university": "The Art Institutes",
+        "error": "Could not find course search page after navigation"
+      },
+      {
+        "university": "Assumption College for Sisters",
+        "error": "Page.click: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"a[href='https://acs350.org/admissions/course-descriptions/']\")\n    - locator resolved to 2 elements. Proceeding with the first one: <a class=\"\" href=\"https://acs350.org/admissions/course-descriptions/\">\u2026</a>\n  - attempting click action\n    2 \u00d7 waiting for element to be visible, enabled and stable\n      - element is not visible\n    - retrying click action\n    - waiting 20ms\n    2 \u00d7 waiting for element to be visible, enabled and stable\n      - element is not visible\n    - retrying click action\n      - waiting 100ms\n    56 \u00d7 waiting for element to be visible, enabled and stable\n       - element is not visible\n     - retrying click action\n       - waiting 500ms\n"
+      },
+      {
+        "university": "Oklahoma Christian University",
+        "error": "Timeout 30000ms exceeded."
+      },
+      {
+        "university": "Graceland College",
+        "error": "Page.click: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"a[href='https://www.graceland.edu/alumni/submit-a-class-note/']\")\n    - locator resolved to 2 elements. Proceeding with the first one: <a href=\"https://www.graceland.edu/alumni/submit-a-class-note/\">\u2026</a>\n  - attempting click action\n    2 \u00d7 waiting for element to be visible, enabled and stable\n      - element is not visible\n    - retrying click action\n    - waiting 20ms\n    2 \u00d7 waiting for element to be visible, enabled and stable\n      - element is not visible\n    - retrying click action\n      - waiting 100ms\n    58 \u00d7 waiting for element to be visible, enabled and stable\n       - element is not visible\n     - retrying click action\n       - waiting 500ms\n"
+      }
+    ]
+  },
+  "detailed_results": [
+    {
+      "university_name": "Dodge City Community College",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "Timeout 30000ms exceeded.",
+      "discovery_time": 36.42790389060974,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "Colorado Community College System",
+      "discovered_url": "https://classes.colorado.edu/",
+      "discovery_success": true,
+      "discovery_confidence": 0.935,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No test courses found in CollegeTransfer.net",
+      "discovery_time": 32.315223932266235,
+      "validation_time": 2.876868963241577
+    },
+    {
+      "university_name": "Washington University, Saint Louis",
+      "discovered_url": "https://courses.washington.edu/",
+      "discovery_success": true,
+      "discovery_confidence": 0.935,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No test courses found in CollegeTransfer.net",
+      "discovery_time": 9.4652259349823,
+      "validation_time": 6.29177188873291
+    },
+    {
+      "university_name": "Bucks County Community College",
+      "discovered_url": "https://www.bucks.edu/catalog/",
+      "discovery_success": true,
+      "discovery_confidence": 0.905,
+      "validation_success": true,
+      "validation_confidence": 0.2,
+      "test_courses_found": 4,
+      "total_test_courses": 5,
+      "error_message": null,
+      "discovery_time": 9.478553771972656,
+      "validation_time": 3.421891212463379
+    },
+    {
+      "university_name": "Brandman University",
+      "discovered_url": "https://catalog.umassglobal.edu/academic-policies-procedures/undergraduate-credit-hour-based/",
+      "discovery_success": true,
+      "discovery_confidence": 0.68,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No test courses found in CollegeTransfer.net",
+      "discovery_time": 6.50040602684021,
+      "validation_time": 3.78944730758667
+    },
+    {
+      "university_name": "Clark State Community College",
+      "discovered_url": "https://www.clark.edu/404.php",
+      "discovery_success": true,
+      "discovery_confidence": 0.925,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No test courses found in CollegeTransfer.net",
+      "discovery_time": 12.76698899269104,
+      "validation_time": 2.518490791320801
+    },
+    {
+      "university_name": "New Mexico State University-Alamogordo",
+      "discovered_url": "https://catalogs.nmsu.edu/alamogordo/",
+      "discovery_success": true,
+      "discovery_confidence": 0.665,
+      "validation_success": true,
+      "validation_confidence": 0.2,
+      "test_courses_found": 2,
+      "total_test_courses": 5,
+      "error_message": null,
+      "discovery_time": 7.523035049438477,
+      "validation_time": 2.43192982673645
+    },
+    {
+      "university_name": "Kankakee Community College",
+      "discovered_url": "https://kcc.smartcatalogiq.com/en/2024-2025/academic-catalog/courses/",
+      "discovery_success": true,
+      "discovery_confidence": 0.7949999999999999,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No test courses found in CollegeTransfer.net",
+      "discovery_time": 8.223505973815918,
+      "validation_time": 2.059218168258667
+    },
+    {
+      "university_name": "Troy University",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.troy.edu/academics/academic-resources/schedule-of-classes.html\", waiting until \"load\"\n",
+      "discovery_time": 37.19303822517395,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "Augustana College (SD)",
+      "discovered_url": "https://www.augustana.edu/academics/catalog",
+      "discovery_success": true,
+      "discovery_confidence": 0.905,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No test courses found in CollegeTransfer.net",
+      "discovery_time": 12.02655839920044,
+      "validation_time": 2.373605728149414
+    },
+    {
+      "university_name": "Grossmont College",
+      "discovered_url": "https://www.grossmont.edu/classes",
+      "discovery_success": true,
+      "discovery_confidence": 0.925,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No test courses found in CollegeTransfer.net",
+      "discovery_time": 8.782055139541626,
+      "validation_time": 2.1928210258483887
+    },
+    {
+      "university_name": "University of Hawaii at Manoa",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "Page.click: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"a[href='https://catalog.manoa.hawaii.edu/']\")\n",
+      "discovery_time": 60.75686192512512,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "United States Air Force Academy",
+      "discovered_url": "https://united.edu/schedule-a-video-call/",
+      "discovery_success": true,
+      "discovery_confidence": 0.895,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No test courses found in CollegeTransfer.net",
+      "discovery_time": 17.815283060073853,
+      "validation_time": 3.4694161415100098
+    },
+    {
+      "university_name": "Westmont College",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "Page.click: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"a[href='https://www.westmont.edu/office-registrar/course-information']\")\n",
+      "discovery_time": 47.83823084831238,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "Washington & Lee University",
+      "discovered_url": "https://courses.washington.edu/",
+      "discovery_success": true,
+      "discovery_confidence": 0.935,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No test courses found in CollegeTransfer.net",
+      "discovery_time": 7.305931091308594,
+      "validation_time": 3.2936413288116455
+    },
+    {
+      "university_name": "University of Cincinnati",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "Page.click: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"a[href='https://carnegieclassifications.acenet.edu/carnegie-classification/classification-methodology/2021-enrollment-profile-classification/']\")\n    - locator resolved to <a class=\"nav-link\" title=\"2021 Enrollment Profile Classification\" href=\"https://carnegieclassifications.acenet.edu/carnegie-classification/classification-methodology/2021-enrollment-profile-classification/\">2021 Enrollment Profile Classification</a>\n  - attempting click action\n    2 \u00d7 waiting for element to be visible, enabled and stable\n      - element is not visible\n    - retrying click action\n    - waiting 20ms\n    2 \u00d7 waiting for element to be visible, enabled and stable\n      - element is not visible\n    - retrying click action\n      - waiting 100ms\n    58 \u00d7 waiting for element to be visible, enabled and stable\n       - element is not visible\n     - retrying click action\n       - waiting 500ms\n",
+      "discovery_time": 38.721378803253174,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "Bunker Hill Community College",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "Page.click: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"a[href='https://en.wikipedia.org/wiki/Special:Search']\")\n",
+      "discovery_time": 35.92232394218445,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "Arkansas State University-Beebe",
+      "discovered_url": "https://www.asub.edu/college-catalog/",
+      "discovery_success": true,
+      "discovery_confidence": 0.68,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No test courses found in CollegeTransfer.net",
+      "discovery_time": 24.517922163009644,
+      "validation_time": 5.142668962478638
+    },
+    {
+      "university_name": "Lansing Community College",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "Page.click: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"a[href='https://starnetb.lcc.edu/StudentRegistrationSsb/ssb/term/termSelection?mode=search']\")\n    - locator resolved to 2 elements. Proceeding with the first one: <a target=\"_blank\" href=\"https://starnetb.lcc.edu/StudentRegistrationSsb/ssb/term/termSelection?mode=search\">\u2026</a>\n  - attempting click action\n    2 \u00d7 waiting for element to be visible, enabled and stable\n      - element is not visible\n    - retrying click action\n    - waiting 20ms\n    2 \u00d7 waiting for element to be visible, enabled and stable\n      - element is not visible\n    - retrying click action\n      - waiting 100ms\n    58 \u00d7 waiting for element to be visible, enabled and stable\n       - element is not visible\n     - retrying click action\n       - waiting 500ms\n",
+      "discovery_time": 36.413849115371704,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "Marine Biological Laboratory",
+      "discovered_url": "https://www.mbl.edu/education/advanced-research-training-courses/course-offerings",
+      "discovery_success": true,
+      "discovery_confidence": 0.77,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No test courses found in CollegeTransfer.net",
+      "discovery_time": 5.036243915557861,
+      "validation_time": 3.5210049152374268
+    },
+    {
+      "university_name": "Hartwick College",
+      "discovered_url": "https://www.hartwick.edu/academics/student-services/office-of-the-registrar/course-offerings-registration/",
+      "discovery_success": true,
+      "discovery_confidence": 0.735,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No test courses found in CollegeTransfer.net",
+      "discovery_time": 10.696975946426392,
+      "validation_time": 2.4708921909332275
+    },
+    {
+      "university_name": "Stevenson University",
+      "discovered_url": "https://www.stevenson.edu/academics/catalog/",
+      "discovery_success": true,
+      "discovery_confidence": 0.905,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No test courses found in CollegeTransfer.net",
+      "discovery_time": 33.068567752838135,
+      "validation_time": 3.3622593879699707
+    },
+    {
+      "university_name": "Concordia College - Moorhead",
+      "discovered_url": "https://catalog.concordiacollege.edu/",
+      "discovery_success": true,
+      "discovery_confidence": 0.68,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No test courses found in CollegeTransfer.net",
+      "discovery_time": 6.0352818965911865,
+      "validation_time": 3.315091133117676
+    },
+    {
+      "university_name": "Lehigh Carbon Community College",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "Page.click: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"a[href='https://www2.lehigh.edu/research/research-centers-institutes']\")\n",
+      "discovery_time": 39.8120379447937,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "University of Charleston",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "Could not find course search page after navigation",
+      "discovery_time": 8.266901969909668,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "The Art Institutes",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "Could not find course search page after navigation",
+      "discovery_time": 6.683127164840698,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "Augustana College (IL)",
+      "discovered_url": "https://www.augustana.edu/academics/catalog",
+      "discovery_success": true,
+      "discovery_confidence": 0.905,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No test courses found in CollegeTransfer.net",
+      "discovery_time": 7.893858909606934,
+      "validation_time": 2.378157138824463
+    },
+    {
+      "university_name": "Assumption College for Sisters",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "Page.click: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"a[href='https://acs350.org/admissions/course-descriptions/']\")\n    - locator resolved to 2 elements. Proceeding with the first one: <a class=\"\" href=\"https://acs350.org/admissions/course-descriptions/\">\u2026</a>\n  - attempting click action\n    2 \u00d7 waiting for element to be visible, enabled and stable\n      - element is not visible\n    - retrying click action\n    - waiting 20ms\n    2 \u00d7 waiting for element to be visible, enabled and stable\n      - element is not visible\n    - retrying click action\n      - waiting 100ms\n    56 \u00d7 waiting for element to be visible, enabled and stable\n       - element is not visible\n     - retrying click action\n       - waiting 500ms\n",
+      "discovery_time": 41.038299798965454,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "Central Connecticut State University",
+      "discovered_url": "https://central.edu/event/classes-resume/",
+      "discovery_success": true,
+      "discovery_confidence": 0.925,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No test courses found in CollegeTransfer.net",
+      "discovery_time": 8.339384078979492,
+      "validation_time": 3.295742988586426
+    },
+    {
+      "university_name": "Alvin Community College",
+      "discovered_url": "https://self-service.alvincollege.edu/Student/Courses",
+      "discovery_success": true,
+      "discovery_confidence": 0.735,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No test courses found in CollegeTransfer.net",
+      "discovery_time": 7.200740814208984,
+      "validation_time": 2.2076001167297363
+    },
+    {
+      "university_name": "University of Arkansas - Fort Smith",
+      "discovered_url": "https://catalog.mit.edu/",
+      "discovery_success": true,
+      "discovery_confidence": 0.8500000000000001,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No test courses found in CollegeTransfer.net",
+      "discovery_time": 8.822630882263184,
+      "validation_time": 6.903094053268433
+    },
+    {
+      "university_name": "Oklahoma Christian University",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "Timeout 30000ms exceeded.",
+      "discovery_time": 35.97475790977478,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "Columbia Basin College",
+      "discovered_url": "https://catalog.columbiabasin.edu/current/courses/index.html",
+      "discovery_success": true,
+      "discovery_confidence": 0.78,
+      "validation_success": true,
+      "validation_confidence": 0.4,
+      "test_courses_found": 4,
+      "total_test_courses": 5,
+      "error_message": null,
+      "discovery_time": 8.348079681396484,
+      "validation_time": 2.146420955657959
+    },
+    {
+      "university_name": "McHenry County College",
+      "discovered_url": "https://catalog.mchenry.edu/",
+      "discovery_success": true,
+      "discovery_confidence": 0.905,
+      "validation_success": true,
+      "validation_confidence": 0.2,
+      "test_courses_found": 3,
+      "total_test_courses": 5,
+      "error_message": null,
+      "discovery_time": 26.628830194473267,
+      "validation_time": 2.413918972015381
+    },
+    {
+      "university_name": "Graceland College",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "Page.click: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"a[href='https://www.graceland.edu/alumni/submit-a-class-note/']\")\n    - locator resolved to 2 elements. Proceeding with the first one: <a href=\"https://www.graceland.edu/alumni/submit-a-class-note/\">\u2026</a>\n  - attempting click action\n    2 \u00d7 waiting for element to be visible, enabled and stable\n      - element is not visible\n    - retrying click action\n    - waiting 20ms\n    2 \u00d7 waiting for element to be visible, enabled and stable\n      - element is not visible\n    - retrying click action\n      - waiting 100ms\n    58 \u00d7 waiting for element to be visible, enabled and stable\n       - element is not visible\n     - retrying click action\n       - waiting 500ms\n",
+      "discovery_time": 39.96515893936157,
+      "validation_time": 0.0
+    }
+  ]
+}

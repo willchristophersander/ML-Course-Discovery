@@ -1,0 +1,74 @@
+{
+  "search_query": {
+    "institution": "South Puget Sound Community College",
+    "successful_variation": "South Puget Sound Community College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=South+Puget+Sound+Community+College&distance=5"
+  },
+  "total_results": 9,
+  "courses": [
+    {
+      "course_id": "ABE 041",
+      "course_title": "ABE Level I",
+      "credits": "0.00",
+      "description": "Non-credit course for students with special needs in basic skills education who, at intake, test at or below 200 on the CASAS appraisal test. Prerequisite: Placement by testing.",
+      "institution": "South Puget Sound Community College"
+    },
+    {
+      "course_id": "ABE 042",
+      "course_title": "ABE Level II",
+      "credits": "0.00",
+      "description": "Non-credit course for students with special needs in basic skills education who, at intake, tests between 201-210 on the CASAS appraisal test. Prerequisite: Placement by testing.",
+      "institution": "South Puget Sound Community College"
+    },
+    {
+      "course_id": "ABE 043",
+      "course_title": "ABE Level III",
+      "credits": "0.00",
+      "description": "Non credit course designed to teach reading, writing and computational skills to individuals who have a goal to improve basic skills and, at intake, score between 211-220 on a CASAS appraisal test (grade equivalents 4.0-5.9). Prerequisite: Placement by testing.",
+      "institution": "South Puget Sound Community College"
+    },
+    {
+      "course_id": "ABE 044",
+      "course_title": "ABE Level IV",
+      "credits": "0.00",
+      "description": "Non credit course designed to teach reading, writing and computational skills to individuals who have a goal to improve basic skills and, at intake, score between 221-235 on a CASAS appraisal test (grade equivalents 6.0-8.9). Prerequisite: Placement by testing.",
+      "institution": "South Puget Sound Community College"
+    },
+    {
+      "course_id": "ABE 053",
+      "course_title": "ABE III-Language Arts",
+      "credits": "0.00",
+      "description": "Individual and group instruction for students who desire to improve skills in reading and writing. Prerequisite: Placement by testing.",
+      "institution": "South Puget Sound Community College"
+    },
+    {
+      "course_id": "ABE 054",
+      "course_title": "ABE IV-Language Arts",
+      "credits": "0.00",
+      "description": "Individual and group instruction for students who desire to improve skills in reading and writing. Prerequisite: Placement by testing.",
+      "institution": "South Puget Sound Community College"
+    },
+    {
+      "course_id": "ABE 063",
+      "course_title": "Adult Basic Education III-Math",
+      "credits": "0.00",
+      "description": "Individual and group instruction for students desiring to improve skills in mathematics. Prerequisite: Placement by testing.",
+      "institution": "South Puget Sound Community College"
+    },
+    {
+      "course_id": "ABE 064",
+      "course_title": "Adult Basic Education IV-Math",
+      "credits": "0.00",
+      "description": "Individual and group instruction for students desiring to improve skills in mathematics in preparation for the GED class, college classes or employment. Prerequisite: Placement by testing.",
+      "institution": "South Puget Sound Community College"
+    },
+    {
+      "course_id": "ACCT 151",
+      "course_title": "Electronic Ten-Key Calculator",
+      "credits": "2.00",
+      "description": "Involves mastery of desk calculator ten-key pad by touch and applications involving addition, subtraction, multiplication, and division to solve common business problems that include the computation of interest, markup, markdown, percentages, and discounts. Prerequisite: buS 104 or mATh 108.",
+      "institution": "South Puget Sound Community College"
+    }
+  ],
+  "timestamp": "2025-08-10T23:34:40.921845"
+}

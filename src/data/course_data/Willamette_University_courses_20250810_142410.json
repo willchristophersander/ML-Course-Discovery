@@ -1,0 +1,74 @@
+{
+  "search_query": {
+    "institution": "Willamette University",
+    "successful_variation": "Willamette University",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Willamette+University&distance=5"
+  },
+  "total_results": 9,
+  "courses": [
+    {
+      "course_id": "AES 144",
+      "course_title": "Topics in American Ethnic Studies",
+      "credits": "1.00",
+      "description": "This course provides the flexibility to offer introductory topics of interest in American Ethnic Studies. The course may study a particular topic within American Ethnic Studies, or offer a survey of topics within American Ethnic Studies. Prerequisite: Closed to junior and seniors, except by consent of instructor. Offering: On demand Instructor: Staff",
+      "institution": "Willamette University"
+    },
+    {
+      "course_id": "AES 150",
+      "course_title": "Introduction to American Ethnic Studies",
+      "credits": "1.00",
+      "description": "This course examines the historical, political and social dynamics of race and ethnicity in the United States. It investigates the creation and effects of these social concepts on the experiences, identities and relations of various peoples, as well as the culture and structures of society. The course will focus on the various ways race and ethnicity are recreated in society, particularly by the media, and the way these \"social constructions\" perpetuate privilege and social inequality. It will critically investigate the myths and contradictions of race and ethnicity, and will attempt to understand what purposes they serve in a \"color-bound\" contemporary U.S. society. Prerequisite: Freshmen and Sophomores only or consent of instructor. Offering: Every semester Instructor: Drew",
+      "institution": "Willamette University"
+    },
+    {
+      "course_id": "AES 330",
+      "course_title": "Theory and Methods in American Ethnic Studies",
+      "credits": "1.00",
+      "description": "In this course, students will become familiar with the theoretical and methodological approaches in the interdisciplinary and evolving field of Ethnic Studies. It examines the key theories and methods that give voice to the realities of people of color, as well as group relations and resistance to inequality. This course analyzes the major theoretical paradigms for understanding race and ethnicity, evaluating the strengths and limitations for each framework in helping to bring about social change. It also explores and utilizes the methods of social science, recognizing the role, contribution and imitations of scientific inquiry for interpreting social reality. Other epistemological approaches will be assessed to determine what they bring to bare on empirical realities. Prerequisite: AES 150; junior/senior standing; and at least one elective course in AES. Offering: Spring Instructor: Drew",
+      "institution": "Willamette University"
+    },
+    {
+      "course_id": "AES 337",
+      "course_title": "African-American Literature",
+      "credits": "1.00",
+      "description": "[Crosslisted with ENGL 337] A study of modern/contemporary literature written by African-Americans. Formal and thematic analysis of the novel with secondary examples from folktale, lyric and drama. Prerequisite: A 100-level Literature course and a minimum of sophomore standing Offering: Alternate years Instructor: Staff",
+      "institution": "Willamette University"
+    },
+    {
+      "course_id": "AES 344",
+      "course_title": "Advanced Topics in American Ethnic Studies",
+      "credits": "1.00",
+      "description": "This course provides the flexibility to offer special topics of interest in American Ethnic Studies. The course may study a particular topic within American Ethnic Studies, or a particular problem dealing with American Ethnic Studies methods and/or theory in depth. Prerequisite: Prior coursework in American Ethnic Studies encouraged. Closed to first year students, except by consent of instructor. Offering: On demand Instructor: Staff",
+      "institution": "Willamette University"
+    },
+    {
+      "course_id": "AES 354",
+      "course_title": "Racial Justice Movements in the United States",
+      "credits": "1.00",
+      "description": "Since the earliest stages of U.S. \"nation-building,\" principles or white supremacy have been woven into the fabric of U.S. society. This course explores some of the most significant movements in U.S. history that sought to resist this dominant racial ideology and to promote social justice. It also considers some of the lesser-known protest efforts in which smaller coalitions of engaged people helped to build a culture of resistance and ultimately transform society. Students will analyze why, how and with what consequence movements for racial justice emanate, gain momentum, and ultimately seed new social struggle. Through examining social resistance, they will consider how movements for racial justice--historical and contemporary--contribute to identity construction, the re-writing of a \"people's history,\" social justice struggles, and the reclamation of democracy. Closed to first-year students. Prerequisite: AES 150, SOC 114 Offering: Alternate years Instructor: Drew",
+      "institution": "Willamette University"
+    },
+    {
+      "course_id": "AES 357",
+      "course_title": "Ethnicity and Race in American Literature",
+      "credits": "1.00",
+      "description": "[Crosslisted with ENGL 357] Exploration of traditions in America's multicultural literatures: literary representations of relations between and within different ethnic and racial groups. Texts and emphases will vary. Prerequisite: A 100-level literature course Offering: Alternate years Instructor: Michel",
+      "institution": "Willamette University"
+    },
+    {
+      "course_id": "AES 491",
+      "course_title": "Independent Study in American Ethnic Studies",
+      "credits": "1.00",
+      "description": "This course provides an opportunity for students to engage an area or topic of their choice in American Ethnic Studies, through a program of directed reading, research and writing, discussion and peer review. It involves developing and presenting a major research paper under the close supervision of an AES faculty member, sometimes in consultation with faculty teaching senior seminars outside of the AES program. This process is intended to deepen students' insight into the perspectives, theory and methods of AES; hone their skills of critical thinking; sharpen their abilities to analyze theory and test ideas through research; and ensure that their research designs and methodologies are effective and appropriate. Prerequisite: AES 150; senior standing Offering: On demand Instructor: Staff",
+      "institution": "Willamette University"
+    },
+    {
+      "course_id": "AMST 250",
+      "course_title": "American Cultural Perspectives",
+      "credits": "1.00",
+      "description": "This is the beginning course of the American Studies major but open to non-majors as well. The course will assess American high, popular and folk cultures, addressing issues of race, gender and ethnicity. Discussions of American Studies methodology and theory will inform these investigations. General Education Requirement Fulfillment: Writing centered Offering: Fall Instructor: Strelow",
+      "institution": "Willamette University"
+    }
+  ],
+  "timestamp": "2025-08-10T14:24:10.362224"
+}

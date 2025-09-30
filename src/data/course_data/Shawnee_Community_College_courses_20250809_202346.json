@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Shawnee Community College",
+    "successful_variation": "Shawnee Community College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Shawnee+Community+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACC 111",
+      "course_title": "Financial Accounting",
+      "credits": "4.00",
+      "description": "T BUS 903 Summer/Fall/Spring This course presents accounting as an information system that produces basic financial statements, such as income statement, statement of owner's equity, cash flows statement, and balance sheet, primarily for external users of the business. Students study sole proprietorship, partnership, and corporation ownership and journal transactions as they relate to business. The main content emphasis will be accounting for current assets and liabilities, longterm assets and liabilities, corporations' cash flow statements, and financial statement analyses. The accountant's role of analyzing and interpreting data for decision-making is also included. Credit: 4 hours - Four lecture hours per week. Prerequisite(s): High School Bookkeeping or Bookkeeping-BUS 124",
+      "institution": "Shawnee Community College"
+    },
+    {
+      "course_id": "ACC 112",
+      "course_title": "Managerial Accounting",
+      "credits": "4.00",
+      "description": "T BUS 904 Summer/Fall/Spring This course presents accounting as a system for producing information to use internally in managing a business. Planning, controlling, and evaluating the performance of the separate components of a business are emphasized through the identification, accumulation, and interpretation of data. Identification and measurement of the costs of producing goods and services are analyzed, and means of controlling these costs are studied. Decision models used in making short- and long-term business decisions are included in the course of study. Credit: 4 hours - Four lecture hours per week. Prerequisite(s): Financial Accounting-ACC 111",
+      "institution": "Shawnee Community College"
+    },
+    {
+      "course_id": "ACC 121",
+      "course_title": "Payroll Accounting",
+      "credits": "2.00",
+      "description": "Spring This course involves the calculation of earnings whether hourly, piece rate, commission, weekly, or salary, computation of employee taxes such as FICA, federal, and state, and computation of employer taxes such as FICA, FUTA, and SUTA. Other topics covered include overtime calculations, reporting forms to the government, and computerized payroll. Students will complete a payroll simulation. Credit: 2 hours - Two lecture hours per week. Prerequisite(s): High School Bookkeeping or Bookkeeping-BUS 124",
+      "institution": "Shawnee Community College"
+    },
+    {
+      "course_id": "ACC 199",
+      "course_title": "Accounting Internship Summer/ Fall/ Spring",
+      "credits": "2.00",
+      "description": "This course is designed to provide employment experience in a position that will utilize the specialized skills of the student enrolled in the accounting program. Each student is required to complete 150 contact hours at an approved worksite during the semester. Credit: 2 hours - Ten lab hours per week. Prerequisite(s): Career Development - INT 111 and Instructor's Approval.",
+      "institution": "Shawnee Community College"
+    },
+    {
+      "course_id": "ACC 213",
+      "course_title": "Cost Accounting",
+      "credits": "3.00",
+      "description": "T Fall Job order, process, just in time, cost-volume-profit relationships, variable costing, profit planning, standard costs, performance measures, flexible budgets, overhead analysis, segment reporting, and profitability analysis are areas of study. Credit: 3 hours - Three lecture hours per week. Prerequisite(s): Managerial Accounting-ACC 112",
+      "institution": "Shawnee Community College"
+    },
+    {
+      "course_id": "ACC 219",
+      "course_title": "Quickbooks",
+      "credits": "2.00",
+      "description": "Fall/Spring The course Quickbooks introduces the accounting student to an accounting software package which is intended for the small business owner. Quickbooks helps the business owner/worker manage business finances by using computers. Credit: 2 hour - One lecture and two lab hours per week. Prerequisite(s)s: None",
+      "institution": "Shawnee Community College"
+    },
+    {
+      "course_id": "ACC 223",
+      "course_title": "Tax Accounting",
+      "credits": "3.00",
+      "description": "Spring The study of tax accounting includes tax responsibilities of individuals, partnerships, and corporations; income inclusions and exclusions; capital gains and losses; business and personal deductions; dividends, inventories, and depreciation; special filings; death, gift, trust, and estate taxes, and planning for tax minimization. Credit: 3 hours - Three lecture hours per week. Prerequisite(s): Financial Accounting-ACC 111",
+      "institution": "Shawnee Community College"
+    },
+    {
+      "course_id": "ACC 224",
+      "course_title": "Computerized Accounting Applications",
+      "credits": "3.00",
+      "description": "Fall/Spring This course makes use of computers in the accounting process. A commercial accounting software package is used. Accounts payable, accounts receivable, payroll, cash receipts, cash payments, and general ledger modules are completed. Credit: 3 hours - Two lecture and two lab hours per week. Prerequisite(s): Financial Accounting-ACC 111",
+      "institution": "Shawnee Community College"
+    },
+    {
+      "course_id": "ACP 111",
+      "course_title": "Orientation to Human Services",
+      "credits": "3.00",
+      "description": "By Request A brief survey of all the Human Services occupations in agencies located in the surrounding metropolitan area is offered. Credit: 3 hours - Three lecture hours per week. Prerequisite(s)s: None",
+      "institution": "Shawnee Community College"
+    },
+    {
+      "course_id": "ACP 120",
+      "course_title": "Current Trends in Social Services",
+      "credits": "3.00",
+      "description": "By Request This course is an examination of the special problems of the poor, the unemployed, the aged, women, and the sick, the handicapped, minorities, etc. It is a study of federal and state legislation in the social field and its implications. An examination of current policies and practices designed to deal with social problems is also included. Credit: 3 hours - Three lecture hours per week. Prerequisite(s): Orientation to Human Services-ACP 111",
+      "institution": "Shawnee Community College"
+    }
+  ],
+  "timestamp": "2025-08-09T20:23:46.412205"
+}

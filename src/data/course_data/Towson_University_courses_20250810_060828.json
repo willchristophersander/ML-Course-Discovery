@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Towson University",
+    "successful_variation": "Towson University",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Towson+University&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACCT 201",
+      "course_title": "Acct Princ I",
+      "credits": "3.00",
+      "description": "Accounting in the decision-making process of a business, including the effects of accounting events on business financial statements; planning and decision-making tools in the operating cycle; process of recording and communicating accounting information.",
+      "institution": "Towson University"
+    },
+    {
+      "course_id": "ACCT 202",
+      "course_title": "Acct Princ Ii",
+      "credits": "3.00",
+      "description": "Accounting in the decision-making process of a business, including analysis of the operating cycle and cash management and controls; evaluating business performance through financial statement analysis; spreadsheet applications and team learning activities. Prerequisite: ACCT 201 or ACCT 211.",
+      "institution": "Towson University"
+    },
+    {
+      "course_id": "ACCT 211",
+      "course_title": "Honors Accounting Principles I",
+      "credits": "3.00",
+      "description": "This course is similar to ACCT 201 except that it emphasizes more conceptual approaches to accounting and requires completion of a research paper, case studies and practice sets. It also requires a considerable amount of computer based instruction. Prerequisites: SAT scores 550 or above, Verbal; 600 or above, Math and Admission to the Honors College.",
+      "institution": "Towson University"
+    },
+    {
+      "course_id": "ACCT 212",
+      "course_title": "Hnr Acct Ii",
+      "credits": "3.00",
+      "description": "This course is similar to ACCT 202 except that it emphasizes more conceptual approaches to accounting and requires completion of a research paper, case studies and practice sets. It also requires a considerable amount of computer based instruction. Prerequisites: SAT scores 550 or above, Verbal; 600 or above, Math, Admission to the Honors College, and ACCT 211 with a grade equivalent of 2.00 or higher.",
+      "institution": "Towson University"
+    },
+    {
+      "course_id": "ACCT 300",
+      "course_title": "Accounting Information Systems",
+      "credits": "3.00",
+      "description": "Accounting system concepts and technologies, transaction processing systems and other accounting applications, the analysis and development of accounting systems, and the control of accounting information. Projects include the use of commercial accounting software. Prerequisite: ACCT 202 or ACCT 212.",
+      "institution": "Towson University"
+    },
+    {
+      "course_id": "ACCT 301",
+      "course_title": "Interm Acct I",
+      "credits": "3.00",
+      "description": "GAAP accounting theory, analysis of financial statements; revenue recognition methods; accounting for changes and errors and for changes in prices; financial statement analysis. Prerequisite: ACCT 202 or ACCT 212 with a grade equivalent of 2.00 or higher.",
+      "institution": "Towson University"
+    },
+    {
+      "course_id": "ACCT 302",
+      "course_title": "Interm Acct Ii",
+      "credits": "3.00",
+      "description": "Analysis of assets (cash, receivables, inventories, fixed assets and intangibles) and liabilities. Concepts of present value analysis. Prerequisites: ACCT 301 with a grade equivalent of 2.00 or higher.",
+      "institution": "Towson University"
+    },
+    {
+      "course_id": "ACCT 303",
+      "course_title": "Interm Acct Iii",
+      "credits": "3.00",
+      "description": "Analysis of equity. Reporting of earnings per share. Accounting for investments, leases, post-employment benefits and income taxes. Prerequisites: ACCT 302 with a grade equivalent of 2.00 or higher and ACCT Major Standing.",
+      "institution": "Towson University"
+    },
+    {
+      "course_id": "ACCT 321",
+      "course_title": "Advanced Accounting I",
+      "credits": "3.00",
+      "description": "Partnership accounting, multinational accounting, accounting for non-business organizations and business combinations and consolidations. Prerequisites: ACCT 303 with a grade equivalent of 2.00 or higher and ACCT Major Standing.",
+      "institution": "Towson University"
+    },
+    {
+      "course_id": "ACCT 341",
+      "course_title": "Cost Acct I",
+      "credits": "3.00",
+      "description": "Components of manufacturing cost under the job order and processing cost system will be discussed. Elements of standard cost accounting, variance analysis and direct cost will be presented. Prerequisite: ACCT 202 or ACCT 212 with a grade equivalent of 2.00 or higher.",
+      "institution": "Towson University"
+    }
+  ],
+  "timestamp": "2025-08-10T06:08:28.813093"
+}

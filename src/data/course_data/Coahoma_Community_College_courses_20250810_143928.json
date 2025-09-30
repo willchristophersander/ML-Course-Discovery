@@ -1,0 +1,18 @@
+{
+  "search_query": {
+    "institution": "Coahoma Community College",
+    "successful_variation": "Coahoma Community College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Coahoma+Community+College&distance=5"
+  },
+  "total_results": 1,
+  "courses": [
+    {
+      "course_id": "ABT 100",
+      "course_title": "Abt 1013, Abt 1023 Introduction to Collision Repair Technology, Introduction to Collision Repair Technoogy I, or Introduction to Collision Repair Technology II",
+      "credits": "6.00",
+      "description": "These courses contain the baseline competencies and suggested objectives from the high school curriculum which directly relate to the community college program. The courses are designed for students entering the community college who have had no previous training or documented experience in the filed (3- 6 semester hours based upon existing skills for each student, may be divided into 2 courses for a maximum total of 6 hours of institutional credit.)",
+      "institution": "Coahoma Community College"
+    }
+  ],
+  "timestamp": "2025-08-10T14:39:28.166845"
+}

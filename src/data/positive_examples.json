@@ -1,0 +1,98 @@
+[
+  {
+    "url": "https://soc.uvm.edu",
+    "title": "UNIVERSITY OF VERMONT - Schedule of Courses",
+    "description": "Course search and schedule of courses",
+    "university": "University of Vermont",
+    "confidence": 0.999,
+    "verified": true
+  },
+  {
+    "url": "https://courses.yale.edu",
+    "title": "Search Yale Courses",
+    "description": "Yale Course Search is the official resource for viewing course offerings",
+    "university": "Yale University",
+    "confidence": 0.999,
+    "verified": true
+  },
+  {
+    "url": "https://catalog.yale.edu",
+    "title": "Yale University Publications",
+    "description": "Course catalog and academic information",
+    "university": "Yale University",
+    "confidence": 0.999,
+    "verified": true
+  },
+  {
+    "url": "https://catalog.mit.edu",
+    "title": "MIT Course Catalog",
+    "description": "MIT course catalog and academic information",
+    "university": "MIT",
+    "confidence": 1.0,
+    "verified": true
+  },
+  {
+    "url": "https://catalog.berkeley.edu",
+    "title": "UC Berkeley Course Catalog",
+    "description": "UC Berkeley course catalog and academic information",
+    "university": "University of California Berkeley",
+    "confidence": 0.998,
+    "verified": true
+  },
+  {
+    "url": "https://courses.utexas.edu",
+    "title": "UT Course Schedule",
+    "description": "University of Texas course schedule and catalog",
+    "university": "University of Texas Austin",
+    "confidence": 0.979,
+    "verified": true
+  },
+  {
+    "url": "https://registrar.washington.edu",
+    "title": "UW Course Catalog",
+    "description": "University of Washington course catalog",
+    "university": "University of Washington",
+    "confidence": 0.911,
+    "verified": true
+  },
+  {
+    "url": "https://registrar.wisc.edu",
+    "title": "UW Madison Course Catalog",
+    "description": "University of Wisconsin Madison course catalog",
+    "university": "University of Wisconsin Madison",
+    "confidence": 0.813,
+    "verified": true
+  },
+  {
+    "url": "https://courses.illinois.edu",
+    "title": "UIUC Course Catalog",
+    "description": "University of Illinois Urbana-Champaign course catalog",
+    "university": "University of Illinois Urbana-Champaign",
+    "confidence": 0.999,
+    "verified": true
+  },
+  {
+    "url": "https://catalog.unc.edu",
+    "title": "UNC Course Catalog",
+    "description": "University of North Carolina Chapel Hill course catalog",
+    "university": "University of North Carolina Chapel Hill",
+    "confidence": 0.996,
+    "verified": true
+  },
+  {
+    "url": "https://catalog.ufl.edu",
+    "title": "UF Course Catalog",
+    "description": "University of Florida course catalog",
+    "university": "University of Florida",
+    "confidence": 0.998,
+    "verified": true
+  },
+  {
+    "url": "https://catalog.umn.edu",
+    "title": "UMN Course Catalog",
+    "description": "University of Minnesota course catalog",
+    "university": "University of Minnesota",
+    "confidence": 0.946,
+    "verified": true
+  }
+]

@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Longwood University",
+    "successful_variation": "Longwood University",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Longwood+University&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACCT 240",
+      "course_title": "Principles of Accounting I",
+      "credits": "3.00",
+      "description": "Basics of the accounting cycle, including use of journals and ledgers, and the preparation of balance sheets and income statements. 3 credits.",
+      "institution": "Longwood University"
+    },
+    {
+      "course_id": "ACCT 242",
+      "course_title": "Principles of Accounting II",
+      "credits": "3.00",
+      "description": "Continuation of ACCT 240. Preparation of statement of cash flows. Accounting for owners' equity in partnerships and corporations, standard costs and budgeting, cost-volumeprofit analysis, and analysis of financial data. Prerequisite: ACCT 240. 3 credits.",
+      "institution": "Longwood University"
+    },
+    {
+      "course_id": "ACCT 295",
+      "course_title": "Special Topics",
+      "credits": "3.00",
+      "description": "Selected topics in accounting. Topics may vary from semester to semester. May be repeated for credit when topics change. Prerequisite: Permission of the instructor. 1-3 credits.",
+      "institution": "Longwood University"
+    },
+    {
+      "course_id": "ACCT 296",
+      "course_title": "Legal Environment",
+      "credits": "3.00",
+      "description": "A survey of the critical business law requirements that are needed for day-today business operations. Topics such as contracts, consumer protection, agency and bailments will be included. 3 credits. ACCT 311-312. Studies Abroad. Primarily intended for transfer of credit earned abroad in courses in accounting. 1-18 credits.",
+      "institution": "Longwood University"
+    },
+    {
+      "course_id": "ACCT 340",
+      "course_title": "Intermediate Accounting I",
+      "credits": "3.00",
+      "description": "Review of the accounting cycle; development of the theoretical foundation of financial reporting; accounting for assets; payroll accounting; additional topics related to current developments in financial accounting and reporting. Offered fall semester only. Prerequisite: ACCT 242 with a C- or better. 3 credits.",
+      "institution": "Longwood University"
+    },
+    {
+      "course_id": "ACCT 341",
+      "course_title": "Intermediate Accounting II",
+      "credits": "3.00",
+      "description": "Continuation of ACCT 340. Accounting for assets, liabilities, stockholders' equity, and cash flows; financial statement disclosure and analysis; additional topics related to current developments in accounting. Offered spring semester only. Prerequisite: ACCT 340. 3 credits.",
+      "institution": "Longwood University"
+    },
+    {
+      "course_id": "ACCT 342",
+      "course_title": "Cost Accounting",
+      "credits": "3.00",
+      "description": "The study of basic cost accounting systems and concepts. Consideration of inventory costing, cost variance analysis, budgeting, and managerial decision-making based on economic considerations. Offered fall semester only. Prerequisite: ACCT 242 with a C- or better. 3 credits.",
+      "institution": "Longwood University"
+    },
+    {
+      "course_id": "ACCT 344",
+      "course_title": "Tax Accounting I",
+      "credits": "3.00",
+      "description": "A comprehensive study of income tax problems relating to individuals. These topics, among others, will be studied: income, exclusions, gain or loss on sales, exchange and involuntary conversions, deductions, exemptions and credits. Offered fall semester only. Prerequisite: ACCT 242 with a C- or better. 3 credits. WR",
+      "institution": "Longwood University"
+    },
+    {
+      "course_id": "ACCT 345",
+      "course_title": "Tax Accounting II",
+      "credits": "3.00",
+      "description": "A comprehensive study of income tax problems relating to partnerships, corporations, specially taxed corporations, estates and trusts. Offered spring semester only. Prerequisite: ACCT 344. 3 credits.",
+      "institution": "Longwood University"
+    },
+    {
+      "course_id": "ACCT 346",
+      "course_title": "Intermediate Accounting III",
+      "credits": "3.00",
+      "description": "Continuation of ACCT 341. Accounting for leases, pensions, and income taxes; effect of accounting changes; revenue measurement and income presentation; accounting for partnerships; additional topics related to current developments in financial accounting and reporting. Offered fall semester only. Prerequisite: ACCT 341. 3 credits.",
+      "institution": "Longwood University"
+    }
+  ],
+  "timestamp": "2025-08-10T14:34:39.890362"
+}

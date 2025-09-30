@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Quincy College",
+    "successful_variation": "Quincy College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Quincy+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACC 101",
+      "course_title": "Accounting I",
+      "credits": "3.00",
+      "description": "This is an introductory course in accounting with the emphasis on the basic accounting cycle, management use of accounting data, construction and analysis of financial statements, and valuation of assets. Placement at ENG 101 level strongly advised. 3 credits",
+      "institution": "Quincy College"
+    },
+    {
+      "course_id": "ACC 102",
+      "course_title": "Accounting II",
+      "credits": "3.00",
+      "description": "Topics included in this course are books of original entry, analysis of assets and liabilities, negotiable instruments, and an introduction to partnership and corporate accounting. Prerequisite: BUS 105 or college level mathematics and ACC 101. 3 credits",
+      "institution": "Quincy College"
+    },
+    {
+      "course_id": "ACC 201",
+      "course_title": "Accounting III",
+      "credits": "3.00",
+      "description": "This course studies the fundamental accounting processes and analyzes corporation accounting. It covers accounting theory including the conceptual framework, financial statements, the accounting for cash, temporary investments, receivables, and inventories. Prerequisite: ACC 102. 3 credits",
+      "institution": "Quincy College"
+    },
+    {
+      "course_id": "ACC 202",
+      "course_title": "Accounting IV",
+      "credits": "3.00",
+      "description": "This course studies accounting theory including property, plant and equipment, tangible assets, current liabilities, long-term corporate capital, and earnings per share. Prerequisite: ACC 201. 3 credits",
+      "institution": "Quincy College"
+    },
+    {
+      "course_id": "ACC 205",
+      "course_title": "Managerial Accounting",
+      "credits": "3.00",
+      "description": "Formerly ACC 203. This course presents the analysis and interpretation of accounting information. Cost term, cost management in planning and control, managing costs throughout the organization, and managing costs in a global environment. Prerequisite: ACC 102. 3 credits",
+      "institution": "Quincy College"
+    },
+    {
+      "course_id": "ACC 206",
+      "course_title": "Cost Accounting",
+      "credits": "3.00",
+      "description": "Formerly ACC 204. This course examines the measurement, recording, and reporting of information about costs. Among accounting methods examined are those used to account for: materials, labor, overhead, spoilage, variable costs, and joint costs. Methods of allocating costs are examined. Prerequisite: ACC 205. 3 credits",
+      "institution": "Quincy College"
+    },
+    {
+      "course_id": "ACC 209",
+      "course_title": "Federal Taxation",
+      "credits": "3.00",
+      "description": "A survey of federal tax structure as it applies to individuals, partnerships, and corporations. Emphasis will be placed upon specific problems as a device to further the appreciation of the impact of taxes upon decision making and forecasting, and the effect upon forms of organization. Prerequisite: ACC 102. 3 credits",
+      "institution": "Quincy College"
+    },
+    {
+      "course_id": "ACC 297",
+      "course_title": "Accounting Internship",
+      "credits": "3.00",
+      "description": "This course integrates the student's classroom academic studies with actual experience in accounting. The student will work for at least one hundred hours in an approved internship position which may be arranged through the college or by the student. Additional requirements for the course include nine classroom hours and a ten page paper. 3 credits",
+      "institution": "Quincy College"
+    },
+    {
+      "course_id": "ACC 301",
+      "course_title": "Auditing",
+      "credits": "3.00",
+      "description": "This course deals with the auditing concepts and standards relevant to attest function as well as the legal and ethical responsibilities of the independent certified public accountant. Internal controls, an overview of EDP auditing and sampling, and auditor reports are included. Prerequisite: ACC 201 and ACC 205. 3 credits Courses listed on this webpage may not be offered every semester.",
+      "institution": "Quincy College"
+    },
+    {
+      "course_id": "ALH 107",
+      "course_title": "Orientation to Health Care",
+      "credits": "1.00",
+      "description": "This course is designed to introduce and provide a brief overview of the U.S. health care industry as well as familiarize students with Quincy College and the School of Allied Health, and to provide students with an overview of the skills necessary to achieve their academic goals. Using the Internet, discussion and individual research for this course creates an awareness of and curiosity for the health care delivery system. It explores stress as a natural part of being a student and health care provider, and also identifies effective coping methods. It also encourages students to value cultural diversity and professionalism. Topics covered include: personality and learning styles, test-taking and study skills, College and Allied Health policies and procedures, trends in health care, health care financing and reimbursement, ethical and legal issues and other related health care topics. 1 credit",
+      "institution": "Quincy College"
+    }
+  ],
+  "timestamp": "2025-08-10T22:04:55.921879"
+}

@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Northwood University",
+    "successful_variation": "Northwood University",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Northwood+University&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "AAM 110",
+      "course_title": "Introduction to the Automotive Aftermarket and Technology",
+      "credits": "4.00",
+      "description": "The functions of each step of automotive aftermarket distribution and interrelations of all segments from manufacturer to consumer are explored, including history of the aftermarket, industry terminology, channels of distribution, sales organization, trade associations and the trade press, and aftermarket trends. A layman study of the various automotive systems that collectively construct the complete automobile, purposed to develop the well-informed automotive aftermarket manager.",
+      "institution": "Northwood University"
+    },
+    {
+      "course_id": "AAM 112",
+      "course_title": "Aftermarket Manufacturing Management",
+      "credits": "4.00",
+      "description": "The management of aftermarket manufacturing functions is examined, including market planning, sales training and management, advertising, selecting and directing employees, establishing and controlling budgets, executive responsibilities, managing for profit, trade shows and clinics, market research, branding, remanufacturing, and manufacturer representative firms.",
+      "institution": "Northwood University"
+    },
+    {
+      "course_id": "AAM 205",
+      "course_title": "Automotive Retail/ Wholesale Management",
+      "credits": "4.00",
+      "description": "The organization, capitalization, layout, product lines, inventory control, purchasing, personnel, financial control and other management topics for the wholesale and retail segments of the automotive aftermarket are explored. Functions of consumer-oriented marketing are looked at for all segments. Includes retail attitude, pricing and promotion, retail/wholesale combinations, identity and store image, influence of aesthetics and design, purchasing procedures, employee hiring and personnel management, and merchandising and display. Prerequisite: AAM112",
+      "institution": "Northwood University"
+    },
+    {
+      "course_id": "AAM 212",
+      "course_title": "Aftermarket Policies and Procedures",
+      "credits": "4.00",
+      "description": "Sales strategy, research at all levels, administrative functions, legal angles, financial structure, credit and collections, government regulations, and other policy and procedure topics are examined. Includes computer and information systems, advertising management, marketing plans, inventory and credit control, specialty and machine shop procedures, standard policies and operating procedures, specialty market penetration, legal and government regulations, and computer-generated report use. Prerequisite: AAM 205",
+      "institution": "Northwood University"
+    },
+    {
+      "course_id": "AAM 299",
+      "course_title": "Internship",
+      "credits": "4.00",
+      "description": "The Internship (400 hours of paid employment) is designed to provide the student with supervised on-the-job training. A contract between the college, student, and employer provides the groundwork. Objectives, evaluations, written log, and a study of the organization are designed to provide a realistic learning experience. Prerequisite: Faculty approval",
+      "institution": "Northwood University"
+    },
+    {
+      "course_id": "AAM 360",
+      "course_title": "Logistics and Supply Chain Management",
+      "credits": "4.00",
+      "description": "This course focuses on management of the flow of products from raw materials sourcing and acquisition through delivery to the final user. Current topics include logistics and transportation planning, information technology, response based strategies, third party logistics, and relationship management. This course will discuss the role of logistics and distribution in the marketing process.",
+      "institution": "Northwood University"
+    },
+    {
+      "course_id": "AAM 404",
+      "course_title": "Aftermarket Field Sales Management",
+      "credits": "4.00",
+      "description": "The examination of Field Sales Manager job activities. Subjects include selling skills, expense management, time management, merchandising/advertising plans, sales report writing/sales forecast plans, trade show management, and human resource skills. Prerequisite: AAM 212",
+      "institution": "Northwood University"
+    },
+    {
+      "course_id": "AAM 412",
+      "course_title": "Current Issues in Global Aftermarket",
+      "credits": "4.00",
+      "description": "A study of the current issues confronting the aftermarket with emphasis on the changing distribution channels and their effect on manufacturing, traditional and retail distribution, and how these changes will be managed in the multi-national business environment. Prerequisite: AAM404",
+      "institution": "Northwood University"
+    },
+    {
+      "course_id": "AAM 413",
+      "course_title": "Aftermarket Management Research",
+      "credits": "4.00",
+      "description": "Individual research assignments and projects, based on the establishment of a new, student-selected aftermarket business, are required, with instructor guidance and supplementary material provided. Includes location and business type, advertising, merchandising and promotion, personnel requirements, pricing and inventory, building, design and layout, product and service selection and financial considerations. Prerequisite: AAM 412",
+      "institution": "Northwood University"
+    },
+    {
+      "course_id": "ACC 241",
+      "course_title": "Principles of Accounting I",
+      "credits": "4.00",
+      "description": "The accounting sequence of ACC 241-242-243 is required of all students. Accounting Principles I includes an introduction to the fundamental principles of accounting, financial statements, the impact of business events on financial statements, how financial data is accumulated and reported, the uses and limitations of financial data, and internal controls. Students will account for service and merchandising businesses, including sales, inventory, and cash. The course requires students to learn the concepts of accounting and how they are applied in recording business transactions and in preparing financial reports. The course requires the use of spreadsheets for problem solving and analysis. Prerequisite: MIS 105 or MIS 160. MIS 160 may be taken concurrently.",
+      "institution": "Northwood University"
+    }
+  ],
+  "timestamp": "2025-08-10T12:37:18.600210"
+}

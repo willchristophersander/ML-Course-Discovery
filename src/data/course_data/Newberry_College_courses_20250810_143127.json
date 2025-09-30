@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Newberry College",
+    "successful_variation": "Newberry College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Newberry+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ART 102",
+      "course_title": "Three Dimensional Design",
+      "credits": "3.00",
+      "description": "Basic concepts of three-dimensional art and design are investigated via problem solving projects employing a variety of materials, processes and tools. A $75 fee is charged for the cost of materials. Offered Spring Semester.",
+      "institution": "Newberry College"
+    },
+    {
+      "course_id": "ART 131",
+      "course_title": "Beginning Watercolor",
+      "credits": "3.00",
+      "description": "Methods and techniques designed to introduce the beginning student to watercolor as both a sketching, problem solving, planning medium for the artist, as well as a medium suitable for finished works. A $75 fee is charged for the cost of materials. Offered Fall Semester.",
+      "institution": "Newberry College"
+    },
+    {
+      "course_id": "ART 171",
+      "course_title": "Clay Arts/Ceramics",
+      "credits": "3.00",
+      "description": "Introduction to ceramics including throwing techniques, hand building, and clay as a medium for sculpture. The history of ceramics is examined from its roots as craft or utilitarian vessels, its significance as a surface for decoration, and/or narrative images up to its elevation as a contemporary art form. A $75 fee is charged for cost of materials. Offered Spring Semester.",
+      "institution": "Newberry College"
+    },
+    {
+      "course_id": "ART 211",
+      "course_title": "Art Awareness",
+      "credits": "3.00",
+      "description": "A slide lecture/discussion introduction to the visual arts, topical rather than historical in approach. This course is designed to give the student an understanding of the visual arts through the examination of its nature, structure, and criticism. ART 211 satisfies the Core Curriculum requirements for Fine Arts, Area C-2. Offered every semester.",
+      "institution": "Newberry College"
+    },
+    {
+      "course_id": "ART 220",
+      "course_title": "Principles of Digital Photography",
+      "credits": "3.00",
+      "description": "A basic course in capturing and manipulating still images using various techniques and technologies. This course is highly recommended for visual artists for understanding lighting, emotion, action, and story telling in still media. This course will be offered as a course centered around digital photography and Photoshop software. Recommended for Art majors. A $95 fee will be charged for this class. Offered Spring Semester.",
+      "institution": "Newberry College"
+    },
+    {
+      "course_id": "ART 231",
+      "course_title": "Beginning Painting",
+      "credits": "3.00",
+      "description": "Prerequisites: ART 101 or ART 221 or permission of instructor. An introduction to basic painting media and methods consisting of the study of old and contemporary Masters' works, color theory, composition, and technique. Subjects covered include landscape, still-life, the figure, and abstraction. A $75 fee is charged. Offered every semester.",
+      "institution": "Newberry College"
+    },
+    {
+      "course_id": "ART 241",
+      "course_title": "Beginning Printmaking",
+      "credits": "3.00",
+      "description": "Prerequisite: ART 221 or permission of instructor. An introduction to relief, intaglio, and monotype processes. A $75 fee is charged for cost of materials. Offered at departmental discretion.",
+      "institution": "Newberry College"
+    },
+    {
+      "course_id": "ART 242",
+      "course_title": "Printmaking II",
+      "credits": "3.00",
+      "description": "Prerequisite: ART 241. Intermediate problems in intaglio. Emphasis is placed on new and experimental methods of printmaking, including intaglio, monotypes, plastic, copper plate etching and aquatints. A $75 fee is charged for cost of materials. Offered at departmental discretion and taught in conjunction with ART 241.",
+      "institution": "Newberry College"
+    },
+    {
+      "course_id": "ART 261",
+      "course_title": "Graphic Design Production Practices",
+      "credits": "3.00",
+      "description": "Prerequisite: ART 161, ART 221. Application of design principles covered in ART 161. Design elements used in identity and campaign research preparation using Photo-shop, Illustrator, Painter, Quark, and MAC applications. A fee of $85 is charged. Offered every semester.",
+      "institution": "Newberry College"
+    },
+    {
+      "course_id": "ART 264",
+      "course_title": "History of Graphic Design",
+      "credits": "3.00",
+      "description": "A slide and lecture introduction to the history of graphic design. This class will cover graphic design starting with the invention of writing, the invention of the printing press to graphic design in the age of information. This course will be conducted in chronological order. Offered Fall Semester, alternate years.",
+      "institution": "Newberry College"
+    }
+  ],
+  "timestamp": "2025-08-10T14:31:27.083677"
+}

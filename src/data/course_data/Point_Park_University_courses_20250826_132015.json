@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Point Park University",
+    "successful_variation": "Point Park University",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Point+Park+University&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACCT 210",
+      "course_title": "Introduction to Financial Accounting",
+      "credits": "3.00",
+      "description": "Introduction to and application of financial accounting concepts relating to the importance of accounting in business and the application of generally accepted accounting principles related to the collection, recording, analysis, interpretation, and reporting of financial accounting information. Pre: MATH 180 CourseObjectives (1) Students will discuss the role of financial accounting, including identifcation of its governing organziations ,foundational equation,elements, concepts and general purpose reports. (2)Students will apply financial accounting concepts to complete the accounting cycle, including analysis of business transactions, adjustments, posting, preparation of the four general purpose financial statements and closing entries. (3) Students will discuss and apply accounting concepts related to current and long-term assets, including cahs, recievables, inventory, property plant, and equipment and investments. (4) Students will discuss and apply accounting concepts related to current and long-term liabilities, including accounts payable, payroll liabilities and notes. (5) Students will discuss and apply accounting concepts related to equity, including paid-in capital and retained earnings.",
+      "institution": "Point Park University"
+    },
+    {
+      "course_id": "ACCT 220",
+      "course_title": "Managerial Accounting",
+      "credits": "3.00",
+      "description": "Introduction to and application of managerial accounting concepts related to the use and interpretation of accounting data in decision making. Prereq:ACCT 210 CourseObjectives (1) Students will discuss the role of managerial accounting and how it differs from financial accounting. (2) Students will discuss the role of management accountants in an organization and the importance of upholding ethical standards (3) Students will apply managerial accounting concepts as they relate to job order costing, process costing, and activity based costing. (4) Students will apply managerial accounting techniques to identify fixed, variable, and mixed costs and prepare cost-volume-profit analysis. (5) Students will compare and contrast variable and absorption costing and account for data using both methods. (6) Students will discuss and apply basic competencies related to budgeting.",
+      "institution": "Point Park University"
+    },
+    {
+      "course_id": "ACCT 230",
+      "course_title": "Accounting Information Systems",
+      "credits": "3.00",
+      "description": "An introduction to computerized accounting information systems. Financial data processing and reporting, including application of accounting concepts , principles and preparation of reports, using systems commonly used in actual practice. Prereq: ACCT 210 CourseObjectives This course will provide the student with a strong theoretical basis of Intermediate Accounting concepts, enhancing the knowledge and skills needed to apply more advanced accounting analysis. Upon successful completion of the course, students will be able to: (1) Analyze, interept, and use accounting information in a computerized environment. (2) Demonstrate an understanding and application of basic accounting principles (3) Record business transactions and adjustments using a computerized accounting information system. (4) Complete accounting simulations utilizing selected commercial accounting software. (5) Produce and analyze financial statements, including balance sheets, income statements, statements of retained earnings, and statements of cash flows, using computerized accounting information system.",
+      "institution": "Point Park University"
+    },
+    {
+      "course_id": "ACCT 295",
+      "course_title": "Selected Topics in ACCT I",
+      "credits": "6.00",
+      "description": "Selected Topic in ACCT",
+      "institution": "Point Park University"
+    },
+    {
+      "course_id": "ACCT 310",
+      "course_title": "Intermediate Financial Accounting I",
+      "credits": "3.00",
+      "description": "A study of accounting standards, the conceptual framework and financial reporting with a focus on the income statement,the balance sheet, the statement of cash flows, and a detailed examination of accounting concepts related to cash, receivables and inventories. Prereq:ACCT 210,CMPS 214 . CourseObjectives This course will provide the student with a strong theoretical basis of Intermediate Accounting concepts, enhancing the knowledge and skills needed to apply more advanced accounting analysis. Upon successful completion of the course, students will be able to: (1) Discuss the financial reporting environment, including the major policy-setting bodies and their role in standard setting, the meaning of generally accepted accounting principles, and the purpose of the Codification and the challenges inherent in the finacial reporting environment. (2) Explain the conceptual framework and its basic components,including the objective of financial reporting, and its qualitative characteristics, elements, assumptions, and principles. (3) Prepare a multi-step statement of comprehensive income and explain its various components,uses, and limitations. (4) Prepare a classified balance sheet and a basic statement of cash flows, and explain their various components,uses and limitations. (5) Explain accounting concepts and apply principles related to the valuation and reporting of cash,recievables, and inventory .",
+      "institution": "Point Park University"
+    },
+    {
+      "course_id": "ACCT 311",
+      "course_title": "Inter.Financial Accounting II",
+      "credits": "3.00",
+      "description": "A study of accounting standards, the conceptual framework, and financial reporting with a focus on property, plant and equipment, intangible assets, depreciation, amortization, impairments, liabilities and equity. Prereq: ACCT 310, BMGT 300 CourseObjectives Upon successful completion of the course, students will be able to: (1) Discuss the application of fair value calculations in accounting and apply time value of money concepts, including future value and present value of lump sums and annuities to accounting problems (2) Explain and account for current and long-term liabilities and contingencies (3)Explain and account for the acquisition, expense allocation and disposition of property, plant and equipment, and intangible assets (4) Explain and account for stockholder's equity, dilutive securities,including proper classification and financial statement presentation. (5) Discuss investments in debt and equity securities, including proper classification and financial statement presentation that includes accounting for changes in value, accounting for transfers between categories and accounting for sales.",
+      "institution": "Point Park University"
+    },
+    {
+      "course_id": "ACCT 312",
+      "course_title": "Intermed.Financial Accounting III",
+      "credits": "3.00",
+      "description": "A A study of accounting standards, the conceptual framework and financial reporting with a focus on revenue recognition, income taxes, leases, pension, and post-retirement benefits. PRE: ACCT 311 . CourseObjectives Upon successful completion of the course, students will be able to: (1) Explain and apply the fundamental concepts of revenue measurement and recognition, including principles related to presentation and disclosure. (2) Explain and apply the fundamental concepts of accounting for income taxes, including provisions for loss carrybacks and carryforwards, and presentation of deferred income taxes, including principles related to presentation and disclosure. (3) Explain and apply the fundamental concepts of pension plan accounting, including the accounting and amortization of prior service costs, unexpected gains and losses, and principles related to presentation and disclosure. (4) Explain and apply the fundamental concepts of lease transactions, including accounting for leases by leasees and lessors, and principles related to presentation and disclosure of lease transactions.",
+      "institution": "Point Park University"
+    },
+    {
+      "course_id": "ACCT 320",
+      "course_title": "Cost Accounting",
+      "credits": "3.00",
+      "description": "Principles and procedures for determining unit cost of production, job order cost and standard process cost systems. Prereqs: ACCT 210, ACCT 220, CMPS 214 CourseObjectives Upon successful completion of the course, students will be able to: (1) Compare and contrast the relationship between financial accounting and cost accounting.. (2) Define and account for the basic elements of manufacturing cost systems. (3) Analyze costs in various Cost systems that include job order, process and standard cost systems. (4) Apply cost accounting methodologies to service businesses. (5) Prepare and analyze budgets related to cost accounting reports.",
+      "institution": "Point Park University"
+    },
+    {
+      "course_id": "ACCT 350",
+      "course_title": "Federal Taxation",
+      "credits": "3.00",
+      "description": "Basic principles and procedures of Federal Taxation with an emphasis on individual taxpayers.Prereq: ACCT 210, CMPS 214 or permission from instructor. CourseObjectives Upon successful completion of the course, students will be able to: (1) Discuss the theory and socio-economic aspects of Federal Taxation. (2) Research tax questions, and recognize and interpret changes in the tax law. (3) Identify frequently used tax forms. (4) Understand and complete new or unusual tax forms. (5) Calculate estimated taxes and tax planning. (6) Explain how taxes impact other business decisions.",
+      "institution": "Point Park University"
+    },
+    {
+      "course_id": "ACCT 395",
+      "course_title": "Selected Topics in ACCT II",
+      "credits": "3.00",
+      "description": "Selected Topic in ACCT",
+      "institution": "Point Park University"
+    }
+  ],
+  "timestamp": "2025-08-26T13:20:15.970400"
+}

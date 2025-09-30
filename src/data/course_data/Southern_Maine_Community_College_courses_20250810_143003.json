@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Southern Maine Community College",
+    "successful_variation": "Southern Maine Community College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Southern+Maine+Community+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "AED 100",
+      "course_title": "Print Reading",
+      "credits": "2.00",
+      "description": "This course introduces students to the graphic symbols used for construction drawings. It includes exercises in extracting and utilizing information from plans used to construct industrial facilities.",
+      "institution": "Southern Maine Community College"
+    },
+    {
+      "course_id": "AED 105",
+      "course_title": "Technical Graphics Standards",
+      "credits": "3.00",
+      "description": "This course is an introduction to graphic symbolism and representation of technical drawings. The relationship between the intent of the drawings, trade practices, and current ASME graphics standards will be stressed. This is a first course in technical graphics.",
+      "institution": "Southern Maine Community College"
+    },
+    {
+      "course_id": "AED 110",
+      "course_title": "Autocad 2d",
+      "credits": "3.00",
+      "description": "This is a comprehensive and rigorous course covering 2D AutoCAD. Students will create, edit, add proper dimensions and add annotations to drawings, and plot them accurately. Adherence to ASME technical graphics standards will be stressed. Corequisite(s): AED 105.",
+      "institution": "Southern Maine Community College"
+    },
+    {
+      "course_id": "AED 115",
+      "course_title": "Basic Architecture",
+      "credits": "3.00",
+      "description": "This course introduces the construction technology student to the fundamentals of architectural drafting as it relates to light wood frame construction consistent with, but not limited, to house construction. The course is presented in building elements with text, code, professional and regional influences.",
+      "institution": "Southern Maine Community College"
+    },
+    {
+      "course_id": "AED 116",
+      "course_title": "Cad Graphics",
+      "credits": "3.00",
+      "description": "Students will use CAD software to learn the standards required to produce technical drawings. Prerequisite(s): Proficiency with Windows based computers.",
+      "institution": "Southern Maine Community College"
+    },
+    {
+      "course_id": "AED 155",
+      "course_title": "Mechanical Design",
+      "credits": "3.00",
+      "description": "This course provides more advanced instruction in the application of engineering graphics to produce working drawings used in manufacturing industries. Students apply current ANSI standards in drawing, dimensioning, tolerancing, and annotating parts and assemblies. Prerequisite(s): AED 105 & AED 110 or AED 116.",
+      "institution": "Southern Maine Community College"
+    },
+    {
+      "course_id": "AED 160",
+      "course_title": "Applications of Autocad",
+      "credits": "3.00",
+      "description": "This course will provide students an opportunity to apply AutoCAD drawing techniques to the development of drawings in each of five specific fields of drafting. Emphasis will be place on speed, efficiency, development of CAD standards, control of variables, use of advanced drawing techniques, symbol libraries, plotting of drawings and specialized CAD techniques. Prerequisite(s): AED 105 & AED 110 or AED 116",
+      "institution": "Southern Maine Community College"
+    },
+    {
+      "course_id": "AED 165",
+      "course_title": "Introduction to Architecture",
+      "credits": "3.00",
+      "description": "This course introduces the student to the concepts of light wood frame construction consistent with, but not limited to, house construction. The course is presented in building elements with text, code, professional, and regional influences. Prerequisite(s): AED 105 & AED 110 or AED 116",
+      "institution": "Southern Maine Community College"
+    },
+    {
+      "course_id": "AED 175",
+      "course_title": "Civil Design",
+      "credits": "3.00",
+      "description": "This course in Civil Engineering Drafting will provide a broad based introduction to the principles of Civil Engineering and Landscape Architecture as utilized by drafters. Drawing accuracy, adherence to standards, layout, and quality of work will be stressed. This course may be taken concurrently with a related discipline based drafting course. Prerequisite(s): AED 105",
+      "institution": "Southern Maine Community College"
+    },
+    {
+      "course_id": "AED 181",
+      "course_title": "Civilcad",
+      "credits": "3.00",
+      "description": "CivilCAD is a software application based on AutoCAD that is used widely in civil engineering. This is a comprehensive course covering the fundamental tools of CivilCAD and their practical applications in planning, documenting and creating roadways, subdivisions and site plans to industry standards. Prerequisite(s): AED 105 & AED 110 or AED 116",
+      "institution": "Southern Maine Community College"
+    }
+  ],
+  "timestamp": "2025-08-10T14:30:03.295139"
+}

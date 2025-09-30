@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Holyoke Community College",
+    "successful_variation": "Holyoke Community College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Holyoke+Community+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACC 105",
+      "course_title": "Accounting Information Systems",
+      "credits": "3.00",
+      "description": "Designed to give students with an accounting background a familiarity with accounting information systems and business spreadsheet applications. System design theory and accounting theory will be integrated to convert a manual accounting system to a computerized system using a general ledger software package. Prerequisite: ACC 111 Pre/Corequisite: BUS 215",
+      "institution": "Holyoke Community College"
+    },
+    {
+      "course_id": "ACC 111",
+      "course_title": "Principles of Accounting I",
+      "credits": "4.00",
+      "description": "Introduces financial accounting with emphasis on the collection, classification, summarization, and reporting of financial information about a specific business. The use of journals, ledgers, working papers, and financial statements is illustrated. Prerequisite: Eligibility for MTH 085. Students not eligible for MTH 085 must take MTH 075 as a prerequisite to ACC 111.",
+      "institution": "Holyoke Community College"
+    },
+    {
+      "course_id": "ACC 112",
+      "course_title": "Principles of Accounting II",
+      "credits": "4.00",
+      "description": "The development of accounting principles with application to partnerships, corporations, and manufacturing businesses. The use of accounting as a basis for managerial decisions is emphasized. Prerequisite: ACC 111",
+      "institution": "Holyoke Community College"
+    },
+    {
+      "course_id": "ACC 205",
+      "course_title": "Managerial Accounting",
+      "credits": "3.00",
+      "description": "An introduction to the preparation and use of financial information for internal management purposes. Major emphasis will be on the collection and interpretation of accounting data for planning and control purposes. Prerequisite: ACC 112",
+      "institution": "Holyoke Community College"
+    },
+    {
+      "course_id": "ACC 207",
+      "course_title": "Cost Accounting",
+      "credits": "3.00",
+      "description": "Covers the fundamentals of manufacturing records as they relate to the needs of management in planning, controlling, and decision-making. Topics covered include: job order, process, and standard cost systems; cost behavior; costvolume- profit relationships; budgets; and relevant costs for decision making. Prerequisite: ACC 205",
+      "institution": "Holyoke Community College"
+    },
+    {
+      "course_id": "ANT 101",
+      "course_title": "Cultural Anthropology",
+      "credits": "3.00",
+      "description": "An introduction to the field, emphasizing the similarities and differences among societies with different economic, social, political, and religious traditions. Several societies with cultures quite different from our own are studied in detail. Theories about social structure and culture, the research methods used by anthropologists, and the ethics of anthropological research and applied anthropology are covered.",
+      "institution": "Holyoke Community College"
+    },
+    {
+      "course_id": "ANT 103",
+      "course_title": "Introduction to Language and Linguistics: How Language Works",
+      "credits": "3.00",
+      "description": "What is language What is an accent How do children learn language These are some of the questions explored in this introductory course about language structure. This course investigates the nature of sounds, words, sentences, meanings, and conversations. The course applies learned concepts to other areas of language study: language acquisition, dialect variation, sign language, and language change. Emphasis is placed on collection and analysis of everyday language examples. (same as ENG 103 and DFS 103) Prerequisite: ENG 101",
+      "institution": "Holyoke Community College"
+    },
+    {
+      "course_id": "ANT 110",
+      "course_title": "Introduction to General Anthropology",
+      "credits": "3.00",
+      "description": "A survey of the concepts, models, theories, and methods of anthropology with emphasis on each of the four major subdisciplines: physical, cultural, linguistic, and archaeological anthropology. Topics include the relationship among human biology, language, and culture; human biological variation; cultural diversity; evolution; and culture change.",
+      "institution": "Holyoke Community College"
+    },
+    {
+      "course_id": "ANT 120",
+      "course_title": "Survey of North American Indians",
+      "credits": "3.00",
+      "description": "A survey of the Indians of North America, including a study of their origins, patterns of survival, social organization, and religions; the effects of white contact; and their present condition in the United States, Canada, and Mexico.",
+      "institution": "Holyoke Community College"
+    },
+    {
+      "course_id": "ANT 130",
+      "course_title": "Archaeology and Prehistory",
+      "credits": "3.00",
+      "description": "An introduction to archaeology, including an overview of the methods and theories of the discipline, the conceptual framework within which we impose meaning on archaeological materials, and an exploration of the theories of the origins and evolution of humans and culture.",
+      "institution": "Holyoke Community College"
+    }
+  ],
+  "timestamp": "2025-08-09T19:37:43.220549"
+}

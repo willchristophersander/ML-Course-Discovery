@@ -1,0 +1,74 @@
+{
+  "search_query": {
+    "institution": "University of Maryland, Baltimore",
+    "successful_variation": "University of Maryland-Baltimore",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=University+of+Maryland-Baltimore&distance=5"
+  },
+  "total_results": 9,
+  "courses": [
+    {
+      "course_id": "BMAT 518",
+      "course_title": "Dental Biomaterials I",
+      "credits": "1.00",
+      "description": "Fall/Spring.?This course,?designed for first year dental students,?lays?a?dental?biomaterials?foundation?for?subsequent?studies.?It?focuses?on?the?basics of biomaterials sciences, physical, chemical, mechanical and biological properties, and the structure-property-performance relationships.?It covers the basics and applications of dental waxes, polymers and polymerization, direct-filling resin composites, indirect resin composites, bonding, impression materials, dental ceramics, dental amalgams, cavity liners, and the safe handling of dental biomaterials.",
+      "institution": "University of Maryland, Baltimore"
+    },
+    {
+      "course_id": "BMAT 528",
+      "course_title": "Biomaterials II",
+      "credits": "1.00",
+      "description": "Fall/Spring. The course?for students in the second year focuses on more specific topics, including investing and casting, casting alloys, dental porcelain, CAD/CAM, grinding and polishing, dental cements, and biocompatibility. It also covers more advanced topics on preventive dental materials, endodontic materials, implant materials, periodontal materials, and tissue engineering.",
+      "institution": "University of Maryland, Baltimore"
+    },
+    {
+      "course_id": "CARI 521",
+      "course_title": "Cariology",
+      "credits": "1.50",
+      "description": "Spring. The course presents current evidence-based information about biological aspects of dental caries.? A large part of the content involves basic microbial ecology of the oral cavity and microbial mechanisms of caries.?Other topics are histopathology of enamel, dentin and root surface caries; chemistry and functions of saliva as they related to dental caries, and associations between saliva and oral structures, particularly teeth and dental plaque; history of fluorides in dentistry and their mechanisms against dental decay; dietary and nutritional aspects of caries and current research on caries susceptibility differences in human populations.",
+      "institution": "University of Maryland, Baltimore"
+    },
+    {
+      "course_id": "CCPM 538",
+      "course_title": "Comprehensive Care and Practice Management?III",
+      "credits": "4.00",
+      "description": "Fall/Spring.??Year three students in the General Practice Simulation pilot program?manage patient care and provide treatment that concentrates on patient needs while meeting or exceeding minimum required experiences for clinical progression.? Attendance, clinical participation and productivity, case management, self-evaluation log, mentor interaction, and clinical educational experiences are tracked.",
+      "institution": "University of Maryland, Baltimore"
+    },
+    {
+      "course_id": "CCPM 548",
+      "course_title": "Comprehensive Care and Practice Management?IV",
+      "credits": "6.00",
+      "description": "Fall/Spring. Year four students in the General Practice Simulation pilot program manage patient care and provide treatment that concentrates on patient needs while meeting or exceeding minimum required experiences for graduation.? Attendance, clinical?participation and productivity, case management, self-evaluation log, mentor interaction, and clinical educational experiences are tracked.",
+      "institution": "University of Maryland, Baltimore"
+    },
+    {
+      "course_id": "CCPM 551",
+      "course_title": "and CCPM 552.General Practice Clerkship I and II",
+      "credits": "3.00",
+      "description": "Students assist new juniors in acclimating to the clinic setting and provide guidance about logistics and patient management. Clerks assist with impressions and other activities that reinforce vertical integration without impinging on faculty supervision and responsibility. The course also includes participation in departmentally sponsored calibration sessions and an opportunity to provide treatment for patients with more complex treatment needs.",
+      "institution": "University of Maryland, Baltimore"
+    },
+    {
+      "course_id": "CSLX 518",
+      "course_title": "Community Service Learning I",
+      "credits": "5.00",
+      "description": "Fall/Spring.?Year one students participate in a one-week rotation at the Dental School's Cecil County site gaining experience in a community setting that focuses on treating an underserved population of primarily pediatric patients. ? CSLX 548. Community Service Learning (2, 3) Fall/Spring.?Service Learning is a two-week experience in the Dental School's Cecil County facility and three-week experience at another extramural site?for?senior dental students. The purpose is to gain outside clinical experience while gaining an appreciation for cultural diversity and the oral health needs of underserved populations. The service learning experience can be fulfilled in several ways, such as working at community sites in Maryland treating underserved populations; working at specialty sites that prepare the student for postgraduate training; or working with health missions to foreign countries.?Because of logistics, service learning experiences in foreign countries is two rather than three weeks. Service Learning includes both the clinical experience at the site, as well as completion of a report that evaluates the student's experience in clinical procedures and service learning models.",
+      "institution": "University of Maryland, Baltimore"
+    },
+    {
+      "course_id": "DAGD 552",
+      "course_title": "Advanced General Dentistry Clerkship",
+      "credits": "10.00",
+      "description": "Spring. Selected students are assigned?full-time?to the Advanced General Dentistry clinic in the spring semester.? The clerkship is an innovative program that allows motivated students to develop beyond what the current four-year dental curriculum allows. Students are trained in advanced techniques - recent technologies in materials, patient and practice management; introduced to clinical research; prepare complex treatment plans; and perform a wide range of clinical procedures. The selected students will participate in the Advanced Education in General Dentistry curriculum.",
+      "institution": "University of Maryland, Baltimore"
+    },
+    {
+      "course_id": "DANS 521",
+      "course_title": "Dental Anesthesiology Fall",
+      "credits": "2.00",
+      "description": "Students learn dental local anesthetic administration techniques and pain and anxiety control techniques.",
+      "institution": "University of Maryland, Baltimore"
+    }
+  ],
+  "timestamp": "2025-08-10T23:53:06.884549"
+}

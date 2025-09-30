@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Southeast Missouri State University",
+    "successful_variation": "Southeast Missouri State University",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Southeast+Missouri+State+University&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "AC 198",
+      "course_title": "Accounting Elective",
+      "credits": "3.00",
+      "description": "No course description available.",
+      "institution": "Southeast Missouri State University"
+    },
+    {
+      "course_id": "AC 221",
+      "course_title": "Principles of Accounting I",
+      "credits": "3.00",
+      "description": "A study of principles and procedures of accounting. The reporting of assets, liabilities, owner's equity, revenues, and expenses are detailed. Prerequisites: AD 101 and MA 134 with minimum grade of 'C'; sophomore standing. (3)",
+      "institution": "Southeast Missouri State University"
+    },
+    {
+      "course_id": "AC 222",
+      "course_title": "Principles of Accounting II",
+      "credits": "3.00",
+      "description": "Examines principles and procedures of accounting. Equity, ca shflows, cost-volume-profit and performance analysis, budget ing and product costing are detailed. Prerequisite: AC 221 with minimum grade of 'C.' (3) Examines principles and procedures of accounting. Equity, cash flows, cost-volume-profit and performance analysis, budgeting and product costing are detailed. Prerequiste: AC 221 with minimum grade of 'C.' (3)",
+      "institution": "Southeast Missouri State University"
+    },
+    {
+      "course_id": "AC 321",
+      "course_title": "Intermediate Acct I",
+      "credits": "3.00",
+      "description": "Theory and procedures concerning financial accounting and reporting. Prerequisite: AC 222 with minimum grad of 'C' (3)",
+      "institution": "Southeast Missouri State University"
+    },
+    {
+      "course_id": "AC 330",
+      "course_title": "Account Info Systems",
+      "credits": "3.00",
+      "description": "Analysis of the role of accounting information systems within an organization operating environment and the computer's effects on these systems. Prerequisites: AC 222 with minimum grade of 'C'; IS 175 or MI 375 with minimum grade of 'C.' (3)",
+      "institution": "Southeast Missouri State University"
+    },
+    {
+      "course_id": "AC 331",
+      "course_title": "Cost/Mgrl Acct",
+      "credits": "3.00",
+      "description": "General principles of cost management systems; job order, process and standard costing; budgeting; responsibility accounting; and performance evaluation. Prerequisite: AC 222 minimum grade of 'C.' (3)",
+      "institution": "Southeast Missouri State University"
+    },
+    {
+      "course_id": "AC 332",
+      "course_title": "Inter Accounting II",
+      "credits": "3.00",
+      "description": "Theory and procedures concerning revenue recognition, investments, stockholders' equity, tax allocation, EPS, pensions, leases, accounting changes, and statements of cash flows. Prerequisite: AC 321with minimum grade of 'C.' (3)",
+      "institution": "Southeast Missouri State University"
+    },
+    {
+      "course_id": "AC 375",
+      "course_title": "Financial Statement",
+      "credits": "3.00",
+      "description": "Examines the primary financial statements. Topics include users objectives, an overview of analytical tools and techniques, and qualitative vs. quantitative judgments. Prerequisite: FI 361 with minimum grade of 'C'. (3)",
+      "institution": "Southeast Missouri State University"
+    },
+    {
+      "course_id": "AC 398",
+      "course_title": "Accounting Elective",
+      "credits": "3.00",
+      "description": "No course description available.",
+      "institution": "Southeast Missouri State University"
+    },
+    {
+      "course_id": "AC 433",
+      "course_title": "Advanced Acct",
+      "credits": "3.00",
+      "description": "No course description available.",
+      "institution": "Southeast Missouri State University"
+    }
+  ],
+  "timestamp": "2025-08-10T04:53:45.427013"
+}

@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Colorado Technical University",
+    "successful_variation": "Colorado Technical University",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Colorado+Technical+University&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACC 310",
+      "course_title": "Accounting for Non-Accounting Majors",
+      "credits": "4.00",
+      "description": "Credits: 4 Prerequisite: none This accounting course is designed for non-accounting majors. Students learn the basic structure of accounting, how to maintain accounts, use account balances to prepare financial statements, complete the accounting cycle, and begin to learn about internal control and accounting for assets. Students will explore accounting examples from their major area of study.",
+      "institution": "Colorado Technical University"
+    },
+    {
+      "course_id": "ACC 341",
+      "course_title": "Financial Accounting",
+      "credits": "4.00",
+      "description": "Credits: 4 Prerequisite: none This course covers the concepts and standards underlying the preparation and analysis of external reports. Students will review the elements, structure, interrelationships of financial statements and the tools necessary to understand and interpret them.",
+      "institution": "Colorado Technical University"
+    },
+    {
+      "course_id": "ACC 345",
+      "course_title": "Intermediate Accounting I",
+      "credits": "4.00",
+      "description": "Credits: 4 Prerequisites: ACCT203 Covers the basic financial statements with emphasis on the accounting principles and procedures relating to current and long-term assets.",
+      "institution": "Colorado Technical University"
+    },
+    {
+      "course_id": "ACC 346",
+      "course_title": "Intermediate Accounting II",
+      "credits": "4.00",
+      "description": "Credits: 4 Prerequisites: ACC345 Covers the basic financial statements with emphasis on the accounting principles and procedures relating to liabilities and owners' equity. Also covers the aspects of revenue and expense recognition.",
+      "institution": "Colorado Technical University"
+    },
+    {
+      "course_id": "ACC 350",
+      "course_title": "Managerial Accounting Practices",
+      "credits": "4.00",
+      "description": "Credits: 4 Prerequisite: none This course provides students with an understanding of the role of accounting information in support of decision-making and planning. Students learn accounting methods for planning and controlling operations through budgets, responsibility centers, and cost management.",
+      "institution": "Colorado Technical University"
+    },
+    {
+      "course_id": "ACC 355",
+      "course_title": "Advanced Accounting",
+      "credits": "4.00",
+      "description": "Credits: 4 Prerequisites: ACCT346 Covers special accounting problems related to the preparation of combined and consolidated financial statements for accounting entities with branch offices and subsidiaries, both domestic and foreign. Also covers accounting for partnerships.",
+      "institution": "Colorado Technical University"
+    },
+    {
+      "course_id": "ACC 365",
+      "course_title": "Auditing",
+      "credits": "4.00",
+      "description": "Credits: 4 Prerequisites: ACC346 An introduction to the primary work of the certified public accountant. Covers examination of financial statements for the purpose of rendering an opinion on the fairness with which they present an entity's financial position and the result of its operations.",
+      "institution": "Colorado Technical University"
+    },
+    {
+      "course_id": "ACC 445",
+      "course_title": "Cost Accounting",
+      "credits": "6.00",
+      "description": "Credits: 6 Prerequisites: ACCT203 Focuses on the principles of accounting for costs in manufacturing enterprises, basic records and procedures, cost reports and interpretation, overhead costs, variable budgets and by-products costs. Covers standard cost procedures and differential cost analysis.",
+      "institution": "Colorado Technical University"
+    },
+    {
+      "course_id": "ACC 455",
+      "course_title": "Tax Accounting I",
+      "credits": "6.00",
+      "description": "Credits: 6 Prerequisites: none Introduces the principles of individual income tax and tax planning strategies. Emphasizes the use of theoretical as well as practical approaches to learn the tax law associated with individual income tax and different forms of business. Develops analytical, research and communication skills.",
+      "institution": "Colorado Technical University"
+    },
+    {
+      "course_id": "ACC 456",
+      "course_title": "Tax Accounting II",
+      "credits": "6.00",
+      "description": "Credits: 6 Prerequisites: ACC455 Studies the taxation of corporations, partnerships, estates and trusts. Emphasizes unique organizations such as S-corporations. Addresses the role of tax planning as it relates to the form of the entity.",
+      "institution": "Colorado Technical University"
+    }
+  ],
+  "timestamp": "2025-08-09T19:42:03.837550"
+}

@@ -1,0 +1,74 @@
+{
+  "search_query": {
+    "institution": "Alfred University",
+    "successful_variation": "Alfred University",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Alfred+University&distance=5"
+  },
+  "total_results": 9,
+  "courses": [
+    {
+      "course_id": "ACCT 462",
+      "course_title": "Applications of Advanced Accounting Principles",
+      "credits": "3.00",
+      "description": "3 hours. An advanced course in the theory of financial accounting with heavy emphasis on special problem areas in accounting such as partnership accounting, home office and branch accounting, mergers and acquisitions, consolidated statements, bankruptcy, estates and trusts, fund accounting and international accounting problems. The current pronouncement of the major authoritative bodies reviewed and illustrated. Prerequisite: ACCT 362. Business",
+      "institution": "Alfred University"
+    },
+    {
+      "course_id": "ANTH 110",
+      "course_title": "Cultural Anthropology",
+      "credits": "4.00",
+      "description": "4 hours. This introductory course surveys the human condition in anthropological perspective. Emphasis is on the nature of culture, sociocultural evolution, human ecology, theoretical strategies, kinship, descent, gender, language, and belief systems. (E)",
+      "institution": "Alfred University"
+    },
+    {
+      "course_id": "ANTH 302",
+      "course_title": "The Nacirema",
+      "credits": "4.00",
+      "description": "4 hours. American culture and society in cross-cultural perspective. This course emphasizes themes observed by international visitors and by anthropologists in cross-national studies. ANTH 110 recommended as a prerequisite.",
+      "institution": "Alfred University"
+    },
+    {
+      "course_id": "ANTH 303",
+      "course_title": "Health and Culture",
+      "credits": "4.00",
+      "description": "4 hours. An examination of the interaction of culture and biology in the broad realm of physical and mental health and illness. Topics include non-Western healers and healing practices, theories of disease and healing, cultural psychiatry, and epidemiology. Prerequisite: ANTH 110.",
+      "institution": "Alfred University"
+    },
+    {
+      "course_id": "ANTH 304",
+      "course_title": "Language and Culture",
+      "credits": "4.00",
+      "description": "2 or 4 hours. An introduction to anthropological linguistics emphasizing the origin, nature and evolution of human language; the Sapir-Whorf hypothesis, sociolinguistics (especially the linguistic aspects of gender and class), and nonverbal behavior. Prerequisite: ANTH 110. Recommended: 200-level foreign language course. (Cross-listed as CRIT 304)",
+      "institution": "Alfred University"
+    },
+    {
+      "course_id": "ANTH 305",
+      "course_title": "Belize and the Caribbean",
+      "credits": "2.00",
+      "description": "This course provides an overview of the insular and mainland region known as the Caribbean, with emphasis on the nation of Belize. Topics surveyed include flora and fauna, prehistory, colonial and modern history, social structure, and recent developments. (Cross-listed as BIOL 305, GLBS 305) (GP)",
+      "institution": "Alfred University"
+    },
+    {
+      "course_id": "ANTH 309",
+      "course_title": "Magic and Religion",
+      "credits": "4.00",
+      "description": "4 hours. An examination of the diversity to be found among human religious beliefs and practices. Includes the relationship between magic, science and religion, the functions of witchcraft, divination and spirit possession and the role of religion in cultural revitalization. Prerequisite: ANTH 110 or permission of instructor. (Cross-listed as RLGS 309) (Sufficient demand)",
+      "institution": "Alfred University"
+    },
+    {
+      "course_id": "ANTH 312",
+      "course_title": "Anthropology of Violence",
+      "credits": "4.00",
+      "description": "2 or 4 hours. Investigates violence in traditional and modern societies. Topics include ritualized violence, gender, the sociocultural construction and reinforcement of violent behavior in the United States, and programs aiming to reduce levels of violence. Prerequisite: ANTH 110 or SOCI 110 and junior or senior standing.",
+      "institution": "Alfred University"
+    },
+    {
+      "course_id": "ANTH 320",
+      "course_title": "The Islamic World",
+      "credits": "4.00",
+      "description": "4 hours. This course offers an overview of the Islamic World, broadly defined. Topics surveyed include tents of Islam, Islamic history, culture and society, gender, the arts, politics, and economics. Understanding Islam's spread and impact globally as well as the sources and nature of contemporary issues are important aspects of the course.",
+      "institution": "Alfred University"
+    }
+  ],
+  "timestamp": "2025-08-10T04:37:25.273337"
+}

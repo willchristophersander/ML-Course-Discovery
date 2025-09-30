@@ -1,0 +1,60 @@
+{
+  "search_query": {
+    "institution": "Phoenix College",
+    "successful_variation": "Phoenix College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Phoenix+College&distance=5"
+  },
+  "total_results": 7,
+  "courses": [
+    {
+      "course_id": "AAA 150",
+      "course_title": "Strategies for College Success",
+      "credits": "3.00",
+      "description": "Focus on increasing student success through college orientation and personal growth, study skills development, and educational and career planning. Prerequisites: None.",
+      "institution": "Phoenix College"
+    },
+    {
+      "course_id": "ACC 115",
+      "course_title": "Computerized Accounting",
+      "credits": "2.00",
+      "description": "Mastery of a microcomputer accounting system including the general ledger, accounts receivable, accounts payable and payroll. Prerequisites: ACC107 or higher level accounting course, or permission of instructor.",
+      "institution": "Phoenix College"
+    },
+    {
+      "course_id": "ACC 121",
+      "course_title": "Income Tax Preparation",
+      "credits": "2.00",
+      "description": "Preparation of and practical experience in preparing returns. Prerequisites: None.",
+      "institution": "Phoenix College"
+    },
+    {
+      "course_id": "ACC 219",
+      "course_title": "Intermediate Accounting I",
+      "credits": "3.00",
+      "description": "Theory and practice applicable to determination of asset values, liabilities, and related problems of income determination. Prerequisites:( ACC212 or ACC240) with a grade of \"C\" or better, or permission of department/division.",
+      "institution": "Phoenix College"
+    },
+    {
+      "course_id": "ACC 220",
+      "course_title": "Intermediate Accounting II",
+      "credits": "3.00",
+      "description": "Continuation of the theory and practice applicable to liabilities and owner's equity; special problems and financial reporting. Prerequisites: ACC219 with a grade of 'C' or better, or permission of department/division.",
+      "institution": "Phoenix College"
+    },
+    {
+      "course_id": "ACC 221",
+      "course_title": "Tax Accounting",
+      "credits": "3.00",
+      "description": "Preparation of and accounting procedures for individuals; introduction to partnerships and corporate tax structures. Prerequisites: ACC111 or ACC211 or permission of department/division.",
+      "institution": "Phoenix College"
+    },
+    {
+      "course_id": "ACC 230",
+      "course_title": "Uses of Accounting Information I",
+      "credits": "3.00",
+      "description": "Introduction to the uses of accounting information for internal and external purposes with emphasis on financial statement analysis. Prerequisites:: Grade of \"C\" or better in ACC111 or ACC211, or a grade of \"C\" or better in (ENG101 and MAT151 and CRE101), or equivalent, or satisfactory score on District placement exam.",
+      "institution": "Phoenix College"
+    }
+  ],
+  "timestamp": "2025-08-09T20:23:28.039467"
+}

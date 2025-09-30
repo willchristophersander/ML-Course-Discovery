@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Boston College",
+    "successful_variation": "Boston College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Boston+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "BI 130",
+      "course_title": "Anatomy and Physiology I",
+      "credits": "3.00",
+      "description": "This course lays the foundation for the understanding of human anatomy and physiology. The first portion of the course covers cellular and molecular aspects of eukaryotic cell function: basic chemistry, macromolecules, cell structure, membrane transport, metabolism, gene expression, cell cycle control, and genetics.",
+      "institution": "Boston College"
+    },
+    {
+      "course_id": "BI 131",
+      "course_title": "Anatomy and Physiology Laboratory I",
+      "credits": "1.00",
+      "description": "Laboratory exercises intended to familiarize students with the various structures and principles discussed in BI 130 through the use of anatomical models, physiological experiments and limited dissection. One two-hour laboratory period per week.",
+      "institution": "Boston College"
+    },
+    {
+      "course_id": "BI 132",
+      "course_title": "Anatomy and Physiology II",
+      "credits": "3.00",
+      "description": "This course is a continuation of BI130/131, with a primary emphasis on the physiology of the major body systems. Systems studied in this course include the sensory, endocrine, cardiovascular, lymphatic, immune, respiratory, digestive, urinary, and reproductive systems. While the physiological functions under normal conditions are emphasized, relevant disease or dysfunctional conditions are also discussed.",
+      "institution": "Boston College"
+    },
+    {
+      "course_id": "BI 133",
+      "course_title": "Anatomy and Physiology Laboratory II",
+      "credits": "1.00",
+      "description": "A continuation of BI 131.",
+      "institution": "Boston College"
+    },
+    {
+      "course_id": "BI 142",
+      "course_title": "The Genetic Century",
+      "credits": "3.00",
+      "description": "Genetics is transforming life in the twenty-first century, from health care to the foods we eat to our understanding of evolution and biodiversity. The course will provide students with a basic understanding of how information is encoded in genes and how that information is transmitted between generations and expressed during development and disease. Topics covered in the course include the genetic bases of disease and behavior, forensic uses of DNA, evolution, genetic engineering, genetically modified crops and personalized medicine. This course is designed for students who are not majoring in biology or biochemistry.",
+      "institution": "Boston College"
+    },
+    {
+      "course_id": "BI 143",
+      "course_title": "Immune Defense: Friend or Foe?",
+      "credits": "3.00",
+      "description": "This course will provide students with a historical overview of infectious disease epidemics, the public health used to control epidemics, and emerging new threats. We will debate current issues covering a wide range of topics, including vaccination, antimicrobial resistance, gene and stem cell therapies to treat malignant and immune diseases, food allergies, and biodefense. The course is designed to enable students to understand the principles underlying the scientific method, to develop the skills to research topics in order to make critically informed decisions and to develop an awareness of the limitation of scientific conclusions.",
+      "institution": "Boston College"
+    },
+    {
+      "course_id": "BI 146",
+      "course_title": "Brain Science: The New Frontier",
+      "credits": "3.00",
+      "description": "This course provides basic knowledge of mammalian nervous system function, its development over the life span, and important new discoveries in the neurosciences that have the potential to influence our everyday lives. Some of these discoveries involve neuroplasticity, nervous system properties that make us uniquely human, and important new technologies such as functional brain imaging, new drug developments, and neurotechnology. The course is designed for non-biology majors.",
+      "institution": "Boston College"
+    },
+    {
+      "course_id": "BI 147",
+      "course_title": "Biodiversity Connections",
+      "credits": "3.00",
+      "description": "Life in the 21st century is directly linked to the health and breadth of the world's biodiversity. This course will explore the evolution, extinction, and conservation of biodiversity. Focus on the interactions among the world's species and the biology of human interaction with the environment. Topics will include the generation and loss of biodiversity. Ecological and evolutionary theory will be woven throughout the course. Weekly species slideshows will introduce students to New England's biodiversity promoting bioliteracy of the local flora and fauna.",
+      "institution": "Boston College"
+    },
+    {
+      "course_id": "BI 148",
+      "course_title": "Epidemics, Disease and Humanity",
+      "credits": "3.00",
+      "description": "An overview of infectious diseases, their effects on people and society and the effectiveness and design of public health interventions in decreasing disease-associated morbidity and mortality. Concepts include the emergence and re-emergence of disease, drug resistance, eradication and resource allocation each highlighted through exploration of the biology of relevant pathogens. Diseases studied include malaria, HIV, tuberculosis, cholera, smallpox, SARS and polio, among many others. Weaponization of infectious agents and the implications for security and health policy are also discussed.",
+      "institution": "Boston College"
+    },
+    {
+      "course_id": "BI 200",
+      "course_title": "Molecules & Cells",
+      "credits": "3.00",
+      "description": "Foundational course required for Biology majors that introduces students to living systems at the molecular and cellular level of organization. Topics introduced in this course include basic cellular biochemistry, gene regulation, cellular organization and metabolism, cell signaling and genetics.",
+      "institution": "Boston College"
+    }
+  ],
+  "timestamp": "2025-08-10T14:32:38.627522"
+}

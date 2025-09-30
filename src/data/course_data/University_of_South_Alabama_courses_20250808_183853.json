@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "University of South Alabama",
+    "successful_variation": "University of South Alabama",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=University+of+South+Alabama&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACC 211",
+      "course_title": "Principles of Accounting I",
+      "credits": "3.00",
+      "description": "The course provides an understanding of ways in which accounting information supports business decision-making. Topics include financial accounting and reporting for assets and liabilities. ACC 211 and ACC 212 must be taken in sequence.",
+      "institution": "University of South Alabama"
+    },
+    {
+      "course_id": "ACC 212",
+      "course_title": "Principles of Accounting II",
+      "credits": "3.00",
+      "description": "The course provides an understanding of ways in which accounting information supports business decision-making. Topics include financial accounting and reporting for ownership interests, and managerial accounting concepts relevant to planning, control and analysis.",
+      "institution": "University of South Alabama"
+    },
+    {
+      "course_id": "ACC 321",
+      "course_title": "Acct for Entrepreneurial Bus",
+      "credits": "3.00",
+      "description": "A study of the analysis and use of accounting information by entrepreneurial businesses. Among the topic covered are typical financing sources of entrepreneurial businesses and valuation of closely held businesses. In addition, the course includes coverage of how financial statements can be used to: manage a business, monitor an entity's performance, determine credit decisions, manage cash flow, and prepare forecasted financial statements.",
+      "institution": "University of South Alabama"
+    },
+    {
+      "course_id": "ACC 331",
+      "course_title": "Taxation of Individuals",
+      "credits": "3.00",
+      "description": "Basic federal income tax law and tax planning considerations relating to individuals.",
+      "institution": "University of South Alabama"
+    },
+    {
+      "course_id": "ACC 341",
+      "course_title": "Accounting Information Systems",
+      "credits": "3.00",
+      "description": "The study of accounting as a comprehensive information system which provides for planning and control, special reports, and preparation of external financial statements.",
+      "institution": "University of South Alabama"
+    },
+    {
+      "course_id": "ACC 371",
+      "course_title": "Financial Accounting I",
+      "credits": "3.00",
+      "description": "Accounting theory as related to income measurement; preparation of balance sheets and income statements; recognition, measurement, and reporting of assets. A minimum grade of C must be earned in ACC 371 before 372 can be taken.",
+      "institution": "University of South Alabama"
+    },
+    {
+      "course_id": "ACC 372",
+      "course_title": "Financial Accounting II",
+      "credits": "3.00",
+      "description": "Includes measurement, recognition and reporting of liabilities, equities, investments, and deferred taxes; EPS; and the preparation of cash flow statements. Coverage of selected professional pronouncements. A minimum grade of C must be earned in ACC 372 before ACC 451 may be taken.",
+      "institution": "University of South Alabama"
+    },
+    {
+      "course_id": "ACC 381",
+      "course_title": "Cost Accounting",
+      "credits": "3.00",
+      "description": "Includes cost-accounting theory and preactice involving such topics as job-order and process-cost systems, cost-volume- profit relationships, budgets, standard costs, variance analysis, direct costing, and cost allocation",
+      "institution": "University of South Alabama"
+    },
+    {
+      "course_id": "ACC 416",
+      "course_title": "Advanced Financial Accounting",
+      "credits": "3.00",
+      "description": "Study of business combinations, consolidation issues, interim and segmented reporting, inflation accounting. Coverage of selected professional pronouncements.",
+      "institution": "University of South Alabama"
+    },
+    {
+      "course_id": "ACC 432",
+      "course_title": "Tax of Partnerships and Corps",
+      "credits": "3.00",
+      "description": "An examination of the federal tax treatment of partnerships and corporations. Topics include: tax aspects of the formation of the entity, elements of gross income, treatment of property dispositions, allowable deductions and credits, determination of entity and investor basis, and liquidation of the entity.",
+      "institution": "University of South Alabama"
+    }
+  ],
+  "timestamp": "2025-08-08T18:38:53.356084"
+}

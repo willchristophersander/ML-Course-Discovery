@@ -1,0 +1,60 @@
+{
+  "search_query": {
+    "institution": "Saddleback College",
+    "successful_variation": "Saddleback College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Saddleback+College&distance=5"
+  },
+  "total_results": 7,
+  "courses": [
+    {
+      "course_id": "ACCT 120",
+      "course_title": "Introduction to Financial Planning",
+      "credits": "3.00",
+      "description": "Major topics include money and credit management, comprehensive insurance coverage, and analyzing and developing management tools and strategies for personal investing. Covers investing in common and preferred stock, government and corporate bonds, mutual funds, real estate, and other financial securities. Lifelong financial planning, pension, retirement, and estate planning issues are addressed. Covers the structure and operation of financial markets as well as financial and investment information gathering. The effects of achieving/ not achieving financial security on psychological and physiological health is examined.",
+      "institution": "Saddleback College"
+    },
+    {
+      "course_id": "ACCT 189",
+      "course_title": "Special Topics",
+      "credits": "0.50",
+      "description": "The Special Topics course is a grouping of short seminars designed to provide students with the latest ideas in a field of study. The course content is thematic in nature and each seminar within the course differs from other offerings in the same course. R E 1",
+      "institution": "Saddleback College"
+    },
+    {
+      "course_id": "ACCT 202A",
+      "course_title": "Intermediate Accounting I",
+      "credits": "3.00",
+      "description": "Prerequisite: ACCT 1A Recommended Preparation: ACCT 1B Review of fundamental accounting processes; in-depth studies of working capital involving cash and temporary investments, receivables, inventory evaluation procedures and current liabilities; stock investments.",
+      "institution": "Saddleback College"
+    },
+    {
+      "course_id": "ACCT 202B",
+      "course_title": "Intermediate Accounting II",
+      "credits": "3.00",
+      "description": "Prerequisite: ACCT 1A Recommended Preparation: ACCT 202A Continued in-depth studies of noncurrent assets and liabilities including investments in bonds, bond redemption funds; plant and equipment acquisition; use and retirement problems; paid-in capital and retained earnings; analytical processes relating to statement analysis, comparative data, ratios, and measurements; fundsflow and cost-flow reporting.",
+      "institution": "Saddleback College"
+    },
+    {
+      "course_id": "ACCT 203",
+      "course_title": "Cost Accounting",
+      "credits": "3.00",
+      "description": "Prerequisite: ACCT 1B Survey of cost accounting; job-order, process, and standard cost concepts; emphasis on costing methods for materials, labor, and factory overhead; preparation and analysis of financial statements rendered from cost data.",
+      "institution": "Saddleback College"
+    },
+    {
+      "course_id": "ACCT 214",
+      "course_title": "Business Analysis And Calculations",
+      "credits": "3.00",
+      "description": "Reviews mathematics to solve typical business problems including simple interest, compound interest, installment sales, trade and cash discounts, markup percents, pricing, discounting notes and drafts, depreciation, taxes, insurance, statistics, stocks and bonds, and distribution of ownership and profits.",
+      "institution": "Saddleback College"
+    },
+    {
+      "course_id": "ACCT 215",
+      "course_title": "General Accounting",
+      "credits": "3.00",
+      "description": "Basic theory and principles of elementary accounting applicable to a single-proprietorship business. Practical application of accounting theory to the accounting cycles of service and merchandising business enterprises: bookkeeping practice; debit and credit practice; books of original entry; ledgers, working papers, adjusting and closing entries; income statement, balance sheet, and statement of owners equity, cash, payroll, special journals, merchandising firms. Recommended for students needing a bookkeeping foundation before enrolling in ACCT 1A, and for retailing, sales and merchandising, and office administration majors.",
+      "institution": "Saddleback College"
+    }
+  ],
+  "timestamp": "2025-08-26T13:19:20.752101"
+}

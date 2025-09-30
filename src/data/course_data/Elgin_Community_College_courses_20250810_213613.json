@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Elgin Community College",
+    "successful_variation": "Elgin Community College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Elgin+Community+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ABE 076",
+      "course_title": "Beginning Reading",
+      "credits": "5.00",
+      "description": "Prerequisite: A student who scores below a 4.0 on the Test of Adult Basic Education (TABE) A beginning reading course that deals with alphabetics, fluency, vocabulary development, comprehension, and functional and workplace literacy skills. Course is repeatable four times up to twenty-four credits. (1.7) Fall, Spring, Summer Proficiency Credit Not Available Pass/No Credit Available",
+      "institution": "Elgin Community College"
+    },
+    {
+      "course_id": "ABE 077",
+      "course_title": "Beginning Basic Computer Literacy Skills",
+      "credits": "5.00",
+      "description": "Prerequisite: An adult education student who scores either below a 4.0 on the Test of Adult Basic Education (TABE), who never received a high school diploma or GED Certificate, or who completed Low Intermediate ESL This course is designed to introduce Adult Basic Education (ABE) students to an understanding of the nature and operation of technology. Course is repeatable four times up to twelve credits. (1.7) Fall, Spring, Summer Proficiency Credit Not Available Pass/No Credit Available",
+      "institution": "Elgin Community College"
+    },
+    {
+      "course_id": "ABE 078",
+      "course_title": "Beginning English Grammar Skills",
+      "credits": "5.00",
+      "description": "Prerequisite: A score on the reading section on the Test of Adult Basic Education (TABE) below a 4.0 as well as a student who does not have a high school diploma or GED Certificate A beginning English grammar course that focuses beginning writing, composition/ sentence structure, and grammatical concepts. Course is repeatable four times up to twelve credits. (1.7) Fall, Spring, Summer Proficiency Credit Not Available Pass/No Credit Available",
+      "institution": "Elgin Community College"
+    },
+    {
+      "course_id": "ABE 079",
+      "course_title": "Beginning Basic Mathematics",
+      "credits": "5.00",
+      "description": "Prerequisite: A student who scores below a 4.0 on the math portion of the Test of Adult Basic Education (TABE) A basic mathematics course that deals with survival and workplace literacy mathematics in relation to number sense, problem solving, simple geometry and algebra, and problem solving. This mathematics course centers on raising a student's mathematics score on the math portion of the Test of Adult Basic Education (TABE) to a 4.0 grade level or higher. Course is repeatable four times up to twentyfour credits. (1.7) Fall, Spring, Summer Proficiency Credit Not Available Pass/No Credit Available",
+      "institution": "Elgin Community College"
+    },
+    {
+      "course_id": "ABE 080",
+      "course_title": "Basic Reading I",
+      "credits": "5.00",
+      "description": "Prerequisite: A student who scores between a 4.0 and 5.9 on the Test of Adult Basic Education (TABE) A basic reading course that deals with phonemic awareness and fluency, comprehension, analysis, and interpretation of a variety of literary texts, work-related documents, and manuals. Repeatable to 20 credits. (1.7) Fall, Spring, Summer Proficiency Credit Not Available Pass/No Credit Available",
+      "institution": "Elgin Community College"
+    },
+    {
+      "course_id": "ABE 081",
+      "course_title": "Basic Reading II",
+      "credits": "5.00",
+      "description": "Prerequisite: A student who scores above a 5.9 and below a 9.0 on the Test of Adult Basic Education (TABE) and/or successful completion of ABE 080 A basic reading course that deals with comprehension, analysis, interpretation and evaluation of a variety of literary texts, workrelated documents, and manuals. Repeatable to 20 credits. (1.7) Fall, Spring, Summer Proficiency Credit Not Available Pass/No Credit Available",
+      "institution": "Elgin Community College"
+    },
+    {
+      "course_id": "ABE 082",
+      "course_title": "Basic Computer Skills I",
+      "credits": "5.00",
+      "description": "Prerequisite: An adult education student who scores between a 4.0 and 5.9 and on the Test of Adult Basic Education (TABE), who never received a high school diploma or GED Certificate, who completed Low Intermediate ESL, or who successfully completed ABE 077 This course is designed to introduce Adult Basic Education (ABE) students to an understanding of the nature and operation of technology. Course is repeatable four times up to 12 credits. (1.7) Fall, Spring, Summer Proficiency Credit Not Available Pass/No Credit Available",
+      "institution": "Elgin Community College"
+    },
+    {
+      "course_id": "ABE 083",
+      "course_title": "Basic Computer Skills II",
+      "credits": "5.00",
+      "description": "Prerequisite: An adult education student who scores between a 6.0 and 8.9 on the Test of Adult Basic Education (TABE), who never received a high school diploma or GED Certificate, who completed Low Intermediate ESL, or who successfully completed ABE 082 This course is designed to introduce Adult Basic Education (ABE) students to an understanding of the nature and operation of technology. Course is repeatable four times up to 12 credits. (1.7) Fall, Spring, Summer Proficiency Credit Not Available Pass/No Credit Available",
+      "institution": "Elgin Community College"
+    },
+    {
+      "course_id": "ABE 084",
+      "course_title": "Basic English Grammar Skills",
+      "credits": "5.00",
+      "description": "Prerequisite: A score on the reading section of the Test of Adult Basic Education (TABE) between a 4.0 and a 5.9, as well as a student who does not have a high school diploma nor a GED A beginning English grammar course that focuses composition/sentence structure and grammatical concepts. Course is repeatable four times up to 24 credits. (1.7) Fall, Spring, Summer Proficiency Credit Not Available Pass/No Credit Not Available",
+      "institution": "Elgin Community College"
+    },
+    {
+      "course_id": "ABE 085",
+      "course_title": "Basic Writing Skills",
+      "credits": "5.00",
+      "description": "Prerequisite: A score on the reading section of the Test of Adult Basic Education (TABE) between a 6.0 and 8.9, as well as a student who does not have a high school diploma nor a GED A beginning English grammar course that focuses on composition/sentence structure and grammatical concepts. Course is repeatable four times up to 24 credits. (1.7) Fall, Spring, Summer Proficiency Credit Not Available Pass/No Credit Available",
+      "institution": "Elgin Community College"
+    }
+  ],
+  "timestamp": "2025-08-10T21:36:13.351204"
+}

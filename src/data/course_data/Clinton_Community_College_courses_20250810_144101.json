@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Clinton Community College",
+    "successful_variation": "Clinton Community College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Clinton+Community+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACC 101",
+      "course_title": "Principles of Accounting I",
+      "credits": "4.00",
+      "description": "Prerequisite: ENG 094 and MAT 100. Introduces the basic principles of accounting theory and practice, emphasizing the sole-proprietorship form of business. Primary areas of study include the theory of debit and credit, accounts and special journals, the accounting cycle, notes and interest, accruals and deferrals, receivables, inventory, plant assets, and the preparation of financial statements.",
+      "institution": "Clinton Community College"
+    },
+    {
+      "course_id": "ACC 151",
+      "course_title": "Principles of Accounting II",
+      "credits": "4.00",
+      "description": "Prerequisite: ACC 101. Continues the study begun in ACC 101 of basic accounting fundamentals and principles. Introduction of partnership, corporate, and managerial accounting, stocks, bonds, budgets, investments in stocks and bonds, cash flow statement, and financial statement analysis.",
+      "institution": "Clinton Community College"
+    },
+    {
+      "course_id": "ACC 159",
+      "course_title": "Payroll Accounting",
+      "credits": "3.00",
+      "description": "The goals of this course are to develop an understanding of personnel and payroll records that provide information required by numerous laws. Payroll accounting systems using payroll registers, recording of accounting entries and payroll are presented relating to the payments of wages and salaries. A computerized payroll project is required.",
+      "institution": "Clinton Community College"
+    },
+    {
+      "course_id": "ACC 201",
+      "course_title": "Intermediate Accounting",
+      "credits": "3.00",
+      "description": "Prerequisite: ACC 151. Provides an intensive analytical study of the principles underlying the valuation of assets on the balance sheet. Publications of the professional accounting societies are used throughout the course.",
+      "institution": "Clinton Community College"
+    },
+    {
+      "course_id": "ACC 202",
+      "course_title": "Cost Accounting",
+      "credits": "3.00",
+      "description": "Prerequisite: ACC 151. A study of cost accounting, embracing an inquiry into the methods of accounting for materials, labor and overhead in a manufacturing operation. Standard cost systems and managerial cost applications are also covered.",
+      "institution": "Clinton Community College"
+    },
+    {
+      "course_id": "ACC 251",
+      "course_title": "Federal Income Tax",
+      "credits": "3.00",
+      "description": "Prerequisite: ACC 101. The more important provisions of Federal income tax and the interrelationships between income tax rules and accounting principles utilized in developing taxable income information are emphasized.",
+      "institution": "Clinton Community College"
+    },
+    {
+      "course_id": "ACC 252",
+      "course_title": "Computer Applications in Accounting",
+      "credits": "3.00",
+      "description": "Prerequisites: ACC 101 and CSC 102. Combines computer applications, accounting theory and practice. Accounting systems are developed using generally accepted accounting principles and auditing standards.",
+      "institution": "Clinton Community College"
+    },
+    {
+      "course_id": "ANT 101",
+      "course_title": "Cultural Anthropology",
+      "credits": "3.00",
+      "description": "Prerequisite: completion of ENG 094 or placement in ENG 101. This course is a survey of man's cultural evolution from a hunting and gathering society to the modern industrial state. Kinship systems, social and political organizations, economic structures, religious beliefs and artistic achievements of non-western culture will be studied and compared to our own culture.",
+      "institution": "Clinton Community College"
+    },
+    {
+      "course_id": "ART 100",
+      "course_title": "Art Appreciation",
+      "credits": "3.00",
+      "description": "Prerequisite: ENG 094. This lecture course examines visual art forms in painting, drawing, printmaking, and sculpture. Students learn the expressive and communicative language of form (i.e. line, shape, color) and its integral relationship to content within a work of art. In addition to investigating the elements of form and understanding content, materials and the techniques of the artists will be explored, and its significance to meaning as well. A survey of Art of the Western World unit will study art history combining material covered throughout the course and see its evolution and usage in the world of fine art. The course includes lecture, text, and visual materials.",
+      "institution": "Clinton Community College"
+    },
+    {
+      "course_id": "ART 101",
+      "course_title": "Introduction to Design",
+      "credits": "3.00",
+      "description": "This course involves the exploration and uses of the elements and principles of design. Students will gain an understanding and develop a sensitivity to the fundamentals of design and composition by manipulation and creative solving of design problems. Through design problems (assignments - both in and outside of class), group viewings, lecture/demonstrations, students will learn the theory, history and purposes of design and its universal qualities and applications.",
+      "institution": "Clinton Community College"
+    }
+  ],
+  "timestamp": "2025-08-10T14:41:01.037619"
+}

@@ -1,0 +1,67 @@
+{
+  "search_query": {
+    "institution": "University of Redlands",
+    "successful_variation": "University of Redlands",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=University+of+Redlands&distance=5"
+  },
+  "total_results": 8,
+  "courses": [
+    {
+      "course_id": "ACCT 210",
+      "course_title": "Principles of Financial Accounting and Reporting",
+      "credits": "4.00",
+      "description": "Fall (4 credits), Spring (4 credits). Financial accounting and reporting concepts and procedures that provide a history of economic resources, obligations, and related economic activities of financial entities. Emphasis is on using financial information to analyze financial health and performance at an enterprise. Prerequisite: ECON 250, second semester sophomore or permission.",
+      "institution": "University of Redlands"
+    },
+    {
+      "course_id": "ACCT 211",
+      "course_title": "Financial Accounting Process",
+      "credits": "3.00",
+      "description": "May Term (3 credits). Extended study of the accounting process as a system. Topics include initial recording processes and final reporting. Objectives and procedures for assuring reliability of the system are introduced. Skill developed in computerized accounting systems. Prerequi - sites: ACCT 210. Accounting majors and minors only. Offered every year.",
+      "institution": "University of Redlands"
+    },
+    {
+      "course_id": "ACCT 220",
+      "course_title": "Principles of Managerial Accounting",
+      "credits": "4.00",
+      "description": "Fall (4 credits), Spring (4 credits). Analysis of financial and relevant non-financial information used in planning, motivating, evaluating, and controlling economic and behavioral concepts and quantitative techniques are integrated throughout. Topics: cost behavior, budgeting, analysis of variance, performance measurement, and pricing. Prerequisites: ACCT 210, ECON 250, and a department-approved statistics course. Corequisite: ECON 251. Pre- or corequisite: any Liberal Arts Foundation Human Behavior (HB) course.",
+      "institution": "University of Redlands"
+    },
+    {
+      "course_id": "ACCT 315",
+      "course_title": "Advanced Managerial Accounting",
+      "credits": "3.00",
+      "description": "Fall (3 credits), Spring (3 credits). Examination of concepts and analytical techniques drawn from behavioral sciences, economics, and financial accounting as applied to managerial planning, controlling, and decision-making issues. Topics include analysis of alternative cost systems for activities, products, and processes. Prerequisite: ACCT 220.",
+      "institution": "University of Redlands"
+    },
+    {
+      "course_id": "ACCT 331",
+      "course_title": "Accounting Information Systems",
+      "credits": "4.00",
+      "description": "Spring (4 credits). Study of the design and application of accounting systems intended to provide financial and non-financial information which informs decisions and influences behavior within business processes. Strong emphasis on conceptual modelling and database systems, and on documenting and evaluating internal controls. Prerequisites: ACCT 310 or ACCT 220 or permission. NU only.",
+      "institution": "University of Redlands"
+    },
+    {
+      "course_id": "ACCT 360",
+      "course_title": "Volunteer Income Tax Assistance",
+      "credits": "3.00",
+      "description": "Spring (3 credits). Topics in Federal and California income tax regulations for filing basic income tax returns. Introduction to issues of providing volunteer service. Experiential learning is required through a community service component. CN only.",
+      "institution": "University of Redlands"
+    },
+    {
+      "course_id": "ACCT 410",
+      "course_title": "Auditing",
+      "credits": "4.00",
+      "description": "Fall (4 credits). Examination of the purposes, expectations, and responsibilities of independent public auditors as the profession evolves in society. Emphasis on the auditor's decision process. Topics: legal liability, ethics, sampling theory, evidence, audit standards, internal control, and the audit report. Prerequisite: ACCT 320 or permission.",
+      "institution": "University of Redlands"
+    },
+    {
+      "course_id": "ACCT 415",
+      "course_title": "Tax Accounting",
+      "credits": "4.00",
+      "description": "Fall (4 credits). Determination of federal and state income tax liability for individuals, corporations, and partnerships. Filing returns, paying taxes, and getting refunds. Legislative and judicial development of tax law. Legal recourse available to taxpayers. Prerequisites: ACCT 210, and senior standing, or permission. ACCT 360 Volunteer Income Tax Assistance (CSAC) recommended.",
+      "institution": "University of Redlands"
+    }
+  ],
+  "timestamp": "2025-08-09T22:48:48.635909"
+}

@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Wentworth Institute of Technology",
+    "successful_variation": "Wentworth Institute of Technology",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Wentworth+Institute+of+Technology&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACPE 650",
+      "course_title": "Independent Study",
+      "credits": "4.00",
+      "description": "This capstone course is for senior-level students to pursue individual or group research and/or projects that will demonstrate a comprehensive understanding and competency in their selected discipline. Prerequisites: Fifth-year ACPE status (a minimum of 104 earned credits with a 2.0 GPA) and permission of the ACPE Dean. Contact your ACPE academic advisor for a copy of the required format and conditions. ACPE Course.",
+      "institution": "Wentworth Institute of Technology"
+    },
+    {
+      "course_id": "ARCH 115",
+      "course_title": "Survey of Architecture I",
+      "credits": "3.00",
+      "description": "This course is a lecture-based historical survey of western and non-western architecture, covering the ideas, their social implications, and the evolution of construction technology. The survey follows the course of history through the Industrial Revolution. Corequisite: ARCH155 Design Principles I. Day Course.",
+      "institution": "Wentworth Institute of Technology"
+    },
+    {
+      "course_id": "ARCH 155",
+      "course_title": "Digital Representation",
+      "credits": "2.00",
+      "description": "This course will present advanced computer graphics programs as they pertain to architectural design and 3D visualization. Corequisite: ARCH245 Architectural Design + Technology I. Day Course.",
+      "institution": "Wentworth Institute of Technology"
+    },
+    {
+      "course_id": "ARCH 175",
+      "course_title": "Design Principles II",
+      "credits": "4.00",
+      "description": "This course introduces students to computer-aided drawing, utilizing the computer as a tool in its many roles in the exploration and the production of architecture. Two-dimensional drawing, three-dimensional modeling, and animation are discussed and explored. Weekly exercises guide the course and weekly seminars integrate the materials covered in ARCH165 Survey of Architecture II. Prerequisite: ARCH115 Survey of Architecture I and ARCH155 Design Principles I. Corequisite: ARCH165 Survey of Architecture II. Day Course.",
+      "institution": "Wentworth Institute of Technology"
+    },
+    {
+      "course_id": "ARCH 238",
+      "course_title": "Materials And Methods I",
+      "credits": "3.00",
+      "description": "A lecture-based survey on materials and methods of construction as they relate to structural design. The course provides an overview of contemporary building technology and theory. State-of-the-art technology is introduced through the use of high quality contemporary case studies. Prerequisite: ARCH165 Survey of Architecture II and ARCH175 Design Principles II. Corequisite: ARCH245 Architecture Design and Technology I. Day Course.",
+      "institution": "Wentworth Institute of Technology"
+    },
+    {
+      "course_id": "ARCH 245",
+      "course_title": "Architectural Design And Technologyi",
+      "credits": "6.00",
+      "description": "A studio-based design course that explores the issues presented in ARCH238 Materials and Methods I lectures in a series of design problems of increasing complexity and length, and through discussions in weekly seminars. Prerequisite: ARCH165 Survey of Architecture II, ARCH175 Design Principles II. Corequisite: ARCH238 Materials and Methods I and HUMN150 Art and Theory. Please refer to the Design Studio Grade Requirement on page B-22 regarding the final grade for this course. Day Course.",
+      "institution": "Wentworth Institute of Technology"
+    },
+    {
+      "course_id": "ARCH 338",
+      "course_title": "Materials And Methods II",
+      "credits": "3.00",
+      "description": "A lecture-based survey on materials and methods of construction as they relate to systems design. The course provides an overview of contemporary building technology and theory. State-of-the-art technology and sustainability are introduced through the use of high quality contemporary case studies. Prerequisite: ARCH245 Architecture Design and Technology I and ARCH238 Materials and Methods I. Corequisite: ARCH345 Architecture Design and Technology II. Day Course.",
+      "institution": "Wentworth Institute of Technology"
+    },
+    {
+      "course_id": "ARCH 345",
+      "course_title": "Architectural Design And Technologyii",
+      "credits": "6.00",
+      "description": "A studio-based design course that explores the issues presented in ARCH338 Materials and Methods II lectures in a series of design problems of increasing complexity and length, and through discussions in weekly seminars. Prerequisites: ARCH245 Architecture Design and Technology I and ARCH238 Materials and Methods I. Corequisites: ARCH338 Materials and Methods II and LITR445 Literature and the Modern Age. Please refer to the Design Studio Grade Requirement on page B-22 regarding the final grade for this course. Day Course.",
+      "institution": "Wentworth Institute of Technology"
+    },
+    {
+      "course_id": "ARCH 370",
+      "course_title": "Idp Registration",
+      "credits": "0.00",
+      "description": "Students entering into the first semester of the junior year are required to register for the Intern Development Program (IDP) of the National Council of Architectural Registration Boards (NCARB) and establish an NCARB file number before the end of the semester. Prerequisite: Junior status. DayCourse.",
+      "institution": "Wentworth Institute of Technology"
+    },
+    {
+      "course_id": "ARCH 402",
+      "course_title": "D+r History of Architecture I",
+      "credits": "3.00",
+      "description": "This course surveys the design, constructional technology and cultural significance of buildings from the Neolithic era to the end of the Renaissance, including non-Western cultures. Prerequisite: Junior status in Design + Research concentration. Day Course.",
+      "institution": "Wentworth Institute of Technology"
+    }
+  ],
+  "timestamp": "2025-08-11T00:07:17.341390"
+}

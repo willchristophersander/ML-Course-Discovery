@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "California State University, San Marcos",
+    "successful_variation": "California State University-San Marcos",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=California+State+University-San+Marcos&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACCT 201",
+      "course_title": "Introduction to Financial Accounting",
+      "credits": "3.00",
+      "description": "Introduction to the accounting information reported to external users, including the accounting cycle, valuation of assets, liabilities and owners' equity, measurement of net income, and reporting of cash flows. Emphasis is on creation and interpretation of financial statements including required disclosures. Introduction to the business environment and vocabulary; introduction to ethics and related areas of accounting such as managerial accounting, taxation, auditing, and attestation. May not be taken for credit by students who have received credit for ACCT 203.",
+      "institution": "California State University, San Marcos"
+    },
+    {
+      "course_id": "ACCT 202",
+      "course_title": "Introduction to Managerial Accounting",
+      "credits": "3.00",
+      "description": "Introduction to the accounting information created for internal decision makers. Includes product costing, cost-volume-profit analysis, budgetary control, and incremental analysis. Focus on strategic cost management to support efficient use of company resources. May not be taken for credit by students who have received credit for ACCT 203. Enrollment Requirement: ACCT 201 with a C (2.0) or better.",
+      "institution": "California State University, San Marcos"
+    },
+    {
+      "course_id": "ACCT 301",
+      "course_title": "Intermediate Accounting I",
+      "credits": "4.00",
+      "description": "In-depth discussions of accounting theory and practice. Examination of issues related to asset valuation and income determination based on generally accepted accounting principles. May not be taken for credit by students who have received credit for ACCT 305. Enrollment restricted to students who have completed all lower-division pre-business core (major status in Business Administration - i.e. attained business status).",
+      "institution": "California State University, San Marcos"
+    },
+    {
+      "course_id": "ACCT 302",
+      "course_title": "Intermediate Accounting II",
+      "credits": "2.00",
+      "description": "In-depth study of financial accounting theory related to long-term liabilities, owners' equity, and cash flows. A continuation of material covered in ACCT 301. May not be taken for credit by students who have received credit for ACCT 405. Prerequisite: ACCT 301 or ACCT 305. Enrollment restricted to students who have completed all lower-division prebusiness core (major status in Business Administration - i.e. attained business status).",
+      "institution": "California State University, San Marcos"
+    },
+    {
+      "course_id": "ACCT 306",
+      "course_title": "Cost Accounting",
+      "credits": "4.00",
+      "description": "Review of the cost measurement process and its role in management and control. Includes cost-volume-profit relationships, budgeting, variance analysis, and cost systems for product, process, job and responsibility costing. Enrollment restricted to students who have completed all lowerdivision pre-business core (major status in Business Administration - i.e. attained business status).",
+      "institution": "California State University, San Marcos"
+    },
+    {
+      "course_id": "ACCT 307",
+      "course_title": "Tax Accounting",
+      "credits": "4.00",
+      "description": "Introduction to federal tax concepts with emphasis on individual taxpayers; includes an overview of the statutory construction and methods for accessing tax information. Enrollment restricted to students who have completed all lower-division pre-business core (major status in Business Administration - i.e. attained business status).",
+      "institution": "California State University, San Marcos"
+    },
+    {
+      "course_id": "ACCT 308",
+      "course_title": "Accounting Information and Systems",
+      "credits": "4.00",
+      "description": "Basic principles underlying the accounting process and concepts necessary for the preparation of financial statements, both manually and electronically. Includes the design, integrity, and effectiveness of accounting information systems emphasizing the integration of financial information, internal control, and computer technology in decision making and operational support. Students will be exposed to a variety of accounting software applications. Three hours of lecture and two hours of laboratory. May not be taken for credit by students who have received credit for ACCT 303, 315, 415 or 491A. Prerequisite: ACCT 305 or ACCT 301. Enrollment restricted to students who have completed all lower-division pre-business core (major status in Business Administration - i.e. attained business status), and the Computer Competency Requirement.",
+      "institution": "California State University, San Marcos"
+    },
+    {
+      "course_id": "ACCT 406",
+      "course_title": "Cost Management,Measurement,and Control",
+      "credits": "2.00",
+      "description": "In-depth study of the application of activity based cost accounting to the problems of management control in manufacturing, service, and government organizations. Enrollment restricted to students who have completed all lower-division pre-business core (major status in Business Administration - i.e. attained business status). Prerequisite: ACCT 306.",
+      "institution": "California State University, San Marcos"
+    },
+    {
+      "course_id": "ACCT 407",
+      "course_title": "Advanced Tax Accounting",
+      "credits": "2.00",
+      "description": "Federal tax concepts as they apply to corporations, partnerships and fiduciaries; includes federal estate and gift taxation. Prerequisite: ACCT 307. Enrollment restricted to students who have completed all lower-division pre-business core (major status in Business Administration - i.e. attained business status).",
+      "institution": "California State University, San Marcos"
+    },
+    {
+      "course_id": "ACCT 416",
+      "course_title": "Auditing",
+      "credits": "4.00",
+      "description": "A comprehensive examination of auditing theory, standards and procedures used by CPAs, with integration of Generally Accepted Auditing Standards. The ethical and legal environments of the independent auditor are also discussed. Should be taken last year of enrollment, preferably last semester. Prerequisite: ACCT 305 or ACCT 301. Enrollment restricted to students who have completed all lower-division pre-business core (major status in Business Administration - i.e. attained business status).",
+      "institution": "California State University, San Marcos"
+    }
+  ],
+  "timestamp": "2025-08-11T00:16:40.247779"
+}

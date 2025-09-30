@@ -1,0 +1,60 @@
+{
+  "search_query": {
+    "institution": "Carroll University",
+    "successful_variation": "Carroll University",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Carroll+University&distance=5"
+  },
+  "total_results": 7,
+  "courses": [
+    {
+      "course_id": "AAD 450",
+      "course_title": "Arts Administration Internship",
+      "credits": "3.00",
+      "description": "Prereq: AAD 401-402, senior or junior standing and approval of the dean of the school of the arts. Students must complete an arts administration internship/practicum within the Belhaven College arts division, local art organizations, or performing arts companies. Refer to \"Student Intern Programs and Internships\" for further requirements.",
+      "institution": "Carroll University"
+    },
+    {
+      "course_id": "ACC 217",
+      "course_title": "Computerized Accounting",
+      "credits": "3.00",
+      "description": "Prereq: ACC 213-214. An application oriented course with emphasis on the use of computers in solving accounting and business problems. Hands-on use of general ledger and spreadsheet software will be emphasized.",
+      "institution": "Carroll University"
+    },
+    {
+      "course_id": "ACC 301",
+      "course_title": "Managerial Accounting",
+      "credits": "3.00",
+      "description": "Prereq: ACC 213-214. An in depth study of accounting applications for managers with special emphasis on computer applications. Required for business majors, not available for credit for accounting majors.",
+      "institution": "Carroll University"
+    },
+    {
+      "course_id": "ACC 337",
+      "course_title": "Cost Accounting",
+      "credits": "3.00",
+      "description": "Prereq: ACC 213-214 with BUS 305 as a co-requisite. A study of cost and revenue behavior, cost-volume-profit relationships, master budgeting, and responsibility accounting for the purpose of planning and control of operations.",
+      "institution": "Carroll University"
+    },
+    {
+      "course_id": "ACC 411",
+      "course_title": "Individual Income Tax Accounting",
+      "credits": "3.00",
+      "description": "Prereq: ACC 213-214. An introduction to the federal income taxation of individuals. This course offers a broad base for understanding and applying the tax laws.",
+      "institution": "Carroll University"
+    },
+    {
+      "course_id": "ACC 412",
+      "course_title": "Auditing",
+      "credits": "3.00",
+      "description": "Prereq: ACC 313 and 314. A study of the concepts and standards of auditing and an explanation of how concepts are implemented in auditing practices, policies, and procedures.",
+      "institution": "Carroll University"
+    },
+    {
+      "course_id": "ACC 413",
+      "course_title": "Advanced Accounting",
+      "credits": "3.00",
+      "description": "Prereq: ACC 313-314. A study of specialized problems of accounting, including income presentation, business combinations, multinational accounting, partnerships, governmental and not-for-profit accounting, and fiduciary accounting.",
+      "institution": "Carroll University"
+    }
+  ],
+  "timestamp": "2025-08-10T23:40:32.255032"
+}

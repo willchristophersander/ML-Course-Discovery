@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Martin Community College",
+    "successful_variation": "Martin Community College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Martin+Community+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACA 085",
+      "course_title": "Improving Study Skills",
+      "credits": "3.00",
+      "description": "Prerequisites: None Corequisites: None This course is designed to improve academic study skills and introduce resources that will complement developmental courses and engender success in college-level courses. Topics include basic study skills, memory techniques, note-taking strategies, test-taking techniques, library skills, personal improvement strategies, goal setting, and learning resources. Upon completion, students should be able to apply the techniques learned to improve performance in college-level classes.",
+      "institution": "Martin Community College"
+    },
+    {
+      "course_id": "ACA 115",
+      "course_title": "Success & Study Skills",
+      "credits": "3.00",
+      "description": "Prerequisites: None Corequisites: None This course provides an orientation to the campus resources and academic skills necessary to achieve educational objectives. Emphasis is placed on an exploration of facilities and services, study skills, library skills, self-assessment, wellness, goal-setting, and critical thinking. Upon completion, students should be able to manage their learning experiences to successfully meet educational goals.",
+      "institution": "Martin Community College"
+    },
+    {
+      "course_id": "ACC 120",
+      "course_title": "Principles of Financial Accounting",
+      "credits": "3.00",
+      "description": "Prerequisites: None Corequisites: None This course introduces business-making accounting information systems. Emphasis is placed on analyzing, summarizing, reporting, and interpreting financial information. Upon completion, students should be able to prepare financial statements, understand the role of financial information in decision-making and address ethical considerations. This course has been approved to satisfy the Comprehensive Articulation Agreement pre-major and/or elective course requirement.",
+      "institution": "Martin Community College"
+    },
+    {
+      "course_id": "ACC 121",
+      "course_title": "Principles of Managerial Accounting",
+      "credits": "3.00",
+      "description": "Prerequisites: ACC 120 Corequisites: None This course includes a greater emphasis on managerial and cost accounting skills. Emphasis is placed on managerial accounting concepts for external analysis, reporting and decision-making. Upon completion, students should be able to analyze and interpret transactions relating to managerial concepts including product-costing systems. This course has been approved to satisfy the Comprehensive Articulation Agreement pre-major and/or elective course requirement.",
+      "institution": "Martin Community College"
+    },
+    {
+      "course_id": "ACC 129",
+      "course_title": "Individual Income Taxes",
+      "credits": "3.00",
+      "description": "Prerequisites: None Corequisites: None This course introduces the relevant laws governing individual income taxation. Topics include tax law, electronic research and methodologies, and the use of technology for preparation of individual tax returns. Upon completion, students should be able to analyze basic tax scenarios, research applicable tax law, and complete various individual tax forms.",
+      "institution": "Martin Community College"
+    },
+    {
+      "course_id": "ACC 140",
+      "course_title": "Payroll Accounting",
+      "credits": "3.00",
+      "description": "Prerequisites: ACC 115 or ACC 120 Corequisites: None This course covers federal and state laws pertaining to wages, payroll taxes, payroll tax forms, and journal and general ledger transactions. Emphasis is placed on computing wages; calculating social security, income, and unemployment taxes; preparing appropriate payroll tax forms; and journalizing/posting transactions. Upon completion, students should be able to analyze data, make appropriate computations, complete forms, and prepare accounting entries using appropriate technology.",
+      "institution": "Martin Community College"
+    },
+    {
+      "course_id": "ACC 150",
+      "course_title": "Accounting Software Applications",
+      "credits": "3.00",
+      "description": "Prerequisites: ACC 115 or ACC 120 Corequisites: None This course introduces microcomputer applications related to accounting systems. Topics include general ledger, accounts receivable, accounts payable, inventory, payroll, and correcting, adjusting, and closing entries. Upon completion, students should be able to use a computer accounting package to solve accounting problems.",
+      "institution": "Martin Community College"
+    },
+    {
+      "course_id": "ACC 220",
+      "course_title": "Intermediate Accounting I",
+      "credits": "3.00",
+      "description": "Prerequisites: ACC 121 Corequisites: None This course is a continuation of the study of accounting principles with in-depth coverage of theoretical concepts and financial statements. Topics include generally accepted accounting principles and an extensive analyses of financial statements. Upon completion, students should be able to demonstrate competence in the conceptual framework underlying financial accounting, including the application of financial standards.",
+      "institution": "Martin Community College"
+    },
+    {
+      "course_id": "ACC 225",
+      "course_title": "Cost Accounting",
+      "credits": "3.00",
+      "description": "Prerequisites: ACC 121 Corequisites: None This course introduces the nature and purposes of cost accounting as an information system for planning and control. Topics include direct materials, direct labor, factory overhead, process, job order, and standard cost systems. Upon completion, students should be able to demonstrate an understanding of the principles involved and display an analytical problem-solving ability for the topics covered.",
+      "institution": "Martin Community College"
+    },
+    {
+      "course_id": "ACC 269",
+      "course_title": "Audit & Assurance Services",
+      "credits": "3.00",
+      "description": "Prerequisites: ACC 220 Corequisites: None This course introduces selected topics pertaining to the objectives, theory and practices in engagements providing auditing and other assurances services. Topics include planning, conducting and reporting, with emphasis on the related professional ethics and standards. Upon completion, students should be able to demonstrate an understanding of the types of professional services, the related professional standards, and engagement methodology.",
+      "institution": "Martin Community College"
+    }
+  ],
+  "timestamp": "2025-08-10T10:18:10.950533"
+}

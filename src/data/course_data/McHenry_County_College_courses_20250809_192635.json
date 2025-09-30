@@ -1,0 +1,67 @@
+{
+  "search_query": {
+    "institution": "McHenry County College",
+    "successful_variation": "McHenry County College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=McHenry+County+College&distance=5"
+  },
+  "total_results": 8,
+  "courses": [
+    {
+      "course_id": "ACC 110",
+      "course_title": "Basic Accounting Procedures",
+      "credits": "3.00",
+      "description": "[E] (F,S) (2.0, 2.0) 3.0 T ,O Basic accounting and bookkeeping principles and procedures are explored. Accounting for a service and merchandising businesses including double-entry framework, journalizing and posting transactions, adjusting entries and worksheets, and formulation of financial statements and the closing process are examined in depth, manually and with a computerized application. Also included are specialized accounting procedures for service businesses and proprietorships. (1.2-Articulated)",
+      "institution": "McHenry County College"
+    },
+    {
+      "course_id": "ACC 151",
+      "course_title": "Financial Accounting",
+      "credits": "3.00",
+      "description": "[E] (F,S,Su) (3.0, 0.0) 3.0 T ,O Foundation course required for further study in accounting. Fundamental procedures to accumulate business data and information using accrual accounting. Topics covered include nature of accounting information, content of financial reports, analysis of transactions, matching of expenses with revenues, inventory costing, short-term investments, promissory notes, depreciation methods and present values. Students will be expected to devote sufficient time and effort necessary to complete the course. (1.1-Articulated) [IAI Major Course Equivalent: BUS903]",
+      "institution": "McHenry County College"
+    },
+    {
+      "course_id": "ACC 152",
+      "course_title": "Management Accounting",
+      "credits": "3.00",
+      "description": "[E] (F,S,Su) (3.0, 0.0) 3.0 T ,O This course serves as an Introduction to Cost Accounting. Areas introduced include analyzing cost-volume-profit relationships, product cost flows, capital investment decisions, operating budgets, traditional cost management, management accounting information in the new business environment, evaluating products and processes, evaluating personnel and divisions through variance analysis, and continuous improvement in Management Accounting. (1.1-Articulated) [IAI Major Course Equivalent: BUS904] PREREQUISITE: ACC 151 with a grade of 'C' or better.",
+      "institution": "McHenry County College"
+    },
+    {
+      "course_id": "ACC 220",
+      "course_title": "Computer Applications For Accounting",
+      "credits": "3.00",
+      "description": "[E] (S) ( 2.0, 2.0) 3.0 O A practical introduction to the utilization of an integrated accounting package for microcomputers including considerations necessary in choosing and implementing a computerized accounting system. Students will learn the differences between manual and computerized accounting systems and will set up and use integrated computerized general ledger, accounts receivable, accounts payable, inventory, depreciation and payroll applications to maintain accounting records of a business and produce financial reports including cash flow, horizontal and vertical analysis. (1.2-Articulated) PREREQUISITE: ACC 110 or ACC 151 with a grade of 'C' orbetter. Completion of CIS 110 is highly recommended.",
+      "institution": "McHenry County College"
+    },
+    {
+      "course_id": "ACC 236",
+      "course_title": "Cost Accounting",
+      "credits": "3.00",
+      "description": "[E] (S) ( 3.0, 0.0) 3.0 Concepts and procedures of a manufacturing cost accounting system and how it can be used for management. The basic elements and costs of production are studied as they relate to topics such as: job order and process cost systems, standard costs and variance analysis. (1.1-Articulated) PREREQUISITE: ACC 152 with a grade of 'C' or better.",
+      "institution": "McHenry County College"
+    },
+    {
+      "course_id": "ACC 237",
+      "course_title": "Income ta x Accounting",
+      "credits": "3.00",
+      "description": "[E] (F) (3.0, 0.0) 3.0 O Focuses on the federal income taxation of individuals. Emphasizes conceptual framework underlying the United States tax system and federal tax law relating to the preparation of individual tax returns. Topics covered include: itemized deductions, business expenses, capital gains and losses, credits and special taxes, introduction to partnership and corporate taxes, and tax form preparation. (1.2-Articulated) NOTE : ACC 151 completion recommended.",
+      "institution": "McHenry County College"
+    },
+    {
+      "course_id": "ACC 238",
+      "course_title": "Income ta x- Advanced",
+      "credits": "3.00",
+      "description": "[E] (S) (3.0, 0.0) 3.0 O This course represents an introduction to corporate, partnership, trust, estate and exempt entity taxations. The student will become familiar with various related subjects including alternative minimum tax, alternative earnings tax, gift and estate tax and related effects to shareholders. (1.2-Articulated) PREREQUISITE: ACC237 with a grade of 'C' or better or permissionof instructor.",
+      "institution": "McHenry County College"
+    },
+    {
+      "course_id": "ACC 239",
+      "course_title": "Irs Pra Ctice & Procedure",
+      "credits": "3.00",
+      "description": "[E] ( Su) ( 3.0, 0.0) 3.0 O This practice and procedure course covers the taxpayers' rights as they relate to filing, collection, levies, liens, and appeals. IRS employees at all levels must follow a complex set of rules. These are in the Internal Revenue Manual (IRM). The best taxpayer advocates have a working knowledge of the IRM and are ready to protect their clients' assets. (1.2-Articulated) PREREQUISITE: ACC238 with a grade of 'C' or better or permissionof instructor.",
+      "institution": "McHenry County College"
+    }
+  ],
+  "timestamp": "2025-08-09T19:26:35.820017"
+}

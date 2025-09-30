@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Salisbury University",
+    "successful_variation": "Salisbury University",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Salisbury+University&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACCT 201",
+      "course_title": "Introduction to Financial Accounting",
+      "credits": "3.00",
+      "description": "Provides students with a general overview of financial accounting including the underlying accounting principles and concepts, financial statement preparation, financial statement analysis, cash flow, etc. Prerequisite: Twenty-four college credit hours taken at or accepted by SU. Three hours per week.",
+      "institution": "Salisbury University"
+    },
+    {
+      "course_id": "ACCT 202",
+      "course_title": "Introduction to Managerial Accounting",
+      "credits": "3.00",
+      "description": "Provides students with an understanding of how accounting information is used in the operation of a business Topics include inventory costing systems (job order costing and process costing), cost-volume-profit analysis, budgeting, performance evaluation, pricing and cost allocation, etc. Prerequisite: ACCT 201. Three hours per week.",
+      "institution": "Salisbury University"
+    },
+    {
+      "course_id": "ACCT 248",
+      "course_title": "Legal Environment",
+      "credits": "3.00",
+      "description": "In-depth analysis of legal principles and their relationship to commerce. Topics include areas of torts, constitutional law, contracts and government regulation. Three hours per week.",
+      "institution": "Salisbury University"
+    },
+    {
+      "course_id": "ACCT 302",
+      "course_title": "Cost Accounting I",
+      "credits": "3.00",
+      "description": "Emphasizes the use of accounting information for budgeting, planning and control, and decision making. Topics include integrated budgeting, variance analysis, job-order costing, activity-based costing, relevant costs for decision making, etc. Major Prerequisites: C or better in ACCT 201, 202 and admission to the Professional Program. Non-Major Prerequisites: C or better in ACCT 201, 202 and junior standing. Three hours per week.",
+      "institution": "Salisbury University"
+    },
+    {
+      "course_id": "ACCT 304",
+      "course_title": "Intermediate Accounting I",
+      "credits": "3.00",
+      "description": "Detailed analysis of current and noncurrent assets and the related revenue and expense accounts. Emphasis on recent APB and FASB pronouncements. Major Prerequisites: C or better in ACCT 201, 202 and admission to the Professional Program. Non-Major Prerequisites: C or better in ACCT 201, 202 and junior standing. Three hours per week.",
+      "institution": "Salisbury University"
+    },
+    {
+      "course_id": "ACCT 305",
+      "course_title": "Intermediate Accounting II",
+      "credits": "3.00",
+      "description": "Detailed analysis of accounting concepts, including current and noncurrent liabilities, stockholders equity accounts, related revenue and expense accounts, and statement of changes in financial position. Emphasis on recent APB and FASB guidelines. Major Prerequisites: C or better in ACCT 304, successful completion of the Accounting Program admission test and admission to the Professional Program. Non-Major Prerequisites: C or better in ACCT 304, successful completion of the Accounting Program admission test and junior standing. Three hours per week.",
+      "institution": "Salisbury University"
+    },
+    {
+      "course_id": "ACCT 306",
+      "course_title": "Managerial Accounting",
+      "credits": "3.00",
+      "description": "Introduction to internal accounting--accounting for planning and control and also for special decisions. Various topics and techniques are covered, the most pervasive being budgets. Major Prerequisites: ACCT 202 and admission to Professional Program. Non-Major Prerequisites: ACCT 202 and junior standing. Three hours per week.",
+      "institution": "Salisbury University"
+    },
+    {
+      "course_id": "ACCT 338",
+      "course_title": "Special Topics in Accounting",
+      "credits": "3.00",
+      "description": "Advanced study of varying accounting topics based on students' interests and needs. May be repeated once for credit under different subtitles. May substitute for an accounting elective depending on the topic (see chair of Accounting Department). Major Prerequisites: C or better in ACCT 304 and admission to Professional Program. Non-Major Prerequisites: C or better in ACCT 304 and junior standing. Three hours per week.",
+      "institution": "Salisbury University"
+    },
+    {
+      "course_id": "ACCT 341",
+      "course_title": "Federal Income Tax Accounting: Personal",
+      "credits": "3.00",
+      "description": "Discussion of technical tax provisions as they pertain to individuals. Emphasis on tax planning considerations. Use of IRS forms where appropriate. This course, along with successful participation in the VITA program, satisfies the ABLE requirement. Major Prerequisites: C or better in ACCT 201, 202 and admission to the Professional Program. Non-Major Prerequisites: C or better in ACCT 201, 202 and junior standing. Three hours per week.",
+      "institution": "Salisbury University"
+    },
+    {
+      "course_id": "ACCT 342",
+      "course_title": "Federal Income Tax Accounting: Partnership And Corporation",
+      "credits": "3.00",
+      "description": "Discussion of technical tax provisions as they pertain to corporations, partnerships, estates and trusts. Emphasis on tax planning considerations. Major Prerequisites: ACCT 341 and admission to Professional Program. Non-Major Prerequisites: ACCT 341 and junior standing. Three hours per week.",
+      "institution": "Salisbury University"
+    }
+  ],
+  "timestamp": "2025-08-09T19:56:45.035590"
+}

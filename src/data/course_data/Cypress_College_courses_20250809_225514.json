@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Cypress College",
+    "successful_variation": "Cypress College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Cypress+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "AT 101",
+      "course_title": "c Survey of The Automobile",
+      "credits": "3.00",
+      "description": "Three hours lecture per week. CSU This course provides fundamental knowledge of the automobile, including engines, power trains, suspension and brakes, electrical and fuel systems. Other areas of instruction will be in the use of tools and equipment normally used in automotive service and repair.",
+      "institution": "Cypress College"
+    },
+    {
+      "course_id": "AT 102",
+      "course_title": "c Automotive History",
+      "credits": "3.00",
+      "description": "Three hours lecture per week. CSU This course details the growth of the automotive industry in the U.S. from the late 1890's through the global business climate of today. Topics include biographical sketches of industry pioneers, geographical why's and where's of the industry, the roots of automotivedesign, and an in depth review of major engineering achievements. The course includes visits to historical automotive collections at a cost not to exceed $40.00. To earn a certificate, complete the required courses as listed with a minimum grade of \"C\". At least 50% of all course work must becompleted at Cypress College.",
+      "institution": "Cypress College"
+    },
+    {
+      "course_id": "AT 110",
+      "course_title": "c Automotive Fundamentals",
+      "credits": "4.00",
+      "description": "Three hours lecture and Three hours laboratory per week. CSU This course provides fundamental knowledge of the automobile, including engines, power trains, suspension and brakes, electrical and fuel systems. Other areas of instruction will be in the use of tools and equipment normally used in automotive service and repair. Emphasis will be on the operating principles, nomenclature of car care, inspection, preventive maintenance, and minor repair procedures.",
+      "institution": "Cypress College"
+    },
+    {
+      "course_id": "AT 115",
+      "course_title": "c Automotive Air Conditioning",
+      "credits": "4.00",
+      "description": "Three hours lecture and Three hours laboratory per week. CSU This course emphasizes the acquisition of the practical skills needed to both understand principles of refrigeration and perform system diagnosis and repair. Demonstrated lecture, shop lab simulators and \"live\" vehicles will be used to learn service diagnosis,repair and installation of air conditioning systems including automatic temperature control. Safety and environmental concerns along with CFC recovery, recycling, retrofitting, and R-134A will be covered.",
+      "institution": "Cypress College"
+    },
+    {
+      "course_id": "AT 120",
+      "course_title": "c Auto Engine Repair/ Machining",
+      "credits": "12.00",
+      "description": "Nine hours lecture and Nine hours laboratory per week. CSU Advisory: AT 101 C or AT 110 C. This course covers the acquisition of practical skills needed for accurate internal combustion engine diagnosis and repair and all phases of engine rebuilding machine work. Demonstrated lecture, simulated problem diagnosis, and practical application on \"live\" vehicles will be used. Individualizedinstruction on Automotive rebuilding tools and machinery is an integral part of this course. Engine theory, design, repair, practical and theoretical high performance modifications are part of the course. Preparation for ASE certification tests A1, MQ1, MG2, and MG3 will be covered.",
+      "institution": "Cypress College"
+    },
+    {
+      "course_id": "AT 130",
+      "course_title": "c Auto Chassis And Brake Systems",
+      "credits": "12.00",
+      "description": "Nine hours lecture and Nine hours laboratory per week. Advisory: AT 101 C or AT 110 C. This course emphasizes operating principles, design, service, repair and diagnosis of chassis and brake systems of domestic and import vehicles. Major topics of study will be wheel alignment techniques, wheel balance, power steering systems, hydraulics, disc and drum brake systems, and power assisting systems. Application will be applied under simulated repair shop procedures using \"live\" vehicles. Preparation forASE (A4 and as) certification will be covered. Cypress College 2008-2009 Automotive Technology / 103",
+      "institution": "Cypress College"
+    },
+    {
+      "course_id": "AT 140",
+      "course_title": "c Auto Transmissions/ Drivetrains",
+      "credits": "12.00",
+      "description": "Nine hours lecture and Nine hours laboratory per week. CSU Advisory: AT 101 C or AT 110 C. This course will include operation principles, design, repair, overhaul and service procedures of automatic transmissions, 4 and 5 speed synchromesh transmissions, clutch assemblies, drive lines, final drive axles and transaxle units. Demonstrated lectures and shop laboratory work on automatic transmissions will be covered with emphasis on procedures to industry standards. Practical application will be under simulated shop conditions on \"live\" vehicles. Preparation of ASEcertification will be covered.",
+      "institution": "Cypress College"
+    },
+    {
+      "course_id": "AT 150",
+      "course_title": "c Auto Performance/ Driveability",
+      "credits": "12.00",
+      "description": "Nine hours lecture and Nine hours laboratory per week. CSU Advisory: AT 101 C or AT 110 C. This course will include operating principles, design, and repair procedures of automotive electrical and fuel systems. In addition, alternators, starters, batteries, ignition systems, computerized engine management systems, emission control systems, 5 gas analysis, ignition analyzer and scan tool use will be covered. Skill competency development will be under simulated shop conditions on \"live\" vehicles. Preparation forASE certification tests A6 and A8 will be covered.",
+      "institution": "Cypress College"
+    },
+    {
+      "course_id": "AT 160",
+      "course_title": "c Basic Auto Electricity",
+      "credits": "4.00",
+      "description": "Three hours lecture and Three hours laboratory per week. This is an introductory course in the concepts of electrical and electronic control of the automobile. Course instruction will include lecture, demonstration and student application in the use of test equipment on simulator board and \"on-car\" diagnosis with electricaldiagrams, charts, and schematics.",
+      "institution": "Cypress College"
+    },
+    {
+      "course_id": "AT 161",
+      "course_title": "c Diagnostics & Digital Meters",
+      "credits": "1.00",
+      "description": "One hour lecture per week. This course covers concepts of testing electrical and electronic circuits of an automobile using a multi-meter. Advanced diagnostic concepts and circuit testing of automobile systems is a large component of the course. Demonstrated lecture in conjunction with collaborative work groups is emphasized. Practical application in the use of multi-meters on live circuits and simulator boards is an integral part of the course.",
+      "institution": "Cypress College"
+    }
+  ],
+  "timestamp": "2025-08-09T22:55:14.433762"
+}

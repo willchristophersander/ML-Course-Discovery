@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Greenville Technical College",
+    "successful_variation": "Greenville Technical College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Greenville+Technical+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ABR 102",
+      "course_title": "Mig Welding",
+      "credits": "3.00",
+      "description": "2-5-3 Offered Spring Semester Prerequisite: ABR 104 This course is an introduction to the welding of high strength steels used in modern unibody vehicles. Prerequisite: ABR 104",
+      "institution": "Greenville Technical College"
+    },
+    {
+      "course_id": "ABR 104",
+      "course_title": "Auto Body Fundamentals",
+      "credits": "3.00",
+      "description": "2-5-3 Offered Fall Semester This course is a basic study of fundamental issues important for an entry-level auto body technician. Topics include an introduction to safety, tools, and equipment, as well as career exploration opportunities.",
+      "institution": "Greenville Technical College"
+    },
+    {
+      "course_id": "ABR 105",
+      "course_title": "Struct Measuring and Analysis",
+      "credits": "3.00",
+      "description": "2-5-3 Offered Fall Semester Prerequisite: ABR 104 This course is an introduction to modern vehicle designs and their engineered safety features. Emphasis is placed on vehicle damage analysis and three-dimensional measuring. Prerequisite: ABR 104",
+      "institution": "Greenville Technical College"
+    },
+    {
+      "course_id": "ABR 106",
+      "course_title": "Non-Struct Plastic & Metal Rep",
+      "credits": "3.00",
+      "description": "2-5-3 Offered Fall Semester Prerequisite: ABR 104 This course is an exploration of plastic repair procedures and metal straightening techniques. Prerequisite: ABR 104",
+      "institution": "Greenville Technical College"
+    },
+    {
+      "course_id": "ABR 107",
+      "course_title": "Refinishing Fundamentals",
+      "credits": "3.00",
+      "description": "2-5-3 Offered Fall Semester Prerequisite: ABR 104 This course is an exploration of refinishing preparation techniques in the automotive industry. Emphasis is placed on the application of undercoats and detailing processes. Prerequisite: ABR 104",
+      "institution": "Greenville Technical College"
+    },
+    {
+      "course_id": "ABR 109",
+      "course_title": "Accessories",
+      "credits": "3.00",
+      "description": "(2-5-3) Offered Summer Semester This course is an introduction to automotive air conditioning, power windows, power seats and other accessories in late model vehicles.",
+      "institution": "Greenville Technical College"
+    },
+    {
+      "course_id": "ABR 114",
+      "course_title": "Estimating Fundamentals",
+      "credits": "3.00",
+      "description": "2-5-3 Offered Summer Semester Prerequisites: ABR 104 This course is a study of basic estimating principles to include vehicle identification, electronic estimating systems, damage analysis, and processing of information relating to insurance claims. Prerequisite: ABR 105, ABR 106, ABR 107",
+      "institution": "Greenville Technical College"
+    },
+    {
+      "course_id": "ABR 115",
+      "course_title": "Struct Repair Plan & Correct",
+      "credits": "3.00",
+      "description": "2-5-3 Offered Spring Semester Prerequisite: ABR 105 This course is the study of repair planning and methods for making corrective structural pulls to late model, collision-damaged vehicles. Emphasis is placed on the straightening of unibody, space-frame, and full-frame vehicles. Prerequisite: ABR 105",
+      "institution": "Greenville Technical College"
+    },
+    {
+      "course_id": "ABR 116",
+      "course_title": "Non-Struct Panel Replac & Trim",
+      "credits": "3.00",
+      "description": "2-5-3 Offered Spring Semester Prerequisite: ABR 106 This course is a study of the assembly and disassembly of automotive replacement panels to include welded, bonded, and bolted panels. Prerequisite: ABR 106",
+      "institution": "Greenville Technical College"
+    },
+    {
+      "course_id": "ABR 117",
+      "course_title": "Refinishing Applic Processes",
+      "credits": "3.00",
+      "description": "2-5-3 Offered Spring Semester Prerequisite: ABR 107 This course is a study of mixing and applying automotive topcoats, to include spray gun set-up, mixing equipment, and spraying equipment for solvent and waterborne refinishes. Prerequisite: ABR 107",
+      "institution": "Greenville Technical College"
+    }
+  ],
+  "timestamp": "2025-08-10T06:12:45.135309"
+}

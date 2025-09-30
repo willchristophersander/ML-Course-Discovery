@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "San Juan College",
+    "successful_variation": "San Juan College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=San+Juan+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACCT 105",
+      "course_title": "SPIN: Special Interest)",
+      "credits": "3.00",
+      "description": "Course is designed to address a variety of subjects required to meet the needs of lifelong learning students. Not available for transfer nor applicable as an elective.",
+      "institution": "San Juan College"
+    },
+    {
+      "course_id": "ACCT 175",
+      "course_title": "Fundamentals of Accounting IA",
+      "credits": "3.00",
+      "description": "This serves as the first course of a two course sequence designed as an option towards meeting the requirements of ACCT-201. The course gives the student a solid introduction to generally accepted accounting principles, beginning with basic double-entry concepts, classification of accounts, preparation of financial statements and special-purpose journals. Emphasis is on the sole proprietorship, including both service and merchandising entities. Semester offered: Fall and Spring.",
+      "institution": "San Juan College"
+    },
+    {
+      "course_id": "ACCT 176",
+      "course_title": "Fundamentals of Accounting IB",
+      "credits": "3.00",
+      "description": "This serves as the second course of a two course sequence designed as an option towards meeting the requirements of ACCT-201. The course continues with a study of accounting information systems, specialpurpose journals, cash and internal controls and the measurement and reporting of assets and current liabilities. Emphasis is on the sole proprietorship with an introduction to accounting for partnerships. Prerequisite: ACCT-175. Semester offered: Fall and Spring.",
+      "institution": "San Juan College"
+    },
+    {
+      "course_id": "ACCT 201",
+      "course_title": "Fundamentals of Accounting I",
+      "credits": "4.00",
+      "description": "This course gives the student a solid foundation in generally accepted accounting principles beginning with basic double-entry concepts, classification of accounts, preparation of financial statements, specialpurpose journals, and the measurement and reporting of assets and current liabilities. Emphasis is on the sole proprietorship, including both service and merchandising entities. Semester offered: Fall, Spring and Summer. [NM Common Course Number: ACCT 2113, Business Transfer Module]",
+      "institution": "San Juan College"
+    },
+    {
+      "course_id": "ACCT 202",
+      "course_title": "Fundamentals of Accounting II",
+      "credits": "4.00",
+      "description": "This course begins with the accounting for partnerships and corporations, long-term investments and debt, statement of cash flows, and financial statement analysis. This is followed by a study of managerial accounting including cost flows, behavior, allocations and control, including standards and variance analysis, product costing using job order and process systems, and operating and capital budgeting. Prerequisite: ACCT 201 or equivalent. Semester offered: Fall, Spring and Summer. [NM Common Course Number: ACCT 2123, Business Transfer Module]",
+      "institution": "San Juan College"
+    },
+    {
+      "course_id": "ACCT 216",
+      "course_title": "Spreadsheet Accounting",
+      "credits": "3.00",
+      "description": "This course is a hands-on spreadsheet accounting course designed to help students apply previous knowledge and processes of financial and managerial accounting to a computerized environment using Microsoft Excel software. Prerequisite: ACCT-201 or equivalent. Corequisite: ACCT-202. Semester offered: Spring.",
+      "institution": "San Juan College"
+    },
+    {
+      "course_id": "ACCT 218",
+      "course_title": "Computerized Accounting",
+      "credits": "3.00",
+      "description": "This course emphasizes the practical aspects of using computerized accounting software. Through the use of computer simulations, the student will demonstrate the ability to set up an accounting system using a hands-on approach, which integrates an understanding of accounting with mastery of the software. Activities will include the preparation and completion of quarterly, semi-annual and annual reports along with financial statements and various tax reports as required. Prerequisite: ACCT-201 or equivalent. Semester offered: Spring.",
+      "institution": "San Juan College"
+    },
+    {
+      "course_id": "ACCT 220",
+      "course_title": "Payroll Accounting",
+      "credits": "3.00",
+      "description": "This course emphasizes the practical aspects of accounting for small businesses. Through the use of manual and computer payroll simulations, the students will demonstrate the ability to set up employee records, determine and calculate wages and deductions, and prepare the required governmental and tax reports. Technology is incorporated to give students hands-on experience based on the current practices of payroll specialists. Prerequisite: ACCT 201 or equivalent. Semester offered: Fall.",
+      "institution": "San Juan College"
+    },
+    {
+      "course_id": "ACCT 221",
+      "course_title": "Intermediate Accounting I",
+      "credits": "3.00",
+      "description": "Current financial accounting practices are studied with emphasis on the application of accounting theory. This course deals primarily with financial accounting and reporting information to external users. Prerequisite: ACCT 202. Semester offered: Spring. [NM Common Course Number: ACCT 2133, Business Transfer Module]",
+      "institution": "San Juan College"
+    },
+    {
+      "course_id": "ACCT 230",
+      "course_title": "Tax Help I",
+      "credits": "2.00",
+      "description": "Classroom training for the interviewing and income tax preparation functions for low income clients under the I.R.S. and/or Tax Help New Mexico program. Semester offered: Fall and Spring.",
+      "institution": "San Juan College"
+    }
+  ],
+  "timestamp": "2025-08-09T20:08:53.481664"
+}

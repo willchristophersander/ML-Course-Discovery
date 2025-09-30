@@ -1,0 +1,113 @@
+{
+  "timestamp": "2025-08-08T17:06:11.584764",
+  "analysis": {
+    "total_universities": 5,
+    "discovery_success_rate": 0.6,
+    "avg_discovery_confidence": 0.8966666666666666,
+    "validation_success_rate": 0.0,
+    "avg_validation_confidence": 0,
+    "course_finding_rate": 0,
+    "avg_discovery_time": 2.2018771171569824,
+    "avg_validation_time": 1.8344094276428222,
+    "successful_discoveries": [
+      {
+        "university": "Ohio Dominican College",
+        "url": "https://classes.osu.edu/#/",
+        "discovery_confidence": 0.91,
+        "validation_confidence": 0.0,
+        "courses_found": "0/0"
+      },
+      {
+        "university": "Tulane University",
+        "url": "https://classes.berkeley.edu/",
+        "discovery_confidence": 0.89,
+        "validation_confidence": 0.0,
+        "courses_found": "0/0"
+      },
+      {
+        "university": "North Carolina A&T State University",
+        "url": "https://classes.berkeley.edu/",
+        "discovery_confidence": 0.89,
+        "validation_confidence": 0.0,
+        "courses_found": "0/0"
+      }
+    ],
+    "failed_discoveries": [
+      {
+        "university": "East Arkansas Community College",
+        "error": "No search results found with any strategy"
+      },
+      {
+        "university": "SOWELA Technical Community College",
+        "error": "No search results found with any strategy"
+      }
+    ]
+  },
+  "detailed_results": [
+    {
+      "university_name": "Ohio Dominican College",
+      "discovered_url": "https://classes.osu.edu/#/",
+      "discovery_success": true,
+      "discovery_confidence": 0.91,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No test courses found in CollegeTransfer.net",
+      "discovery_time": 2.3471696376800537,
+      "validation_time": 2.206510305404663
+    },
+    {
+      "university_name": "Tulane University",
+      "discovered_url": "https://classes.berkeley.edu/",
+      "discovery_success": true,
+      "discovery_confidence": 0.89,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No test courses found in CollegeTransfer.net",
+      "discovery_time": 6.337923049926758,
+      "validation_time": 3.7302069664001465
+    },
+    {
+      "university_name": "East Arkansas Community College",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No search results found with any strategy",
+      "discovery_time": 0.0004570484161376953,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "North Carolina A&T State University",
+      "discovered_url": "https://classes.berkeley.edu/",
+      "discovery_success": true,
+      "discovery_confidence": 0.89,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No test courses found in CollegeTransfer.net",
+      "discovery_time": 2.323269844055176,
+      "validation_time": 3.2353298664093018
+    },
+    {
+      "university_name": "SOWELA Technical Community College",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No search results found with any strategy",
+      "discovery_time": 0.0005660057067871094,
+      "validation_time": 0.0
+    }
+  ]
+}

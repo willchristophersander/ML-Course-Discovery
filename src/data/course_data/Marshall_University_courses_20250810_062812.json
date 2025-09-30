@@ -1,0 +1,32 @@
+{
+  "search_query": {
+    "institution": "Marshall University",
+    "successful_variation": "Marshall University",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Marshall+University&distance=5"
+  },
+  "total_results": 3,
+  "courses": [
+    {
+      "course_id": "AAT 105",
+      "course_title": "Computerized Database Mgt",
+      "credits": "3.00",
+      "description": "Use of database management software to create and maintain databases.",
+      "institution": "Marshall University"
+    },
+    {
+      "course_id": "AAT 114",
+      "course_title": "Keyboarding II",
+      "credits": "3.00",
+      "description": "Training in keying business letters, multiple-page reports, tables, and special business forms. Attention to building speed with control. Student must type a minimum of 45 wpm with no more than 5 errors to pass this course. (PR: AAT 113)",
+      "institution": "Marshall University"
+    },
+    {
+      "course_id": "AAT 136",
+      "course_title": "Comp Word Processing",
+      "credits": "3.00",
+      "description": "Provides basic hands-on training in the use of word processing software. (PR: AAT 113 or permission)",
+      "institution": "Marshall University"
+    }
+  ],
+  "timestamp": "2025-08-10T06:28:12.423423"
+}

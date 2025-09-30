@@ -1,0 +1,25 @@
+{
+  "search_query": {
+    "institution": "Yale University",
+    "successful_variation": "Yale University",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Yale+University&distance=5"
+  },
+  "total_results": 2,
+  "courses": [
+    {
+      "course_id": "AFAM 112",
+      "course_title": "aG /hsar 379aG,New York Mambo:Microcosm of Black Creativity",
+      "credits": "3.00",
+      "description": "Robert Thompson. For description see under History of Art.",
+      "institution": "Yale University"
+    },
+    {
+      "course_id": "AFAM 178",
+      "course_title": "bG /afst 188bG/hsar 378bG,From West Africa to the Black Americas:The Black Atlantic Visual Tradition",
+      "credits": "3.00",
+      "description": "Robert Thompson. For description see under History of Art.",
+      "institution": "Yale University"
+    }
+  ],
+  "timestamp": "2025-08-10T21:37:38.655488"
+}

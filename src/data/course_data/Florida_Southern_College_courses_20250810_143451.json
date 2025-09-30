@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Florida Southern College",
+    "successful_variation": "Florida Southern College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Florida+Southern+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "AAS 164",
+      "course_title": "History of Jazz",
+      "credits": "3.00",
+      "description": "Three hours. Same as MUS 164. Development of jazz as a medium of musical expression.",
+      "institution": "Florida Southern College"
+    },
+    {
+      "course_id": "AAS 209",
+      "course_title": "Survey of African American Literature",
+      "credits": "3.00",
+      "description": "Three hours. Prerequisites: ENG 101 and ENG 102 or the equivalent. Same as ENG 209. Survey of African American authors, literary movements and genres from slavery to the present.",
+      "institution": "Florida Southern College"
+    },
+    {
+      "course_id": "AAS 305",
+      "course_title": "Race, Culture, And Human Relations",
+      "credits": "3.00",
+      "description": "Three hours. Same as SOC 305. The sociological meaning of race and minority group status in American society; specific minority groups will be studied.",
+      "institution": "Florida Southern College"
+    },
+    {
+      "course_id": "AAS 310",
+      "course_title": "African- American Studies",
+      "credits": "3.00",
+      "description": "Three hours. Same as SOC 310. Critical examination of leading theorists, legal case studies of social change, directions of change, and projection of future trends.",
+      "institution": "Florida Southern College"
+    },
+    {
+      "course_id": "AAS 319",
+      "course_title": "World Religions And Philosophies",
+      "credits": "3.00",
+      "description": "Three hours. Same as PHI 319 and REL 319. Origins, founders, basic concepts, and contemporary relevance of the world's living religions and their associated philosophies.",
+      "institution": "Florida Southern College"
+    },
+    {
+      "course_id": "AAS 405",
+      "course_title": "History of The South",
+      "credits": "3.00",
+      "description": "Three hours. Prerequisites: HIS 211 and 212. Same as HIS 405. The distinctive aspects of Southern history from colonial times to the present, emphasizing the Old South and the Civil War.",
+      "institution": "Florida Southern College"
+    },
+    {
+      "course_id": "AAS 445",
+      "course_title": "Special Topics",
+      "credits": "3.00",
+      "description": "Three hours. Prerequisite: Permission of instructor. Specialized, interdisciplinary study of one or more topics in African American studies, determined by the division(s) and faculty offering the course.",
+      "institution": "Florida Southern College"
+    },
+    {
+      "course_id": "ACC 202",
+      "course_title": "Accounting Principles II- Managerial",
+      "credits": "3.00",
+      "description": "Three hours. Prerequisite: ACC 201. Accounting for corporations; managerial accounting; and management analysis. Required for majors in Accounting, Business Administration (core), Music Management, Recreational Turfgrass Management and Sport Management.",
+      "institution": "Florida Southern College"
+    },
+    {
+      "course_id": "ACC 301",
+      "course_title": "Intermediate Accounting I",
+      "credits": "3.00",
+      "description": "Three hours. Prerequisite: ACC 202. A detailed study of the conceptual framework of accounting, the development of generally accepted accounting principles, the preparation of financial statements, the determination of income, the procedures related to accounting for inventories, property, plant and equipment, depreciation and depletion, and intangible assets.",
+      "institution": "Florida Southern College"
+    },
+    {
+      "course_id": "ACC 302",
+      "course_title": "Intermediate Accounting II",
+      "credits": "3.00",
+      "description": "Three hours. Prerequisite: ACC 301. A detailed study of the procedures related to accounting for current and long-term liabilities, investments, owner's equity, retained earnings and earnings per share, pensions, leases, income recognition, the preparation of the statement of cash flows, accounting changes, and accounting for income taxes.",
+      "institution": "Florida Southern College"
+    }
+  ],
+  "timestamp": "2025-08-10T14:34:51.984187"
+}

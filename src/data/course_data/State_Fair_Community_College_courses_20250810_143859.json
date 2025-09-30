@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "State Fair Community College",
+    "successful_variation": "State Fair Community College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=State+Fair+Community+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACCT 101",
+      "course_title": "Principles of Financial Accounting",
+      "credits": "3.00",
+      "description": "Prerequisite: BSKL020 and BSKL061 or equivalent placement scores. Introductory course covering fundamental accounting principles and financial statement preparation. Emphasis on analysis of effects of business transactions on the earnings, financial position, and cash flows of business entities.",
+      "institution": "State Fair Community College"
+    },
+    {
+      "course_id": "ACCT 102",
+      "course_title": "Managerial Accounting",
+      "credits": "3.00",
+      "description": "Prerequisite:ACCT101 with a grade of C or better. Introduction to accounting methods and processes of managerial and cost accounting. Emphasis on developing and using accounting information related to a manufacturing environment, including management control and decision making.",
+      "institution": "State Fair Community College"
+    },
+    {
+      "course_id": "ACCT 109",
+      "course_title": "Applied Accounting Procedures",
+      "credits": "3.00",
+      "description": "Prerequisite: BSKL015 with a grade of C or better or equivalent placement score. Designed to give students who have no previous knowledge of accounting a basic understanding of accounting terminology and procedures used to record, classify, and summarize financial data for a sole proprietorship.",
+      "institution": "State Fair Community College"
+    },
+    {
+      "course_id": "ACCT 125",
+      "course_title": "Computerized Accounting Applications",
+      "credits": "3.00",
+      "description": "Prerequisites: ACCT109 and CAPP125 with grades of C or better or consent of instructor. Project-intensive approach to accounting and reporting utilizing accounting software currently used in industry. Emphasis on using a microcomputer to process financial accounting data and prepare financial statements and related reports.",
+      "institution": "State Fair Community College"
+    },
+    {
+      "course_id": "ACCT 126",
+      "course_title": "Introduction to Quickbooks",
+      "credits": "1.00",
+      "description": "Introduction to the basic concepts and skills necessary for using QuickBooks. Emphasis on entering accounts payable/ receivable and payroll transactions, completing end-of-year processes, and generating reports to make business decisions.",
+      "institution": "State Fair Community College"
+    },
+    {
+      "course_id": "ACCT 132",
+      "course_title": "Business Taxation",
+      "credits": "3.00",
+      "description": "Prerequisite: ACCT101 with a grade of C or better or consent of instructor. Introduction to the federal and state laws that affect employment practices, payment of wages, benefit plans, worker's compensation, garnishments, and sales tax. Emphasis on compliance with federal and state reporting requirements.",
+      "institution": "State Fair Community College"
+    },
+    {
+      "course_id": "ACCT 137",
+      "course_title": "Introduction to Federal Taxation",
+      "credits": "3.00",
+      "description": "Prerequisite: ACCT101 with a grade of C or better or consent of instructor. Introduction to federal income tax principles and procedures. Emphasis on application of tax laws to solve tax problems, develop tax plans, perform tax research, and prepare required returns.",
+      "institution": "State Fair Community College"
+    },
+    {
+      "course_id": "ACCT 175",
+      "course_title": "Accounting Internship",
+      "credits": "4.00",
+      "description": "Supervised onthe- job training plan, tailored to meet student and employer needs. Must be taken after first year courses are completed and with consent of instructor.",
+      "institution": "State Fair Community College"
+    },
+    {
+      "course_id": "ACCT 203",
+      "course_title": "Intermediate Financial Accounting I",
+      "credits": "3.00",
+      "description": "Prerequisite: ACCT101 with a grade of C or better. Financial accounting theory and practice are applied in accordance with generally accepted accounting principles for financial reporting of corporate entities. Emphasis on corporate financial statement preparation and analysis.",
+      "institution": "State Fair Community College"
+    },
+    {
+      "course_id": "ACCT 220",
+      "course_title": "Current Topics in Accounting",
+      "credits": "3.00",
+      "description": "Prerequisites: ACCT102 and ACCT203 with grades of C or better. Accounting theory and practice are applied to selected topics related to financial reporting and management decisionmaking. Course will utilize case studies and current events involving the accounting profession.",
+      "institution": "State Fair Community College"
+    }
+  ],
+  "timestamp": "2025-08-10T14:38:59.561381"
+}

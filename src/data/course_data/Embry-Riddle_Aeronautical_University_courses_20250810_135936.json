@@ -1,0 +1,67 @@
+{
+  "search_query": {
+    "institution": "Embry-Riddle Aeronautical University",
+    "successful_variation": "Embry-Riddle Aeronautical University",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Embry-Riddle+Aeronautical+University&distance=5"
+  },
+  "total_results": 8,
+  "courses": [
+    {
+      "course_id": "AAS 101",
+      "course_title": "Applied Aviation Science College Success Seminar",
+      "credits": "1.00",
+      "description": "1 Credit A course for incoming freshmen majoring or planning to major in Safety Science, Air Traffic Management, Homeland Security, or Applied Meteorology in which students assess and develop the personal, interpersonal, intellectual, and social skills necessary to succeed in college. This course is for freshmen only and is Pass/Fail.",
+      "institution": "Embry-Riddle Aeronautical University"
+    },
+    {
+      "course_id": "AE 301",
+      "course_title": "Aerodynamics I",
+      "credits": "3.00",
+      "description": "3 Credits The atmosphere. Incompressible and compressible one-dimensional flow. Airspeed measurement. Twodimensional potential flow. Circulation theory of lift. Thin airfoil theory. Viscous flow. Boundary layers. Finite wing theory. Drag in incompressible flow. Wing-body interactions. Prerequisites: ES 204, ES 206, MA 243. Corequisite: ES 305.",
+      "institution": "Embry-Riddle Aeronautical University"
+    },
+    {
+      "course_id": "AE 302",
+      "course_title": "Aerodynamics II",
+      "credits": "3.00",
+      "description": "3 Credits Laminar and turbulent flows, transition point, determination of skin friction drag on an airfoil. Obtaining equations for streamline, for particle path, and for streakline in a flow field. Compressible flow, shock waves, thermodynamics of gas flow. Reversible and irreversible processes. Changes in pressure, density, and temperature across shock waves. Isentropic duct flow and flow through a nozzle. Static performance and maneuvers in flight. Propeller theory. Prerequisite: AE 301.",
+      "institution": "Embry-Riddle Aeronautical University"
+    },
+    {
+      "course_id": "AE 304",
+      "course_title": "Aerospace Structures I",
+      "credits": "3.00",
+      "description": "3 Credits Methods of stress analysis of statically-determinate lightweight structural systems. Applications include space structures and semimonocoque structures. Inertia force and load factor computation. Topics in applied elasticity. Three dimensional beam bending. Shear flow. Materials considerations. Finite element modeling and computer-aided analysis. Prerequisite: ES 202.",
+      "institution": "Embry-Riddle Aeronautical University"
+    },
+    {
+      "course_id": "AE 313",
+      "course_title": "Space Mechanics",
+      "credits": "3.00",
+      "description": "3 Credits This course presents the vector-based solution of the two-body problem and the solution for the position and time problem (Kepler's equations). These are used to analyze orbits, satellite launch, ground tracks, orbit transfer, interplanetary trajectories, and interception and rendezvous. Using three-dimensional vector dynamics, the motion and stability of rigid and semi-rigid spacecraft are studied as are the means for controlling spacecraft orientation. Prerequisites: ES 204, MA 345.",
+      "institution": "Embry-Riddle Aeronautical University"
+    },
+    {
+      "course_id": "AE 314",
+      "course_title": "Experimental Aerodynamics",
+      "credits": "1.00",
+      "description": "1 Credit This course supports the Experimental Aerodynamics lab by providing lectures based in practice and theory. Topics include wind tunnel design, instrumentation, scaling effects, tunnel wall corrections, and data acquisition, and data reduction as well as good experimental practices. The Experimental Aerodynamics Lab AE 315 must be taken during the same semester as AE 314. Prerequisite: COM 221. Corequisite: AE 301.",
+      "institution": "Embry-Riddle Aeronautical University"
+    },
+    {
+      "course_id": "AE 315",
+      "course_title": "Experimental Aerodynamics Laboratory",
+      "credits": "3.00",
+      "description": "1 Credit This laboratory consists of a sequence of experiments that demonstrate basic aerodynamic theory while developing skills in the use of classic and modern experimental apparatus, the practice of good experimental technique, and the writing of experimental reports. Specific experiments depend on apparatus availability and instructor preference. The Experimental Aerodynamics Lab, AE 315, must be taken during the same semester as AE 314. Prerequisite: COM 221. Corequisite: AE 301.",
+      "institution": "Embry-Riddle Aeronautical University"
+    },
+    {
+      "course_id": "AE 316",
+      "course_title": "Aerospace Engineering Materials",
+      "credits": "3.00",
+      "description": "3 Credits Structure, properties, and processing of engineering materials. Crystal structure, defects, imperfections, and strengthening mechanisms. Mechanical properties, fracture mechanics, fatigue and creep, material failures. Phase diagrams and transformations. Degradation of materials. Characteristics of ferrous and nonferrous metals and alloys, ceramics, polymers, and composite materials. Emphasis on materials and processes used in the aerospace industry. Prerequisites: COM 221, ES 202, PS 105, or PS 140.",
+      "institution": "Embry-Riddle Aeronautical University"
+    }
+  ],
+  "timestamp": "2025-08-10T13:59:36.101952"
+}

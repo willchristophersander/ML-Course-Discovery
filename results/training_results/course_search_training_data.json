@@ -1,0 +1,44 @@
+{
+  "course_search_interfaces": [
+    {
+      "url": "https://example.edu/course-search",
+      "html": "<form><input type=\"text\" placeholder=\"Search courses\"><button>Search</button></form>"
+    },
+    {
+      "url": "https://example.edu/courses/search",
+      "html": "<div>Search Courses<input type=\"text\"></div>"
+    },
+    {
+      "url": "https://example.edu/catalog/search",
+      "html": "<form>Find Courses<input type=\"search\"></form>"
+    }
+  ],
+  "course_catalog_pages": [
+    {
+      "url": "https://example.edu/catalog",
+      "html": "<div>Course Catalog<h2>CS 101 - Introduction to Computer Science</h2><p>3 credits. Prerequisites: None</p></div>"
+    },
+    {
+      "url": "https://example.edu/courses",
+      "html": "<div>Course Descriptions<h3>MATH 201</h3><p>Calculus I. 4 credits.</p></div>"
+    },
+    {
+      "url": "https://example.edu/academics/catalog",
+      "html": "<div>Academic Catalog<h2>Department of Physics</h2><p>PHYS 101: 4 credits</p></div>"
+    }
+  ],
+  "general_pages": [
+    {
+      "url": "https://example.edu/about",
+      "html": "<div>About Our University<p>Founded in 1900</p></div>"
+    },
+    {
+      "url": "https://example.edu/admissions",
+      "html": "<div>Admissions<h2>How to Apply</h2><p>Application process</p></div>"
+    },
+    {
+      "url": "https://example.edu/contact",
+      "html": "<div>Contact Us<p>Phone: 555-1234</p></div>"
+    }
+  ]
+}

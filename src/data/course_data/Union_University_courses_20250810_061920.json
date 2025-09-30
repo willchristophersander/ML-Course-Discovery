@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Union University",
+    "successful_variation": "Union University",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Union+University&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACC 211",
+      "course_title": "Principles of Accounting I",
+      "credits": "3.00",
+      "description": "An introductory course including study of professional accounting, sole proprietorships, and partnerships.",
+      "institution": "Union University"
+    },
+    {
+      "course_id": "ACC 212",
+      "course_title": "Principles of Accounting II",
+      "credits": "3.00",
+      "description": "Prerequisite: ACC 211. A continuation of ACC 211 with an emphasis on corporations and the use of accounting in managerial decision making.",
+      "institution": "Union University"
+    },
+    {
+      "course_id": "ACC 311",
+      "course_title": "Cost Accounting",
+      "credits": "3.00",
+      "description": "Prerequisite: ACC 212. A study of methods of accounting for materials, labor, and factory overhead in job order and process cost systems.",
+      "institution": "Union University"
+    },
+    {
+      "course_id": "ACC 312",
+      "course_title": "Managerial Accounting",
+      "credits": "3.00",
+      "description": "Prerequisite: ACC 212. Uses of accounting information in management decision making. Topics include budgeting, standard costing, and analyses of costs and profits.",
+      "institution": "Union University"
+    },
+    {
+      "course_id": "ACC 313",
+      "course_title": "Intermediate Accounting I",
+      "credits": "3.00",
+      "description": "Prerequisite: ACC 212. Intensive review of the accounting process and financial statements with emphasis on the asset section of the balance sheet.",
+      "institution": "Union University"
+    },
+    {
+      "course_id": "ACC 314",
+      "course_title": "Intermediate Accounting II",
+      "credits": "3.00",
+      "description": "Prerequisite: ACC 313. Corporation formation and changes in the equity structure after formation. Topics include long-term investments, bonds, earnings per share, and income recognition.",
+      "institution": "Union University"
+    },
+    {
+      "course_id": "ACC 315",
+      "course_title": "Federal Income Tax Accounting I",
+      "credits": "3.00",
+      "description": "Prerequisite: ACC 212. The Internal Revenue Code as it affects individual income tax returns.",
+      "institution": "Union University"
+    },
+    {
+      "course_id": "ACC 319",
+      "course_title": "Federal Income Tax Accounting II",
+      "credits": "3.00",
+      "description": "Prerequisite: ACC 315. The Internal Revenue Code as it affects partnerships, corporations, and fiduciaries.",
+      "institution": "Union University"
+    },
+    {
+      "course_id": "ACC 325",
+      "course_title": "Fraud Examination",
+      "credits": "3.00",
+      "description": "An in-depth look at fraud detection, prevention, investigation, management and resolution.",
+      "institution": "Union University"
+    },
+    {
+      "course_id": "ACC 350",
+      "course_title": "Accounting Information Systems",
+      "credits": "3.00",
+      "description": "Prerequisite: ACC 212 and CSC 105. Principles and problems of accounting system design and implementation. Organization for accounting control, internal control procedures, and internal reports. Attention given to computerized accounting systems and to traditional information flows.",
+      "institution": "Union University"
+    }
+  ],
+  "timestamp": "2025-08-10T06:19:20.666842"
+}

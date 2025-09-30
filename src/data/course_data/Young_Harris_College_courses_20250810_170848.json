@@ -1,0 +1,60 @@
+{
+  "search_query": {
+    "institution": "Young Harris College",
+    "successful_variation": "Young Harris College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Young+Harris+College&distance=5"
+  },
+  "total_results": 7,
+  "courses": [
+    {
+      "course_id": "ACC 201",
+      "course_title": "Principles of Accounting I",
+      "credits": "3.00",
+      "description": "Prerequisite: MAT 101 or higher. An introduction to the fundamental principles and practices of financial accounting. Beginning with the accounting cycle, particular emphasis is given to the preparation of fi-nancial statements, plant and intangible assets, depreciation, merchandise inventory evaluations, pay-rolls, and concluding with the formation and operation of partnerships.",
+      "institution": "Young Harris College"
+    },
+    {
+      "course_id": "ACC 202",
+      "course_title": "Principles of Accounting II",
+      "credits": "3.00",
+      "description": "Prerequisite: ACC 201 and CIS 101. The course includes the formation of corporations through stock and bond transactions, long-term investments, cash flows, process and job order cost accounting, budgetary, variable and standard costs, interpretation of financial statements and a unit on income tax.",
+      "institution": "Young Harris College"
+    },
+    {
+      "course_id": "ANT 101",
+      "course_title": "Introduction to Cultural Anthropology",
+      "credits": "3.00",
+      "description": "An introduction to variations in human culture and evolution from preliterate times to the present. Biological, cultural and environmental developments are examined to gain a greater understanding of contemporary societal differences.",
+      "institution": "Young Harris College"
+    },
+    {
+      "course_id": "ART 101",
+      "course_title": "Drawing I",
+      "credits": "3.00",
+      "description": "A basic drawing course which explores line, texture, value, shape, form and composition through the use of still-life, figure and landscape subjects. The course emphasizes the development of the fundamental skills of drawing and visual perception. Students are encouraged to develop a personal approach through use of a sketchbook. Six hours of studio are required per week.",
+      "institution": "Young Harris College"
+    },
+    {
+      "course_id": "ART 102",
+      "course_title": "Drawing II",
+      "credits": "3.00",
+      "description": "Prerequisite: ART 101 or permission of professor. Offered spring semester only. A drawing/composition course using the still-life and landscape as subject matter with a strong concentration on the figure. Stu dents explore a variety of drawing mediums such as brush and ink, charcoal, conte' crayon, colored pen-cils and pastels. Emphasis is placed upon awareness of design, compositional arrangement and devel-opment of direction in one' s own work. Six hours of studio are required per week.",
+      "institution": "Young Harris College"
+    },
+    {
+      "course_id": "ART 103",
+      "course_title": "Design I",
+      "credits": "3.00",
+      "description": "Offered spring semester only. A study of color mixing and basic color theory. Exploration of design in which the principles of composition, organic unity and the interaction of color are the predominant con-siderations. Six hours of studio are required per week.",
+      "institution": "Young Harris College"
+    },
+    {
+      "course_id": "ART 106",
+      "course_title": "Art Appreciation",
+      "credits": "3.00",
+      "description": "A course designed to encourage a deeper understanding of the visual arts through illustrated lectures, reading, writing and creative experiences. Perceptual skills and responses to visual art are refined, and the student develops an understanding of form, content, style and historic context of great drawings, paintings, sculpture and architecture.",
+      "institution": "Young Harris College"
+    }
+  ],
+  "timestamp": "2025-08-10T17:08:48.715389"
+}

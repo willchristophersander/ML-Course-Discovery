@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "West Valley College",
+    "successful_variation": "West Valley College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=West+Valley+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACCTG 010",
+      "course_title": "Accounting Fundamentals - Financial",
+      "credits": "5.00",
+      "description": "Advisory: Math 902. Financial accounting includes basic accounting theory and procedure for a sole proprietorship, accounting for merchandise inventory, cash, receivables, plant assets, intangible assets, and current liabilities. Computer application of these topics is also covered. Transfer: UC,CSU",
+      "institution": "West Valley College"
+    },
+    {
+      "course_id": "ACCTG 011",
+      "course_title": "Accounting Fundamentals - Managerial",
+      "credits": "5.00",
+      "description": "Advisory: MATH 902. Preq: ACCTG 010. Topics covered include corporations, long-term liabilities, investments, cash flow statements, financial statement analysis, manufacturing, planning, budgeting, and decision analysis. Transfer: UC,CSU",
+      "institution": "West Valley College"
+    },
+    {
+      "course_id": "ACCTG 050",
+      "course_title": "Accounting for Small Business",
+      "credits": "1.00",
+      "description": "Advisory: Math 902. Non-theoretical, practical approach to accounting for small businesses. It covers the accounting for a service-type business. Credit/No Credit Option.",
+      "institution": "West Valley College"
+    },
+    {
+      "course_id": "ACCTG 060A",
+      "course_title": "Accounting Fundamentals I--Quickbooks",
+      "credits": "3.00",
+      "description": "This course covers the basic accounting process for profit-oriented business organizations and how the steps in the process are performed using Quickbooks accounting software. Credit/No Credit Option.",
+      "institution": "West Valley College"
+    },
+    {
+      "course_id": "ACCTG 060B",
+      "course_title": "Accounting Fundamentals II - Quickbooks",
+      "credits": "3.00",
+      "description": "Preq: ACCTG 060A or ACCTG 050 or ACCTG 010. This course covers how the basic steps in the accounting process for profit-oriented business organizations is performed using Quickbooks accounting software and its features. Credit/No Credit Option.",
+      "institution": "West Valley College"
+    },
+    {
+      "course_id": "AJ 001",
+      "course_title": "Introduction to Administration of Justice",
+      "credits": "3.00",
+      "description": "History and philosophy of justice. Transfer: UC,CSU",
+      "institution": "West Valley College"
+    },
+    {
+      "course_id": "AJ 002",
+      "course_title": "Concepts of Criminal Law",
+      "credits": "3.00",
+      "description": "Historical development, philosophy of criminal law and constitutional provisions. Transfer: UC,CSU",
+      "institution": "West Valley College"
+    },
+    {
+      "course_id": "AJ 003",
+      "course_title": "Principles & Procedures of the Justice System",
+      "credits": "3.00",
+      "description": "Legal process from pre-arrest through sentencing and correctional procedures. Transfer: UC,CSU",
+      "institution": "West Valley College"
+    },
+    {
+      "course_id": "AJ 004",
+      "course_title": "Legal Aspects of Evidence",
+      "credits": "3.00",
+      "description": "Origin, development, philosophy and constitutional basis of evidence. Transfer: CSU",
+      "institution": "West Valley College"
+    },
+    {
+      "course_id": "AJ 005",
+      "course_title": "Criminal Investigation",
+      "credits": "3.00",
+      "description": "Investigation, crime scene searches, recording, collection and preservation of physical evidence. Transfer: CSU",
+      "institution": "West Valley College"
+    }
+  ],
+  "timestamp": "2025-08-09T21:06:06.139019"
+}

@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Antelope Valley College",
+    "successful_variation": "Antelope Valley College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Antelope+Valley+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ABDY 112",
+      "course_title": "basic Auto Body Repair",
+      "credits": "5.00",
+      "description": "5 units 10 hours weekly Advisory: Eligibility for ENGL 099, READ 099 and MATH 070. A course in the fundamentals of auto body repair technology designed for the student interested in pursuing a degree or certificate in automotive collision repair. The successful student will be able to safely use auto body hand tools, power and hydraulic equipment; oxyacetylene weld, cut and braze auto body sheet metal; shape, align and metal finish damaged body panels; properly use body solder and plastic body fillers; mix and apply automotive primers. (AVC)",
+      "institution": "Antelope Valley College"
+    },
+    {
+      "course_id": "ABDY 113",
+      "course_title": "basic Auto Body Repair",
+      "credits": "5.00",
+      "description": "5 units 10 hours weekly Prerequisite: Completion of ABDY 112. A continuation of ABDY 112 with instruction and practice in resistance and MIG welding on automotive panels; panel replacement and alignment; servicing vehicle doors and door glass; modern auto body construction. (AVC)",
+      "institution": "Antelope Valley College"
+    },
+    {
+      "course_id": "ABDY 115",
+      "course_title": "basic Auto Body Repair",
+      "credits": "20.00",
+      "description": "10 units 20 hours weekly Advisory: Eligibility for ENGL 099, READ 099 and MATH 070. A course in the fundamentals of auto body repair technology designed for the student interested in pursuing a degree or certificate in automotive collision repair. The successful student will be able to safely use auto body hand tools, power and hydraulic equipment; oxyacetylene weld and braze auto body sheet metal; shape, align, and metal finish damaged body panels; properly use body solder and plastic body fillers; remove, replace and align various body parts; mix and apply automotive primers. (AVC)",
+      "institution": "Antelope Valley College"
+    },
+    {
+      "course_id": "ABDY 122",
+      "course_title": "basic Automotive Refinishing",
+      "credits": "5.00",
+      "description": "5 units 10 hours weekly Advisory: Eligibility for ENGL 099, READ 099 and MATH 070. Introduction to the theories, principles and techniques of automotive refinishing designed for the student interested in pursuing a degree or certificate in automotive refinishing. Course of study to include: paint shop safety; minor dent repair; proper surface preparation; use of spray guns and related equipment; proper use of masking materials; choosing and using refinishing solvents and automotive undercoats; color application on automotive panels. (AVC)",
+      "institution": "Antelope Valley College"
+    },
+    {
+      "course_id": "ABDY 123",
+      "course_title": "automotive Refinishing",
+      "credits": "5.00",
+      "description": "5 units 10 hours weekly Prerequisite: Completion of ABDY 122. Course of study to include instruction and application of: single-stage and base coat/clear coat paint systems; complete vehicle refinishing; refinishing plastic parts; final detailing of automotive paint finishes. (AVC)",
+      "institution": "Antelope Valley College"
+    },
+    {
+      "course_id": "ABDY 125",
+      "course_title": "basic Automotive Refinishing",
+      "credits": "20.00",
+      "description": "10 units 20 hours weekly Advisory: Eligibility for ENGL 099, READ 099 and MATH 070. Introduction to the theories, principles and techniques of automotive refinishing designed for the student interested in pursuing a degree or certificate in automotive refinishing. Course of study to include: paint shop safety; minor body damage repair; proper surface preparation; use of spray guns and related equipment; proper use of masking materials; choosing and using refinishing solvents and automotive undercoats; color application on automotive panels. (AVC)",
+      "institution": "Antelope Valley College"
+    },
+    {
+      "course_id": "ABDY 150",
+      "course_title": "antique And Classical Auto Body Repair",
+      "credits": "5.00",
+      "description": "5 units 10 hours weekly Advisory: Eligibility for ENGL 099, READ 099 and MATH 070. Designed for those desiring to develop skills and knowledge in auto body repair techniques with emphasis on antique and classical car restoration. The successful student will be able to safely use auto body hand tools; power and hydraulic equipment; oxyacetylene weld, cut and braze auto body sheet metal; shape, align, and metal finish damaged body panels; properly use body solder (lead) and plastic body fillers; mix and apply automotive primers. (AVC) ( R1)",
+      "institution": "Antelope Valley College"
+    },
+    {
+      "course_id": "ABDY 198",
+      "course_title": "auto Body Seminars",
+      "credits": "3.00",
+      "description": "Short courses of varying duration on specialized topics in auto body repair. (AVC)",
+      "institution": "Antelope Valley College"
+    },
+    {
+      "course_id": "ABDY 199",
+      "course_title": "work Experience",
+      "credits": "4.00",
+      "description": "1-4 units hours vary Prerequisite: Students must be registered in at least 7 units (including the Work Experience units) and have approval of instructor supervising work experience subject area. Prior to enrolling, students must attend a scheduled orientation. The Work Experience program provides supervised employment extending classroom-based learning to an on-thejob learning situation. Students meet with instructor by arrangement to discuss learning objectives, along with experiences and/or problems arising on the job. (CSU, AVC) ( R3)",
+      "institution": "Antelope Valley College"
+    },
+    {
+      "course_id": "ABDY 212",
+      "course_title": "advanced Automotive Collision Repair I",
+      "credits": "5.00",
+      "description": "5 units 10 hours weekly Prerequisite: Completion of ABDY 113 or ABDY 115. An advanced course in the theory and techniques of automotive collision repair. Course of study includes: resistance and MIG welding of automotive sheet metals and structural members; plastic composite repair procedures; servicing of active and passive restraint systems; introduction to the repair of major collision damage. (AVC)",
+      "institution": "Antelope Valley College"
+    }
+  ],
+  "timestamp": "2025-08-10T21:55:59.178401"
+}

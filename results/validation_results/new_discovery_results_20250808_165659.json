@@ -1,0 +1,76 @@
+{
+  "timestamp": "2025-08-08T16:56:59.817377",
+  "analysis": {
+    "total_universities": 3,
+    "discovery_success_rate": 0.6666666666666666,
+    "avg_discovery_confidence": 0.89,
+    "validation_success_rate": 0.3333333333333333,
+    "avg_validation_confidence": 0.2,
+    "course_finding_rate": 0.6,
+    "avg_discovery_time": 1.1967915693918865,
+    "avg_validation_time": 2.3934099674224854,
+    "successful_discoveries": [
+      {
+        "university": "State University of New York College at Cortland",
+        "url": "https://classes.berkeley.edu/",
+        "discovery_confidence": 0.89,
+        "validation_confidence": 0.0,
+        "courses_found": "0/0"
+      },
+      {
+        "university": "Technical College of the Lowcountry",
+        "url": "https://classes.berkeley.edu/",
+        "discovery_confidence": 0.89,
+        "validation_confidence": 0.2,
+        "courses_found": "3/5"
+      }
+    ],
+    "failed_discoveries": [
+      {
+        "university": "Whitworth College",
+        "error": "No search results found with any strategy"
+      }
+    ]
+  },
+  "detailed_results": [
+    {
+      "university_name": "Whitworth College",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No search results found with any strategy",
+      "discovery_time": 9.584426879882812e-05,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "State University of New York College at Cortland",
+      "discovered_url": "https://classes.berkeley.edu/",
+      "discovery_success": true,
+      "discovery_confidence": 0.89,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No test courses found in CollegeTransfer.net",
+      "discovery_time": 1.8723328113555908,
+      "validation_time": 4.687520980834961
+    },
+    {
+      "university_name": "Technical College of the Lowcountry",
+      "discovered_url": "https://classes.berkeley.edu/",
+      "discovery_success": true,
+      "discovery_confidence": 0.89,
+      "validation_success": true,
+      "validation_confidence": 0.2,
+      "test_courses_found": 3,
+      "total_test_courses": 5,
+      "error_message": null,
+      "discovery_time": 1.7179460525512695,
+      "validation_time": 2.492708921432495
+    }
+  ]
+}

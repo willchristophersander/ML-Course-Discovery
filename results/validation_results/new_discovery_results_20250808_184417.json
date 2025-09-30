@@ -1,0 +1,118 @@
+{
+  "timestamp": "2025-08-08T18:44:17.994377",
+  "analysis": {
+    "total_universities": 5,
+    "discovery_success_rate": 1.0,
+    "avg_discovery_confidence": 0.8230000000000001,
+    "validation_success_rate": 0.0,
+    "avg_validation_confidence": 0,
+    "course_finding_rate": 0,
+    "avg_discovery_time": 8.079034852981568,
+    "avg_validation_time": 3.0418092727661135,
+    "successful_discoveries": [
+      {
+        "university": "West Los Angeles College",
+        "url": "https://west.edu/classes",
+        "discovery_confidence": 0.925,
+        "validation_confidence": 0.0,
+        "courses_found": "0/0"
+      },
+      {
+        "university": "Polk State College",
+        "url": "https://www.polk.edu/schedule/",
+        "discovery_confidence": 0.91,
+        "validation_confidence": 0.0,
+        "courses_found": "0/0"
+      },
+      {
+        "university": "Oklahoma City Community College",
+        "url": "https://www.occc.edu/2020-2021/courses/",
+        "discovery_confidence": 0.72,
+        "validation_confidence": 0.0,
+        "courses_found": "0/0"
+      },
+      {
+        "university": "Our Lady of the Lake University",
+        "url": "https://www.ollusa.edu/registrars-office/catalog-course-search.html",
+        "discovery_confidence": 0.78,
+        "validation_confidence": 0.0,
+        "courses_found": "0/0"
+      },
+      {
+        "university": "Southwest Minnesota State University",
+        "url": "https://catalog.smsu.edu/course-descriptions/",
+        "discovery_confidence": 0.78,
+        "validation_confidence": 0.0,
+        "courses_found": "0/0"
+      }
+    ],
+    "failed_discoveries": []
+  },
+  "detailed_results": [
+    {
+      "university_name": "West Los Angeles College",
+      "discovered_url": "https://west.edu/classes",
+      "discovery_success": true,
+      "discovery_confidence": 0.925,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No test courses found in CollegeTransfer.net",
+      "discovery_time": 8.664222955703735,
+      "validation_time": 2.9666712284088135
+    },
+    {
+      "university_name": "Polk State College",
+      "discovered_url": "https://www.polk.edu/schedule/",
+      "discovery_success": true,
+      "discovery_confidence": 0.91,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No test courses found in CollegeTransfer.net",
+      "discovery_time": 10.155133962631226,
+      "validation_time": 3.2453420162200928
+    },
+    {
+      "university_name": "Oklahoma City Community College",
+      "discovered_url": "https://www.occc.edu/2020-2021/courses/",
+      "discovery_success": true,
+      "discovery_confidence": 0.72,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No test courses found in CollegeTransfer.net",
+      "discovery_time": 7.2731311321258545,
+      "validation_time": 2.017611026763916
+    },
+    {
+      "university_name": "Our Lady of the Lake University",
+      "discovered_url": "https://www.ollusa.edu/registrars-office/catalog-course-search.html",
+      "discovery_success": true,
+      "discovery_confidence": 0.78,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No test courses found in CollegeTransfer.net",
+      "discovery_time": 8.687097072601318,
+      "validation_time": 3.8939390182495117
+    },
+    {
+      "university_name": "Southwest Minnesota State University",
+      "discovered_url": "https://catalog.smsu.edu/course-descriptions/",
+      "discovery_success": true,
+      "discovery_confidence": 0.78,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No test courses found in CollegeTransfer.net",
+      "discovery_time": 5.615589141845703,
+      "validation_time": 3.0854830741882324
+    }
+  ]
+}

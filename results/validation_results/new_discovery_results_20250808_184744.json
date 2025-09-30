@@ -1,0 +1,116 @@
+{
+  "timestamp": "2025-08-08T18:47:44.410422",
+  "analysis": {
+    "total_universities": 5,
+    "discovery_success_rate": 0.8,
+    "avg_discovery_confidence": 0.8400000000000001,
+    "validation_success_rate": 0.6,
+    "avg_validation_confidence": 0.3333333333333333,
+    "course_finding_rate": 0.8,
+    "avg_discovery_time": 9.873867797851563,
+    "avg_validation_time": 2.4163623809814454,
+    "successful_discoveries": [
+      {
+        "university": "Dyersburg State Community College",
+        "url": "https://www.dscc.edu/class-schedule/",
+        "discovery_confidence": 0.765,
+        "validation_confidence": 0.4,
+        "courses_found": "5/5"
+      },
+      {
+        "university": "Belmont University",
+        "url": "https://catalog.belmont.edu/",
+        "discovery_confidence": 0.905,
+        "validation_confidence": 0.0,
+        "courses_found": "0/0"
+      },
+      {
+        "university": "California State University, Dominguez Hills",
+        "url": "https://www.csudh.edu/class-schedule/",
+        "discovery_confidence": 0.765,
+        "validation_confidence": 0.4,
+        "courses_found": "4/5"
+      },
+      {
+        "university": "Hesston College",
+        "url": "https://www.hesston.edu/catalog/",
+        "discovery_confidence": 0.925,
+        "validation_confidence": 0.2,
+        "courses_found": "3/5"
+      }
+    ],
+    "failed_discoveries": [
+      {
+        "university": "North Central Kansas Technical College",
+        "error": "Page.goto: net::ERR_ABORTED at https://fhtechnc.edu/sites/default/files/2025-01/course-catalog-24-25.pdf\nCall log:\n  - navigating to \"https://fhtechnc.edu/sites/default/files/2025-01/course-catalog-24-25.pdf\", waiting until \"load\"\n"
+      }
+    ]
+  },
+  "detailed_results": [
+    {
+      "university_name": "Dyersburg State Community College",
+      "discovered_url": "https://www.dscc.edu/class-schedule/",
+      "discovery_success": true,
+      "discovery_confidence": 0.765,
+      "validation_success": true,
+      "validation_confidence": 0.4,
+      "test_courses_found": 5,
+      "total_test_courses": 5,
+      "error_message": null,
+      "discovery_time": 6.668689012527466,
+      "validation_time": 3.13098406791687
+    },
+    {
+      "university_name": "Belmont University",
+      "discovered_url": "https://catalog.belmont.edu/",
+      "discovery_success": true,
+      "discovery_confidence": 0.905,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No test courses found in CollegeTransfer.net",
+      "discovery_time": 8.275649070739746,
+      "validation_time": 3.4924769401550293
+    },
+    {
+      "university_name": "North Central Kansas Technical College",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "Page.goto: net::ERR_ABORTED at https://fhtechnc.edu/sites/default/files/2025-01/course-catalog-24-25.pdf\nCall log:\n  - navigating to \"https://fhtechnc.edu/sites/default/files/2025-01/course-catalog-24-25.pdf\", waiting until \"load\"\n",
+      "discovery_time": 4.810365915298462,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "California State University, Dominguez Hills",
+      "discovered_url": "https://www.csudh.edu/class-schedule/",
+      "discovery_success": true,
+      "discovery_confidence": 0.765,
+      "validation_success": true,
+      "validation_confidence": 0.4,
+      "test_courses_found": 4,
+      "total_test_courses": 5,
+      "error_message": null,
+      "discovery_time": 12.449710845947266,
+      "validation_time": 3.4310460090637207
+    },
+    {
+      "university_name": "Hesston College",
+      "discovered_url": "https://www.hesston.edu/catalog/",
+      "discovery_success": true,
+      "discovery_confidence": 0.925,
+      "validation_success": true,
+      "validation_confidence": 0.2,
+      "test_courses_found": 3,
+      "total_test_courses": 5,
+      "error_message": null,
+      "discovery_time": 17.164924144744873,
+      "validation_time": 2.0273048877716064
+    }
+  ]
+}

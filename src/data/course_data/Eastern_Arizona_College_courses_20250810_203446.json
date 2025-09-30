@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Eastern Arizona College",
+    "successful_variation": "Eastern Arizona College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Eastern+Arizona+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ABS 010",
+      "course_title": "Orientation",
+      "credits": "2.00",
+      "description": "1/2 credit Offered upon request This course will assist the student in understanding program operations for the Adult Education Program. It will also provide study skills and strategies for adults to work at their optimal ability.",
+      "institution": "Eastern Arizona College"
+    },
+    {
+      "course_id": "ABS 020",
+      "course_title": "ELAA Beginning Literacy",
+      "credits": "2.00",
+      "description": "2 credits Offered upon request This course emphasizes speaking, listening, reading and writing through strategies such as basic vocabulary and grammatical structures in face to face conversations with one person at a time or in familiar, supportive group. Topics about common, routine matters become familiar. Listening skills are developed during short monologues and dialogues.",
+      "institution": "Eastern Arizona College"
+    },
+    {
+      "course_id": "ABS 021",
+      "course_title": "Elaa I",
+      "credits": "2.00",
+      "description": "2 credits Offered upon request Provides learners with basic vocabulary and grammatical structures in face-toface conversations with one person at a time or in a familiar, supportive group. Topics about common, routine matters become familiar. Listening skills are developed during short monologues and dialogues.",
+      "institution": "Eastern Arizona College"
+    },
+    {
+      "course_id": "ABS 022",
+      "course_title": "Ela II",
+      "credits": "2.00",
+      "description": "2 credits Offered upon request Learners at this stage of proficiency comprehend basic vocabulary and grammatical structures in face-to-face conversations with one person at a time. Listening communications are short monologues and dialogues on familiar routine topics delivered at a slow-to-normal rate. Their speech is guided by specific questions when necessary.",
+      "institution": "Eastern Arizona College"
+    },
+    {
+      "course_id": "ABS 023",
+      "course_title": "Elaa III",
+      "credits": "2.00",
+      "description": "2 credits Offered upon request Students at this stage of proficiency can write short reports or essays up to four paragraphs using basic vocabulary and common language structures. The adult learner can comprehend short conversations and interactions that are face-to-face with one person at a time or in small groups. Listening communications consist of moderately short monologues and dialogues on familiar routine topics.",
+      "institution": "Eastern Arizona College"
+    },
+    {
+      "course_id": "ABS 024",
+      "course_title": "Elaa IV",
+      "credits": "2.00",
+      "description": "2 credits Offered upon request Students at this stage of proficiency comprehend standard speech in most settings. They are able to comprehend the main ideas and relevant details of extended discussions on a wide variety of general interest topics. They have mastered basic sentence structure and verb tenses, but may have some difficulty with more complex structures. Learners' rate of speech is at a normalto- fast rate.",
+      "institution": "Eastern Arizona College"
+    },
+    {
+      "course_id": "ABS 025",
+      "course_title": "Elaa V",
+      "credits": "2.00",
+      "description": "2 credits Offered upon request Develops improved proficiency and understanding of most standard speech. Expands understanding of the main ideas and relevant details of discussions or presentations on a wide range of topics including unfamiliar and technical ones. Listening communications are exercised in the form of lectures, debates, discussions and critiques. Learners expand understanding of speech variations in stress, intonation, pace and rhythm.",
+      "institution": "Eastern Arizona College"
+    },
+    {
+      "course_id": "ABS 030",
+      "course_title": "Basic Math I",
+      "credits": "2.00",
+      "description": "2 credits Offered every spring semester Basic mathematical concepts will be applied to a variety of real-life problems.",
+      "institution": "Eastern Arizona College"
+    },
+    {
+      "course_id": "ABS 031",
+      "course_title": "Basic Math II",
+      "credits": "2.00",
+      "description": "2 credits Offered upon request This course is an introduction to number sense, data analysis, measurements and beginning algebra and geometry.",
+      "institution": "Eastern Arizona College"
+    },
+    {
+      "course_id": "ABS 032",
+      "course_title": "Basic Math III",
+      "credits": "2.00",
+      "description": "2 credits Offered upon request High intermediate mathematical concepts and more complex concepts will be applied to solve a variety of real-life problems.",
+      "institution": "Eastern Arizona College"
+    }
+  ],
+  "timestamp": "2025-08-10T20:34:46.258986"
+}

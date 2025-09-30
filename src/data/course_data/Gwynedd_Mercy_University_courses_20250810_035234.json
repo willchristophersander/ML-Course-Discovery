@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Gwynedd Mercy University",
+    "successful_variation": "Gwynedd Mercy University",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Gwynedd+Mercy+University&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACC 105",
+      "course_title": "Principles of Accounting I",
+      "credits": "3.00",
+      "description": "An introduction to basic principles of financial accounting, the effects of business transactions, and the effect on the financial statements. Learn how to prepare basic financial statements and to engage in decision making essentials in our economic system through analysis of receivables and inventories. Prerequisite: BAS 100 for Graduate & Professional Studies students.",
+      "institution": "Gwynedd Mercy University"
+    },
+    {
+      "course_id": "ACC 106",
+      "course_title": "Principles of Accounting II",
+      "credits": "3.00",
+      "description": "An expansion of basic principles learned involving a deeper coverage of the complexities in the areas of accounting for depreciation, liabilities, and payroll taxes. Analysis of a corporation's shareholder's equity (bonds) and financial statements is stressed. Prerequisite: A grade of C or better in ACC 105",
+      "institution": "Gwynedd Mercy University"
+    },
+    {
+      "course_id": "ACC 111",
+      "course_title": "Accounting",
+      "credits": "3.00",
+      "description": "This course has a user of financial statement perspective. The focus of this course is on understanding the financial system and elements of the financial statements. It is an overview of accounting rather than a detailed explanation of the accounting process. (6 weeks) (Graduate & Professional Studies students Only)",
+      "institution": "Gwynedd Mercy University"
+    },
+    {
+      "course_id": "ACC 205",
+      "course_title": "Intermediate Accounting I",
+      "credits": "3.00",
+      "description": "ACC 205 Intermediate Accounting I (3) This course provides a study of generally accepted accounting principles and introducing international financial reporting standards, as they relate to financial reporting. The conceptual framework is established and accounting theory developed as the foundation for accounting principles, constraints and qualitative characteristics. Problems relating to income determination, classification and form and content of financial statements are stressed. Prerequisites: A grade of C or better in ACC 105, 106",
+      "institution": "Gwynedd Mercy University"
+    },
+    {
+      "course_id": "ACC 206",
+      "course_title": "Intermediate Accounting II",
+      "credits": "3.00",
+      "description": "ACC 206 Intermediate Accounting II (3) An expansion of the comprehensive study of generally accepted accounting principles and introducing the student of international financial reporting standards. Asset valuation, liability classification, analysis of stockholder's equity and more complex principles related to income determination in various business situations are discussed. Prerequisites: A grade of C or better in ACC 105, 106, 205.",
+      "institution": "Gwynedd Mercy University"
+    },
+    {
+      "course_id": "ACC 207",
+      "course_title": "Intermediate Acc III",
+      "credits": "3.00",
+      "description": "An in-depth study of GAAP (Generally Accepted Accounting Principles) and IFRS (International Fin Reporting Standards) reporting issues dealing with earnings per share calculations, investments, derivatives, post-retirement accounting for benefits and pensions, lease accounting, revenue recognition, in-depth analysis of cash flow statements, and full disclosure. Prerequisite: ACC 205, 206.",
+      "institution": "Gwynedd Mercy University"
+    },
+    {
+      "course_id": "ACC 300",
+      "course_title": "Financial Accounting",
+      "credits": "4.00",
+      "description": "This course is an in-depth study of the role that financial accounting data plays in the decision-making process of managers of both for-profit and nonprofit organizations. Topics include examination of financial statements, job costing, cost-volume-profit analysis and capital budgeting. (7 weeks) (Graduate & Professional Studies students Only) Prerequisite: BAS 101",
+      "institution": "Gwynedd Mercy University"
+    },
+    {
+      "course_id": "ACC 301",
+      "course_title": "Managerial Accounting",
+      "credits": "3.00",
+      "description": "The study of accounting as an aid for management decision-making. Cost behavior, budget planning and control, and performance measurement are among the topics, which will be discussed. Prerequisites: A grade of C or better in ACC 105, 106, MTH 136 or its equivalent. ACC 300 for Graduate & Professional Studies students.",
+      "institution": "Gwynedd Mercy University"
+    },
+    {
+      "course_id": "ACC 302",
+      "course_title": "Financial Accounting",
+      "credits": "3.00",
+      "description": "This course is an in-depth study of the role that financial accounting data plays in the decision-making process of managers of both for-profit and nonprofit organizations. Topics include examination of financial statements, job costing, cost-volume-profit analysis and capital budgeting. (6 weeks) (Center for Lifelong Learning Only) Prerequisite: ACC106",
+      "institution": "Gwynedd Mercy University"
+    },
+    {
+      "course_id": "ACC 305",
+      "course_title": "Cost Accounting",
+      "credits": "3.00",
+      "description": "An examination of the role and attitude of the cost manager and the skills necessary to gather information for the analysis of business situations. The goal of decision-making is stressed. The course contains analysis of costs including job, process and standard costing as well as the study of processes and efficiencies. Prerequisites: ACC 105, 106 and a grade of C or better in ACC 301.",
+      "institution": "Gwynedd Mercy University"
+    }
+  ],
+  "timestamp": "2025-08-10T03:52:34.849481"
+}

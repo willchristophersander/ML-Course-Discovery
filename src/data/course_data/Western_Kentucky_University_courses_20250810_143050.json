@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Western Kentucky University",
+    "successful_variation": "Western Kentucky University",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Western+Kentucky+University&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACC 200C",
+      "course_title": "ACCOUNTING-FINANCIAL",
+      "credits": "3.00",
+      "description": "Prerequisite. Sophomore standing and completion of general education mathematics requirement. Introduction to the basic accounting theories, concepts and principles used in gathering and reporting financial data of a business organization. Course focuses on the information provided to external users through financial statements. Emphasis is placed on preparing the statements, examining the statements' components, and interpreting the information reported. (fall, spring, summer)",
+      "institution": "Western Kentucky University"
+    },
+    {
+      "course_id": "ACC 201C",
+      "course_title": "ACCOUNTING-MANAGERIAL",
+      "credits": "3.00",
+      "description": "Prerequisite ACCT 200; accounting majors must have earned a \"C\" or better. Introduces accounting concepts, practices, and tools for managerial decision making. This course is designed to provide an understanding of how financial and non-financial data are used in decision making and control. Topics typically include activity-based costing, cost behavior, job-order costing, process costing, cost-volume-profit analysis, flexible budgeting, relevancy costing, departmental cost allocation, and profit planning. (fall, spring, summer)",
+      "institution": "Western Kentucky University"
+    },
+    {
+      "course_id": "ACCT 200",
+      "course_title": "ACCOUNTING-FINANCIAL",
+      "credits": "3.00",
+      "description": "Prerequisite: Sophomore standing and completion of general education mathematics requirement. Introduction to the basic accounting theories, concepts and principles used in gathering and reporting financial data of a business organization. Course focuses on the information provided to external users through financial statements. Emphasis is placed on preparing the statements, examining the statements' components, and interpreting the information reported.",
+      "institution": "Western Kentucky University"
+    },
+    {
+      "course_id": "ACCT 201",
+      "course_title": "ACCOUNTING-MANAGERIAL",
+      "credits": "3.00",
+      "description": "Prerequisite: ACCT 200; accounting majors must have earned a \"C\" or better. Introduces accounting concepts, practices, and tools for managerial decision making. This course is designed to provide an understanding of how financial and non-financial data are used in decision making and control. Topics typically include activity-based costing, cost behavior, job-order costing, process costing, cost-volume-profit analysis, flexible budgeting, relevancy costing, departmental cost allocation, and profit planning.",
+      "institution": "Western Kentucky University"
+    },
+    {
+      "course_id": "ACCT 300",
+      "course_title": "INTERMEDIATE ACCTG I",
+      "credits": "4.00",
+      "description": "Prerequisite: ACCT 200 and 201 and a 2.5 GPA in ACCT 200 and 201, with grades of C or better. A review of the financial accounting concepts, relationships, and procedures involved with preparing and interpreting financial statements. Includes an in-depth coverage of the valuation, measurement, and financial reporting issues associated with ASSETS and LIABILITIES.",
+      "institution": "Western Kentucky University"
+    },
+    {
+      "course_id": "ACCT 301",
+      "course_title": "INTERMEDIATE ACCTG II",
+      "credits": "3.00",
+      "description": "Prerequisite: ACCT 300 with a grade of \"C\" or better. A continuation of Intermediate Financial Accounting I with emphasis placed on certain specialized accounting subjects. Topics typically covered include revenue recognition, stockholders' equity, earnings per share, pensions, leases, accounting changes and error analysis, the statement of cash flows, and accounting for income taxes.",
+      "institution": "Western Kentucky University"
+    },
+    {
+      "course_id": "ACCT 310",
+      "course_title": "MANAG COST ACCOUNTING",
+      "credits": "3.00",
+      "description": "Prerequisite: Cumulative 2.5 GPA in ACCT 200 and 201 combined, with a minimum grade of \"C\" or higher in each course. An in-depth study of cost accounting practices, including job order, process, normal, activity-based, and standard costing. Also examines accounting tools such as budgeting, cost-volume-profit analysis, relevant costing, and responsibility accounting that provide organizational managers with information for planning, decision-making, and control.",
+      "institution": "Western Kentucky University"
+    },
+    {
+      "course_id": "ACCT 312",
+      "course_title": "ACCTG INFO SYSTEMS",
+      "credits": "3.00",
+      "description": "Prerequisites: Acct 300 and Acct 310 and CIS 243 with grades of \"C\" or better in ACCT 300 and 310. (all can be concurrent as well as prerequisite) A study of accounting information systems, traditional and contemporary, with hands-on experience with a manual accounting system and a computerized accounting system. Emphasis is on the transformation of data to information and the internal controls necessary in each environment.",
+      "institution": "Western Kentucky University"
+    },
+    {
+      "course_id": "ACCT 315",
+      "course_title": "MANAGEMENT ACCT",
+      "credits": "3.00",
+      "description": "For non-accounting majors - may not be taken by accounting majors. Prerequisites: ACCT 200 and 201; MGT 210 (previously MGT 310) or permission of instructor. The use of cost, revenue, and other economic data in the management processes of measurement, analysis, decision making, and planning for profit-seeking entities. Includes readings, exercises, problems, and cases emphasizing use of accounting data for problem solving in modern manufacturing, distribution, and service industries.",
+      "institution": "Western Kentucky University"
+    },
+    {
+      "course_id": "ACCT 330",
+      "course_title": "TAX PLANNING FOR INVESTMENTS",
+      "credits": "3.00",
+      "description": "Prerequisite: FIN 330. An explanation of the federal income tax structure and the role taxes play in decision making. The tax effects on personal investments and the tax factors in personal financial planning are given special emphasis. May not be taken for credit by accounting majors.",
+      "institution": "Western Kentucky University"
+    }
+  ],
+  "timestamp": "2025-08-10T14:30:50.826324"
+}

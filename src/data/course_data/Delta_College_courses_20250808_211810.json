@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Delta College",
+    "successful_variation": "Delta College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Delta+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ABS 090A",
+      "course_title": "Successful Transitions A",
+      "credits": "1.00",
+      "description": "Explores internal and external factors that affect college success. Examines the knowledge, attitudes and skills needed to increase self-awareness and confidence; self regulation and responsibility; motivation and productive personal goals. Develops knowledge in creating effective habits in a supportive, student-centered class, and increases competence in effectively interacting with others. Does not earn credit toward graduation. Recommended for students needing or taking ENG 090, ENG 107, or ENG 108 and students who realize a need for further selfdevelopment.( 15-0)",
+      "institution": "Delta College"
+    },
+    {
+      "course_id": "ABS 090B",
+      "course_title": "Successful Transitions B",
+      "credits": "1.00",
+      "description": "Prerequisite: ABS 090A. Encourages student-oriented discussion, practice and application of personal and social success skills learned in ABS 090A. Focuses on time management, assertive communication, peer interaction and support, problem solving, collaboration, and cooperation. Does not earn credit toward graduation. Recommended for students needing or taking ENG 090, ENG 098, ENG 107, ENG 108, or ENG 109 and students who recognize their need to continue to increase their strategies for college success. (15-0)",
+      "institution": "Delta College"
+    },
+    {
+      "course_id": "ABS 097",
+      "course_title": "Student Success Strategies",
+      "credits": "4.00",
+      "description": "Develops knowledge of strategies of using information about: 1) study skills such as note taking, test preparation and test taking, effective textbook reading and review, memory, presentation and writing-to-learn strategies, and critical thinking; 2)Life skills such as self-assessment of strengths and weaknesses, learning style, health, time management, stress management, relationships, self-esteem, responsibility, and goal setting; 3)Delta resources such as the library and electronic indexes, and Teaching/Learning Center. Aids in understanding the transition to the expectations of academic culture. Does not earn credit toward graduation. Recommended for students whose assessment scores indicate skills in ENG 090, ENG 108 or ENG 109 range. Credit may be earned in only one of the following: ABS 097 or the combination of ABS 098, 099 and 100. (All three must be successfully completed to be equivalent to ABS 097.) (60-0)",
+      "institution": "Delta College"
+    },
+    {
+      "course_id": "ABS 102",
+      "course_title": "The Job Hunt",
+      "credits": "1.00",
+      "description": "Develops skills in identifying students' job-related abilities and attitudes; locating leads in the job market; writing resumes and cover letters; completing applications and interviewing. (15-0)",
+      "institution": "Delta College"
+    },
+    {
+      "course_id": "ABS 103",
+      "course_title": "Career Decision Making",
+      "credits": "1.00",
+      "description": "Prerequisite: READING LEVEL 3. Focuses on the steps in the career decision making process. Investigates personal values, skills, interests and abilities and explores a variety of careers using campus resources. Matches your personal characteristics with careers and creates a plan of action to accomplish your short and long range career goals while working in a cooperative, respectful group atmosphere. (15-0)",
+      "institution": "Delta College"
+    },
+    {
+      "course_id": "ABS 104",
+      "course_title": "Behavior Change I",
+      "credits": "1.00",
+      "description": "Assists students in identifying, examining, and changing their selflimiting thoughts, attitudes, and behaviors. Examines the socialization process and the development of the social self, as they apply to personal, and individual change. Develops a plan for change. (15-0)",
+      "institution": "Delta College"
+    },
+    {
+      "course_id": "ABS 105",
+      "course_title": "Behavior Change II",
+      "credits": "1.00",
+      "description": "Prerequisite: ABS 104. Applies the Take Charge Theory to students, to others and to situations primarily through group activities. Reviews the American Socialization Process, explores social behavioral theories as they apply to personal change and growth, and practices the process of Creative Mental Imagery. (15-0)",
+      "institution": "Delta College"
+    },
+    {
+      "course_id": "ABS 108",
+      "course_title": "Becoming A Master Student",
+      "credits": "2.00",
+      "description": "Assists students in obtaining skills critical to their college success. Demonstrates and practices strategies in test taking, note taking, memory, textbook reading, and thinking critically. Identifies and explores college resources and life skills related to college success, such as personal responsibility; relationship building; health, time and stress management. Recommended for students with average or above average academic skills and high motivation whose assessment scores indicate skills in the ENG 111 range. Credit may be earned in only one of the following: ABS 101, ABS 108, ABS 108A or ABS 292. (30-0)",
+      "institution": "Delta College"
+    },
+    {
+      "course_id": "ABS 108A",
+      "course_title": "Becoming a Master Student/Plus Practice",
+      "credits": "3.00",
+      "description": "Combines the goals of ABS 108 with additional time for individual attention to student needs in using study and life skills practice. Recommended for students who want or need additional practice and instructor feedback or who are coming back to school after an extended absence and whose assessment scores indicate skills in ENG 111A range. Credit may be earned in only one of the following: ABS 101, ABS 108 or ABS 108A or ABS 292. (45-0)",
+      "institution": "Delta College"
+    },
+    {
+      "course_id": "ABS 111",
+      "course_title": "College Expectations and You",
+      "credits": "1.00",
+      "description": "Prerequisite: Reading or Writing Level 3. Explores information needed to make a successful transition to college level expectations for learning and success. Examines effective personal attributes, available college resources, and general expectations of college professors and courses. Assists in the creation of a personal plan of action for reaching college goals using information from the course. (15-0)",
+      "institution": "Delta College"
+    }
+  ],
+  "timestamp": "2025-08-08T21:18:10.619833"
+}

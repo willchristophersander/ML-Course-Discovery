@@ -1,0 +1,74 @@
+{
+  "search_query": {
+    "institution": "Lewis and Clark Community College",
+    "successful_variation": "Lewis and Clark Community College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Lewis+and+Clark+Community+College&distance=5"
+  },
+  "total_results": 9,
+  "courses": [
+    {
+      "course_id": "ACCT 131",
+      "course_title": "Financial Accounting",
+      "credits": "3.00",
+      "description": "Covers accounting cycle, including: double entry theory, recording transactions, accruals and deferrals, depreciation and theory of accounts. Includes preparation and analysis of major financial accounting statements. Prerequisite: None. (PCS . , 3 credit hours: 3 hours lecture, 0 hours lab)",
+      "institution": "Lewis and Clark Community College"
+    },
+    {
+      "course_id": "ACCT 132",
+      "course_title": "Managerial Accounting",
+      "credits": "3.00",
+      "description": "Covers accounting procedures as they apply to management function of decision making, including definition of cost, methods of tracking and applying cost to production, calculation and disposition of variances from standards, budget preparations, and quantitative methods of managerial decision making. Prerequisite: ACCT 3 . (PCS . , 3 credit hours: 3 hours lecture)",
+      "institution": "Lewis and Clark Community College"
+    },
+    {
+      "course_id": "ACCT 233",
+      "course_title": "Cost Accounting",
+      "credits": "3.00",
+      "description": "Examines techniques and procedures used in cost determination, with attention given to managerial use of cost data for control and decision making, and methods of data accumulation. Prerequisite: ACCT 32 and C or better in MATH 6. (PCS . , 3 credit hours: 3 hours lecture, 0 hours lab)",
+      "institution": "Lewis and Clark Community College"
+    },
+    {
+      "course_id": "ACCT 234",
+      "course_title": "Tax Accounting",
+      "credits": "3.00",
+      "description": "Provides basic understanding of current tax laws and preparation of individual and corporate returns. Prerequisite: None. (PCS .2, 3 credit hours: 3 hours lecture)",
+      "institution": "Lewis and Clark Community College"
+    },
+    {
+      "course_id": "ACCT 235",
+      "course_title": "Intermediate Accounting I",
+      "credits": "3.00",
+      "description": "Studies financial accounting theory in depth, emphasizing generally accepted accounting principles as ap?plied in the development of accounting data and in problems of valuation relating to assets and liabilities. Includes exposure to the use of QuickBooks as it relates to specific course topics. Prerequisite: ACCT 132. (PCS . , 3 credit hours: 3 hours lecture)",
+      "institution": "Lewis and Clark Community College"
+    },
+    {
+      "course_id": "ACCT 236",
+      "course_title": "Intermediate Accounting II",
+      "credits": "3.00",
+      "description": "Studies financial accounting theory in depth, emphasizing generally accepted accounting principles as applied in the development of accounting data and in problems of valuation issues relating to stockholders' equity, dilutive securities investments, issues related to income measurement, and preparation and analysis of financial statements. Includes exposure to the use of QuickBooks as it relates to specific course topics. Prerequisite: ACCT 32. (PCS . , 3 credit hours: 3 hours lecture)",
+      "institution": "Lewis and Clark Community College"
+    },
+    {
+      "course_id": "ACCT 280",
+      "course_title": "Accounting Co- op",
+      "credits": "3.00",
+      "description": "Provides students the opportunity to obtain further knowledge and skills related to accounting in the business field through a planned and supervised paid or unpaid experience. Students will achieve practical work experience, earn a competitive wage, and apply what has been learned in the classroom to actual work situations. This course is a variable credit course. Prerequisite: completion of a minimum of 33 total semester hours including a minimum 2 hours of business related courses of which at least 9 hours are in accounting, and a GPA of 2.00 or better and permission of program coordinator. (PCS .2, -4 credit hours: 80 hours must be worked for each credit hour granted.)",
+      "institution": "Lewis and Clark Community College"
+    },
+    {
+      "course_id": "ADCG 133",
+      "course_title": "Introduction to Architecture",
+      "credits": "3.00",
+      "description": "Provides an overview of the \"Culture of Architecture.\" Topics include architectural education, architectural aesthetics, cultural and philosophical considerations, technical and legal aspects, and architecture as a profession. Prerequisite: None. (PCS . , 3 credit hours, 3 lecture hours, 0 lab hours)",
+      "institution": "Lewis and Clark Community College"
+    },
+    {
+      "course_id": "ADCG 134",
+      "course_title": "Architectural Graphics",
+      "credits": "3.00",
+      "description": "Presents the tools and equipment of architectural graphic communication. The concepts of projection views are learned through laboratory exercises. Emphasis is placed on the development of graphic skills that are standard in the practice of architecture. The skills learned include architectural lettering, line weights, line quality, lettering, sketching symbols, and dimensioning. Prerequisite: None. (PCS .2, 3 credit hours; hour lecture, 4 hours lab)",
+      "institution": "Lewis and Clark Community College"
+    }
+  ],
+  "timestamp": "2025-08-10T14:23:55.014358"
+}

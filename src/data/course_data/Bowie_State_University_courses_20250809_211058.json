@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Bowie State University",
+    "successful_variation": "Bowie State University",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Bowie+State+University&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACCT 211",
+      "course_title": "Principals of Accounting I",
+      "credits": "3.00",
+      "description": "Prerequisite(s): BUAD 100, BUAD 101; MGMT 101. This course focuses on accounting principles, conventions, and concepts underlying financial reporting. Emphasis is placed on the accumulation of financial data, the processes of organizing it for presentation, and its use by managers for decision-making.",
+      "institution": "Bowie State University"
+    },
+    {
+      "course_id": "ACCT 212",
+      "course_title": "Principals of Accounting II",
+      "credits": "3.00",
+      "description": "Prerequisite(s): BUAD 100, BUAD 101; MGMT 101. This course focuses on accounting principles, conventions, and concepts underlying financial reporting. Emphasis is placed on the accumulation of financial data, the processes of organizing it for presentation, and its use by managers for decision-making.",
+      "institution": "Bowie State University"
+    },
+    {
+      "course_id": "ACCT 311",
+      "course_title": "Inter Accounting I",
+      "credits": "3.00",
+      "description": "Prerequisite(s): ACCT 211, 212. These courses are a comprehensive study of the current accounting theories supporting the generally accepted accounting principles. The focus will be on problem solutions relating to the classification and evaluation of all accounts associated with the various types of accounting systems and their proper inclusion in the published financial statements, including a review and an understanding of all pronouncements, concepts, and principles relating to the accounting process.",
+      "institution": "Bowie State University"
+    },
+    {
+      "course_id": "ACCT 312",
+      "course_title": "Inter Accounting II",
+      "credits": "3.00",
+      "description": "Prerequisite(s): ACCT 311. These courses are a comprehensive study of the current accounting theories supporting the generally accepted accounting principles. The focus will be on problem solutions relating to the classification and evaluation of all accounts associated with the various types of accounting systems and their proper inclusion in the published financial statements, including a review and an understanding of all pronouncements, concepts, and principles relating to the accounting process.",
+      "institution": "Bowie State University"
+    },
+    {
+      "course_id": "ACCT 313",
+      "course_title": "Cost Accounting",
+      "credits": "3.00",
+      "description": "Prerequisite(s): ACCT 212. This course is a study of the fundamental procedure of cost accounting, including cost definition, classification, and allocation, as related specifically to inventory valuation considerations associated with job order costing and processing costing, as well as such related areas as joint-product and by-product costing and the treatment of waste and spoilage.",
+      "institution": "Bowie State University"
+    },
+    {
+      "course_id": "ACCT 315",
+      "course_title": "Income Tax Accounting",
+      "credits": "3.00",
+      "description": "Prerequisite(s): ACCT 212. This course is a study of the important provisions of the federal tax laws, using illustrations, selected problems, and the preparation of returns.",
+      "institution": "Bowie State University"
+    },
+    {
+      "course_id": "ACCT 316",
+      "course_title": "Corp & Partnership Acct",
+      "credits": "3.00",
+      "description": "Prerequisite(s): ACCT 212. This course focuses on those special tax provisions which are unique to corporations and partnerships. Also included are evaluations of potential tax consequences associated with managerial decisions.",
+      "institution": "Bowie State University"
+    },
+    {
+      "course_id": "ACCT 411",
+      "course_title": "Advanced Accounting I",
+      "credits": "3.00",
+      "description": "Prerequisite(s): ACCT 311 and ACCT 411. These courses emphasizes advanced accounting theory applied to specialized problems in partnerships, ventures, consignments, installment sales, insurance reports; the application of mathematics to accounting problems; home, office, and branch accounting; parent and subsidiary accounting; and foreign exchange.",
+      "institution": "Bowie State University"
+    },
+    {
+      "course_id": "ACCT 412",
+      "course_title": "Advanced Accounting II",
+      "credits": "3.00",
+      "description": "Prerequisite(s): ACCT 311 and ACCT 411. These courses emphasizes advanced accounting theory applied to specialized problems in partnerships, ventures, consignments, installment sales, insurance reports; the application of mathematics to accounting problems; home, office, and branch accounting; parent and subsidiary accounting; and foreign exchange.",
+      "institution": "Bowie State University"
+    },
+    {
+      "course_id": "ACCT 413",
+      "course_title": "Gvt & Institutional Acct",
+      "credits": "3.00",
+      "description": "Prerequisite(s): ACCT 311. This course emphasizes the concept and use of funds in accounting for nonprofit institutions. The basis of accounting for municipal and other governmental units, with emphasis on fund accounts, and the related budgetary and encumbrance procedures, also will be discussed.",
+      "institution": "Bowie State University"
+    }
+  ],
+  "timestamp": "2025-08-09T21:10:58.075228"
+}

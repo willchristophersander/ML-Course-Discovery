@@ -1,0 +1,18 @@
+{
+  "search_query": {
+    "institution": "Connecticut College",
+    "successful_variation": "Connecticut College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Connecticut+College&distance=5"
+  },
+  "total_results": 1,
+  "courses": [
+    {
+      "course_id": "ABROAD 101",
+      "course_title": "Study Abroad Teach",
+      "credits": "12.00",
+      "description": "An administrative course for students participating in Study Abroad/Teach Abroad. 12 credit hours. Permission of the instructor required.",
+      "institution": "Connecticut College"
+    }
+  ],
+  "timestamp": "2025-09-29T01:48:17.009382"
+}

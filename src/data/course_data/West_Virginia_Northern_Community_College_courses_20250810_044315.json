@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "West Virginia Northern Community College",
+    "successful_variation": "West Virginia Northern Community College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=West+Virginia+Northern+Community+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACC 122",
+      "course_title": "Prin Of Accounting I",
+      "credits": "3.00",
+      "description": "This course covers the accounting process: the observation, measurements and reporting of economic activity in order to develop information useful for decision making; the use of the computer in the decision-making process. Basic principles underlying accounting procedures and techniques involved in recording and classifying business transactions, accounting cycles, journals, ledgers, working papers, financial statements, procedures involved in adjusting and closing accounting records, financial statements, procedures involved in adjusting and closing accounting records, accrued and prepaid items, notes and interest, bad debts and depreciation are covered.",
+      "institution": "West Virginia Northern Community College"
+    },
+    {
+      "course_id": "ACC 123",
+      "course_title": "Prin of Accounting II",
+      "credits": "3.00",
+      "description": "This course is a continuation of ACC 122. The course explores basic principles underlying the procedure of accounting for partnerships, corporation, departmental and branch accounting, budgets and financial statements analysis.",
+      "institution": "West Virginia Northern Community College"
+    },
+    {
+      "course_id": "ACC 210",
+      "course_title": "Cost Accounting",
+      "credits": "3.00",
+      "description": "No course description available.",
+      "institution": "West Virginia Northern Community College"
+    },
+    {
+      "course_id": "ACC 222",
+      "course_title": "Computerized & Payroll Accting",
+      "credits": "3.00",
+      "description": "This course is an introduction to menu-driven general ledger accounting software and accounting for payroll. Students will utilize accounting software to complete the accounting cycle for service and merchandising businesses, account for accounts payable, accounts receivable, fixed assets, payroll and perform financial analysis. Additional topics include departmental accounting and budgeting. Accounting for payroll is examined thoroughly and students are introduced to payroll reporting requirements. Students will calculate payroll and prepare common payroll reports.",
+      "institution": "West Virginia Northern Community College"
+    },
+    {
+      "course_id": "ACC 224",
+      "course_title": "Inter Accounting I",
+      "credits": "3.00",
+      "description": "This course covers accounting procedures, financial statements, net income concepts, capital stock, retained earnings and dividends, correction of errors, stockholders' equity, accounting principles, cash receivables and inventories.",
+      "institution": "West Virginia Northern Community College"
+    },
+    {
+      "course_id": "ACC 225",
+      "course_title": "Inter Accounting II",
+      "credits": "3.00",
+      "description": "This course covers investments, tangible fixed assets, intangible fixed assets, liabilities and reserves, incomplete records, interpretation of financial statements and fund statements.",
+      "institution": "West Virginia Northern Community College"
+    },
+    {
+      "course_id": "ACC 240",
+      "course_title": "Business Taxation",
+      "credits": "3.00",
+      "description": "No course description available.",
+      "institution": "West Virginia Northern Community College"
+    },
+    {
+      "course_id": "ACC 250",
+      "course_title": "Accounting Capstone",
+      "credits": "3.00",
+      "description": "This course allows students to apply classroom knowledge and skills in a manner similar to that found in a business setting. Students will prepare properly constructed reports and projects. Course requirements include but are not limited to solving comprehensive accounting problems in the realm of accounting principles, cost accounting, taxation and payroll.",
+      "institution": "West Virginia Northern Community College"
+    },
+    {
+      "course_id": "AHS 102",
+      "course_title": "Electronic Health Records",
+      "credits": "1.00",
+      "description": "This course serves as an introduction to the electronic health record. The combination of lecture and hands-on application software provides medical professionals an opportunity to transition from paper medical records to electronic health records.",
+      "institution": "West Virginia Northern Community College"
+    },
+    {
+      "course_id": "AHS 103",
+      "course_title": "Medical Terminology",
+      "credits": "2.00",
+      "description": "This course is a study of the structure of medical words and terms. Emphasis is placed on spelling and defining commonly used prefixes, suffixes, root words and their combining forms. Terminology related to a number of allied health occupations serves to acquaint students with an overview of health careers.",
+      "institution": "West Virginia Northern Community College"
+    }
+  ],
+  "timestamp": "2025-08-10T04:43:15.631810"
+}

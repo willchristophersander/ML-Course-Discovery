@@ -1,0 +1,67 @@
+{
+  "search_query": {
+    "institution": "Harrisburg Area Community College-Harrisburg",
+    "successful_variation": "Harrisburg Area Community College-Harrisburg",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Harrisburg+Area+Community+College-Harrisburg&distance=5"
+  },
+  "total_results": 8,
+  "courses": [
+    {
+      "course_id": "ACCT 150",
+      "course_title": "Principles of Financial Accounting I",
+      "credits": "2.00",
+      "description": "Introduces students to commonly accepted accounting principles as they pertain to external financial reporting. This course addresses financial statements and their components. The use of financial statement ratios to make decisions is also reviewed. Finally, accounting ethics and internal controls are discussed.",
+      "institution": "Harrisburg Area Community College-Harrisburg"
+    },
+    {
+      "course_id": "ACCT 151",
+      "course_title": "Principles of Financial Accounting II",
+      "credits": "2.00",
+      "description": "Introduces students to the accounting cycle and the process of converting transactions into accounting journal entries. This course presents details about accounting principles governing inventory. Long-term assets, liabilities and equity transactions are also reviewed. Prerequisite: ACCT 150 with a grade of C or higher. Prerequisite: ACCT 150 Corequisite: ACCT 150",
+      "institution": "Harrisburg Area Community College-Harrisburg"
+    },
+    {
+      "course_id": "ACCT 160",
+      "course_title": "Principles of Managerial Accounting I",
+      "credits": "2.00",
+      "description": "Discusses the tools that facilitate the communication of financial information to managers including cost/volume/profit analysis, budgeting and quantitative decision making. Co-requisite: ACCT 150 with a grade of C or higher. Prerequisite: ACCT 150 or ACCT 101 Corequisite: ACCT 150",
+      "institution": "Harrisburg Area Community College-Harrisburg"
+    },
+    {
+      "course_id": "ACCT 161",
+      "course_title": "Principles of Managerial Accounting II",
+      "credits": "2.00",
+      "description": "Provides a more in-depth discussion of topics that analyze financial information for managers. These topics include financial statement analysis, cash flow statement preparation, job order, process and activity-based costing. Variance analysis and responsibility accounting are also reviewed. Prerequisite: ACCT 160 with a grade of C or higher. Co-requisite: ACCT 151 with a gradeof C or higher. Prerequisite: ACCT 160 & ( ACCT 151 or ACCT 101 ) Corequisite: ACCT 160, ACCT 151",
+      "institution": "Harrisburg Area Community College-Harrisburg"
+    },
+    {
+      "course_id": "ACCT 201",
+      "course_title": "Intermediate Accounting",
+      "credits": "4.00",
+      "description": "Reviews the conceptual framework of accounting to foster further discussion of the income statement, statement of comprehensive income, statement of changes in stockholders equity, balance sheet, and statement of cash flow. Also, the course covers revenue recognition and the measurement of inventory, operational assets, intangible assets, investments in debt and equity securities, leases, deferred taxes and earnings per share. Prerequisite: ACCT 200 with a grade of C or higher. Prerequisite: ACCT 151 or ACCT 101 or ACCT 200",
+      "institution": "Harrisburg Area Community College-Harrisburg"
+    },
+    {
+      "course_id": "ACCT 203",
+      "course_title": "Income Tax Accounting",
+      "credits": "4.00",
+      "description": "Identifies and applies myriad sources of tax law to various individual income tax situations. This course emphasizes planning as well as reviews the taxation of corporations, partnerships, and retirement plans. Commonly filed tax forms are used to demonstrate compliance with tax law. Co-requisite: ACCT 200 with a grade of C or higher or permission of the Department Chair. Prerequisite: ACCT 151 or ACCT 101 or ACCT 200 Corequisite: ACCT 151",
+      "institution": "Harrisburg Area Community College-Harrisburg"
+    },
+    {
+      "course_id": "ACCT 204",
+      "course_title": "Managerial Cost Accounting",
+      "credits": "3.00",
+      "description": "Presents the concepts and applications of cost accounting from a procedural and managerial approach. Various methods of accumulating cost data for planning, controlling, and decision-making purposes are explored and applied. In addition, this course also addresses activity-based costing, responsibility accounting, budgeting, managing profitability, job-order and process costing, standard costs, and variance analysis. Prerequisite: ACCT 200 with a grade of C or higher or permission of the Department Chair. Prerequisite: ACCT 161 or ACCT 200",
+      "institution": "Harrisburg Area Community College-Harrisburg"
+    },
+    {
+      "course_id": "ACCT 208",
+      "course_title": "Professional Bookkeeping",
+      "credits": "4.00",
+      "description": "Serves to reinforce the period end adjusting process including accruals, deferrals, and the use of an adjusted trial balance to prepare financial statements. This course covers the various methods used, as well as the legal requirements for, depreciation, payroll, and inventory. The design and implementation of procedures to protect businesses against fraud are emphasized. Students are able to practice communicating their recommendations, in the form of written memos and reports, designed for both managers and clients. In addition, this course prepares students to take the National Certified Bookkeepers Exam. Prerequisite: ACCT 101 with a grade of C or higher. Corequisite: ACCT 200. Prerequisite: ACCT 151 or ACCT 101",
+      "institution": "Harrisburg Area Community College-Harrisburg"
+    }
+  ],
+  "timestamp": "2025-08-10T06:22:28.732605"
+}

@@ -1,0 +1,67 @@
+{
+  "search_query": {
+    "institution": "Capitol Technology University",
+    "successful_variation": "Capitol Technology University",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Capitol+Technology+University&distance=5"
+  },
+  "total_results": 8,
+  "courses": [
+    {
+      "course_id": "AE 100",
+      "course_title": "Introduction to Astronomy",
+      "credits": "3.00",
+      "description": "Provides a general overview of topics in astronomy. Includes the history and evolution of our understanding of the solar system, stars, galaxies and cosmos. Basic processes that explain observations of phenomenon in our universe are discussed. May be used as a science elective. Corequisite: MA-114.",
+      "institution": "Capitol Technology University"
+    },
+    {
+      "course_id": "AE 150",
+      "course_title": "Introduction to Space",
+      "credits": "3.00",
+      "description": "Introduces the student to elements of astronomy and space sciences, the history of NASA and earth missions and operations and simple physics of satellite orbits, types of orbits and orbital terminology. Space environment and its effects on satellite and equipment. Discussion of satellites, types of satellites and their uses. Corequisite: PH-261 or PH-201. Prerequisite: MA-114.",
+      "institution": "Capitol Technology University"
+    },
+    {
+      "course_id": "AE 200",
+      "course_title": "High Vacuum Testing Techniques",
+      "credits": "3.00",
+      "description": "This course covers the basic theory and practical knowledge to use, operate, manage or conduct tests in vacuum chambers. Terminology, equipment and methods of obtaining and maintaining vacuum environments, especially in regards to space simulation testing are covered. Topics will include types of vacuum pumps, system components, vacuum gauges, fittings, flanges, materials and their integration. Basic test procedures and standards. Corequisite: MA-114.",
+      "institution": "Capitol Technology University"
+    },
+    {
+      "course_id": "AE 250",
+      "course_title": "Ground Systems Engineering",
+      "credits": "3.00",
+      "description": "Provides an introduction to the components that make up a satellite ground system. Included is the design and analysis of ground system components. Provides an introduction into satellite telemetry, command and control subsystems, as well as the software needed to build and run a ground system. Introduction to CCSDS standards and mission planning. Prerequisite: AE-150. Corequisite: CS-130. Offered spring semester only.",
+      "institution": "Capitol Technology University"
+    },
+    {
+      "course_id": "AE 351",
+      "course_title": "Orbital Mechanics",
+      "credits": "3.00",
+      "description": "Newton's equations and Keplers laws. Use of spherical coordinates to solve for orbital equations. Corrections to basic equations caused by earth's geometry, the moon and the sun. Other effects depending on orbital parameters. Prerequisite: MA-340.",
+      "institution": "Capitol Technology University"
+    },
+    {
+      "course_id": "AE 361",
+      "course_title": "Remote Sensing",
+      "credits": "3.00",
+      "description": "Junior level course in remote sensing. Physics of detectors used for monitoring and analyzing the earth and the atmosphere. Types of detectors and bandwidth of operations. Noise problems. Applications to meteorology, oceanography, vegetation, and geology. Prerequisite: PH-263 and AE-311.",
+      "institution": "Capitol Technology University"
+    },
+    {
+      "course_id": "AE 400",
+      "course_title": "Special Topics in Astronautical Engineering",
+      "credits": "4.00",
+      "description": "Research into astronautical engineering subjects. Student primarily works in a guided study format with a mentor. Permission required from the instructor and academic dean. This course may be repeated with different projects.",
+      "institution": "Capitol Technology University"
+    },
+    {
+      "course_id": "AE 401",
+      "course_title": "Computational Dynamics",
+      "credits": "3.00",
+      "description": "Advanced Orbital Mechanics: Effects of various gravitational variations of the earth, moon sun and other bodies on orbital equations. Perturbation and modeling of orbital equations. Use of numerical methods and commercial computer modeling to determine orbital paths. Prerequisites: MA-300 and AE-351.",
+      "institution": "Capitol Technology University"
+    }
+  ],
+  "timestamp": "2025-08-10T21:36:52.295563"
+}

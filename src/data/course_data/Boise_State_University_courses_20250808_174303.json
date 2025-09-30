@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Boise State University",
+    "successful_variation": "Boise State University",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Boise+State+University&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACCT 206",
+      "course_title": "Introduction to Managerial Accounting",
+      "credits": "3.00",
+      "description": "Emphasizes the use of accounting information in business planning, control, and decision making. Students should develop their abilities to: (1) identify and gather relevant financial information for decision making and prepare elementary reports; (2) understand and evaluate published financial reports; and (3) communicate this information to assist in managerial decision making. PREREQ: ACCT 205. Upper-division courses in the Department of Accountancy (those with a course number 300 or higher) provide higher-level instruction to students who have the skills necessary to perform at this level. In addition to fulfilling the specific prerequisites listed and meeting the general university requirements for junior standing, every student admitted to a course is expected: to communicate clearly and correctly so that assignments such as term papers and presentations can be completed effectively; to organize and solve problems using the techniques of intermediate level high school algebra; and to use a microcomputer for simple word processing and spreadsheet applications.",
+      "institution": "Boise State University"
+    },
+    {
+      "course_id": "ACCT 302",
+      "course_title": "Survey of Federal Income Taxation",
+      "credits": "3.00",
+      "description": "Theory and practice of federal income taxation, including concepts of taxation as they apply to businesses, individuals, flow-through entities and corporations. Specific topics include property transactions, individual tax rules, business revenue and expense issues, and state taxation. Emphasizes the social, political and ethical considerations of tax law. Degree credit will be allowed for either ACCT 302 or ACCT 320. PREREQ: ACCT 206.",
+      "institution": "Boise State University"
+    },
+    {
+      "course_id": "ACCT 304",
+      "course_title": "Intermediate Accounting I",
+      "credits": "3.00",
+      "description": "Study of financial reporting, including the effects of economic, legal, political, social and ethical influences on the formulation of generally accepted accounting principles. A comprehensive analysis of basic financial reporting, including the preparation of the statements of income and financial position and in-depth study of current and noncurrent assets. Electronic spreadsheets are used as a tool in analyzing complex reporting problems. PREREQ: ACCT 206 and satisfactory completion of computer competency exam.",
+      "institution": "Boise State University"
+    },
+    {
+      "course_id": "ACCT 306",
+      "course_title": "Intermediate Accounting II",
+      "credits": "3.00",
+      "description": "Continuation of ACCT 304. Study of current and noncurrent liabilities, stockholders' equity, investments in securities, income taxes, pensions, and revenue recognition. PREREQ: ACCT 304 with a grade of C or better.",
+      "institution": "Boise State University"
+    },
+    {
+      "course_id": "ACCT 308",
+      "course_title": "Intermediate Accounting III",
+      "credits": "3.00",
+      "description": "Continuation of ACCT 306. Topics include leases, accounting changes, the statement of cash flows, financial statement analysis, governmental, and not-for-profit accounting. PREREQ: ACCT 306 with a grade of C or higher.",
+      "institution": "Boise State University"
+    },
+    {
+      "course_id": "ACCT 314",
+      "course_title": "Cost Accounting",
+      "credits": "3.00",
+      "description": "Traditional cost accounting including topics such as standard costing, variance analysis, cost-volume-profit analysis, and budgeting. The role of the management accountant, including ethical responsibilities, is examined. Emphasis on current cost management techniques and the use of information for decision-making. PREREQ: ACCT 206 and BUSSTAT 207.",
+      "institution": "Boise State University"
+    },
+    {
+      "course_id": "ACCT 320",
+      "course_title": "Tax Factors in Business Decisions",
+      "credits": "3.00",
+      "description": "Introduction to the impact of federal income taxes on business operating and financing decisions. Degree credit not allowed for both ACCT 320 and ACCT 302. PREREQ: ACCT 205.",
+      "institution": "Boise State University"
+    },
+    {
+      "course_id": "ACCT 350",
+      "course_title": "Analysis, Design, And Audit of Accounting Information Systems",
+      "credits": "3.00",
+      "description": "Elements, cycles and procedures of accounting information systems, systems documentation techniques, the data processing cycle, the systems development process, controlling accounting information systems, and the auditing of computer-based systems. Applied projects in spreadsheet, database, flowchart, and accounting software. PREREQ: ACCT 304 and BUSCOM 201 or ENGL 202 and ITM 106 or satisfactory completion of computer competency exam covering basic database skills.",
+      "institution": "Boise State University"
+    },
+    {
+      "course_id": "ACCT 405",
+      "course_title": "Internal Auditing",
+      "credits": "3.00",
+      "description": "Study of the scope and purpose of auditing. Topics include risk analysis, internal control, ethics, operational auditing, sampling, fraud, and communication with auditees. PREREQ: ACCT 306.",
+      "institution": "Boise State University"
+    },
+    {
+      "course_id": "ACCT 430",
+      "course_title": "International Accounting",
+      "credits": "3.00",
+      "description": "An introduction to international accounting. Provides an overview of international financial reporting from the perspective of the user of financial information, not the preparer of the information. The impact of cultural forces on the evolution of accounting standards is emphasized. Degree credit not available for accountancy majors. PREREQ: ACCT 205 or PERM/INST.",
+      "institution": "Boise State University"
+    }
+  ],
+  "timestamp": "2025-08-08T17:43:03.892131"
+}

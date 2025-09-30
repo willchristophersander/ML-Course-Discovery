@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Emory University",
+    "successful_variation": "Emory University",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Emory+University&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "AAS 100",
+      "course_title": "Intro To Afric Amer Studies",
+      "credits": "4.00",
+      "description": "Introduces the major disciplines and topics that comprise African American studies; provides orientation to faculty, institutional, and community resources; and serves as a foundation for subsequent course work and a research project in the field.",
+      "institution": "Emory University"
+    },
+    {
+      "course_id": "AAS 101",
+      "course_title": "Dynam Of The Black Community",
+      "credits": "4.00",
+      "description": "No course description available.",
+      "institution": "Emory University"
+    },
+    {
+      "course_id": "AAS 115",
+      "course_title": "Jazz: Its Evolution & Essence",
+      "credits": "4.00",
+      "description": "(Same as Music 115.) Critical and analytic study of jazz idioms from the turn of the century to the present, including the blues, ragtime, Dixieland, swing, bop, and modern jazz. Emphasis on such figures as Armstrong, Ellington, Parker, Monk, and Coleman.",
+      "institution": "Emory University"
+    },
+    {
+      "course_id": "AAS 190",
+      "course_title": "Fresh Sem: Africn Amer Studies",
+      "credits": "4.00",
+      "description": "No course description available.",
+      "institution": "Emory University"
+    },
+    {
+      "course_id": "AAS 205",
+      "course_title": "Intro To Ethnomusicology",
+      "credits": "4.00",
+      "description": "No course description available.",
+      "institution": "Emory University"
+    },
+    {
+      "course_id": "AAS 247",
+      "course_title": "Race And Ethnic Relations",
+      "credits": "4.00",
+      "description": "(Same as Sociology 247.) Relations between and within groups; conflict and cooperation in light of a number of models of social interaction. Application of principles to racial, religious, and ethnic minorities.",
+      "institution": "Emory University"
+    },
+    {
+      "course_id": "AAS 250",
+      "course_title": "African Amer Images in Media",
+      "credits": "4.00",
+      "description": "No course description available.",
+      "institution": "Emory University"
+    },
+    {
+      "course_id": "AAS 260",
+      "course_title": "Afro-Cent Health Care Systems",
+      "credits": "4.00",
+      "description": "Major factors affecting health care and service delivery within the African American community.",
+      "institution": "Emory University"
+    },
+    {
+      "course_id": "AAS 275",
+      "course_title": "Black Images In The Media",
+      "credits": "4.00",
+      "description": "No course description available.",
+      "institution": "Emory University"
+    },
+    {
+      "course_id": "AAS 300",
+      "course_title": "Civ Rts Mvmt &Cultural Change",
+      "credits": "4.00",
+      "description": "No course description available.",
+      "institution": "Emory University"
+    }
+  ],
+  "timestamp": "2025-08-10T14:38:16.302437"
+}

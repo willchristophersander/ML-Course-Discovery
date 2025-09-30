@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Xavier University",
+    "successful_variation": "Xavier University",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Xavier+University&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACCT 200",
+      "course_title": "Introductory Financial Acct",
+      "credits": "3.00",
+      "description": "A foundation course which provides an introduction to fundamental concepts and to financial statements.",
+      "institution": "Xavier University"
+    },
+    {
+      "course_id": "ACCT 201",
+      "course_title": "Introductory Managerial Acct",
+      "credits": "3.00",
+      "description": "Identifying, measuring, analyzing, and interpreting accounting data that is used to support managerial decisionmaking. Pre-requisite: ACCT 200",
+      "institution": "Xavier University"
+    },
+    {
+      "course_id": "ACCT 300",
+      "course_title": "Intermediate Financial Acct I",
+      "credits": "3.00",
+      "description": "Study of financial accounting theory and principles applicable to the accumulation, analysis, measurement, reporting, and interpretation of selected economic events. The first of a two course sequence. Pre-requisite: ACCT 200-minimum grade of \u201cC\u201d ACCT 201-minimum grade of \u201cC\u201d",
+      "institution": "Xavier University"
+    },
+    {
+      "course_id": "ACCT 301",
+      "course_title": "Intermediate Financial Acct II",
+      "credits": "3.00",
+      "description": "The second of a two course sequence focusing on the study of financial accounting theory and principles. Prerequisite: ACCT 300-minimum grade of \u201cC\u201d",
+      "institution": "Xavier University"
+    },
+    {
+      "course_id": "ACCT 303",
+      "course_title": "Co-Op Education/Accounting:JR",
+      "credits": "3.00",
+      "description": "An elective cooperative experience where students earn academic credit while performing approved accountingrelated work experience. Pre-requisite: MGMT 301, 55 credit hours completed, 2.750 GPA, Department approval required",
+      "institution": "Xavier University"
+    },
+    {
+      "course_id": "ACCT 311",
+      "course_title": "Introduction to Taxation",
+      "credits": "4.00",
+      "description": "An introduction to the tax implications of business formation, income and expenses, and distributions for Sole Proprietorships, C-corporations, Partnerships and S-corporations. This course includes compliance, planning, tax research and ethical issues. Pre-requisite: ACCT 200-minimum grade of \u201cC\u201d",
+      "institution": "Xavier University"
+    },
+    {
+      "course_id": "ACCT 312",
+      "course_title": "Volunteer Income Tax Assistnce",
+      "credits": "3.00",
+      "description": "A service learning course that includes additional study of federal and state income tax topics, marketing and administration of tax preparation services, and preparation of federal and state income tax returns for low income and elderly taxpayers. Pre-requisite: ACCT 311 or equivalent with grade of \u201cC\u201d or better",
+      "institution": "Xavier University"
+    },
+    {
+      "course_id": "ACCT 321",
+      "course_title": "Cost Accounting",
+      "credits": "3.00",
+      "description": "The study of the process of measuring, interpreting, and communicating information that assists managers in achieving organizational goals. Pre-requisite: ACCT 200-minimum grade of \u201cC\u201d ACCT 201-minimumgrade of \u201cC\u201d",
+      "institution": "Xavier University"
+    },
+    {
+      "course_id": "ACCT 403",
+      "course_title": "Co-Op Education/Accounting:SR",
+      "credits": "3.00",
+      "description": "An elective cooperative experience where students earn academic credit while performing approved accountingrelated work experience. Pre-requisite: MGMT 301, 55 credit hours completed, 2.750",
+      "institution": "Xavier University"
+    },
+    {
+      "course_id": "ACCT 421",
+      "course_title": "Auditing",
+      "credits": "3.00",
+      "description": "An introduction to auditing concepts, standards and procedures related to the planning and execution of financial and operational audits. The course also includes topics of internal controls and professional ethics. Prerequisite: ACCT",
+      "institution": "Xavier University"
+    }
+  ],
+  "timestamp": "2025-08-10T06:18:17.571563"
+}

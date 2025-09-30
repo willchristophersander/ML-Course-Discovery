@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "New Jersey Institute of Technology",
+    "successful_variation": "New Jersey Institute of Technology",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=New+Jersey+Institute+of+Technology&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACCT 115",
+      "course_title": "Principles of Accounting I",
+      "credits": "3.00",
+      "description": "Basic accounting concepts, documents, work sheets, ledgers, and procedures for keeping accounts. Emphasis given to inventory and job order accounting methods.",
+      "institution": "New Jersey Institute of Technology"
+    },
+    {
+      "course_id": "ACCT 116",
+      "course_title": "Principles of Accounting II",
+      "credits": "3.00",
+      "description": "Prerequisite: Acct 115. A continuation of Acct 115. Valuation, depreciation, costing methods, overhead accumulations, and distribution. Emphasis given to standard costs, cost estimating and budgets.",
+      "institution": "New Jersey Institute of Technology"
+    },
+    {
+      "course_id": "ACCT 315",
+      "course_title": "Accounting for Managerial Decision Making",
+      "credits": "3.00",
+      "description": "This course wil concentrate on management decisions and the contribution of accounting toward making these decisions. Emphasis is upon using accounting information to solve business problems.",
+      "institution": "New Jersey Institute of Technology"
+    },
+    {
+      "course_id": "ACCT 317",
+      "course_title": "Managerial Accounting",
+      "credits": "3.00",
+      "description": "Prerequisites: Acct 115, Acct 116. The techniques of evaluating labor, material and overhead costs. Rate of return, variance analysis, and break-even analysis.",
+      "institution": "New Jersey Institute of Technology"
+    },
+    {
+      "course_id": "ACCT 515",
+      "course_title": "ManagerialAccounting",
+      "credits": "3.00",
+      "description": "Case study approach to accounting issues that have an impact on management decision making: nature of managerial accounting, cost behavior, cost-volume-profit analysis, full costing and its use, standard costs, variances, differential cost analysis, and responsibility accounting.",
+      "institution": "New Jersey Institute of Technology"
+    },
+    {
+      "course_id": "ACCT 610",
+      "course_title": "Internal Auditing Concepts and Procedures",
+      "credits": "3.00",
+      "description": "The entire internal audit function including planning, surveying, audit performance, work paper documentation, reporting, standards, controls, sampling, and fraud detection.",
+      "institution": "New Jersey Institute of Technology"
+    },
+    {
+      "course_id": "ACCT 615",
+      "course_title": "Management Accounting",
+      "credits": "3.00",
+      "description": "Builds on traditional concepts of managerial accounting (break-even analysis, alternate choice decisions, profit planning, and transfer pricing) and develops the skills that an executive needs in strategic cost analysis. Explores strategic decisions of value chains and activity-based management. Emphasis on using managerial accounting data in executive planning and control.",
+      "institution": "New Jersey Institute of Technology"
+    },
+    {
+      "course_id": "ACCT 630",
+      "course_title": "Concepts and Applications of Control",
+      "credits": "3.00",
+      "description": "Examines the need for and implementation of internal controls to protect corporate assets. Emphasizes the role of the controller in the organization.",
+      "institution": "New Jersey Institute of Technology"
+    },
+    {
+      "course_id": "ACCT 650",
+      "course_title": "Operational Auditing",
+      "credits": "3.00",
+      "description": "Stresses the functions of the auditor in assessing the effectiveness and efficiency of operations. Includes such areas as environmental auditing, auditing the human resource management function, auditing OSHA, psychological impact on internal auditors, auditing in a just-in-time environment, ethics, and auditing for fraud. Financial areas are discussed only to the extent of their operational impact.",
+      "institution": "New Jersey Institute of Technology"
+    },
+    {
+      "course_id": "ACCT 670",
+      "course_title": "Seminar in Accounting Theory",
+      "credits": "3.00",
+      "description": "Focuses on contemporary areas relating to accounting theory. Taught from the viewpoint of the corporate controller.",
+      "institution": "New Jersey Institute of Technology"
+    }
+  ],
+  "timestamp": "2025-08-10T05:13:49.460169"
+}

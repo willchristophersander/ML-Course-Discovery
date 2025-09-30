@@ -1,0 +1,46 @@
+{
+  "search_query": {
+    "institution": "Emporia State University",
+    "successful_variation": "Emporia State University",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Emporia+State+University&distance=5"
+  },
+  "total_results": 5,
+  "courses": [
+    {
+      "course_id": "AB 110",
+      "course_title": "Arabic Language & Culture I",
+      "credits": "5.00",
+      "description": "Emphasis will be placed on the basics of Arabic language communication and its culture. The four skills of the language both spoken and written, handwriting, spelling and vocabulary will be presented.",
+      "institution": "Emporia State University"
+    },
+    {
+      "course_id": "AB 210",
+      "course_title": "Arabic Language & Culture II",
+      "credits": "5.00",
+      "description": "This course will be a continuation of AB 110 Arabic Language & Culture I with emphasis placed on the basics of the Arabic language communication and its culture. The four skills of the language both spoken and written, handwriting, spelling, and vocabulary will be presented sufficiently. Offered every Spring.",
+      "institution": "Emporia State University"
+    },
+    {
+      "course_id": "AB 300",
+      "course_title": "Introduction to the Arab World",
+      "credits": "3.00",
+      "description": "This class will introduce students of Arabic language and other Humanities disciplines (history, sociology, English, etc.) to the society, politics and culture in the Arab World. The major patterns of social change, modernization of states and political revolutions in the 20th Century will be studied. The course includes an examination of the historical process that the Arab World has gone through in relation to its different societies, cultures, religions, etc.",
+      "institution": "Emporia State University"
+    },
+    {
+      "course_id": "AC 100T",
+      "course_title": "Accounting Elective",
+      "credits": "5.00",
+      "description": "No course description available.",
+      "institution": "Emporia State University"
+    },
+    {
+      "course_id": "AC 200T",
+      "course_title": "Accounting Elective",
+      "credits": "5.00",
+      "description": "No course description available.",
+      "institution": "Emporia State University"
+    }
+  ],
+  "timestamp": "2025-08-10T10:18:15.144580"
+}

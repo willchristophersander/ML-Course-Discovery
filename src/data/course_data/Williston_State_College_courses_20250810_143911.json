@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Williston State College",
+    "successful_variation": "Williston State College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Williston+State+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACCT 102",
+      "course_title": "Fundamentals of Accounting",
+      "credits": "3.00",
+      "description": "Basic principles of partnership accounting and the accrual basis of accounting.",
+      "institution": "Williston State College"
+    },
+    {
+      "course_id": "ACCT 200",
+      "course_title": "Elements of Accounting I",
+      "credits": "3.00",
+      "description": "Prerequisite: ACCT 102 or equivalent. Principles and concepts of the accounting cycle. Internal controls as needed for special journals, cash management, and inventories are presented along with an understanding of financial statements.",
+      "institution": "Williston State College"
+    },
+    {
+      "course_id": "ACCT 201",
+      "course_title": "Elements of Accounting II",
+      "credits": "3.00",
+      "description": "Prerequisite: ACCT 200. Accounting for partnerships and corporations with special emphasis on accounting procedures for the assets and liabilities commonly found in business.",
+      "institution": "Williston State College"
+    },
+    {
+      "course_id": "ACCT 207",
+      "course_title": "Managerial Accounting",
+      "credits": "3.00",
+      "description": "Prerequisite: ACCT 201. Application of accounting concepts and techniques to managerial problems of planning, control, decision making.",
+      "institution": "Williston State College"
+    },
+    {
+      "course_id": "ACCT 215",
+      "course_title": "Business in The Legal Environment",
+      "credits": "3.00",
+      "description": "Prerequisite: Sophomore standing. Consideration of the nature, formation, and application of law in general; emphasis on public law and regulation of business.",
+      "institution": "Williston State College"
+    },
+    {
+      "course_id": "AGEC 141",
+      "course_title": "Principles of Agribusiness Mgmt",
+      "credits": "2.00",
+      "description": "This is an introductory course dealing with the economic importance of the agribusiness community and the potential for employment with the agribusiness industry.",
+      "institution": "Williston State College"
+    },
+    {
+      "course_id": "AGEC 142",
+      "course_title": "Agricultural Accounting",
+      "credits": "2.00",
+      "description": "An introduction to the preparation of farm records and financial statements for use in business analysis.",
+      "institution": "Williston State College"
+    },
+    {
+      "course_id": "AGEC 240",
+      "course_title": "Holistic Management",
+      "credits": "3.00",
+      "description": "Comparison of scientific and holistic thought models as applied to personal, organizational, and biological problem solving and goal setting.",
+      "institution": "Williston State College"
+    },
+    {
+      "course_id": "AGEC 240L",
+      "course_title": "Holistic Management Lab",
+      "credits": "1.00",
+      "description": "Corequisite: AGEC 240. Applications of the holistic model to biological, financial, and land planning.",
+      "institution": "Williston State College"
+    },
+    {
+      "course_id": "AGEC 242",
+      "course_title": "Intro to Agricultural Management",
+      "credits": "3.00",
+      "description": "Economic and managerial concepts related to farm or agribusiness production process, development of cost data, enterprise analysis, organization and management of production inputs.",
+      "institution": "Williston State College"
+    }
+  ],
+  "timestamp": "2025-08-10T14:39:11.827811"
+}

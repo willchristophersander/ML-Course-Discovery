@@ -1,0 +1,60 @@
+{
+  "search_query": {
+    "institution": "Clovis Community College",
+    "successful_variation": "Clovis Community College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Clovis+Community+College&distance=5"
+  },
+  "total_results": 7,
+  "courses": [
+    {
+      "course_id": "ACCT 150",
+      "course_title": "Personal Income Tax",
+      "credits": "3.00",
+      "description": "Introduces basic federal and state tax codes for preparing individual income tax returns. Students will learn and practice preparing simple tax returns using tax software and will demonstrate knowledge by completing practice problems and answering basic tax questions. Students will be required to pass a certification exam and assist in preparing individual tax returns for low income and elderly taxpayers.",
+      "institution": "Clovis Community College"
+    },
+    {
+      "course_id": "ACCT 201",
+      "course_title": "Introductory Accounting I",
+      "credits": "4.00",
+      "description": "Prerequisite: \u201cB\u201d or better in MATH 094 or Accuplacer Test placement into MATH 096 An introduction to accounting for service or merchandising businesses. Content includes generally accepted accounting principles, financial accounting procedures, accounting information systems, and preparation of financial statements. (NMCCN ACCT 2114)",
+      "institution": "Clovis Community College"
+    },
+    {
+      "course_id": "ACCT 202",
+      "course_title": "Introductory Accounting II",
+      "credits": "4.00",
+      "description": "(4 Credits) Prerequisite: \"C\" or better inACCT 201 An introduction to corporations, the statement of cash fl ows, fi nancial statement analysis, managerial accounting, manufacturing businesses, cost behavior, costvolume- profi t analysis, budgeting, decentralized operations, and partnerships. ( NMCCN ACCT 2124)",
+      "institution": "Clovis Community College"
+    },
+    {
+      "course_id": "ACCT 206",
+      "course_title": "Computerized Accounting",
+      "credits": "3.00",
+      "description": "Prerequisites: One semester of accounting and CIS 101 or CIS 120 or consent of instructor Out-of-class computer work required. An introduction to computer-based accounting using a current version of a popular accounting application. Emphasis is on the automation of manual accounting procedures. The course includes coverage of generally accepted accounting principles, transaction analysis, chart of accounts, subsidiary ledger setup, and the generation of accounting related reports.",
+      "institution": "Clovis Community College"
+    },
+    {
+      "course_id": "ACCT 211",
+      "course_title": "Cost Accounting",
+      "credits": "3.00",
+      "description": "Prerequisite: ACCT 202 Accounting for costs of products and services; cost analysis and estimation; and relevant costs for planning, controlling, and decision making.",
+      "institution": "Clovis Community College"
+    },
+    {
+      "course_id": "ACCT 268",
+      "course_title": "Workshop in Accounting",
+      "credits": "3.00",
+      "description": "As announced. (Workshops are graded on a Pass (P) or Fail (F) basis.)",
+      "institution": "Clovis Community College"
+    },
+    {
+      "course_id": "ACCT 290",
+      "course_title": "Co-op in Accounting",
+      "credits": "3.00",
+      "description": "Co-op allows students a unique opportunity to apply classroom knowledge in a paid, planned, and supervised work experience. It provides students an edge with their career goals by extending their learning environment, enhancing their self-confidence, and expanding their professional growth. Advance approval is required prior to enrollment. (See procedure on page 24.) May be repeated for a maximum of nine (9) credit hours.",
+      "institution": "Clovis Community College"
+    }
+  ],
+  "timestamp": "2025-08-11T00:08:43.426800"
+}

@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Forsyth Technical Community College",
+    "successful_variation": "Forsyth Technical Community College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Forsyth+Technical+Community+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACA 085",
+      "course_title": "Improving Study Skills",
+      "credits": "3.00",
+      "description": "Prerequisites: None Corequisites: None Effective Term: 2004*02 This course is designed to improve academic study skills and introduce resources that will complement developmental courses and engender success in college-level courses. Topics include basic study skills, memory techniques, note-taking strategies, test-taking techniques, library skills, personal improvement strategies, goal setting, and learning resources. Upon completion, students should be able to apply the techniques learned to improve performance in college-level classes. Using web based learning modules: students will be able to increase essential skill sets required for health technology programs.",
+      "institution": "Forsyth Technical Community College"
+    },
+    {
+      "course_id": "ACA 090",
+      "course_title": "Study Skills",
+      "credits": "3.00",
+      "description": "Prerequisites: None Corequisites: None Effective Term: 1997*02 This course is intended for those who placed into credit-level course work but who are not maintaining satisfactory academic progress toward meeting program goals. Topics include study skills, note taking, learning styles and strategies, test taking, goal setting, and self-assessment skills. Upon completion, students should be able to manage their learning experiences to successfully meet educational goals.",
+      "institution": "Forsyth Technical Community College"
+    },
+    {
+      "course_id": "ACA 111",
+      "course_title": "College Student Success",
+      "credits": "3.00",
+      "description": "Prerequisites: None Corequisites: None Effective Term: 1997*02 This course introduces the college's physical, academic and social environment and promotes the personal development essential for success. Topics include campus facilities and resources; policies, procedures and programs; study skills; and life management issues such as health, self-esteem, motivation, goal-setting, diversity and communication. Upon completion, students should be able to function effectively within the 0college environment to meet their educational objectives.",
+      "institution": "Forsyth Technical Community College"
+    },
+    {
+      "course_id": "ACA 115",
+      "course_title": "Success & Study Skills",
+      "credits": "3.00",
+      "description": "Prerequisites: None Corequisites: None Effective Term: 1997*02 This course provides an orientation to the campus resources and academic skills necessary to achieve educational objectives. Emphasis is placed on an exploration of facilities and services, study skills, library skills, self-assessment, wellness, goal-setting, and critical thinking. Upon completion, students should be able to manage their learning experiences to successfully meet educational goals.",
+      "institution": "Forsyth Technical Community College"
+    },
+    {
+      "course_id": "ACA 118",
+      "course_title": "College Study Skills",
+      "credits": "3.00",
+      "description": "Prerequisites: None Corequisites: None Effective Term: 1997*02 This course covers skills and strategies designed to improve study behaviors. Topics include time management, note taking, test taking, memory techniques, active reading strategies, critical thinking, communication skills, learning styles and other strategies for effective learning. Upon completion, students should be able to apply appropriate study strategies and techniques to the development of an effective study plan.",
+      "institution": "Forsyth Technical Community College"
+    },
+    {
+      "course_id": "ACA 122",
+      "course_title": "College Transfer Success",
+      "credits": "3.00",
+      "description": "Prerequisites: None Corequisites: None Effective Term: 2008*01 This course provides information and strategies necessary to develop clear academic and professional goals beyond the community college experience. Topics include the CAA, college culture, career exploration, gathering information on senior institutions, strategic planning, critical thinking, and communications skills for a successful academic transition. Upon completion, students should be able to develop an academic plan to transition successfully to senior institutions. This course has been approved to satisfy the Comprehensive Articulation Agreement for transferability as a pre-major and/or elective course requirement.",
+      "institution": "Forsyth Technical Community College"
+    },
+    {
+      "course_id": "ACA 220",
+      "course_title": "Professional Transition",
+      "credits": "3.00",
+      "description": "Prerequisites: None Corequisites: None Effective Term: 1997*02 This course provides preparation for meeting the demands of employment or education beyond the community college experience. Emphasis is placed on strategic planning, gathering information on workplaces or colleges and developing human interaction skills for professional, academic and/or community life. Upon completion, students should be able to successfully make the transition to appropriate workplaces or senior institutions.",
+      "institution": "Forsyth Technical Community College"
+    },
+    {
+      "course_id": "ACC 111",
+      "course_title": "Financial Accounting",
+      "credits": "3.00",
+      "description": "Prerequisites: None Corequisites: None Effective Term: 1997*02 This course introduces the basic framework of accounting. Emphasis is placed on the accounting cycle and financial statement preparation and analysis. Upon completion, students should be able to demonstrate an understanding of the principles involved and display an analytical problem-solving ability for the topics covered.",
+      "institution": "Forsyth Technical Community College"
+    },
+    {
+      "course_id": "ACC 120",
+      "course_title": "Prin of Financial Acct",
+      "credits": "3.00",
+      "description": "Prerequisites: RED 090 Corequisites: None Effective Term: 2003*03 This course introduces business decision-making accounting information systems. Emphasis is placed on analyzing, summarizing, reporting and interpreting financial information. Upon completion, students should be able to prepare financial statements, understand the role of financial information in decision-making and address ethical considerations. This course has been approved to satisfy the Comprehensive Articulation Agreement pre-major and/or elective course requirement.",
+      "institution": "Forsyth Technical Community College"
+    },
+    {
+      "course_id": "ACC 121",
+      "course_title": "Prin of Managerial Acct",
+      "credits": "3.00",
+      "description": "Prerequisites: ACC 120 Corequisites: None Effective Term: 2003*03 This course includes a greater emphasis on managerial and cost accounting skills. Emphasis is placed on managerial accounting concepts for external and internal analysis, reporting and decision-making. Upon completion, students should be able to analyze and interpret transactions relating to managerial concepts including product-costing systems. This course has been approved to satisfy the Comprehensive Articulation Agreement pre-major and/or elective course requirement.",
+      "institution": "Forsyth Technical Community College"
+    }
+  ],
+  "timestamp": "2025-08-10T22:42:02.300827"
+}

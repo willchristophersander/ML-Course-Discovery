@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "King's College",
+    "successful_variation": "King's College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=King's+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACCT 115L",
+      "course_title": "Financial Accounting II Lab",
+      "credits": "1.00",
+      "description": "This course requires students to complete the accounting cycle and prepare solutions to accounting problems utilizing computer applications. A practice set and general ledger and/or spreadsheet computerized accounting are required. Prerequisite: MSB 110. One hour lab per week in addition to the class time required in ACCT 115.",
+      "institution": "King's College"
+    },
+    {
+      "course_id": "ACCT 210",
+      "course_title": "Fraud Exam I: Forensic/Invest",
+      "credits": "3.00",
+      "description": "Topics include discussion of criminal statues related to fi nancial crimes, techniques used in solving fi nancial crimes, interviewing, rules of evidence, sources of information, forensic accounting procedures, and current issues in fi nancial investigations. Practical exercises involving interviewing techniques and methodS of proof used in resolving a fi nancial crime will be included to facilitate the understanding of the topics discussed. Prerequisite: MSB 110.",
+      "institution": "King's College"
+    },
+    {
+      "course_id": "ACCT 211",
+      "course_title": "Fraud Exam II Forrnsic/Investi",
+      "credits": "3.00",
+      "description": "Topics include discussion of laws related to financial crimes, techniques used in solving fi nancial crimes, a review of interviewing, rules of evidence, sources of information, forensic accounting procedures, including a discussion of electronic crimes and the cybercriminal. Also included are special techniques used in litigation support including the computation of monetary damages and business valuations. A practical exercise involving business valuations will be included to facilitate the understanding of the topics discussed. Prerequisite: MBS 110.",
+      "institution": "King's College"
+    },
+    {
+      "course_id": "ACCT 230",
+      "course_title": "Tax Accounting",
+      "credits": "3.00",
+      "description": "Taxes and their impact on decision-making. Tax principles will be applied to cases involving individuals, corporations, and partnerships. Prerequisite: MSB 120.",
+      "institution": "King's College"
+    },
+    {
+      "course_id": "ACCT 240",
+      "course_title": "Intermediate Accounting I",
+      "credits": "3.00",
+      "description": "Further develops the accounting cycle; recording, summarizing, interpreting financial data for partnerships and corporations, including cash flows, long-term liabilities, plant assets, and payroll accounting. Course also presents the conceptual framework of accounting, accounting environment, information systems, and the presentation of formal financial statements. Prerequisite: MSB 110. Students must achieve a grade of C or better in MSB 110 in order to register for this course. Students must also register for ACCT 240L - Financial Accounting II Lab.",
+      "institution": "King's College"
+    },
+    {
+      "course_id": "ACCT 240L",
+      "course_title": "Intermediate Accounting I Lab",
+      "credits": "1.00",
+      "description": "This course requires students to complete the accounting cycle and prepare solutions to accounting problems utilizing computer applications. A practice set and general ledger and/or spreadsheet computerized accounting are required. Prerequisite: MSB 110. One hour lab per week in addition to the class time required in ACCT 240.",
+      "institution": "King's College"
+    },
+    {
+      "course_id": "ACCT 301",
+      "course_title": "Intermediate Accounting II",
+      "credits": "3.00",
+      "description": "The first upper-level course in a comprehensive sequence in financial accounting with an emphasis upon the study of the generally accepted accounting principles underlying financial statements. These topics are discussed in the context of professional standards, ethical values, and fundamental accounting concepts. A thorough study of the balance sheet components, such as cash, receivables, inventories, operational assets and liabilities, and stockholder's equity. In addition, concepts fundamental to accounting are analyzed, with special attention given to revenue recognition. Prerequisites: ACCT 240, ACCT 240L, and MSB 110 (A student must have earned a minimum 2.0 G.P.A. in each of these courses).",
+      "institution": "King's College"
+    },
+    {
+      "course_id": "ACCT 302",
+      "course_title": "Intermediate Accounting III",
+      "credits": "3.00",
+      "description": "Focus on the formation and financial operations of the corporation. Debt and shareholder equity transactions such as those encompassing investments in securities, leases, derivatives, deferred income taxes, pension plans, and foreign currency translation are examined in detail. The reporting function of the corporation as interim and segment reports are reviewed. Prerequisite: ACCT 301.",
+      "institution": "King's College"
+    },
+    {
+      "course_id": "ACCT 310",
+      "course_title": "Advanced Accounting",
+      "credits": "3.00",
+      "description": "Topics include accounting for partnerships, business combinations, non-profit and governmental organizations. In addition, accounting ethics and professional responsibility will be explored within (but not limited to) the previous mentioned advanced topics. Prerequisite: ACCT 301.",
+      "institution": "King's College"
+    },
+    {
+      "course_id": "ACCT 340",
+      "course_title": "Advanced Managerial Accounting",
+      "credits": "3.00",
+      "description": "A study of the broad range of cost and advanced managerial accounting concepts. Topics include the measurement and accumulations of costs, including direct and indirect costs, costs allocation procedures, cost volume relationships, and the application of overhead. The controls in applying cost accounting to the design of the information system, inclusive of the fl exible budgets, responsibility accounting, profi t center analysis and standard costs will be studied. How cost accounting assists in decision making,planning for capital budgeting, inventory and data analytics planning will be considered. Prerequisites: MSB 110 and 120.",
+      "institution": "King's College"
+    }
+  ],
+  "timestamp": "2025-08-10T14:36:38.219522"
+}

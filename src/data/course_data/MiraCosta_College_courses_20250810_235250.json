@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "MiraCosta College",
+    "successful_variation": "MiraCosta College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=MiraCosta+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACCT 101",
+      "course_title": "Practical Accounting",
+      "credits": "4.00",
+      "description": "Prerequisites: None Lecture 4 hours. (0502.00) Directed toward students preparing for ACCT 201 and the bookkeeping and accounting certificates, this course covers record keeping for sole proprietorships in service and trade businesses, including worksheets, adjusting and closing journal entries, payroll, cash reconciliation, and preparation of financial statements. Practical problems are stressed, and students are required to complete an accounting practice set for a company. Formerly BUS 101.",
+      "institution": "MiraCosta College"
+    },
+    {
+      "course_id": "ACCT 145",
+      "course_title": "Individual Income Tax",
+      "credits": "4.00",
+      "description": "Prerequisites: None Lecture 4 hours. (0502.10) Tax planning and preparation topics include filing status, exemptions, income and exclusions, business expenses, itemized deductions, credits, capital gains, depreciation, tax payments, California tax, IRS and FTB, and audits. ACCT 145 is a CTEC-approved course which fulfills the 60-hour \"qualifying education\" requirement for taxpreparers. Formerly BUS 145.",
+      "institution": "MiraCosta College"
+    },
+    {
+      "course_id": "ACCT 148",
+      "course_title": "Computer Accounting",
+      "credits": "3.00",
+      "description": "Prerequisites: None Advisory: ACCT 101, ACCT 201, or equivalent. Lecture 3 hours. (0502.00) The course is designed to instruct the student in the execution of accounting computer programs used by commercial business enterprises. A popular small business accounting software will be the basis of instruction on a personal computer. The full accounting cycle and payroll will be covered. The objective is to provide the student with a complete guide to creating and maintaining a proper accounting system on a computer. No prior computer knowledge or experience is required. Formerly BUS 148.",
+      "institution": "MiraCosta College"
+    },
+    {
+      "course_id": "ACCT 158",
+      "course_title": "Business Mathematics",
+      "credits": "3.00",
+      "description": "Prerequisites: None Lecture 3 hours. (0502.00) Designed to meet the needs of business students who wish to gain proficiency in mathematical applications in the business world. Preparation for the study of accounting. Preparation for pre-employment mathematics tests common to office employment. Applications include trade and cash discounts, markup, depreciation, property tax, interest, and payrolls. Focuses on solving word problems in an accounting and business context. Includes many accounting terms. Formerly BUS 158.",
+      "institution": "MiraCosta College"
+    },
+    {
+      "course_id": "ACCT 201",
+      "course_title": "Financial Accounting",
+      "credits": "4.00",
+      "description": "Prerequisites: None Advisory: ACCT 101 recommended. Acceptable for Credit: CSU, UC Lecture 4 hours. (0502.00) Explores what financial accounting is, why it is important, and how it is used by investors and creditors to make decisions. Covers the accounting information system and the recording and reporting of business transactions with a focus on the accounting cycle, the application of generally accepted accounting principles, the classified financial statements, and statement analysis. Includes issues relating to asset, liability, and equity valuation, revenue and expense recognition, cash flow, internal controls and ethics. This is a transfer-level course for Business and Accounting majors and a requirement for the Accounting and Bookkeeping certificates. (CAN BUS2) (ACCT 201 + ACCT 202 = CAN BUS SEQ A)",
+      "institution": "MiraCosta College"
+    },
+    {
+      "course_id": "ACCT 202",
+      "course_title": "Managerial Accounting",
+      "credits": "4.00",
+      "description": "Prerequisite: ACCT 201. Acceptable for Credit: CSU, UC Lecture 4 hours. (0502.00) Examination of how managers use accounting information in decision-making, planning, directing operations, and controlling. Focus on cost terms and concepts, cost behavior, cost structure, and cost-volume-profit analysis. Examination of profit planning, standard costs, operations and capital budgeting, cost control, and accounting for costs in manufacturing organizations. This is a transfer- level course for Business and Accounting majors and a requirement for the Accounting certificate. (CAN BUS4) (ACCT 201 + ACCT 202 = CAN BUS SEQ A)",
+      "institution": "MiraCosta College"
+    },
+    {
+      "course_id": "ACCT 299",
+      "course_title": "Cooperative Work Experience- Occupational",
+      "credits": "4.00",
+      "description": "Prerequisites: None Corequisites: Students must be employed in a position directly related to their declared major and must complete 75 hours of paid work or 60 hours of non-paid work per unit of credit. Work experience. (0502.00) For students whose work is directly related to their major. To participate in occupational cooperative work experience education, students must be employed in a position directed related to their declared major and undertake new or expanded responsibilities at their work site. Students must develop one learning objective for each unit of credit in which they enroll and they must complete 76 hours of paid work or 60 hours of non-paid work per unit of credit. A maximum of four units of occupational work experience may be earned each semester. A combined maximum of 16 units of occupational and general work experience may be earned during community college attendance and applied as electives toward graduation. Students may receive G.I. Bill benefits for work experience only if required for their specific program. (May be repeated three times.)",
+      "institution": "MiraCosta College"
+    },
+    {
+      "course_id": "ADM 100",
+      "course_title": "Introduction to the Administration of Justice",
+      "credits": "3.00",
+      "description": "Prerequisites: None Acceptable for Credit: CSU, UC Credit limitation Lecture 3 hours. (2105.00) This course explores the roots of our current justice system and the interaction of its various sub-systems (law enforcement/prosecution, judicial, and corrections). Emphasized is the organizational structure and legal consideration relevant to each. Topics include the origin of law, theories of crime causation, an overview of criminal procedure and a discussion of sentencing philosophies and alternatives. The student is also introduced to the research methodology and sources of information/statistics relevant to the discipline. (CAN AJ2)",
+      "institution": "MiraCosta College"
+    },
+    {
+      "course_id": "ADM 105",
+      "course_title": "Introduction to Justice Studies",
+      "credits": "3.00",
+      "description": "Prerequisites: None Acceptable for Credit: CSU, UC Credit limitation Lecture 3 hours. (2105.00) An introduction to the interdisciplinary field of justice studies. Explores social, economic, and criminal justice issues by means of sociological, philosophical, and legal perspectives and methodologies. Students will critically assess the obstacles and opportunities central to the pursuit of justice in the United States and abroad. Topics of analysis may include formal legal systems, institutionalization of injustice, environmental justice, and genocide. Not open to students with credit in ADM 105/SOC 105.",
+      "institution": "MiraCosta College"
+    },
+    {
+      "course_id": "ADM 106",
+      "course_title": "Introduction to Terrorism and Homeland Security",
+      "credits": "3.00",
+      "description": "Prerequisites: None Lecture 3 hours. (2105.00) The course provides an introduction to terrorism around the world, to include its historical development from state sponsorship to a mode of conflict employed by subnational groups. Various theories of conflict and behavior will be explored. Emphasis will be placed on both international and domestic groups that impact the U.S., to include their histories, ideologies, motivation, funding, and operational methods. Current threats to the U.S. will be assessed especially as they relate to the use of weapons of mass destruction, suicide/homicide bombings, and cyber terrorism. The U.S. military, intelligence, and law enforcement responses to the current threat will be examined in terms of their effectiveness and the impact they have had on civil liberties, human rights issues, and homeland security.",
+      "institution": "MiraCosta College"
+    }
+  ],
+  "timestamp": "2025-08-10T23:52:50.900352"
+}

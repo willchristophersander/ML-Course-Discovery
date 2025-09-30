@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Grambling State University",
+    "successful_variation": "Grambling State University",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Grambling+State+University&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACCT 201",
+      "course_title": "Financial Accounting Principles and Concepts",
+      "credits": "3.00",
+      "description": "Provides a conceptual approach to the understanding of financial accounting systems for business enterprises and the significance of accounting information as presented on financial statements.",
+      "institution": "Grambling State University"
+    },
+    {
+      "course_id": "ACCT 202",
+      "course_title": "Managerial Accounting",
+      "credits": "3.00",
+      "description": "This course is a study of the use of accounting information in the decision making processes of management with particular emphasis on concepts that support the analysis and interpretation of the effects of financial information on management decisions relating to planning and control. Prerequisite: ACCT 201",
+      "institution": "Grambling State University"
+    },
+    {
+      "course_id": "ACCT 303",
+      "course_title": "Federal Income Tax Accounting",
+      "credits": "3.00",
+      "description": "Studies the federal income tax laws, rules, and regulations related to the determination of individual taxable income and tax liability. Prerequisite: ACCT 201.",
+      "institution": "Grambling State University"
+    },
+    {
+      "course_id": "ACCT 304",
+      "course_title": "Advanced Federal Income Tax Accounting",
+      "credits": "3.00",
+      "description": "Studies the federal income tax laws related to the determination of taxable income and tax liability of partnerships, corporations, estates, and trusts. Prerequisite: ACCT 303.",
+      "institution": "Grambling State University"
+    },
+    {
+      "course_id": "ACCT 305",
+      "course_title": "Cost Accounting",
+      "credits": "3.00",
+      "description": "Studies the concepts, principles, and procedures relative to cost accumulation, product costing, inventory management, relevant costing, and ethical decision making. Prerequisite: ACCT 202.",
+      "institution": "Grambling State University"
+    },
+    {
+      "course_id": "ACCT 311",
+      "course_title": "Intermediate Accounting I",
+      "credits": "3.00",
+      "description": "Examines the concepts, principles, and procedures related to the accounting process, preparation of financial statements, and the recognition, valuation and disclosure of assets. Prerequisite: ACCT 202.",
+      "institution": "Grambling State University"
+    },
+    {
+      "course_id": "ACCT 312",
+      "course_title": "Intermediate Accounting II",
+      "credits": "3.00",
+      "description": "Focuses on the concepts, principles, and procedures related to the recognition, valuation, and disclosure of current and long term liabilities and stockholders equity. Prerequisite: ACCT 311.",
+      "institution": "Grambling State University"
+    },
+    {
+      "course_id": "ACCT 313",
+      "course_title": "Intermediate Accounting III",
+      "credits": "3.00",
+      "description": "Studies the concepts, principles, and procedures related to revenue recognition, pensions, leases, cash flow and financial statement analysis. Prerequisite: ACCT 312.",
+      "institution": "Grambling State University"
+    },
+    {
+      "course_id": "ACCT 320",
+      "course_title": "Computerized Accounting Systems",
+      "credits": "3.00",
+      "description": "Examines the design of information systems for transaction processing, the related internal controls, and the preparation of management reports and financial statements in a computerized environment. Prerequisites: ACCT 311 and CIS 115.",
+      "institution": "Grambling State University"
+    },
+    {
+      "course_id": "ACCT 400",
+      "course_title": "Auditing",
+      "credits": "3.00",
+      "description": "Focuses on the concepts, philosophy and environment of auditing including an overview of the public accounting profession, auditing standards, professional ethics, legal liability, internal control, the nature of evidence, statistical sampling, and planning an audit. Prerequisite: ACCT 312.",
+      "institution": "Grambling State University"
+    }
+  ],
+  "timestamp": "2025-08-09T23:36:26.795120"
+}

@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Fort Peck Community College",
+    "successful_variation": "Fort Peck Community College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Fort+Peck+Community+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "AIS 112",
+      "course_title": "American Indian Art",
+      "credits": "3.00",
+      "description": "3 credits Students will study the nature and expression of American Indian aesthetics both before and after European contact. In addition to painting, drawing, and 3-dimensional works, students will examine architecture (e.g., teepees, medicine wheels, mound building), regalia, music, dance, drama, photography, and literature. A final project is required such as the student's own artwork, contribution to a performance or an oral or written presentation based on the student's research. Spring.",
+      "institution": "Fort Peck Community College"
+    },
+    {
+      "course_id": "AIS 115",
+      "course_title": "Fort Peck Tribal Codes I",
+      "credits": "3.00",
+      "description": "3 credits This course introduces students to the Fort Peck Tribal Comprehensive Code of Justice (CCJC) - the Tribes' statutory laws. Students will learn the basic legislative history regarding the CCJ, as well as the Federal and Tribal legal principles associated with the development, application, and impact of the CCJ upon Reservation society. In this section, students will study CCJ Titles I-X as well as the Tribal Court Rules of Civil and Criminal Procedure. The study of the Tribal Constitution and By-laws are also included. Fall.",
+      "institution": "Fort Peck Community College"
+    },
+    {
+      "course_id": "AIS 116",
+      "course_title": "Fort Peck Tribal Codes II",
+      "credits": "3.00",
+      "description": "3 credits This course is the sequential course regarding the study of the Tribes' Comprehensive Code of Justice (CCJ). Students will study CCJ Titles IX as well as the Tribal Court Rules of Civil and Criminal Procedure. The study of the Tribes' Constitution and By-laws are also included. Prerequisite: AIS 115. Spring.",
+      "institution": "Fort Peck Community College"
+    },
+    {
+      "course_id": "AIS 121",
+      "course_title": "Introduction to Nakona Language",
+      "credits": "3.00",
+      "description": "3 credits This introductory language course is designed for students with little or no Nakona (Assiniboine) speaking ability. The course will emphasize classroom pronunciation drills, basic sentence structure, vocabulary acquisition, and grammatical usage to develop proficiency in the Nakona language. Cultural and historical information of the Nakona people is included. Fall.",
+      "institution": "Fort Peck Community College"
+    },
+    {
+      "course_id": "AIS 122",
+      "course_title": "Advanced Nakona Language",
+      "credits": "3.00",
+      "description": "3 credits This second course builds upon the language introduced in AIS 121. Students will advance their proficiency in speaking the Nakona language. A project or presentation demonstrating speaking proficiency will be required. Prerequisite: AIS 121 or demonstrated mastery of the language content covered in AIS 121. Spring. 117",
+      "institution": "Fort Peck Community College"
+    },
+    {
+      "course_id": "AIS 131",
+      "course_title": "Introduction to Dakota Language",
+      "credits": "3.00",
+      "description": "3 credits This course introduces the student to the Dakota (Sioux) language. It is designed for students with little or no Dakota speaking ability. The course will emphasize classroom pronunciation drills, basic sentence structure, vocabulary acquisition, and grammatical usage to develop proficiency in the Dakota language. Cultural and historical information of the Dakota people are included. Fall.",
+      "institution": "Fort Peck Community College"
+    },
+    {
+      "course_id": "AIS 132",
+      "course_title": "Advanced Dakota Language",
+      "credits": "3.00",
+      "description": "3 credits This second course builds upon the language introduced in AIS 131. Students will advance proficiency in speaking the Dakota language. A project or presentation demonstrating speaking proficiency will be required. Prerequisite: AIS 131 or demonstrated mastery of the language content covered in AIS 131. Spring",
+      "institution": "Fort Peck Community College"
+    },
+    {
+      "course_id": "AIS 140",
+      "course_title": "American Indians in Montana",
+      "credits": "3.00",
+      "description": "3 credits This course will examine those Native people who have lived and presently reside within the boundaries of Montana. Topics will include tribal movements, inter-tribal relations, life ways, contact, the establishment of reservations, and other information. Spring.",
+      "institution": "Fort Peck Community College"
+    },
+    {
+      "course_id": "AIS 150",
+      "course_title": "History and Culture of the Fort Peck Assiniboine",
+      "credits": "3.00",
+      "description": "3 credits This course will trace the history of the Assiniboine tribe with an emphasis on the bands that reside on the Fort Peck reservation. This historical account will include their origin, migration, residence in northeastern Montana, experiences on the reservation, and genealogical information on families. In addition, students will be introduced to the cultural traits of the Assiniboine including traditional political organization, social structure, economic enterprises, and belief system. Fall.",
+      "institution": "Fort Peck Community College"
+    },
+    {
+      "course_id": "AIS 160",
+      "course_title": "History and Culture of the Fort Peck Sioux",
+      "credits": "3.00",
+      "description": "3 credits This course will trace the history of the Sioux tribe with an emphasis on the bands that reside on the Fort Peck reservation. This historical account will include their origin, migration, residence in northeastern Montana, experiences on the reservation, and genealogical information on families. In addition, students will be introduced to the cultural traits of the Sioux including traditional political organization, social structure, economic enterprises, and belief system. Spring.",
+      "institution": "Fort Peck Community College"
+    }
+  ],
+  "timestamp": "2025-08-11T00:16:48.372516"
+}

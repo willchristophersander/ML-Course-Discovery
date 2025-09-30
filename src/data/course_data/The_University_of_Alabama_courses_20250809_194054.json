@@ -1,0 +1,74 @@
+{
+  "search_query": {
+    "institution": "The University of Alabama",
+    "successful_variation": "The University of Alabama",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=The+University+of+Alabama&distance=5"
+  },
+  "total_results": 9,
+  "courses": [
+    {
+      "course_id": "AAST 201",
+      "course_title": "Introduction to African American Studies",
+      "credits": "3.00",
+      "description": "3 hours. A basic outline of the diversity and complexity of the African American experience in the United States: the early academic and social concerns of Black Studies advocates; the changes in the field's objectives that arise from its connections to contemporary social movements for Black Power, women's liberation, and multiculturalism; and its major theoretical and critical debates.",
+      "institution": "The University of Alabama"
+    },
+    {
+      "course_id": "AAST 202",
+      "course_title": "African American Lives",
+      "credits": "3.00",
+      "description": "3 hours. A cultural approach to African American lives, exploring the role of the individual, biography, and narrative in African American history and culture.",
+      "institution": "The University of Alabama"
+    },
+    {
+      "course_id": "AAST 249",
+      "course_title": "African American Literature",
+      "credits": "3.00",
+      "description": "3 hours. Survey of African American literature from its earliest expressions to the present. In order to identify the aesthetics of the African American literary tradition, the course material includes spirituals, slave narratives, poetry, drama, autobiography, fiction, and nonfiction.",
+      "institution": "The University of Alabama"
+    },
+    {
+      "course_id": "AAST 301",
+      "course_title": "African American Experience",
+      "credits": "3.00",
+      "description": "3 hours. An interdisciplinary investigation of the complexities of the African American experience in American culture. The course explores important comparative questions about race and gender relations, the American education system, and the human condition.",
+      "institution": "The University of Alabama"
+    },
+    {
+      "course_id": "AAST 302",
+      "course_title": "The Black Church",
+      "credits": "3.00",
+      "description": "3 hours. A survey of mainstream Christian expressions of black spirituality as well as other forms of sacred collective consciousness. Study of local churches and theology is encouraged.",
+      "institution": "The University of Alabama"
+    },
+    {
+      "course_id": "AAST 303",
+      "course_title": "Education of Southern Blacks",
+      "credits": "3.00",
+      "description": "3 hours. A study of the \"miseducation\" of Africans in America. The course explores education for blacks from West Africa at the middle of the second millennium and early American society to the emergence of the separate school system of the 19th and 20th centuries.",
+      "institution": "The University of Alabama"
+    },
+    {
+      "course_id": "AAST 319",
+      "course_title": "Nineteenth-Century Black History",
+      "credits": "3.00",
+      "description": "3 hours. Role of black Americans in American life from the 17th century to the beginning of the 20th century, with emphasis on the institutions and events of the 1800s.",
+      "institution": "The University of Alabama"
+    },
+    {
+      "course_id": "AAST 320",
+      "course_title": "Twentieth-Century Black History",
+      "credits": "3.00",
+      "description": "3 hours. The interrelationship of blacks and the industrial-urban environment of the United States.",
+      "institution": "The University of Alabama"
+    },
+    {
+      "course_id": "AAST 340",
+      "course_title": "Women in the South",
+      "credits": "3.00",
+      "description": "3 hours. Examination of the cultural concepts, myths, and experiences of black and white Southern women from a variety of economic and social backgrounds. Special attention is given to the interaction of race, class, and gender in Southern women's lives. Texts include historical studies, autobiographies, biographies, oral histories, and novels written by and about women in the 19th- and 20th-century South.",
+      "institution": "The University of Alabama"
+    }
+  ],
+  "timestamp": "2025-08-09T19:40:54.957579"
+}

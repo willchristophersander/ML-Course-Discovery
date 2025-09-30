@@ -1,0 +1,116 @@
+{
+  "timestamp": "2025-08-09T19:42:15.550433",
+  "analysis": {
+    "total_universities": 5,
+    "discovery_success_rate": 0.8,
+    "avg_discovery_confidence": 0.76625,
+    "validation_success_rate": 0.4,
+    "avg_validation_confidence": 0.30000000000000004,
+    "course_finding_rate": 0.6,
+    "avg_discovery_time": 12.35830225944519,
+    "avg_validation_time": 1.857248640060425,
+    "successful_discoveries": [
+      {
+        "university": "The University of Alabama",
+        "url": "https://registrar.ua.edu/student-services/schedule-of-classes/",
+        "discovery_confidence": 0.765,
+        "validation_confidence": 0.4,
+        "courses_found": "3/5"
+      },
+      {
+        "university": "Little Priest Tribal College",
+        "url": "https://www.littlepriest.edu/course-catalog-schedule/",
+        "discovery_confidence": 0.79,
+        "validation_confidence": 0.0,
+        "courses_found": "0/0"
+      },
+      {
+        "university": "Metropolitan Community College (MO)",
+        "url": "https://mcckc.edu/programs/education-teaching/index.aspx",
+        "discovery_confidence": 0.575,
+        "validation_confidence": 0.0,
+        "courses_found": "0/0"
+      },
+      {
+        "university": "Colorado Technical University",
+        "url": "https://classes.colorado.edu/",
+        "discovery_confidence": 0.935,
+        "validation_confidence": 0.2,
+        "courses_found": "3/5"
+      }
+    ],
+    "failed_discoveries": [
+      {
+        "university": "Vanderbilt University",
+        "error": "Could not find course search page after navigation"
+      }
+    ]
+  },
+  "detailed_results": [
+    {
+      "university_name": "The University of Alabama",
+      "discovered_url": "https://registrar.ua.edu/student-services/schedule-of-classes/",
+      "discovery_success": true,
+      "discovery_confidence": 0.765,
+      "validation_success": true,
+      "validation_confidence": 0.4,
+      "test_courses_found": 3,
+      "total_test_courses": 5,
+      "error_message": null,
+      "discovery_time": 7.906117916107178,
+      "validation_time": 2.308642864227295
+    },
+    {
+      "university_name": "Little Priest Tribal College",
+      "discovered_url": "https://www.littlepriest.edu/course-catalog-schedule/",
+      "discovery_success": true,
+      "discovery_confidence": 0.79,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No test courses found in CollegeTransfer.net",
+      "discovery_time": 6.660772085189819,
+      "validation_time": 2.400139093399048
+    },
+    {
+      "university_name": "Metropolitan Community College (MO)",
+      "discovered_url": "https://mcckc.edu/programs/education-teaching/index.aspx",
+      "discovery_success": true,
+      "discovery_confidence": 0.575,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No test courses found in CollegeTransfer.net",
+      "discovery_time": 11.367871284484863,
+      "validation_time": 2.245361328125
+    },
+    {
+      "university_name": "Vanderbilt University",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "Could not find course search page after navigation",
+      "discovery_time": 7.348006963729858,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "Colorado Technical University",
+      "discovered_url": "https://classes.colorado.edu/",
+      "discovery_success": true,
+      "discovery_confidence": 0.935,
+      "validation_success": true,
+      "validation_confidence": 0.2,
+      "test_courses_found": 3,
+      "total_test_courses": 5,
+      "error_message": null,
+      "discovery_time": 28.508743047714233,
+      "validation_time": 2.3320999145507812
+    }
+  ]
+}

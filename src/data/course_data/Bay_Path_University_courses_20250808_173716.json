@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Bay Path University",
+    "successful_variation": "Bay Path University",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Bay+Path+University&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACC 211",
+      "course_title": "Principles of Accounting I",
+      "credits": "3.00",
+      "description": "Accounting 3 Credits This course provides an introduction to financial accounting including basic concepts, principles and procedures. Students learn the nature of accounts and their classification, the accounting cycle, and preparation of financial statements for both service and merchandising companies as well as the design of accounting systems including the use of special journals and ledgers, and accounting for cash, receivables, inventories, fixed and intangible assets and current liabilities with an emphasis on the analysis and interpretation of each component. Offered Fall",
+      "institution": "Bay Path University"
+    },
+    {
+      "course_id": "ACC 212",
+      "course_title": "Principles of Accounting II",
+      "credits": "3.00",
+      "description": "Accounting 3 Credits This course continues the introduction of basic concepts and principles as well as accounting for partnerships, limited liability companies and corporations. Students learn to account for transactions involving stocks, bonds and investments, and prepare the statement of cash flows. The analysis and interpretation of financial statements and corporate annual reports is emphasized. Students are also introduced to managerial accounting and accounting for manufacturing businesses. Requirements and Prerequsites ACC 211",
+      "institution": "Bay Path University"
+    },
+    {
+      "course_id": "ACC 311",
+      "course_title": "Intermediate Accounting I",
+      "credits": "3.00",
+      "description": "Accounting 3 Credits This course continues to develop accounting theory on a more comprehensive level. Topics include a review of the accounting process and basic accounting concepts as well as in depth coverage of the elements of financial reporting including financial statement disclosures and special considerations and valuation issues related to cash, receivables, revenue recognition, inventory, fixed assets, and intangibles. The use of present value techniques in the determination of accounting valuations is also covered. Requirements and Prerequsites ACC 212 Offered Fall Spring",
+      "institution": "Bay Path University"
+    },
+    {
+      "course_id": "ACC 312",
+      "course_title": "Intermediate Accounting II",
+      "credits": "3.00",
+      "description": "Accounting 3 Credits This course provides further in depth coverage of reporting and valuation issues as they relate to investments, current liabilities, long-term debt and earnings per share. Topics also include accounting for leases, income taxes, derivatives, accounting changes, employee compensation, the statement of cash flows and financial statement analysis. Requirements and Prerequsites ACC 311 Offered Fall Spring",
+      "institution": "Bay Path University"
+    },
+    {
+      "course_id": "ACC 321",
+      "course_title": "Managerial Accounting",
+      "credits": "3.00",
+      "description": "Accounting 3 Credits This course introduces students to the preparation and interpretation of financial information for internal management purposes for use in planning, controlling and making decisions. Topics include cost-volume-profit analysis, operational budgeting, responsibility accounting, differential cost analysis, cost allocation, capital investment decisions and performance evaluation. Requirements and Prerequsites ACC 212 Offered Fall Spring",
+      "institution": "Bay Path University"
+    },
+    {
+      "course_id": "ACC 322",
+      "course_title": "Cost Accounting",
+      "credits": "3.00",
+      "description": "Accounting 3 Credits This course provides comprehensive coverage of cost accounting principles and the use of data for management decision making and cost determination purposes for both products and services. Topics include standard, relevant and activity based costing, job order and process cost systems, special production issues, cost allocation for joint products and by-products and the master budget. Requirements and Prerequsites ACC 321 Offered Fall Spring",
+      "institution": "Bay Path University"
+    },
+    {
+      "course_id": "ACC 340",
+      "course_title": "Accounting Information Systems",
+      "credits": "3.00",
+      "description": "Accounting 3 Credits This course introduces the student to the accounting information system and its relationship to management information and electronic commerce systems. Students will develop an understanding of database management systems, the systems development lifecycle, documentation, internal controls, transaction cycles and business processes. Legislation affecting information technology will also be discussed. Requirements and Prerequsites ACC 212 Offered Fall Spring",
+      "institution": "Bay Path University"
+    },
+    {
+      "course_id": "ACC 402",
+      "course_title": "Federal Income Taxation I",
+      "credits": "3.00",
+      "description": "Accounting 3 Credits This course introduces the student to the fundamental concepts of Federal Income Tax Law with an emphasis on individuals. Topics include determination of gross income, deductions and losses, tax credits, basis considerations, capital gains and nontaxable exchanges. Students will be exposed to the various tax forms used in the preparation of personal income tax returns. Requirements and Prerequsites ACC 312 Offered Fall Spring",
+      "institution": "Bay Path University"
+    },
+    {
+      "course_id": "ACC 403",
+      "course_title": "Federal Income Taxation II",
+      "credits": "3.00",
+      "description": "Accounting 3 Credits This course continues the study of the fundamental concepts of Federal Income Tax Law with an emphasis on business organizations. Topics include alternative minimum tax, C corporations, partnerships, S corporations, gift and estate taxes, trusts and taxation of international transactions. Requirements and Prerequsites ACC 402 Offered Fall Spring",
+      "institution": "Bay Path University"
+    },
+    {
+      "course_id": "ACC 411",
+      "course_title": "Advanced Accounting I",
+      "credits": "3.00",
+      "description": "Accounting 3 Credits This course presents advanced accounting principles and theory related to more complex issues faced in financial accounting. Students are introduced to the theory and related challenges associated with combined corporate entities and consolidations and multinational accounting including foreign currency transactions and translation of foreign financial statements. Requirements and Prerequsites ACC 312 Offered Fall Spring",
+      "institution": "Bay Path University"
+    }
+  ],
+  "timestamp": "2025-08-08T17:37:16.189503"
+}

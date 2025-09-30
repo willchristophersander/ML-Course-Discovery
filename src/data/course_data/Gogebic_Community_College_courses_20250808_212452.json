@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Gogebic Community College",
+    "successful_variation": "Gogebic Community College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Gogebic+Community+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACC 160",
+      "course_title": "Payroll Tax Accounting",
+      "credits": "3.00",
+      "description": "A study of the methods of computing wages and salaries, keeping payroll records, and making government reports. Practice in completion of government forms and filing of periodic reports included. The primary content of this course is directly related to a Business Related occupational program. Prerequisite: ACC 150 or Equivalent",
+      "institution": "Gogebic Community College"
+    },
+    {
+      "course_id": "ACC 170",
+      "course_title": "Income Tax Accounting- Personal",
+      "credits": "3.00",
+      "description": "Federal and state (Michigan and Wisconsin) income tax for personal use. A non-technical coverage of information needed in preparing returns for individuals and sole proprietorships. Practice on completion of federal and state income tax forms included. The primary content of this course is directly related to a Business Related occupational program. Prerequisite: ACC 151 or Consent of Instructor",
+      "institution": "Gogebic Community College"
+    },
+    {
+      "course_id": "ACC 171",
+      "course_title": "Income Tax Accounting- Business",
+      "credits": "3.00",
+      "description": "Federal income tax theory for small businesses, partnerships, and corporations including special provisions and requirements. Practice in the completion of necessary forms will be included. The primary content of this course is directly related to a Business Related occupational program. Prerequisite: ACC 201 or ACC 151",
+      "institution": "Gogebic Community College"
+    },
+    {
+      "course_id": "ACC 201",
+      "course_title": "Principles of Accounting I",
+      "credits": "3.00",
+      "description": "An introduction to and development of the principles of financial accounting. This course is designed to fulfill the needs of college students planning a career in accounting, as well as those studying business administration, liberal arts, law, or other disciplines. Topics covered include: the accounting cycle, asset valuation, income determination, and financial reporting. The primary content of this course is directly related to a Business Related occupational program. Prerequisite: None",
+      "institution": "Gogebic Community College"
+    },
+    {
+      "course_id": "ACC 202",
+      "course_title": "Principles of Accounting II",
+      "credits": "3.00",
+      "description": "A continuation of the financial principles developed in Accounting 201 including partnerships, corporations, changes in financial position, and statement analysis. Introduction to managerial and cost accounting, budgeting, decision making, income tax, and costvolume- profit analysis. The primary content of this course is directly related to a Business Related occupational program. Prerequisite: ACC 201",
+      "institution": "Gogebic Community College"
+    },
+    {
+      "course_id": "ACC 205",
+      "course_title": "Computerized Accounting Systems",
+      "credits": "3.00",
+      "description": "This course uses computerized accounting practice sets and commercially available software to introduce accounting on the microcomputer. General ledger, accounting cycle, accounts payable, accounts receivable, and payroll applications are covered. Students will be responsible for additional assigned lab hours. The primary content of this course is directly related to a Business Related occupational program. Prerequisite: ACC 201",
+      "institution": "Gogebic Community College"
+    },
+    {
+      "course_id": "ACC 215",
+      "course_title": "Intermediate Accounting",
+      "credits": "3.00",
+      "description": "A course designed to follow the 201 and 202 accounting series. The course builds on previously learned accounting principles and stresses more complex applications of these principles. It covers specialized phases of accounting relating to inventories, taxes, depreciation and retirement of assets, accounting records, investments, and financial statements. The primary content of this course is directly related to a Business Related occupational program. Prerequisite: ACC 202",
+      "institution": "Gogebic Community College"
+    },
+    {
+      "course_id": "ACC 216",
+      "course_title": "Cost Accounting",
+      "credits": "3.00",
+      "description": "An introductory course in accounting principles for manufacturing enterprises. It includes accounting for materials, labor and overhead in job-order, process, standard, and direct costing systems. The course considers the application of costs to operations and to products. The primary content of this course is directly related to a Business Related occupational program. Prerequisite: ACC 202",
+      "institution": "Gogebic Community College"
+    },
+    {
+      "course_id": "AMD 101",
+      "course_title": "Introduction to Computer Aided Manufacturing",
+      "credits": "3.00",
+      "description": "Introduction to computers in industry and computer aided manufacturing. Includes history of computers in industry, terminology, processing cycles, and integration. Attention will be given to industrial CNC equipment and off-line programming using standard industry software. Students should be versatile in math and CAD. The primary content of this course is directly related to a Computer Aided Design Technology occupational program. Prerequisite: Intro to CAD Math 101T or Equiv.",
+      "institution": "Gogebic Community College"
+    },
+    {
+      "course_id": "ANT 105",
+      "course_title": "Introduction to Cultural Anthropology",
+      "credits": "3.00",
+      "description": "A study of what it means to be human. The course will examine principles of social organization and explore how languages affect cultural values. Applications of theory, together with ethnographic examples will provide students with an understanding of diverse world views and knowledge of contemporary issues in different societies. Topics such as sexuality and gender, marriage and family economics, religion, art, and politics will be investigated throughout the world. Prerequisite: None",
+      "institution": "Gogebic Community College"
+    }
+  ],
+  "timestamp": "2025-08-08T21:24:52.639158"
+}

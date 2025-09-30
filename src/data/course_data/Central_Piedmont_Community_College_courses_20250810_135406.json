@@ -1,0 +1,53 @@
+{
+  "search_query": {
+    "institution": "Central Piedmont Community College",
+    "successful_variation": "Central Piedmont Community College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Central+Piedmont+Community+College&distance=5"
+  },
+  "total_results": 6,
+  "courses": [
+    {
+      "course_id": "ACA 111",
+      "course_title": "College Student Success",
+      "credits": "1.00",
+      "description": "This course introduces the college's physical, academic, and social environment and promotes the personal development essential for success. Topics include campus facilities and resources; policies, procedures, and programs; study skills; and life management issues such as health, self-esteem, motivation, goal-setting, diversity, and communication. Upon completion, students should be able to function effectively within the college environment to meet their educational objectives.",
+      "institution": "Central Piedmont Community College"
+    },
+    {
+      "course_id": "ACA 118",
+      "course_title": "College Study Skills",
+      "credits": "2.00",
+      "description": "This course covers skills and strategies designed to improve study behaviors. Topics include time management, note taking, test taking, memory techniques, active reading strategies, critical thinking, communication skills, learning styles, and other strategies for effective learning. Upon completion, students should be able to apply appropriate study strategies and techniques to the development of an effective study plan. This course is also available through the Virtual Learning Community.",
+      "institution": "Central Piedmont Community College"
+    },
+    {
+      "course_id": "ACA 120",
+      "course_title": "Career Assessment",
+      "credits": "1.00",
+      "description": "This course provides the information and strategies necessary to develop clear personal, academic, and professional goals. Topics include personality styles, goal setting, various college curricula, career choices, and campus leadership development. Upon completion, students should be able to clearly state their personal, academic, and professional goals and have a feasible plan of action to achieve those goals. This course provides the information and strategies necessary to develop clear personal, academic, and professional goals. Topics include personality styles, goal setting, various college curricula, career choices, and campus leadership development. Upon completion, students should be able to clearly state their personal, academic, and professional goals and have a feasible plan of action to achieve those goals. This course is also available through the Virtual Learning Community.",
+      "institution": "Central Piedmont Community College"
+    },
+    {
+      "course_id": "ACA 121",
+      "course_title": "Managing a Team",
+      "credits": "1.00",
+      "description": "This course focuses on the process of the individual with an awareness of the reality in the collective teamwork approach for the workplace emphasizing process-orientation. Topics include how teams work, team effectiveness, team-building techniques, positive thinking, and leadership principles. Upon completion, students should be able to demonstrate an understanding of how teamwork strengthens ownership, involvement, and responsibility in the workplace.",
+      "institution": "Central Piedmont Community College"
+    },
+    {
+      "course_id": "ACA 122",
+      "course_title": "College Transfer Success",
+      "credits": "1.00",
+      "description": "This course provides information and strategies necessary to develop clear academic and professional goals beyond the community college experience. Topics include the CAA, college culture, career exploration, gathering information on senior institutions, strategic planning, critical thinking, and communications skills for a successful academic transition. Upon completion, students should be able to develop an academic plan to transition successfully to senior institutions.",
+      "institution": "Central Piedmont Community College"
+    },
+    {
+      "course_id": "ACC 120",
+      "course_title": "Principles of Financial Accounting",
+      "credits": "4.00",
+      "description": "This course introduces business decision-making using accounting information systems. Emphasis is placed on analyzing, summarizing, reporting, and interpreting financial information. Upon completion, students should be able to prepare financial statements, understand the role of financial information in decision-making and address ethical considerations. This course has been approved to satisfy the Comprehensive Articulation Agreement for transferability as a premajor and/or elective course requirement. This course introduces the basic principles and procedures of accounting. Emphasis is placed on collecting, summarizing, analyzing, and reporting financial information. Upon completion, students should be able to analyze data and prepare journal entries and reports as they relate to the accounting cycle. This course is intended for those who have not received credit for ACC 115.",
+      "institution": "Central Piedmont Community College"
+    }
+  ],
+  "timestamp": "2025-08-10T13:54:06.402487"
+}

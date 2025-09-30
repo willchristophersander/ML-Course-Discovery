@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Pittsburg State University",
+    "successful_variation": "Pittsburg State University",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Pittsburg+State+University&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACCTG 201",
+      "course_title": "Financial Accounting",
+      "credits": "3.00",
+      "description": "3 hours. Emphasizes the basic economic concepts underlying general-purpose external financial statements and the uses of this information by producers and consumers.",
+      "institution": "Pittsburg State University"
+    },
+    {
+      "course_id": "ACCTG 202",
+      "course_title": "Managerial Accounting",
+      "credits": "3.00",
+      "description": "3 hours. A survey of the tools for interpreting, analyzing, and understanding accounting data used in setting plans and objectives, in controlling operations, and in making management decisions. Prerequisite: ACCTG 201 Financial Accounting.",
+      "institution": "Pittsburg State University"
+    },
+    {
+      "course_id": "ACCTG 305",
+      "course_title": "Construction Accounting",
+      "credits": "3.00",
+      "description": "3 hours. An introduction to the theory and practice of accounting concepts unique to the construction industry. Emphasizes accounting data used in construction management including automated systems for construction contractors. Prerequisite: ACCTG 201 Financial Accounting and junior standing.",
+      "institution": "Pittsburg State University"
+    },
+    {
+      "course_id": "ACCTG 315",
+      "course_title": "Intermediate Managerial Accounting",
+      "credits": "3.00",
+      "description": "3 hours. A study of the concepts and methods to prepare and report cost information for planning and control in manufacturing and service industries. Topics include job order and process costing, standard costing, activity based costing, cost allocation, and budgeting. Prerequisite: ACCTG 202 Managerial Accounting and junior standing.",
+      "institution": "Pittsburg State University"
+    },
+    {
+      "course_id": "ACCTG 318",
+      "course_title": "Intermediate Financial Accounting I",
+      "credits": "3.00",
+      "description": "3 hours. A study of the three major financial statements, the conceptual framework underlying financial reporting, and generally accepted accounting principles (GAAP) for assets. Emphasis is placed on the importance of professional judgement and ethics in the financial reporting process. Prerequisite: ACCTG 201 Financial Accounting and junior standing.",
+      "institution": "Pittsburg State University"
+    },
+    {
+      "course_id": "ACCTG 410",
+      "course_title": "Intermediate Financial Accounting II",
+      "credits": "3.00",
+      "description": "3 hours. Liabilities, stockholders' equity, earnings per share, investments, deferred taxes, pensions, leases, and other financial disclosures. Emphasizes the knowledge and interpretation of generally accepted accounting principles (GAAP) as they relate to corporate decision-making, financial statement analysis, and professional ethics and judgment. Prerequisite: ACCTG 318 Intermediate Financial Accounting I and junior standing. May be taken for honors.",
+      "institution": "Pittsburg State University"
+    },
+    {
+      "course_id": "ACCTG 416",
+      "course_title": "Business Taxation",
+      "credits": "3.00",
+      "description": "3 hours. An introduction to the theory and practice of taxation for individuals in relation to businesses and taxation of business entities related to gross income, deductions and credits. Sole proprietorships, partnerships, and corporations will be covered. Prerequisite: ACCTG 201 Financial Accounting and junior standing. May be taken for honors.",
+      "institution": "Pittsburg State University"
+    },
+    {
+      "course_id": "ACCTG 420",
+      "course_title": "Information Technology and Accounting Systems",
+      "credits": "3.00",
+      "description": "3 hours. A study of accounting systems with emphasis on emerging information technologies. Focus will be placed on analysis and modeling of databases, designing controls to mitigate business risks, and understanding the dynamic dimensions of accounting data. Prerequisite: CSIS 101 Computer Applications or CSIS 130 Computer Information Systems and ACCTG 201 Financial Accounting and junior standing. May be taken for honors.",
+      "institution": "Pittsburg State University"
+    },
+    {
+      "course_id": "ACCTG 422",
+      "course_title": "Internal Auditing",
+      "credits": "3.00",
+      "description": "3 hours. Process of obtaining and evaluating internal audit evidence and communicating audit results. Includes methods to assess organizational risks, controls and performance, professional auditing standards and auditors' ethical responsibilities. Prerequisites: ACCTG 201 Financial Accounting and junior standing; or permission of instructor. May be taken for honors.",
+      "institution": "Pittsburg State University"
+    },
+    {
+      "course_id": "ACCTG 520",
+      "course_title": "Advanced Managerial Accounting",
+      "credits": "3.00",
+      "description": "3 hours. A study of control systems and decision making within manufacturing and service organizations. Topics include cost systems, capital budgeting, decentralized operations, and multinational considerations. Prerequisite: ACCTG 315 Intermediate Managerial Accounting or equivalent and junior standing. May be taken for honors.",
+      "institution": "Pittsburg State University"
+    }
+  ],
+  "timestamp": "2025-08-10T13:44:17.787292"
+}

@@ -1,0 +1,107 @@
+{
+  "timestamp": "2025-08-08T17:39:27.948376",
+  "analysis": {
+    "total_universities": 5,
+    "discovery_success_rate": 0.2,
+    "avg_discovery_confidence": 0.925,
+    "validation_success_rate": 0.2,
+    "avg_validation_confidence": 0.2,
+    "course_finding_rate": 0.4,
+    "avg_discovery_time": 1.584145975112915,
+    "avg_validation_time": 0.5499762535095215,
+    "successful_discoveries": [
+      {
+        "university": "University of Maine at Machias",
+        "url": "https://www.maine.edu//classes",
+        "discovery_confidence": 0.925,
+        "validation_confidence": 0.2,
+        "courses_found": "2/5"
+      }
+    ],
+    "failed_discoveries": [
+      {
+        "university": "Institute for World Politics",
+        "error": "No search results found with any strategy"
+      },
+      {
+        "university": "Angelina College",
+        "error": "No search results found with any strategy"
+      },
+      {
+        "university": "Mount Wachusett Community College",
+        "error": "No search results found with any strategy"
+      },
+      {
+        "university": "Grays Harbor College",
+        "error": "No search results found with any strategy"
+      }
+    ]
+  },
+  "detailed_results": [
+    {
+      "university_name": "Institute for World Politics",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No search results found with any strategy",
+      "discovery_time": 8.082389831542969e-05,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "University of Maine at Machias",
+      "discovered_url": "https://www.maine.edu//classes",
+      "discovery_success": true,
+      "discovery_confidence": 0.925,
+      "validation_success": true,
+      "validation_confidence": 0.2,
+      "test_courses_found": 2,
+      "total_test_courses": 5,
+      "error_message": null,
+      "discovery_time": 7.919189929962158,
+      "validation_time": 2.7498812675476074
+    },
+    {
+      "university_name": "Angelina College",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No search results found with any strategy",
+      "discovery_time": 0.00038504600524902344,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "Mount Wachusett Community College",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No search results found with any strategy",
+      "discovery_time": 0.0005168914794921875,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "Grays Harbor College",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No search results found with any strategy",
+      "discovery_time": 0.0005571842193603516,
+      "validation_time": 0.0
+    }
+  ]
+}

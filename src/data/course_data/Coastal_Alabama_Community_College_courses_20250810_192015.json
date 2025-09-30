@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Coastal Alabama Community College",
+    "successful_variation": "Coastal Alabama Community College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Coastal+Alabama+Community+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACR 126",
+      "course_title": "Commercial Heating Systems",
+      "credits": "0.00",
+      "description": "3 Credits (1-2-0) This course covers the theory and application of larger heating systems. Emphasis is placed on larger heating systems associated with commercial applications such as gas heaters, boilers, unit heaters, and duct heaters. Upon completion, student should be able to troubleshoot and perform general maintenance on commercial heating systems. Note: Lab hours may be taught on a 2:1 or 3:1 contact hour ratio as is appropriate.",
+      "institution": "Coastal Alabama Community College"
+    },
+    {
+      "course_id": "ACR 148",
+      "course_title": "Heat Pump Systems I",
+      "credits": "0.00",
+      "description": "3 Credits (1-2-0) Instruction received in this course centers around the basic theory and application of heat pump systems and components. Upon completion students will be able to install and service heat pumps in a wide variety of applications. Note: Lab hours may be taught on a 2:1 or 3:1 contact hour ratio as is appropriate.",
+      "institution": "Coastal Alabama Community College"
+    },
+    {
+      "course_id": "ACR 149",
+      "course_title": "Heat Pump Systems II",
+      "credits": "0.00",
+      "description": "3 Credits (1-2-0) This is a continuation course of the basic theory and application of heat pump systems. Topics include the electrical components of heat pumps and their function. Upon completion student should be able to install and service heat pumps. Note: Lab hours may be taught on a 2:1 or 3:1 contact hour ratio as is appropriate.",
+      "institution": "Coastal Alabama Community College"
+    },
+    {
+      "course_id": "ANT 200",
+      "course_title": "Introduction to Anthropology",
+      "credits": "0.00",
+      "description": "3 Credits (3-0-0) This course is a survey of physical, social, and cultural development and behavior of human beings. Prerequisite: None. Alabama College Systems Transfer Code: A",
+      "institution": "Coastal Alabama Community College"
+    },
+    {
+      "course_id": "ANT 210",
+      "course_title": "Physical Anthropology",
+      "credits": "0.00",
+      "description": "3 Credits (3-0-0) This course is a study of the human evolution based upon fossil and archaeological records as well as analysis of the variation and distribution of contemporary human populations. Prerequisite: None. Alabama College Systems Transfer Code: A",
+      "institution": "Coastal Alabama Community College"
+    },
+    {
+      "course_id": "ART 103",
+      "course_title": "Introduction to Art I",
+      "credits": "0.00",
+      "description": "3 Credits (0-6-0) This course is designed as an introduction to the basic fundamentals of art. Emphasis is placed on personal expression and an understanding of the various art media. Upon completion, students should be able to express creative ideas visually and become more aware of media and how it effects communication. Prerequisite: None. Alabama College Systems Transfer Code: C",
+      "institution": "Coastal Alabama Community College"
+    },
+    {
+      "course_id": "ART 113",
+      "course_title": "Drawing I",
+      "credits": "0.00",
+      "description": "3 Credits (0-6-0) This course provides the opportunity to develop perceptional and technical skills in a variety of media. Emphasis is placed on communication through experimenting with composition, subject matter, and technique. Upon completion, students should demonstrate and apply the fundamentals of art to various creative-drawing projects. Prerequisite: None. Alabama College Systems Transfer Code: B",
+      "institution": "Coastal Alabama Community College"
+    },
+    {
+      "course_id": "ART 114",
+      "course_title": "Drawing II",
+      "credits": "0.00",
+      "description": "3 Credits (0-6-0) This course advances the students drawing skills in various art media. Emphasis is placed on communication through experimentation, composition, technique and personal expression. Upon completion, students should demonstrate creative drawing skills, the application of the fundamentals of art, and the communication of personal thoughts and feelings. Prerequisite: ART 113. Alabama College Systems Transfer Code: B",
+      "institution": "Coastal Alabama Community College"
+    },
+    {
+      "course_id": "ART 121",
+      "course_title": "Two Dimensional Composition I",
+      "credits": "0.00",
+      "description": "3 Credits (0-6-0) This course introduces the basic concepts of two-dimensional design. Topics include the elements and principles of design with emphasis on the arrangements and relationships among them. Upon completion, students should demonstrate an effective use of these elements and principles of design in creating two-dimensional compositions. Prerequisite: None. Alabama College Systems Transfer Code: B",
+      "institution": "Coastal Alabama Community College"
+    },
+    {
+      "course_id": "ART 122",
+      "course_title": "Two Dimensional Composition II",
+      "credits": "0.00",
+      "description": "3 Credits (0-6-0) This course covers the theories and practice of composing two-dimensional images. Emphasis is placed on the relation between the basic elements and principles of design and their impact on the visual message. Upon completion, students should demonstrate an effective use of these elements and principles of design in creating two-dimensional compositions. Prerequisite: ART 121. Alabama College Systems Transfer Code: B",
+      "institution": "Coastal Alabama Community College"
+    }
+  ],
+  "timestamp": "2025-08-10T19:20:15.629061"
+}

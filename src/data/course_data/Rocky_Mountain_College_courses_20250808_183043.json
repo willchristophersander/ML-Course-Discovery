@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Rocky Mountain College",
+    "successful_variation": "Rocky Mountain College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Rocky+Mountain+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "AMS 202",
+      "course_title": "Principles of Microeconomics",
+      "credits": "3.00",
+      "description": "3 semester hours. Students study individual economic problems. This course offers an introduction to production and exchange, pricing policies, and resource allocation under alternative competitive situations.",
+      "institution": "Rocky Mountain College"
+    },
+    {
+      "course_id": "AMS 301",
+      "course_title": "Small Group and Organizational Behavior",
+      "credits": "3.00",
+      "description": "3 semester hours. Students study small group behaviors and how those behaviors interact with organizational objectives.",
+      "institution": "Rocky Mountain College"
+    },
+    {
+      "course_id": "AMS 312",
+      "course_title": "Management Concepts",
+      "credits": "3.00",
+      "description": "3 semester hours. Students examine management functions, basic concepts, and principles of management, including group dynamics, motivation, planning, organizational problems, coordination control, job design, and power structures.",
+      "institution": "Rocky Mountain College"
+    },
+    {
+      "course_id": "AMS 318",
+      "course_title": "Entrepreneurship",
+      "credits": "3.00",
+      "description": "3 semester hours. Students learn the characteristics of successful entrepreneurs, how to seek and evaluate opportunities for new ventures, how to prepare a complete business plan, and how to plan strategies and gather resources to create business opportunities.",
+      "institution": "Rocky Mountain College"
+    },
+    {
+      "course_id": "AMS 355",
+      "course_title": "Accounting and Financial Statement Analysis",
+      "credits": "3.00",
+      "description": "3 semester hours. Students learn how to analyze financial statements by developing an ability to critically evaluate corporate financial representations and related information. Financial Statement Analysis is the art and science of examining the components of a company's monetary disclosures, called financial statements. Opinions can then be formed about a firm's past, present, and future operations that influence internal and/or external decision-making.",
+      "institution": "Rocky Mountain College"
+    },
+    {
+      "course_id": "AMS 402",
+      "course_title": "Small Business Finance",
+      "credits": "3.00",
+      "description": "3 semester hours. Financial management is often the difference between the survival and failure of a small business. Students learn how to use financial tools to manage cash flow, measure profitability and liquidity, determine leverage, and value a business. The use of ratio analysis within the balance sheet and income statement are coupled with budgeting and break-even analysis to complete the picture.",
+      "institution": "Rocky Mountain College"
+    },
+    {
+      "course_id": "AMS 405",
+      "course_title": "Human Resource Management",
+      "credits": "3.00",
+      "description": "3 semester hours. This course provides an analysis of the policies and practices of employee recruitment, selection, training, development, and compensation.",
+      "institution": "Rocky Mountain College"
+    },
+    {
+      "course_id": "AMS 407",
+      "course_title": "Marketing",
+      "credits": "3.00",
+      "description": "3 semester hours. This course is a study of the marketing process, including examination of consumer buying behavior, products and product development, distribution channels, pricing policies, and promotion.",
+      "institution": "Rocky Mountain College"
+    },
+    {
+      "course_id": "AMS 415",
+      "course_title": "Managerial Accounting",
+      "credits": "3.00",
+      "description": "3 semester hours. Students examine how managers use accounting information to make sound business decisions. The course emphasizes the need for a \"parallel information system\" that enhances decision-making by providing managers with information not found in typical accounting reports. Cost behavior, performance analysis, capital investment analysis, and the theory and mechanics of budgeting are among topics examined.",
+      "institution": "Rocky Mountain College"
+    },
+    {
+      "course_id": "AMS 420",
+      "course_title": "Managerial Ethics",
+      "credits": "3.00",
+      "description": "3 semester hours. This course presents different perspectives on the basic concepts and concerns of business ethics. Ideas on how to incorporate these concepts into the policies and decision-making processes of businesses are introduced through a case study approach.",
+      "institution": "Rocky Mountain College"
+    }
+  ],
+  "timestamp": "2025-08-08T18:30:43.030636"
+}

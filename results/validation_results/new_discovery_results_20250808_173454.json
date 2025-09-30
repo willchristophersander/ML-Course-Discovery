@@ -1,0 +1,113 @@
+{
+  "timestamp": "2025-08-08T17:34:54.909158",
+  "analysis": {
+    "total_universities": 5,
+    "discovery_success_rate": 0.6,
+    "avg_discovery_confidence": 0.89,
+    "validation_success_rate": 0.4,
+    "avg_validation_confidence": 0.2,
+    "course_finding_rate": 0.5,
+    "avg_discovery_time": 2.447718381881714,
+    "avg_validation_time": 2.4085099697113037,
+    "successful_discoveries": [
+      {
+        "university": "Lake Erie College of Osteopathic Medicine",
+        "url": "https://classes.berkeley.edu/",
+        "discovery_confidence": 0.89,
+        "validation_confidence": 0.2,
+        "courses_found": "3/5"
+      },
+      {
+        "university": "National-Louis University",
+        "url": "https://classes.berkeley.edu/",
+        "discovery_confidence": 0.89,
+        "validation_confidence": 0.0,
+        "courses_found": "0/0"
+      },
+      {
+        "university": "California Polytechnic State University, San Luis Obispo",
+        "url": "https://classes.berkeley.edu/",
+        "discovery_confidence": 0.89,
+        "validation_confidence": 0.2,
+        "courses_found": "2/5"
+      }
+    ],
+    "failed_discoveries": [
+      {
+        "university": "Monmouth University",
+        "error": "Could not find course search page after navigation"
+      },
+      {
+        "university": "Front Range Community College",
+        "error": "No search results found with any strategy"
+      }
+    ]
+  },
+  "detailed_results": [
+    {
+      "university_name": "Monmouth University",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "Could not find course search page after navigation",
+      "discovery_time": 5.2056968212127686,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "Lake Erie College of Osteopathic Medicine",
+      "discovered_url": "https://classes.berkeley.edu/",
+      "discovery_success": true,
+      "discovery_confidence": 0.89,
+      "validation_success": true,
+      "validation_confidence": 0.2,
+      "test_courses_found": 3,
+      "total_test_courses": 5,
+      "error_message": null,
+      "discovery_time": 2.3938517570495605,
+      "validation_time": 3.774733066558838
+    },
+    {
+      "university_name": "National-Louis University",
+      "discovered_url": "https://classes.berkeley.edu/",
+      "discovery_success": true,
+      "discovery_confidence": 0.89,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No test courses found in CollegeTransfer.net",
+      "discovery_time": 2.3965611457824707,
+      "validation_time": 4.7658467292785645
+    },
+    {
+      "university_name": "California Polytechnic State University, San Luis Obispo",
+      "discovered_url": "https://classes.berkeley.edu/",
+      "discovery_success": true,
+      "discovery_confidence": 0.89,
+      "validation_success": true,
+      "validation_confidence": 0.2,
+      "test_courses_found": 2,
+      "total_test_courses": 5,
+      "error_message": null,
+      "discovery_time": 2.2415599822998047,
+      "validation_time": 3.501970052719116
+    },
+    {
+      "university_name": "Front Range Community College",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No search results found with any strategy",
+      "discovery_time": 0.0009222030639648438,
+      "validation_time": 0.0
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Skidmore College",
+    "successful_variation": "Skidmore College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Skidmore+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "AH 100",
+      "course_title": "survey of Western Art",
+      "credits": "4.00",
+      "description": "A survey of Western art from ancient times to the present that places monuments of art in social, historical, and cultural contexts. (Fulfills humanities requirement.) K. Hauser, M. Hellman, P. Jolly",
+      "institution": "Skidmore College"
+    },
+    {
+      "course_id": "AH 103",
+      "course_title": "the Arts of Africa, Oceania, And The Americas",
+      "credits": "4.00",
+      "description": "A survey of the arts of Africa (south of the Sahara), Oceania (the South Sea Islands), and native North, Central and South America. This course examines a variety of styles, techniques and socioreligious functions of the arts and architecture of these non-Western cultural areas. (Designated a non-Western culture course; fulfills humanities requirement.) L. Aronson",
+      "institution": "Skidmore College"
+    },
+    {
+      "course_id": "AH 105",
+      "course_title": "survey of Asian Art: South And Southeast Asian And Himalayan",
+      "credits": "4.00",
+      "description": "An overview of the art and material culture of India, Southeast Asia, and Tibet. Works of art and culture will be examined with an emphasis on style as cultural expression, the meaning of the arts in a religious context, and the impact of cross-cultural exchange. (Designated a non-Western culture course; fulfills humanities requirement.) R. Linrothe",
+      "institution": "Skidmore College"
+    },
+    {
+      "course_id": "AH 106",
+      "course_title": "survey of Asian Art: East Asia",
+      "credits": "4.00",
+      "description": "Survey of the art and material culture of China, Korea, and Japan. Works of art and culture will be examined with an emphasis on style as cultural expression, the meaning of the arts in a religious context, and the impact of the cross-cultural exchange. (Designated a non-Western culture course; fulfills humanities requirement.) R. Linrothe",
+      "institution": "Skidmore College"
+    },
+    {
+      "course_id": "AH 111",
+      "course_title": "introduction to Art",
+      "credits": "3.00",
+      "description": "A focus on a variety of monuments and traditions of art and architecture, with the goal of exploring issues concerning style, function, technique, and meaning. Attention will be paid to topics such as creativity, the artist and society, sacred and secular art, gender and art, crafts and popular art vs. the fine arts, and the body in art. May not be counted toward a major in art or art history. (Fulfills humanities requirement.) Summer only. Art History Faculty",
+      "institution": "Skidmore College"
+    },
+    {
+      "course_id": "AH 200",
+      "course_title": "hindu Art",
+      "credits": "3.00",
+      "description": "An introduction to the arts of Indian Hinduism as expressions of religious ideas and experiences. The course emphasizes the evolution of ritual practice, devotional narratives, symbols and architecture of Hinduism, taking note of the religious underpinnings of the tradition, its popular manifestations and images of the goddess (Devi). The interdisciplinary nature of the course will highlight the necessity to understand the religious experience behind the works of art, and witness the translation into visual expressions of abstract ideas and religious emotions. (Designated a non-Western culture course; fulfills humanities requirement.) R. Linrothe",
+      "institution": "Skidmore College"
+    },
+    {
+      "course_id": "AH 203",
+      "course_title": "native American Art",
+      "credits": "3.00",
+      "description": "A study of the prehistoric, historic, and contemporary arts of Native American peoples of North America. This course will study the arts of mainly Southwest, Woodlands, Great Plains, and Northwest Coast cultures with particular attention to their historiography, style, technique, symbolic meaning, and place in ritual. A wide range of media will be covered including sculpture, painting, architecture, pottery, textile arts, jewelry, and body decoration. Recommended: AH103 (Designated a non-Western culture course; fulfills humanities requirement.) L. Aronson",
+      "institution": "Skidmore College"
+    },
+    {
+      "course_id": "AH 204",
+      "course_title": "japanese Art",
+      "credits": "3.00",
+      "description": "A chronological survey of Japanese arts (painting, prints, sculpture, ceramics, textiles, architecture, and gardens) from the neolithic period to the present. The course emphasizes historical, religious, and aesthetic contexts. Special attention will be given to the stimulus of contacts with China and Korea in the evolution of Japanese visual art, and to Buddhist art. (Designated a non-Western culture course; fulfills humanities requirement.) R. Linrothe",
+      "institution": "Skidmore College"
+    },
+    {
+      "course_id": "AH 207",
+      "course_title": "african Art",
+      "credits": "3.00",
+      "description": "A survey of the arts of sub-Saharan Africa. Focusing on selected groups from the sub-Saharan region, this course considers a wide range of media giving primary attention to sculpture and masquerades but also including ceramics, metallurgy, textiles, body arts and architecture. These arts will be examined in terms of their styles, symbols, technologies, histories, and socioreligious importance. (Designated a non-Western culture course; fulfills humanities requirement.) L. Aronson",
+      "institution": "Skidmore College"
+    },
+    {
+      "course_id": "AH 208",
+      "course_title": "art And The Environment in Ancient Mesoamerica And South America",
+      "credits": "3.00",
+      "description": "A survey of selected art traditions in ancient Mesoamerica and Andean South America from 2000 BCE to 1600 CE, focused around the theme of nature and the environment. The course covers art and architecture of the Olmec, Maya, Aztec, Chavin, Moche and Inca, and the people of Teotihuacan, looking particularly at how nature and the environment have informed and shaped their styles, meanings, functions, and underlying ideologies. Prerequisite: AH103 recommended. (Designated a non-Western culture course; fulfills humanities breadth requirement). L. Aronson",
+      "institution": "Skidmore College"
+    }
+  ],
+  "timestamp": "2025-08-10T01:05:27.093248"
+}

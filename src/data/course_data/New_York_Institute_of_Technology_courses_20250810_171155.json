@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "New York Institute of Technology",
+    "successful_variation": "New York Institute of Technology",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=New+York+Institute+of+Technology&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACCT 110",
+      "course_title": "Managerial Accounting",
+      "credits": "3.00",
+      "description": "Special emphasis is placed on the collection and interpretation of data for managerial decision-making purposes. A study is made of cost concepts used in planning and control, cost- profit-volume analysis, and budgeting. This course carries no credit for the public accounting major. Prerequisite: ACCT 101.",
+      "institution": "New York Institute of Technology"
+    },
+    {
+      "course_id": "ACCT 201",
+      "course_title": "Financial Accounting I",
+      "credits": "3.00",
+      "description": "Stresses the theoretical and analytical aspects of financial accounting. Attention is directed to asset valuations with emphasis on current controversies and opinions of the AICPA and other professional organizations. This course is required in the public accounting and finance options, as well as the business education option in accounting. Prerequisite: ACCT 105.",
+      "institution": "New York Institute of Technology"
+    },
+    {
+      "course_id": "ACCT 210",
+      "course_title": "Financial Accounting",
+      "credits": "3.00",
+      "description": "Stresses the theoretical and analytical aspects of financial accounting, with emphasis on asset valuation, liabilities and corporate proprietary equities. Principles of income determination and financial statement analysis are examined. Prerequisite: ACCT 105.",
+      "institution": "New York Institute of Technology"
+    },
+    {
+      "course_id": "ACCT 302",
+      "course_title": "Federal Taxation I",
+      "credits": "3.00",
+      "description": "A study of federal tax structure as it applies to the taxation of individuals. The course will include elements of tax research and the preparation of tax forms. Prerequisite: ACCT 201.",
+      "institution": "New York Institute of Technology"
+    },
+    {
+      "course_id": "ACCT 306",
+      "course_title": "Cost Accounting",
+      "credits": "3.00",
+      "description": "Examines the importance of cost accounting to the various levels of management and the dual function of cost as an information system and as a tool for planning and control. Concepts in the accumulation of manufacturing costs, job order, and process costs systems are stressed. A study of budgets and standard cost systems as a function for planning and control; direct costing, break-even and cost-volumeprofit analysis, as an aid to decision making. Prerequisite: ACCT 105; for IE majors: ACCT 101.",
+      "institution": "New York Institute of Technology"
+    },
+    {
+      "course_id": "ACCT 311",
+      "course_title": "Not for Profit Accounting",
+      "credits": "3.00",
+      "description": "Fund accounting for nonprofit organizations such as governmental units, universities, hospitals, foundations and charitable institutions. Prerequisite: ACCT 105.",
+      "institution": "New York Institute of Technology"
+    },
+    {
+      "course_id": "ACCT 315",
+      "course_title": "Financial Statement Analysis",
+      "credits": "3.00",
+      "description": "A critical review of corporate financial reports and associated footnotes from the perspectives of different potential users including: creditors, management and investors. Use of financial statements in the assessment of business performance. Exposure to methods for the adaptation of financial statements for decision- making. Topics include: statements of income, balance sheet, cash flow from operation and free cash flow; financial ratio analysis, cash budgets, pro forma statements, forecasting growth potential and financial requirements; quality of earnings, inventory valuation and depreciation methods. Prerequisite: Acct 201, FINC 201.",
+      "institution": "New York Institute of Technology"
+    },
+    {
+      "course_id": "ACCT 402",
+      "course_title": "Federal Taxation II",
+      "credits": "3.00",
+      "description": "Federal Income taxation for partnerships, corporations, estates and trusts: Preparation of returns. Introduction to federal income tax procedure. Prerequisite: ACCT 302.",
+      "institution": "New York Institute of Technology"
+    },
+    {
+      "course_id": "ACCT 406",
+      "course_title": "Internal Auditing",
+      "credits": "3.00",
+      "description": "Internal control, behavioral aspects, audit reporting, the management of internal auditing, its status as a profession, internal auditing techniques such as: internal control questionnaires, flowcharting, interviewing and statements and standards of major professional auditing and accounting bodies. Prerequisite: ACCT 201.",
+      "institution": "New York Institute of Technology"
+    },
+    {
+      "course_id": "ACCT 411",
+      "course_title": "Auditing",
+      "credits": "3.00",
+      "description": "Fundamentals of auditing principles and procedures, form and content of auditor's reports, professional ethics and legal responsibilities, EDP considerations, statistical sampling applications in auditing, the role of internal control in relation to the auditor and substantive audit procedures of assets, liabilities and equity capital. Prerequisite: ACCT 201.",
+      "institution": "New York Institute of Technology"
+    }
+  ],
+  "timestamp": "2025-08-10T17:11:55.374031"
+}

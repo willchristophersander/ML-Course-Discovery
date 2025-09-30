@@ -1,0 +1,78 @@
+{
+  "timestamp": "2025-08-10T15:19:10.963535",
+  "analysis": {
+    "total_universities": 3,
+    "discovery_success_rate": 0.6666666666666666,
+    "avg_discovery_confidence": 0.78,
+    "ct_availability_rate": 0.3333333333333333,
+    "colleges_with_ct_courses": 1,
+    "validation_success_rate": 1.0,
+    "avg_validation_confidence": 0.4,
+    "course_finding_rate": 1.0,
+    "avg_discovery_time": 155.8704455693563,
+    "avg_validation_time": 2.01050066947937,
+    "successful_discoveries": [
+      {
+        "university": "Wharton County Junior College",
+        "url": "https://www.wcjc.edu/programs/classes-and-registration/college-catalog.aspx",
+        "discovery_confidence": 0.78,
+        "validation_confidence": 0.0,
+        "courses_found": "0/0"
+      },
+      {
+        "university": "California State University, Dominguez Hills",
+        "url": "https://catalog.csudh.edu/courses/",
+        "discovery_confidence": 0.78,
+        "validation_confidence": 0.4,
+        "courses_found": "5/5"
+      }
+    ],
+    "failed_discoveries": [
+      {
+        "university": "Bethel College (KS)",
+        "error": "Page.goto: net::ERR_ABORTED at https://www.fhsu.edu/registrar/documents/Bethel-College/bethel-college-evaluated-course-list-06.25.pdf\nCall log:\n  - navigating to \"https://www.fhsu.edu/registrar/documents/Bethel-College/bethel-college-evaluated-course-list-06.25.pdf\", waiting until \"load\"\n"
+      }
+    ]
+  },
+  "detailed_results": [
+    {
+      "university_name": "Bethel College (KS)",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "Page.goto: net::ERR_ABORTED at https://www.fhsu.edu/registrar/documents/Bethel-College/bethel-college-evaluated-course-list-06.25.pdf\nCall log:\n  - navigating to \"https://www.fhsu.edu/registrar/documents/Bethel-College/bethel-college-evaluated-course-list-06.25.pdf\", waiting until \"load\"\n",
+      "discovery_time": 154.54849672317505,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "Wharton County Junior College",
+      "discovered_url": "https://www.wcjc.edu/programs/classes-and-registration/college-catalog.aspx",
+      "discovery_success": true,
+      "discovery_confidence": 0.78,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No test courses found in CollegeTransfer.net",
+      "discovery_time": 157.69731402397156,
+      "validation_time": 2.132460832595825
+    },
+    {
+      "university_name": "California State University, Dominguez Hills",
+      "discovered_url": "https://catalog.csudh.edu/courses/",
+      "discovery_success": true,
+      "discovery_confidence": 0.78,
+      "validation_success": true,
+      "validation_confidence": 0.4,
+      "test_courses_found": 5,
+      "total_test_courses": 5,
+      "error_message": null,
+      "discovery_time": 155.36552596092224,
+      "validation_time": 3.899041175842285
+    }
+  ]
+}

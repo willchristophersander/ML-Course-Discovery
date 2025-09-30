@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "University of Pennsylvania",
+    "successful_variation": "University of Pennsylvania",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=University+of+Pennsylvania&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "AAMW 401",
+      "course_title": "Introduction to Greek Archaeology",
+      "credits": "3.00",
+      "description": "Distribution Course in Hist & Tradition. Class of 2009 & prior only. Staff. An introduction to the art and archaeology of ancient Greece from the Bronze Age through the Hellenistic Period. Topics to be considered include Minoan Crete, Mycenae, the Greek Dark Ages, Geometric Greece, the Archaic Period, Classical Athens, and the world of Alexander the Great. Emphasis on the consideration of the archaeological evidence, e.g., sculpture, painting, pottery, architecture and numismatics.",
+      "institution": "University of Pennsylvania"
+    },
+    {
+      "course_id": "AAMW 405",
+      "course_title": "Art & Archaeology of Rome & Pompeii",
+      "credits": "3.00",
+      "description": "Distribution Course in Hist & Tradition. Class of 2009 & prior only. Staff. Two key Roman cities will serve as the focus for an introduction to the archaeology and art history of the ancient Romans. Among the topics to be considered will be the development of Roman archaeology since the Renaissance, the topographical growth of the two cities, and the outlines of Roman painting, sculpture and architecture.",
+      "institution": "University of Pennsylvania"
+    },
+    {
+      "course_id": "AAMW 413",
+      "course_title": "Ancient Athletics",
+      "credits": "3.00",
+      "description": "Distribution Course in Hist & Tradition. Class of 2009 & prior only.Romano. The art, archaeology and history of athletics in ancient Greece. Among the topics to be included are: famous Greek athletetes, female athletes, the ancient Olympic Games and other athletic festivals, ancient athletic facilities and equipment, the excavation of ancient athletic sites and practical athletics.",
+      "institution": "University of Pennsylvania"
+    },
+    {
+      "course_id": "AAMW 414",
+      "course_title": "Ancient Cities",
+      "credits": "3.00",
+      "description": "Romano. The historical and archaeological study of the ancient Greek city as evidenced through literature and archaeological excavation. As the term project of the course, each student is assigned a specific city to study and draw by means of a computer and an architectural drafting program.",
+      "institution": "University of Pennsylvania"
+    },
+    {
+      "course_id": "AAMW 415",
+      "course_title": "Survey of Greek Sculpture",
+      "credits": "3.00",
+      "description": "Distribution Course in Arts & Letters. Class of 2009 & prior only. Staff. An examination of key phases in the development of Greek sculpture from the later Bronze Age through the Hellenistic period.",
+      "institution": "University of Pennsylvania"
+    },
+    {
+      "course_id": "AAMW 422",
+      "course_title": "The Art of the Ancient Near East",
+      "credits": "3.00",
+      "description": "Distribution Course in Arts & Letters. Class of 2009 & prior only. Pittman. A survey of the art of Mesopotamian and Egyptian cultures from 4000 B.C. through the conquest of Alexander the Great.",
+      "institution": "University of Pennsylvania"
+    },
+    {
+      "course_id": "AAMW 423",
+      "course_title": "Greek Vase Painting",
+      "credits": "3.00",
+      "description": "Brownlee, A. Painted vases constitute the most important and comprehensive collection of visual evidence that survives from ancient Greece. In this course, we will examine the development of Greek vase-painting from the 10th to the 4th century BC, with particular emphasis on the pottery of the archaic and Classical periods of produced in the cities of Athens and Corinth. We will look at the vases as objects--and the extensive collection of Greek vases in the University of Pennsylvania Museum will be an important resource for this course--but we will also consider them as they relate to broader cultural issues. Some background in art history or classical studies is helpful but not required.",
+      "institution": "University of Pennsylvania"
+    },
+    {
+      "course_id": "AAMW 424",
+      "course_title": "Art & Archaeology of Mesopotamia",
+      "credits": "3.00",
+      "description": "Pittman. Emphasis on monumental art work of the Ancient Near East as the product of cultural and historical factors. Major focus will be on Mesopotamia from the late Neolithic to the Neo-Assyrian Period, with occasional attention to related surrounding areas such as western Iran, Anatolia, and Syria.",
+      "institution": "University of Pennsylvania"
+    },
+    {
+      "course_id": "AAMW 425",
+      "course_title": "Art of Ancient Iran",
+      "credits": "3.00",
+      "description": "Pittman. This course offers a survey of ancient Iranian art and culture from the painted pottery cultures of the Neolithic era to the monuments of the Persian Empire. The format is slide illustrated lecture.",
+      "institution": "University of Pennsylvania"
+    },
+    {
+      "course_id": "AAMW 427",
+      "course_title": "Roman Sculpture",
+      "credits": "3.00",
+      "description": "Distribution Course in Arts & Letters. Class of 2009 & prior only. Kuttner. Survey of the Republican origins and Imperial development of Roman sculpture--free--standing, relief, and architectural--from ca. 150 BC to 350 AD. We concentrate on sculpture in the capital city and on court and state arts, emphasizing commemorative public sculpture and Roman habits of decorative display. Key themes are the depiction of time and space, programmatic decoration, and the vocabulary of political art.",
+      "institution": "University of Pennsylvania"
+    }
+  ],
+  "timestamp": "2025-08-11T00:10:02.060233"
+}

@@ -1,0 +1,74 @@
+{
+  "search_query": {
+    "institution": "Danville Community College",
+    "successful_variation": "Danville Community College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Danville+Community+College&distance=5"
+  },
+  "total_results": 9,
+  "courses": [
+    {
+      "course_id": "ACC 110",
+      "course_title": "Introduction to Computerized Accounting",
+      "credits": "2.00",
+      "description": "Introduces the computer in solving accounting problems. Focuses on the operation of computers. Presents the accounting cycle and financial statement preparation in a computerized system and other applications for financial and managerial accounting. Co-requisite(s): ACC 111, ACC 211 or equivalent.",
+      "institution": "Danville Community College"
+    },
+    {
+      "course_id": "ACC 111",
+      "course_title": "Accounting I",
+      "credits": "3.00",
+      "description": "Presents fundamental accounting concepts and principles governing the accounting cycle, journals, ledgers, working papers, and preparation of financial statements for sole proprietorships. Covers services and merchandising businesses. Lecture 3 hours. Total 3 hours per week.",
+      "institution": "Danville Community College"
+    },
+    {
+      "course_id": "ACC 112",
+      "course_title": "Accounting II",
+      "credits": "3.00",
+      "description": "Continues ACC 111 with emphasis on application to partnerships, and corporations. Also includes an introduction to cost and managerial accounting. Lecture 3 hours. Total 3 hours per week. Prerequisite: ACC 111.",
+      "institution": "Danville Community College"
+    },
+    {
+      "course_id": "ACC 221",
+      "course_title": "Intermediate Accounting I",
+      "credits": "4.00",
+      "description": "Covers accounting principles and theory, including a review of the accounting cycle and accounting for current assets, current liabilities, and investments. Introduces various accounting approaches, and demonstrates the effect of these approaches on the financial statement users. Prerequisite: ACC 212 or 112 or equivalent. Lecture 4 hours per week.",
+      "institution": "Danville Community College"
+    },
+    {
+      "course_id": "ACC 222",
+      "course_title": "Intermediate Accounting II",
+      "credits": "4.00",
+      "description": "Continues accounting principles and theory with emphasis on accounting for fixed assets, intangibles, corporate capital structure, long-term liabilities, and investments. Prerequisite: ACC 221 or equivalent. Lecture 4 hours per week.",
+      "institution": "Danville Community College"
+    },
+    {
+      "course_id": "ACC 231",
+      "course_title": "Cost Accounting I",
+      "credits": "3.00",
+      "description": "Studies cost accounting methods and reporting as applied to job order, process, and standard cost accounting systems. Includes cost control, and other topics. Prerequisite: ACC 212 or 112 or equivalent. Lecture 3 hours per week.",
+      "institution": "Danville Community College"
+    },
+    {
+      "course_id": "ACC 241",
+      "course_title": "Auditing I",
+      "credits": "3.00",
+      "description": "Presents techniques of investigating, interpreting, and appraising accounting records and assertions. Studies internal control design and evaluation, evidence-gathering techniques and other topics. Prerequisite: ACC 221 or co-requisite ACC 222 or equivalent. Lecture 3 hours per week.",
+      "institution": "Danville Community College"
+    },
+    {
+      "course_id": "ACC 261",
+      "course_title": "Principles of Federal Taxation I",
+      "credits": "3.00",
+      "description": "Presents the study of federal taxation as it relates to individuals, and related entities. Includes tax planning, compliance and reporting. Lecture 3 hours per week.",
+      "institution": "Danville Community College"
+    },
+    {
+      "course_id": "ACC 262",
+      "course_title": "Principles of Federal Taxation II",
+      "credits": "3.00",
+      "description": "Presents the study of federal taxation as it relates to partnerships, corporations, and other tax entities. Includes tax planning, compliance, and reporting. Lecture 3 hours per week. Prerequisite: ACC 261.",
+      "institution": "Danville Community College"
+    }
+  ],
+  "timestamp": "2025-08-09T19:40:10.607522"
+}

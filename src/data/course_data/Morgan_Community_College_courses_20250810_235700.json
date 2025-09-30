@@ -1,0 +1,32 @@
+{
+  "search_query": {
+    "institution": "Morgan Community College",
+    "successful_variation": "Morgan Community College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Morgan+Community+College&distance=5"
+  },
+  "total_results": 3,
+  "courses": [
+    {
+      "course_id": "AAA 090",
+      "course_title": "Academic Achievement Strategies",
+      "credits": "3.00",
+      "description": "(45 lecture hours, 3 credits) Develops personalized approaches to learn and succeed for easier transition into college. Topics include goal-setting, time management, textbook reading strategies, notetaking, test-taking, listening techniques, concentration and memory devices, and critical thinking for student success. Added Spring 2002. (Previously STS 060-Learning Success Strategies Summer 1994-Fall 2001; DES 019-Study Skills Fall 1992-Spring 1994.)",
+      "institution": "Morgan Community College"
+    },
+    {
+      "course_id": "ABM 111",
+      "course_title": "Records & Business Planning I",
+      "credits": "9.00",
+      "description": "(9 credits: Lecture-15 hrs, Private-22.5 hrs, Coop-competency based, minimum 125 hrs) Guides the student in the collection of necessary information to implement a computerized record keeping system. Discussion will include computer terminology, application software, balance sheet concepts, accounting principles, computerized accounting reports, and business plan components.",
+      "institution": "Morgan Community College"
+    },
+    {
+      "course_id": "ABM 112",
+      "course_title": "Records & Business Planning II",
+      "credits": "9.00",
+      "description": "(9 credits: Lecture-15 hrs, Private-22.5 hrs, Coop-competency based, minimum 125 hrs) Focuses on implementing a computerized record keeping system. Emphasis is placed on the application and maintenance of an accurate set of computerized financial records, use of a filing system, and compiling a business plan.",
+      "institution": "Morgan Community College"
+    }
+  ],
+  "timestamp": "2025-08-10T23:57:00.125671"
+}

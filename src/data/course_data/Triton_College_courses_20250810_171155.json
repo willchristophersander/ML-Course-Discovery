@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Triton College",
+    "successful_variation": "Triton College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Triton+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACC 100",
+      "course_title": "Basic Accounting I",
+      "credits": "3.00",
+      "description": "Includes the nature of accounting, development and use of accounts, books of original entry, controlling accounts, financial statements, adjusting entries, and accounting for purchase and sale of merchandise. Lecture: 3 hours",
+      "institution": "Triton College"
+    },
+    {
+      "course_id": "ACC 101",
+      "course_title": "Financial Accounting",
+      "credits": "3.00",
+      "description": "Foundation course is required for further study of accounting. Principles and concepts of financial accounting are emphasized. Topics include the accounting cycle, inventory valuation, the perpetual inventory system, valuing plant assets and depreciation. Topics also include an introduction to corporate accounting. Recommended for students with betterthan- average academic ability, or for students who have previously completed ACC 100 or a course in bookkeeping. Lecture: 3 hours IAI: BUS 903",
+      "institution": "Triton College"
+    },
+    {
+      "course_id": "ACC 103",
+      "course_title": "Basic Accounting II",
+      "credits": "3.00",
+      "description": "Continuation of Basic Accounting, covers basic accounting for accounts receivable and bad debts, notes receivable and notes payable, merchandise inventory, plant assets, accruals and deferrals, voucher systems, payroll accounting, partnerships and corporations. Prerequisite: ACC 100 Lecture: 3 hours",
+      "institution": "Triton College"
+    },
+    {
+      "course_id": "ACC 105",
+      "course_title": "Managerial Accounting",
+      "credits": "3.00",
+      "description": "This second semester foundation course is required for further study in accounting. Managerial accounting topics include the Statement of Cash Flows, cost behavior analysis and use, job order costing, process costing, cost-volume-profit relationships, contribution approach to costing, budgeting, standard costs, relevant costs for decision making, and capital budgeting. Prerequisite: ACC 101 Lecture: 3 hours IAI: BUS 904",
+      "institution": "Triton College"
+    },
+    {
+      "course_id": "ACC 151",
+      "course_title": "Intermediate Accounting I",
+      "credits": "3.00",
+      "description": "In-depth study of generally accepted and alternative accounting principles underlying financial statements. Emphasis is placed on the asset section of the balance sheet and the effects of asset amortization on the income statement. Prerequisite: ACC 105 Lecture: 3 hours",
+      "institution": "Triton College"
+    },
+    {
+      "course_id": "ACC 152",
+      "course_title": "Intermediate Accounting II",
+      "credits": "3.00",
+      "description": "Continuation of Intermediate Accounting I. Emphasis is placed on the liability and owners' equity sections of the balance sheet, income statement, statement of changes in financial position, and other accounting topics such as leases and pensions. Prerequisite: ACC 105 Lecture: 3 hours",
+      "institution": "Triton College"
+    },
+    {
+      "course_id": "ACC 156",
+      "course_title": "Tax Accounting",
+      "credits": "3.00",
+      "description": "Practical study of current federal and Illinois state income taxes as they relate to individual income tax procedures. Prerequisite: ACC 103 or ACC 105 Lecture: 3 hours",
+      "institution": "Triton College"
+    },
+    {
+      "course_id": "ACC 157",
+      "course_title": "Principles of Auditing",
+      "credits": "3.00",
+      "description": "Study of auditing principles and accepted procedures, including the preparation of working papers and an audit report on a practice audit case. Prerequisite: ACC 103 or ACC 105 Lecture: 3 hours",
+      "institution": "Triton College"
+    },
+    {
+      "course_id": "ACC 166",
+      "course_title": "Cost Accounting",
+      "credits": "3.00",
+      "description": "Study of cost-accounting procedures and practices as they apply to process cost, job-order costs, by products, joint products and standard costs. Prerequisite: ACC 105 Lecture: 3 hours",
+      "institution": "Triton College"
+    },
+    {
+      "course_id": "ACC 296",
+      "course_title": "Special Topics in Accounting",
+      "credits": "3.00",
+      "description": "Selected topics in the area of accounting will be taught. Topics relating to current trends and techniques will be discussed. Topics will vary from semester to semester and will be available in the current class schedule. Course may be repeated once when the topics are different. Lecture: 0.5-3 hours Laboratory: 0-6 hours",
+      "institution": "Triton College"
+    }
+  ],
+  "timestamp": "2025-08-10T17:11:55.299394"
+}

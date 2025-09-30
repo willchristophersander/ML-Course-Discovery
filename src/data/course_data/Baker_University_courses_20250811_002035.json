@@ -1,0 +1,74 @@
+{
+  "search_query": {
+    "institution": "Baker University",
+    "successful_variation": "Baker University",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Baker+University&distance=5"
+  },
+  "total_results": 9,
+  "courses": [
+    {
+      "course_id": "AC 141",
+      "course_title": "Introduction to Financial Accounting",
+      "credits": "3.00",
+      "description": "This course introduces accounting theory and procedure including recording, classifying, reporting, and analysis of financial information.",
+      "institution": "Baker University"
+    },
+    {
+      "course_id": "AC 351",
+      "course_title": "Intermediate Accounting I",
+      "credits": "3.00",
+      "description": "This course studies the theoretical structure underlying financial accounting and reporting, the preparation of general purpose financial statements, the determination of balance sheet values for current and long-term assets and current liabilities, and revenue recognition. Prerequisite: AC 141.",
+      "institution": "Baker University"
+    },
+    {
+      "course_id": "AC 352",
+      "course_title": "Intermediate Accounting II",
+      "credits": "3.00",
+      "description": "This course builds upon AC 351 by studying the determination of balance sheet value for investment, long-term liabilities and stockholders' equity accounts. In addition, a number of specialized topics including leases, pensions, income taxes, and earnings per share are introduced. Prerequisite: AC 351.",
+      "institution": "Baker University"
+    },
+    {
+      "course_id": "AC 353",
+      "course_title": "Accounting Information Systems",
+      "credits": "3.00",
+      "description": "Integrated applications software is employed to address problems of information management. Skills in building information systems and data base management are developed by case studies. Prerequisite: AC 351.",
+      "institution": "Baker University"
+    },
+    {
+      "course_id": "AC 354",
+      "course_title": "Managerial Accounting II",
+      "credits": "3.00",
+      "description": "Topics covered include inventory valuation, income determination, capital budgeting, and performance measurement. Prerequisite: AC 142.",
+      "institution": "Baker University"
+    },
+    {
+      "course_id": "AC 355",
+      "course_title": "Income Tax",
+      "credits": "3.00",
+      "description": "This course is an overview of individual income taxation, including determination of gross income, deductions, credits, tax computation, and tax planning for individuals. Prerequisite: AC 141.",
+      "institution": "Baker University"
+    },
+    {
+      "course_id": "AC 456",
+      "course_title": "Advanced Accounting",
+      "credits": "3.00",
+      "description": "This course provides an in-depth study of business combinations and the preparation of consolidated financial statements. Other topics include foreign currency transactions, translation of foreign currency financial statements, and accounting for governmental and not-for-profit organizations. Prerequisite: AC 352.",
+      "institution": "Baker University"
+    },
+    {
+      "course_id": "AC 457",
+      "course_title": "Auditing",
+      "credits": "3.00",
+      "description": "The nature and purpose of auditing, including legal liability, professional ethics, and auditing standards, are introduced. Prerequisite: AC 352.",
+      "institution": "Baker University"
+    },
+    {
+      "course_id": "AC 458",
+      "course_title": "Seminar in Accounting Topics",
+      "credits": "3.00",
+      "description": "This course examines accounting and tax theory and practice as required for professional standards, practice, and certification. Prerequisite: AC 352.",
+      "institution": "Baker University"
+    }
+  ],
+  "timestamp": "2025-08-11T00:20:35.727593"
+}

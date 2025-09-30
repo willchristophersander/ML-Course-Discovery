@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Flint Hills Technical College",
+    "successful_variation": "Flint Hills Technical College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Flint+Hills+Technical+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "AMT 111",
+      "course_title": "Electrical Components and Ignition Systems",
+      "credits": "4.00",
+      "description": "4 credit hours Students will be able to demonstrate theory and practice of electrical testing methods, Ohm's Law, and wiring schematics. Students will repair and overhaul various automotive electrical devices. Students will explain different oscilloscope patterns and procedures for engine electrical analysis.",
+      "institution": "Flint Hills Technical College"
+    },
+    {
+      "course_id": "AMT 112",
+      "course_title": "Automotive Engines",
+      "credits": "4.00",
+      "description": "4 credit hours Students will demonstrate the accepted procedures in diagnosing, repairing, and rebuilding an automotive engine. Students will explain a combination of topics including safety, proper use of tools, measuring instruments, and application of repair manuals.",
+      "institution": "Flint Hills Technical College"
+    },
+    {
+      "course_id": "AMT 113",
+      "course_title": "Fuel Systems",
+      "credits": "4.00",
+      "description": "4 credit hours Students will demonstrate service and repair of carbureted fuel systems. Students will discuss operation of mechanical fuel pumps, fuel tanks, and early fuel evaporation systems.",
+      "institution": "Flint Hills Technical College"
+    },
+    {
+      "course_id": "AMT 116",
+      "course_title": "Brakes",
+      "credits": "3.00",
+      "description": "3 credit hours Students will demonstrate diagnosis and repair of standard hydraulic brake systems and anti-lock brake control systems. This demonstration will include both disc and drum brakes, master cylinders, brake boosters, and ABS components.",
+      "institution": "Flint Hills Technical College"
+    },
+    {
+      "course_id": "AMT 117",
+      "course_title": "Manual Power Trains/Four-Wheel Drive",
+      "credits": "3.00",
+      "description": "3 credit hours Students will demonstrate diagnosis and repair of manual power train components, including clutches, manual transmissions, drive lines, differential assembly, and four-wheel drive components.",
+      "institution": "Flint Hills Technical College"
+    },
+    {
+      "course_id": "AMT 213",
+      "course_title": "Climate Control Systems",
+      "credits": "3.00",
+      "description": "3 credit hours Upon completion, students will be able to demonstrate proper diagnosis and repair of automotive heating and air conditioning systems. Students will also be able to discuss the principles of stratospheric ozone protection, chlorofluorocarbons, and refrigerant recycling.",
+      "institution": "Flint Hills Technical College"
+    },
+    {
+      "course_id": "AMT 214",
+      "course_title": "Automatic Transmissions/Transaxles",
+      "credits": "4.00",
+      "description": "4 credit hours Students will be able to diagnose, remove, and repair modern automotive automatic transmissions. Students will also perform hydraulic pressure tests and make necessary transmission adjustments.",
+      "institution": "Flint Hills Technical College"
+    },
+    {
+      "course_id": "AMT 216",
+      "course_title": "Advanced Electronics and Computer Systems",
+      "credits": "4.00",
+      "description": "4 credit hours Students will be able to explain the operation and testing of the computerized electrical components found on late-model automobiles. Students will also demonstrate proper diagnosis and repair procedures of systems.",
+      "institution": "Flint Hills Technical College"
+    },
+    {
+      "course_id": "AMT 217",
+      "course_title": "Wheels and Suspension",
+      "credits": "3.00",
+      "description": "3 credit hours Students will explain maintenance and repair procedures of McPherson struts, coil and leaf springs and torsion bar suspension systems. Students will also demonstrate proper maintenance and repair of steering systems and how to perform a four-wheel alignment.",
+      "institution": "Flint Hills Technical College"
+    },
+    {
+      "course_id": "AMT 232",
+      "course_title": "Electronic Fuel Injection",
+      "credits": "4.00",
+      "description": "4 credit hours Students will diagnose and repair modern gasoline fuel injection systems. Students will discuss the physical principles involved in the fuel injection process. Students will also demonstrate skill in the diagnosis of drivability concerns.",
+      "institution": "Flint Hills Technical College"
+    }
+  ],
+  "timestamp": "2025-08-10T23:52:20.066669"
+}

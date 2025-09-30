@@ -1,0 +1,74 @@
+{
+  "search_query": {
+    "institution": "California State University, Northridge",
+    "successful_variation": "California State University-Northridge",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=California+State+University-Northridge&distance=5"
+  },
+  "total_results": 9,
+  "courses": [
+    {
+      "course_id": "AAS 097",
+      "course_title": "Developmental Reading",
+      "credits": "3.00",
+      "description": "(3 units University credit; no credit toward graduation) An intensive course that assists students in improving reading comprehension and analysis skills. This course is designed to develop basic reading and writing skills for students whose English Placement Test scores are below 141. Students will improve analytical reading skills necessary to meet the challenges of college reading and writing. Regular reading and writing assignments are requisites of this course. Students must successfully complete AAS 097 before enrolling in AAS 098 or its equivalent. (Crosslisted with CHS, ENGL, and PAS 097) (Credit/No Credit Only)",
+      "institution": "California State University, Northridge"
+    },
+    {
+      "course_id": "AAS 098",
+      "course_title": "Developmental Writing",
+      "credits": "3.00",
+      "description": "(3 units University credit; no credit toward graduation) Intensive study of basic writing skills for students whose English Placement Test scores are between 141-150, or those who successfully completed AAS 097 or its equivalent. Emphasis on the development of sentences, paragraphs and essays using various composition strategies, and intensive practice in grammar, punctuation, and other mechanics involved in the writing process. Students must successfully complete AAS 098 before enrolling in AAS 155 or its equivalent. (Crosslisted with CHS, ENGL, and PAS 098) (Credit/No Credit Only)",
+      "institution": "California State University, Northridge"
+    },
+    {
+      "course_id": "AAS 100",
+      "course_title": "Introduction to Asian American Studies",
+      "credits": "3.00",
+      "description": "Survey of research on Asian Pacific American experiences, including: history, community life, language experience, arts, education, politics, and economics. Emphasizes research on Americans of Chinese, Filipino, Japanese, Korean, Southeast Asian, South Asian, and Pacific Island ancestry. Available for Section B of the Multicultural Credential Requirement for Credential Candidates. (Available for General Education, Comparative Cultural Studies)",
+      "institution": "California State University, Northridge"
+    },
+    {
+      "course_id": "AAS 151",
+      "course_title": "Fundamentals of Public Speaking",
+      "credits": "3.00",
+      "description": "Prerequisites: EPT score of 151 or better or EPT and a grade of \u201ccredit\u201d in AAS 097/098 or equivalent. This course is an introduction to public speaking and oral communications processes, with particular emphasis on issues related to Asian American Studies and Asian Pacific American communities. In addition to basic skills, students will be introduced to Asian Pacific American figures who have used oral communication as a way to address issues related to race, ethnicity, gender, sexuality, identity, and community. Students will be required to deliver a variety of speeches. The course will include intensive practice in public speaking, logical reasoning, and critical reasoning. Students are required to attend 15 hours of public speaking events outside of the classroom. Crosslisted with CHS 151, PAS 151 and COMS 151/L. (Available for General Education, Oral Communication)",
+      "institution": "California State University, Northridge"
+    },
+    {
+      "course_id": "AAS 155",
+      "course_title": "Approaches to University Writing",
+      "credits": "3.00",
+      "description": "Prerequisite: EPT score of 151 or better, and a grade of Credit in 097 and/or 098, or equivalent. Expository prose writing with a focus on both content and form. Specific emphases shall include the exercise of logical thought and clear expression, the development of effective organizational strategies, and the appropriate gathering and utilization of evidence. Includes instruction on diction, syntax, and grammar, as well as the elements of prose style. Students receive credit for only 1 course chosen from AAS, CHS, ENGL, and PAS 155 (Crosslisted with CHS, ENGL, and PAS 155) (Available for General Education, Analytical Reading/Expository Writing) (IC)",
+      "institution": "California State University, Northridge"
+    },
+    {
+      "course_id": "AAS 201",
+      "course_title": "Race, Racism, and Critical Thinking",
+      "credits": "3.00",
+      "description": "Preparatory: Completion of the GE sections Analytical Reading/Expository Writing and Mathematics. Introduction to the process of critical thinking through the lens of race-based theories and selected historical and contemporary discourse of African Americans, Asian Americans, European Americans, and Latinos on race relations and multiculturalism in American society. Examines contemporary social issues through the use of scholarly studies and a range of cultural \u201ctexts\u201d in order to explore the effects of race and racism on the relationship between language and logic, processes and form of reasoning, and practices of critical reflection. Also examines intersection of race, gender, and class. (Available for General Education, Critical Thinking)",
+      "institution": "California State University, Northridge"
+    },
+    {
+      "course_id": "AAS 210",
+      "course_title": "History of Asians in America",
+      "credits": "3.00",
+      "description": "Introduction to the history of Asian Americans in the United States from the 1800s to the present. Students review the historical forces affecting immigration of the following communities: Chinese, Japanese, Filipino, Korean, South Asian, Southeast Asian and Pacific Islander. Analysis of problems resulting from limited access to the social, political, and economic institutions of American society. (Available for General Education, Social Sciences)",
+      "institution": "California State University, Northridge"
+    },
+    {
+      "course_id": "AAS 220",
+      "course_title": "Survey of Asian American Literature",
+      "credits": "3.00",
+      "description": "Prerequisite: Completion of the lower division writing requirement. Survey of Asian American literature from the late 19th century to the present. Introductory study of prose fiction and non-fiction, poetry, and drama written by Americans of Chinese, Japanese, Korean, Filipino, Southeast Asian, South Asian, and Pacific Island ancestry. Regular writing assignments required. (Available for General Education, Arts and Humanities)",
+      "institution": "California State University, Northridge"
+    },
+    {
+      "course_id": "AAS 230",
+      "course_title": "Asian Americans and the Media",
+      "credits": "3.00",
+      "description": "Study of the effects of mass media on the history and development of Asians in America. Particular attention to Asian American images in film, television, the internet, and advertisements. (Available for General Education, Lifelong Learning)",
+      "institution": "California State University, Northridge"
+    }
+  ],
+  "timestamp": "2025-08-09T20:22:42.606004"
+}

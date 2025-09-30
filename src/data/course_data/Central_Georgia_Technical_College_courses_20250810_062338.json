@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Central Georgia Technical College",
+    "successful_variation": "Central Georgia Technical College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Central+Georgia+Technical+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACC 105",
+      "course_title": "Accounting Database Fundamentals",
+      "credits": "3.00",
+      "description": "Prerequisite: SCT 100 Emphasizes use of database management software packages for Provisional-related database applications. Topics include: planning and designing a database; database creation; data entry; database access, manipulation and updating; sort, index and query functions; database Provisional-related applications; and database management applications. Laboratory work includes theoretical and technical application.",
+      "institution": "Central Georgia Technical College"
+    },
+    {
+      "course_id": "ACC 106",
+      "course_title": "Accounting Spreadsheet Fundamentals",
+      "credits": "3.00",
+      "description": "Prerequisite: SCT 100 Provides instruction in the use of electronic spreadsheet software packages for Provisional related spreadsheet applications. Students become proficient in creation, modification, and combination of spreadsheets. Topics include: creation of spreadsheet; editing and deleting entries; introduction to macros and computations through the use of formula and/or logic functions; and Provisional related spreadsheet applications. Laboratory work includes theoretical and technical application.",
+      "institution": "Central Georgia Technical College"
+    },
+    {
+      "course_id": "ACC 107",
+      "course_title": "Full- Time Accounting Internship",
+      "credits": "3.00",
+      "description": "Prerequisite: All non-elective courses required for Provisional completion Provides in-depth application and reinforcement of accounting and employability principles in an actual job setting. This internship allows the student to become involved in intensive on-the-job accounting applications that require full-time concentration, practice, and follow through. Topics include: applications of accounting principles; problem solving; adaptability to job setting equipment and technology; use of proper interpersonal skills; development of constructive work habits and appropriate work ethics, with consideration of factors such as confidentiality; and concentrated development of productivity and quality job performance through practice. The full-time accounting internship is implemented through the use of written individualized training plans, written performance evaluation, minimum of two required seminars, and a required student project.",
+      "institution": "Central Georgia Technical College"
+    },
+    {
+      "course_id": "ACC 108",
+      "course_title": "Half- Time Accounting Internship",
+      "credits": "3.00",
+      "description": "Prerequisite: All non-elective courses required for Provisional completion Introduces students to the application and reinforcement of accounting an employability principles in an actual job setting. This internship acquaints the student with realistic work situations and provides insights into accounting applications on the job. Topics include: applications of accounting principles; problem solving; adaptability to job setting equipment and technology; use of proper interpersonal skills; development of constructive work habits and an appropriate work ethic, with consideration of factors such as confidentiality; and initial development of productivity and quality job performance. The half-time accounting internship implemented through the use of written individualized training plans, written performance evaluation, and two required seminars.",
+      "institution": "Central Georgia Technical College"
+    },
+    {
+      "course_id": "ACC 120",
+      "course_title": "Principles of Auditing",
+      "credits": "3.00",
+      "description": "Prerequisite: ACC 103 Introduces the student to the auditor's responsibilities in the areas of professional standards, reports, ethics and legal liability. Students learn about the technology of auditing; evidence gathering, audit/assurance processes, internal controls, and sampling techniques. The specific methods of auditing the revenue/receipts process, disbursement cycle, personnel and payroll procedures, asset changes, and debt and equity are learned. Procedures related to attest engagements and internal auditing are also reviewed.",
+      "institution": "Central Georgia Technical College"
+    },
+    {
+      "course_id": "ACC 122",
+      "course_title": "Introduction to Governmental And Nonprofit Accounting",
+      "credits": "3.00",
+      "description": "Prerequisite: ACC 101, ACC 102, ACC 103 Provides an introduction to financial reporting and accounting principles for state/local governments and nonprofit entities.",
+      "institution": "Central Georgia Technical College"
+    },
+    {
+      "course_id": "ACC 150",
+      "course_title": "Cost Accounting",
+      "credits": "3.00",
+      "description": "Prerequisite: ACC 103 Emphasizes a thorough understanding of cost concepts, cost behavior, and cost accounting techniques as they are applied to manufacturing cost systems. Topics include job order cost accounting, process cost accounting, and standard cost accounting.",
+      "institution": "Central Georgia Technical College"
+    },
+    {
+      "course_id": "ACC 151",
+      "course_title": "Individual Tax Accounting",
+      "credits": "3.00",
+      "description": "Prerequisite: Provisional admission Provides instruction for preparation of both state and federal income tax. Topics include: taxable income, income adjustments, schedules, standard deductions, itemized deductions, exemptions, tax credits, and tax calculations.",
+      "institution": "Central Georgia Technical College"
+    },
+    {
+      "course_id": "ACC 152",
+      "course_title": "Payroll Accounting",
+      "credits": "3.00",
+      "description": "Prerequisite: ACC 101 Provides students with an understanding of the laws that affect a company's payroll structure and practical application skills in maintaining payroll records. Topics include: payroll and personnel records; computing and paying wages and salaries; various taxes; and analyzing and journalizing payroll transactions.",
+      "institution": "Central Georgia Technical College"
+    },
+    {
+      "course_id": "ACC 154",
+      "course_title": "Personal Finance",
+      "credits": "3.00",
+      "description": "Prerequisite: Provisional admission This course is designed to give students the foundations needed to make sound financial decisions. Students learn how to apply economic concepts to financial situations. Topics include: budgeting, building net worth, housing selection and purchase, credit, insurance, investing and retirement and estate planning.",
+      "institution": "Central Georgia Technical College"
+    }
+  ],
+  "timestamp": "2025-08-10T06:23:38.823072"
+}

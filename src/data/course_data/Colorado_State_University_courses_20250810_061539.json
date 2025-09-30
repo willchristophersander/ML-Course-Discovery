@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Colorado State University",
+    "successful_variation": "Colorado State University",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Colorado+State+University&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "AA 100",
+      "course_title": "Introduction to Astronomy (GT-SC2)",
+      "credits": "3.00",
+      "description": "Fall, Spring, Summer. Description of the various objects found in the heavens as well as the principles and techniques employed in investigations of these objects.",
+      "institution": "Colorado State University"
+    },
+    {
+      "course_id": "AA 101",
+      "course_title": "Astronomy Laboratory (GT-SC1)",
+      "credits": "1.00",
+      "description": "Fall, Spring, Summer. Prerequisite: AA 100 or concurrent registration. Observations of the various objects found in the heavens with 5-inch reflecting telescope.",
+      "institution": "Colorado State University"
+    },
+    {
+      "course_id": "AA 150",
+      "course_title": "Observational Astronomy",
+      "credits": "3.00",
+      "description": "Summer. Must register for lecture and laboratory. Astronomical objects in the night and day sky; observation with 16-inch telescope.",
+      "institution": "Colorado State University"
+    },
+    {
+      "course_id": "AA 301",
+      "course_title": "Astrophysics I",
+      "credits": "5.00",
+      "description": "Fall (odd years). Prerequisite: MATH 124; MATH 126; PH 110 or PH 121 or PH 141. Must register for lecture and laboratory. Celestial mechanics, earth-moon systems, planets and satellites, interplanetary medium, origin of solar system.",
+      "institution": "Colorado State University"
+    },
+    {
+      "course_id": "AA 302",
+      "course_title": "Astrophysics II",
+      "credits": "5.00",
+      "description": "Spring (odd years). Prerequisite: MATH 124 and MATH 126; PH 110 or PH 121 or PH 141. Must register for lecture and laboratory. Properties of sun and stars, variable stars, binary and multiple star systems, star clusters, interstellar medium, stellar evolution.",
+      "institution": "Colorado State University"
+    },
+    {
+      "course_id": "AA 303",
+      "course_title": "Astrophysics III",
+      "credits": "5.00",
+      "description": "Fall (even years). Prerequisite: MATH 124; MATH 126; PH 110 or PH 121 or PH 141. Must register for lecture and laboratory. Properties of the Milky Way, galaxies, quasars and related objects; special and general relativity; cosmology.",
+      "institution": "Colorado State University"
+    },
+    {
+      "course_id": "AA 495",
+      "course_title": "Independent Study in Astrophysics",
+      "credits": "6.00",
+      "description": "Fall, Spring, Summer Prerequisite: Written consent of instructor.",
+      "institution": "Colorado State University"
+    },
+    {
+      "course_id": "ACT 205",
+      "course_title": "Fundamentals of Accounting",
+      "credits": "3.00",
+      "description": "Fall, Spring, Summer. Credit not allowed for both ACT 205 and ACT 210. For nonbusiness majors. Understanding of financial statements to support financial and managerial decision making.",
+      "institution": "Colorado State University"
+    },
+    {
+      "course_id": "ACT 210",
+      "course_title": "Introduction to Financial Accounting",
+      "credits": "3.00",
+      "description": "Fall, Spring, Summer.",
+      "institution": "Colorado State University"
+    },
+    {
+      "course_id": "ACT 220",
+      "course_title": "Introduction to Managerial Accounting",
+      "credits": "3.00",
+      "description": "Fall, Spring, Summer. Prerequisite: ACT 205 or ACT 210; BUS 150 or concurrent registration or CS 110 or concurrent registration. Use of accounting information in internal decision making.",
+      "institution": "Colorado State University"
+    }
+  ],
+  "timestamp": "2025-08-10T06:15:39.655622"
+}

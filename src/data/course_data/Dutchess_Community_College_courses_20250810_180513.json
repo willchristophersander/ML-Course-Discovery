@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Dutchess Community College",
+    "successful_variation": "Dutchess Community College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Dutchess+Community+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ABE 101",
+      "course_title": "Adult Basic Ed Read Wrt",
+      "credits": "0.00",
+      "description": "This course addresses educational deficiencies for adults who need remedial reading and writing instruction. It is designed for adults who are 16 and older and out of school. Adult students will practice writing, learning grammar, spelling, punctuation and other basic English requirements. There are reading activities to improve literacy, comprehension and communication. Classes are student centered. Students express literacy related goals, and the program helps them to achieve stated goals. This program helps prepare students for GED.",
+      "institution": "Dutchess Community College"
+    },
+    {
+      "course_id": "ACC 204",
+      "course_title": "Managerial Accounting",
+      "credits": "4.00",
+      "description": "The emphasis of the course is on how managers use accounting data internally in directing the affairs of organizations. The purpose of the course is to show what kind of accounting information is needed, where this information can be obtained and how this information is used by managers as they carry out their planning, control and decision making responsibilities. Prerequisites: ACC 102 with a grade of C or better or ACC 104 with a grade of C or better.",
+      "institution": "Dutchess Community College"
+    },
+    {
+      "course_id": "ACC 205",
+      "course_title": "Computerized Accounting Appl",
+      "credits": "2.00",
+      "description": "This course is designed to introduce the student to the use of the computer in an accounting environment and give the student the skills necessary to record and prepare accounting transactions and reports. The student will be required to apply accounting knowledge through the use of the accounting software package, Quick Books Pro, for electronic preparation of accounting transactions, financial statements, financial budgets and other relevant business reports for both service and merchandising industries. Note: Students must register for both a lecture and a lab. 2 Lecture, 1 Lab, 2 Credit Hours. Prerequisites: BUS 103 and ACC 101. Corequisite: BUS 109.",
+      "institution": "Dutchess Community College"
+    },
+    {
+      "course_id": "ACC 213",
+      "course_title": "Accntng Systems & The Computer",
+      "credits": "3.00",
+      "description": "The purpose of this course is to familiarize the student with accounting systems and procedures with emphasis on computerized accounting systems, to acquaint the student with fundamental computer concepts and terminology, to give students hands-on computer experience through the preparation and processing of accounting related programs and software and to reinforce accounting the pry and integrate it with computer practice. Prerequisites: ACC 102 with a grade of C or better and BUS 109 and BUS 110.",
+      "institution": "Dutchess Community College"
+    },
+    {
+      "course_id": "ACC 221",
+      "course_title": "Intermediate Accounting I",
+      "credits": "4.00",
+      "description": "This course provides an in-depth study of financial accounting concepts and procedures. The following topics will be covered: the accounting environment and basic accounting concepts and theory; statement of income and retained earnings; balance sheet and statement of cash flows; the time value of money; cash, temporary investments, and receivables; inventories and plant assets. Prerequisite: ACC 204 with a grade of C or better.",
+      "institution": "Dutchess Community College"
+    },
+    {
+      "course_id": "ACC 241",
+      "course_title": "Income Tax Procedures",
+      "credits": "3.00",
+      "description": "A study of the federal income tax laws as they affect individuals. Principal topics are returns, rates, exemptions, income, deductions and losses, itemized deductions, business expenses and losses, cost recovery, employee expenses, special methods for computing tax, tax credits, property transactions - basis determination, non-taxable exchanges, capital gains and losses and depreciation recapture. Prerequisite: ACC 104 or ACC 101 or permission of ACC Program Chair.",
+      "institution": "Dutchess Community College"
+    },
+    {
+      "course_id": "ACC 260",
+      "course_title": "Internship In Accounting",
+      "credits": "3.00",
+      "description": "This course is designed for students participating in a cooperative education work experience. It is open to matriculated ACC students. Students are placed with selected cooperative employers for a specific number of hours (minimum 120). They participate in weekly seminars and submit a paper or report related to the work experience. A written evaluation by the employer is also submitted. Note: Sophomore status required. Students must register for both a lecture and a lab: 1 Lecture, 8 Lab, 3 Credit Hours. Prerequisite: Permission of department.",
+      "institution": "Dutchess Community College"
+    },
+    {
+      "course_id": "ACC 271",
+      "course_title": "Special Study Project I",
+      "credits": "1.00",
+      "description": "A special learning experience designed by one or more students with the cooperation and approval of a faculty member. Proposed study plans require departmental approval. Projects may be based on reading, research, community service, work experience, or other activities that advance the student's knowledge and competence in the field of accounting or related areas. The student's time commitment to the project will be approximately 35 - 50 hours.",
+      "institution": "Dutchess Community College"
+    },
+    {
+      "course_id": "ACC 272",
+      "course_title": "Special Study Project Ii",
+      "credits": "2.00",
+      "description": "Similar to ACC 271, except that the student's time commitment to the project will be approximately 70-90 hours.",
+      "institution": "Dutchess Community College"
+    },
+    {
+      "course_id": "ACC 273",
+      "course_title": "Special Study Project Iii",
+      "credits": "3.00",
+      "description": "Similar to ACC 271, except that the student's time commitment to the project will be approximately 105-135 hours.",
+      "institution": "Dutchess Community College"
+    }
+  ],
+  "timestamp": "2025-08-10T18:05:13.291216"
+}

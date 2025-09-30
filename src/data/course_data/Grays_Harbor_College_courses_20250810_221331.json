@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Grays Harbor College",
+    "successful_variation": "Grays Harbor College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Grays+Harbor+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACCT 113",
+      "course_title": "Introduction to Accounting I",
+      "credits": "5.00",
+      "description": "Prerequisites: READ 090, completion of or current enrollment in MATH 093 or instructor permission. Theory and practice of double-entry bookkeeping and accounting for professional, service and merchandising business organizations. Coverage of both cash and accrual systems with preparation of worksheets, adjusting and closing entries, reversing entries, and financial statements. 5 lecture hours. Vocational program course. May be used as a general elective in the AA degree.",
+      "institution": "Grays Harbor College"
+    },
+    {
+      "course_id": "ACCT 114",
+      "course_title": "Introduction to Accounting II",
+      "credits": "5.00",
+      "description": "Prerequisite: ACCT 113. Introduction to accounting for partnerships and corporations. Valuation of receivables, inventories and plant equipment. Students complete a practice set. 5 lecture hours. Vocational program course. May be used as a general elective in the AA degree.",
+      "institution": "Grays Harbor College"
+    },
+    {
+      "course_id": "ACCT 175",
+      "course_title": "Business and Payroll Tax Accounting",
+      "credits": "3.00",
+      "description": "Prerequisites: ACCT 113 or ACCT& 201 or instructor permission. A study of the various aspects of federal, state and local taxes levied upon business. Emphasis placed on federal income and Social Security tax withholding, sales tax requirements and various state regulations regarding employee health, safety, unemployment insurance and business and occupation tax. Students will practice completion of various tax reports and maintenance of accurate tax related records. 3 lecture hours. Vocational program course. May be used as a general elective in the AA degree.",
+      "institution": "Grays Harbor College"
+    },
+    {
+      "course_id": "ACCT 176",
+      "course_title": "Computerized Accounting Functions",
+      "credits": "3.00",
+      "description": "Prerequisites: ACCT 113 or ACCT& 201; CIS 102 or instructor permission. Introduction to computer applications in an accounting environment. Students will analyze transactions, enter data into a computerized accounting system and prepare various financial reports. Included are integrated general ledgers, accounts receivable and payable, depreciation, inventory and payroll systems. 2 lecture hour; 2 lab hours. Vocational program course. May be used as a general elective in the AA degree.",
+      "institution": "Grays Harbor College"
+    },
+    {
+      "course_id": "ACCT 201",
+      "course_title": "Principles of Accounting I",
+      "credits": "5.00",
+      "description": "Recommended Preparation: CIS 102. Prerequisites: MATH 098 or placement in MATH& 107 or higher. Completion of ENGL 095 or placement in ENGL& 101 or instructor permission. A foundation course for accounting program students and students planning to transfer to a four-year institution. The theory and practice of financial accounting are introduced and developed. Involves the measuring of business income and expenses, the accounting cycle, merchandising transactions, the sole proprietorship form of business organization and the relationship and preparation of the accounting statements. Includes emphasis on the accounting for current assets, property, plant and equipment. 5 lecture hours. Satisfies specified elective requirement for the AA degree.",
+      "institution": "Grays Harbor College"
+    },
+    {
+      "course_id": "ACCT 202",
+      "course_title": "Principles of Accounting II",
+      "credits": "5.00",
+      "description": "Prerequisites: ACCT& 201 or ACCT 114. This course continues the study of financial accounting theory through the application of the basic concepts and principles of the partnerships and corporation form of business organization. Includes the study of liabilities, time value of money, statement of cash flow, additional financial reporting issues and the analysis and interpretation of financial statements. 5 lecture hours. Satisfies specified elective requirement for the AA degree.",
+      "institution": "Grays Harbor College"
+    },
+    {
+      "course_id": "ACCT 203",
+      "course_title": "Principles of Accounting III",
+      "credits": "5.00",
+      "description": "Prerequisite: ACCT& 202. A study of accounting information and its application and uses within the business organization. Includes the study of manufacturing operations with emphasis on determination, behavior and control of costs, costvolume- profit analysis, budgeting and responsibility accounting, and management decision making for pricing, capital expenditures and short-run analysis. 5 lecture hours. Satisfies specified elective requirement for the AA degree.",
+      "institution": "Grays Harbor College"
+    },
+    {
+      "course_id": "ACCT 220",
+      "course_title": "Federal Income Tax I",
+      "credits": "5.00",
+      "description": "Prerequisite: ACCT 113 or ACCT& 201 or instructor permission. An introduction to the basic concepts of the Internal Revenue Code as applied to individual and sole proprietorship-small business tax problems. The course involves integrating concepts and the application of recent laws and regulations to the preparation of 1040 Individual Income Tax return; Schedule A, Itemized Deductions; Schedule C, Profit or(Loss) from Business, and depreciation methods. 5 lecture hours. Vocational program course. May be used as a general elective in the AA degree.",
+      "institution": "Grays Harbor College"
+    },
+    {
+      "course_id": "AHLTH 130",
+      "course_title": "Medical Terminology",
+      "credits": "3.00",
+      "description": "Prerequisite: READ 090 or placement in READ 120. A self-programmed, module course designed to build a basic knowledge of medical vocabulary. The material presents a logical step-by-step method of learning medical terminology. The student is able to recognize and build thousands of terms after learning the meaning of a few word parts. CD ROMs enhance learning. 3 lecture hours. Vocational program course. May be used as a general elective in the AA degree.",
+      "institution": "Grays Harbor College"
+    },
+    {
+      "course_id": "AHLTH 150",
+      "course_title": "Comprehensive Medical Terminology",
+      "credits": "5.00",
+      "description": "Prerequisite: READ 090 or placement in READ 120. This course presents a comprehensive systems approach to the study of selected roots, prefixes, and suffixes; principles of word building; study of diagnostic, operative, and symptomatic terms of the various systems of the body. There is an emphasis on accurate spelling and pronunciation of all medical terms. Study includes common medical abbreviations, selected eponyms, clinical laboratory procedures and radiology procedures with associated terminology for each body system. 5 lecture hours. Vocational program course. May be used as a general elective in the AA degree.",
+      "institution": "Grays Harbor College"
+    }
+  ],
+  "timestamp": "2025-08-10T22:13:31.091063"
+}

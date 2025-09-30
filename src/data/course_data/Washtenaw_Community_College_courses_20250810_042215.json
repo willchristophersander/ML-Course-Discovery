@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Washtenaw Community College",
+    "successful_variation": "Washtenaw Community College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Washtenaw+Community+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ABR 111",
+      "course_title": "Introduction to Auto Body Repair",
+      "credits": "4.00",
+      "description": "Level i Prerequisites: Academic Reading and Writing Levels of 6 60 lecture, 45 lab, 0 clinical, 0 other, 105 total contact hours This entry level, self-paced course will focus on preparing students for a career in the automotive collision repair industry. Through the use of training modules, students will learn industry standard repair procedures, damage assessment, and proper tool selection to aid in the repair of collision damaged automobiles. Additionally, students will be provided with hands-on training for body panel repair and alignment, plastic welding, MIG welding and be introduced to the automotive finishing process.",
+      "institution": "Washtenaw Community College"
+    },
+    {
+      "course_id": "ABR 112",
+      "course_title": "Introduction to Automotive Refinishing",
+      "credits": "4.00",
+      "description": "Level i Prerequisites: Academic Reading and Writing Levels of 6 60 lecture, 45 lab, 0 clinical, 0 other, 105 total contact hours This entry level, self-paced course establishes the foundation on which the beginning painter builds his or her knowledge for a career in the automotive refinishing industry. Students will be exposed to today's industry standard methods to include learning how to apply base and clear systems, single stage coatings, primers, and sealers. This is a \"hands on\" course where students will learn panel preparation, proper mixing of sprayable materials, proper spray gun techniques and adherence to industry safety procedures.",
+      "institution": "Washtenaw Community College"
+    },
+    {
+      "course_id": "ABR 113",
+      "course_title": "Estimating and Shop Operations",
+      "credits": "4.00",
+      "description": "Level i Prerequisites: Academic Reading and Writing Levels of 6; Academic Math Level 2; ABR 111 60 lecture, 45 lab, 0 clinical, 0 other, 105 total contact hours This course provides students with the opportunity to develop skills in repair estimation associated with collision damaged vehicles. Skills acquired will include hand written estimation along with the use of software specifically developed for the auto body repair industry. Damage assessment, parts compilation, calculating of repair cost, and refinishing information are some of the subjects to be covered. Additionally, students will examine the nature of the body shop management team and the factors that contribute to the success and profitability of an effective, efficient operation. The title of this course was previously Applied Body Welding and Estimation.",
+      "institution": "Washtenaw Community College"
+    },
+    {
+      "course_id": "ABR 114",
+      "course_title": "Applied Auto Body Welding",
+      "credits": "2.00",
+      "description": "Level i Prerequisites: Academic Reading and Writing Levels of 6; ABR 111 minimum grade \"C\" 30 lecture, 30 lab, 0 clinical, 0 other, 60 total contact hours Through the use of specifically formulated modules, students will develop and apply basic welding and cutting skills associated with crash damaged panel replacement as related to the collision repair industry. Areas of study will include proper equipment selection and set up, fitment of panels to be welded, and plasma along with oxy-acetylene cutting procedures. Emphasis will be placed on producing I-CAR acceptable MIG welding of butt, lap, and plug welds completed in various welding positions.",
+      "institution": "Washtenaw Community College"
+    },
+    {
+      "course_id": "ABR 116",
+      "course_title": "The Evolution of the Automobile",
+      "credits": "2.00",
+      "description": "Level i Prerequisites: Academic Reading and Writing Levels of 6 30 lecture, 15 lab, 0 clinical, 0 other, 45 total contact hours This introductory course provides students with basic knowledge and skills relating to automotive design, evolution, and repair. The course combines lecture, student-conducted research, and hands-on shop training. Topics include: evolution of auto design, automotive systems, and research techniques. Students participate in lab experiences to develop skills in parts fabrication.",
+      "institution": "Washtenaw Community College"
+    },
+    {
+      "course_id": "ABR 119",
+      "course_title": "The Art of Metal Shaping",
+      "credits": "2.00",
+      "description": "Level i Prerequisites: Academic Reading and Writing Levels of 6 30 lecture, 15 lab, 0 clinical, 0 other, 45 total contact hours This course will introduce the student to \"the working of sheet metals by hand.\" In addition to skillful handling of tools, it is necessary for the students to possess a thorough knowledge of the properties and behavior of materials in order to insure that they move in the desired direction when worked. Areas of study will include: Sheet metal shaping with hand tools over handcrafted wood forms, over anvils, and over sand/shot bags and fabricating hand-made parts using a range of sheet metal materials with varied thickness and hardness.",
+      "institution": "Washtenaw Community College"
+    },
+    {
+      "course_id": "ABR 123",
+      "course_title": "Technical Auto Body Repair",
+      "credits": "4.00",
+      "description": "Level i Prerequisites: Academic Reading and Writing Levels of 6; ABR 111 minimum grade \"C\" 60 lecture, 45 lab, 0 clinical, 0 other, 105 total contact hours Students continue to build on skills learned. Students will be exposed to aspects of body panel modification including fender sectioning, shaving door handles, door skinning and continuation of basic bumping techniques using specialty items such as hydraulic rams. Emphasis is placed on quality, craftsmanship and excellent work habits.",
+      "institution": "Washtenaw Community College"
+    },
+    {
+      "course_id": "ABR 124",
+      "course_title": "Technical Automotive Refinishing",
+      "credits": "4.00",
+      "description": "Level i Prerequisites: Academic Reading and Writing Levels of 6; ABR 112 minimum grade \"C\" 60 lecture, 45 lab, 0 clinical, 0 other, 105 total contact hours This course provides students the opportunity to advance fundamental skills. Lab assignments will include the proper surface preparation of a vehicle's front clip. Operations such as proper spraying techniques for the application of metallic colors, spot repairs, color blending, single stage, base-coat clear-coat systems, tri-coat finishes, and specialty products will be covered. Basic custom paint, detailing, and advanced color mixing and matching will also be covered.",
+      "institution": "Washtenaw Community College"
+    },
+    {
+      "course_id": "ABR 130",
+      "course_title": "Custom Painting",
+      "credits": "4.00",
+      "description": "Level i Prerequisites: Academic Reading and Writing Levels of 6 Level ii Prerequisites: ABR 112 30 lecture, 90 lab, 0 clinical, 0 other, 120 total contact hours This course provides students with an understanding of the art of custom painting. Students work with the tools and techniques used in the field. The course covers the use of special effect colors such as pearls and candies. Students use air brushes, pinstripe brushes, and lettering brushes. Murals, graphics, and etching are also covered. Lab assignments on vehicles will provide an opportunity to improve skills.",
+      "institution": "Washtenaw Community College"
+    },
+    {
+      "course_id": "ABR 135",
+      "course_title": "Collision- Related Mechanical and Electrical Repairs",
+      "credits": "4.00",
+      "description": "Level i Prerequisites: Academic Reading and Writing Levels of 6 60 lecture, 45 lab, 0 clinical, 0 other, 105 total contact hours This course will introduce the student to the fundamental principles of the mechanical and electrical repair issues required to restore vehicle collision damage to pre-accident condition. Areas of study will include: suspension and steering, electrical, brakes, heat and air, cooling, fuel intake and exhaust systems, drive train, and restraint systems.",
+      "institution": "Washtenaw Community College"
+    }
+  ],
+  "timestamp": "2025-08-10T04:22:15.793845"
+}

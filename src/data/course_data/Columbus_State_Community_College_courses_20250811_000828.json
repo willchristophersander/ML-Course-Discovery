@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Columbus State Community College",
+    "successful_variation": "Columbus State Community College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Columbus+State+Community+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACCT 106",
+      "course_title": "Financial Accounting",
+      "credits": "5.00",
+      "description": "ACCT 106 offers an introduction to accounting, emphasizing how general purpose financial statements communicate information about the business corporation\u2019s performance and position for users external to management. Approximately one-third of the course emphasizes how the accountant processes and presents the information and includes exposure to recording transactions, adjusting balances, and preparing financial statements for service and merchandising firms according to established rules and procedures. The balance of the course examines major elements of the statements such as cash, receivables, inventory, long-lived assets, depreciation, current and long-term liabilities, and capital stock transactions. The Income Statement, Owner\u2019s Equity Statement, Cash Flow Statement, and Balance Sheet are also covered.",
+      "institution": "Columbus State Community College"
+    },
+    {
+      "course_id": "ACCT 107",
+      "course_title": "Managerial Accounting",
+      "credits": "5.00",
+      "description": "Lecture: 5 hours Lab fee: $2.00",
+      "institution": "Columbus State Community College"
+    },
+    {
+      "course_id": "ACCT 108",
+      "course_title": "Intermed. Preparedness",
+      "credits": "4.00",
+      "description": "Lecture: 4 hours Prerequisite: None Lab fee: $2.00",
+      "institution": "Columbus State Community College"
+    },
+    {
+      "course_id": "ACCT 121",
+      "course_title": "Data Processing for Accountants",
+      "credits": "4.00",
+      "description": "Lecture: 4 hours Prerequisite: ACCT 106 Lab fee: $1.00",
+      "institution": "Columbus State Community College"
+    },
+    {
+      "course_id": "ACCT 126",
+      "course_title": "Accounting Systems",
+      "credits": "4.00",
+      "description": "Lecture: 4 hours Prerequisite: ACCT 106 and ACCT 107 Lab fee: $5.00",
+      "institution": "Columbus State Community College"
+    },
+    {
+      "course_id": "ACCT 131",
+      "course_title": "Cost Estimating",
+      "credits": "4.00",
+      "description": "Lecture: 4 hours Lab fee: $1.00",
+      "institution": "Columbus State Community College"
+    },
+    {
+      "course_id": "ACCT 211",
+      "course_title": "Cost Accounting",
+      "credits": "4.00",
+      "description": "Lecture: 4 hours Prerequisite: ACCT 107 Lab fee: $2.00",
+      "institution": "Columbus State Community College"
+    },
+    {
+      "course_id": "ACCT 231",
+      "course_title": "State and Local Taxation",
+      "credits": "4.00",
+      "description": "Prerequisite: ACCT 106 Lab fee: $5.00",
+      "institution": "Columbus State Community College"
+    },
+    {
+      "course_id": "ACCT 232",
+      "course_title": "Federal Taxation I",
+      "credits": "4.00",
+      "description": "Lecture: 4 hours Prerequisite: ACCT 106 Lab fee: $5.00",
+      "institution": "Columbus State Community College"
+    },
+    {
+      "course_id": "ACCT 236",
+      "course_title": "Federal Taxation II",
+      "credits": "4.00",
+      "description": "Lecture: 4 hours Prerequisite: ACCT 232 Lab fee: $5.00",
+      "institution": "Columbus State Community College"
+    }
+  ],
+  "timestamp": "2025-08-11T00:08:28.947529"
+}

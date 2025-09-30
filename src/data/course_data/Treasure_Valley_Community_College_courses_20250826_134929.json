@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Treasure Valley Community College",
+    "successful_variation": "Treasure Valley Community College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Treasure+Valley+Community+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "AET 207",
+      "course_title": "p/ t Agriculture Machine & Fabrication",
+      "credits": "4.00",
+      "description": "Stresses the modifi cation and building of farm equipment. Emphasizes engineering skills through hands-on applications.",
+      "institution": "Treasure Valley Community College"
+    },
+    {
+      "course_id": "AET 211",
+      "course_title": "p/ t Engineering Problems",
+      "credits": "3.00",
+      "description": "Utilizes practical math for solving problems in agriculture. Includes horse power, electricity, hydraulics, pumps, calibrations, chains, sprockets, belts and pulleys, and land measurement. Prerequisite: MATH 025 or suitable placement score.",
+      "institution": "Treasure Valley Community College"
+    },
+    {
+      "course_id": "AET 221",
+      "course_title": "p/ t Shop Skills",
+      "credits": "3.00",
+      "description": "Builds competency through hands-on experience, covering power and hand tools, tool reconditioning, building construction, electricity, fasteners, and farm safety. Lab required.",
+      "institution": "Treasure Valley Community College"
+    },
+    {
+      "course_id": "AG 111",
+      "course_title": "p/ t ag Computers",
+      "credits": "3.00",
+      "description": "Acquaints students with the use of a micro-computer and software for agricultural uses. Includes farm accounting, spreadsheets, depreciation schedules, rations, PowerPoint, internet/email, and fi nancial analysis.",
+      "institution": "Treasure Valley Community College"
+    },
+    {
+      "course_id": "AG 201",
+      "course_title": "Current Issues in Agriculture",
+      "credits": "1.00",
+      "description": "Examines current issues in agriculture. Investigates and considers opposing viewpoints of different groups through email contact, and written and oral presentations. Uses guest speakers extensively.",
+      "institution": "Treasure Valley Community College"
+    },
+    {
+      "course_id": "AG 207",
+      "course_title": "p/ t Agriculture Seminar",
+      "credits": "1.00",
+      "description": "Provides information and self-evaluation in areas of goal setting, educational planning, student activities, electronic student accounts, study skills, and successful navigation of the college system. Emphasizes academic and career plans for students interested in Agriculture.",
+      "institution": "Treasure Valley Community College"
+    },
+    {
+      "course_id": "AG 211",
+      "course_title": "p/ t Survey & Construction",
+      "credits": "3.00",
+      "description": "Provides specifi c information for farm and ranch use, including fi eld drainage systems, cut and fi ll for fi eld leveling, laying out building foundations, farm facilities, land descriptions, and the use of the farm level. Covers fi eld observation, note taking, and offi ce computations.",
+      "institution": "Treasure Valley Community College"
+    },
+    {
+      "course_id": "AG 212",
+      "course_title": "p/ t Engine Theory & Operation",
+      "credits": "3.00",
+      "description": "Studies power units and their relationship to internal combustion engines, including theory of operation, component parts, and accessories. Class projects include repair of small power units.",
+      "institution": "Treasure Valley Community College"
+    },
+    {
+      "course_id": "AG 215",
+      "course_title": "p/ t Irrigation And Drainage",
+      "credits": "4.00",
+      "description": "Instructs students to design an irrigation system, considering engineering, soil types, crops, seasons, irrigation methods, best management practices, and erosion control measures. Includes a cost estimation of an actual irrigation project.",
+      "institution": "Treasure Valley Community College"
+    },
+    {
+      "course_id": "AG 221",
+      "course_title": "p/ t Metals And Welding",
+      "credits": "3.00",
+      "description": "Teaches the techniques of operating electric welding machines, oxyacetylene torches and welding, heating, brazing and cutting of all common types of ferrous metals in all positions. Stresses some fabrication of farm projects. Lab included.",
+      "institution": "Treasure Valley Community College"
+    }
+  ],
+  "timestamp": "2025-08-26T13:49:29.079584"
+}

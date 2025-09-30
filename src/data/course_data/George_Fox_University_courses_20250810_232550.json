@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "George Fox University",
+    "successful_variation": "George Fox University",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=George+Fox+University&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACCT 271",
+      "course_title": "Principles of Financial Accounting",
+      "credits": "3.00",
+      "description": "Accounting is the language of business. This course provides an introductory overview of accounting from a user perspective. Its purpose is to give students a basic understanding of the logic behind the principles of accounting, enabling them to prepare, read, analyze, and interpret financial statements for the purpose of decision making. Prerequisite: sophomore standing or above.",
+      "institution": "George Fox University"
+    },
+    {
+      "course_id": "ACCT 272",
+      "course_title": "Principles of Managerial Accounting",
+      "credits": "3.00",
+      "description": "This course is a continuation of ACCT 271. It emphasizes the uses of accounting data by management to make both planning and control decisions. Students will continue to analyze financial statements to assess a company's liquidity, profitability, capital structure, and stock market ratios. Students will also develop operating budgets and use them to evaluate performance. Cost information will be classified by behavior, and allocated under a cost-beneficial system that assists managers in using relevant costs for decision making. Prerequisite: ACCT 271 Principles of Financial Accounting.",
+      "institution": "George Fox University"
+    },
+    {
+      "course_id": "ACCT 275",
+      "course_title": "Field Experience",
+      "credits": "3.00",
+      "description": "An on-the-job experience designed to acquaint the student with the accounting profession.",
+      "institution": "George Fox University"
+    },
+    {
+      "course_id": "ACCT 285",
+      "course_title": "Selected Topics",
+      "credits": "3.00",
+      "description": "Occasional special courses chosen to fit the interests and needs of students and faculty.",
+      "institution": "George Fox University"
+    },
+    {
+      "course_id": "ACCT 350",
+      "course_title": "Taxation",
+      "credits": "3.00",
+      "description": "This is an introductory course on fundamental concepts in taxation. The objective of this course is learning to recognize major tax issues inherent in business and financial transactions. The course will emphasize measurement and taxation of business income, along with an introduction to taxation of individuals. Prerequisite: ACCT 271 Principles of Financial Accounting.",
+      "institution": "George Fox University"
+    },
+    {
+      "course_id": "ACCT 370",
+      "course_title": "Accounting Information Systems",
+      "credits": "3.00",
+      "description": "This course will emphasize the mechanical aspects of accounting and will cover both manual and computerized accounting systems. The course is designed for the accounting major. Prerequisite: ACCT 271 Principles of Financial Accounting.",
+      "institution": "George Fox University"
+    },
+    {
+      "course_id": "ACCT 371",
+      "course_title": "Financial Accounting and Reporting I",
+      "credits": "3.00",
+      "description": "A comprehensive study of generally accepted accounting principles, including a review of their historical development and a thorough study of the underlying theory supporting them. A detailed study of many specific problems associated with the measurement and reporting of complex business transactions. Prerequisite: ACCT 271 Principles of Financial Accounting.",
+      "institution": "George Fox University"
+    },
+    {
+      "course_id": "ACCT 372",
+      "course_title": "Financial Accounting and Reporting II",
+      "credits": "3.00",
+      "description": "A comprehensive study of generally accepted accounting principles, including a review of their historical development and a thorough study of the underlying theory supporting them. A detailed study of many specific problems associated with the measurement and reporting of complex business transactions. Prerequisite: ACCT 371 Financial Accounting and Reporting I.",
+      "institution": "George Fox University"
+    },
+    {
+      "course_id": "ACCT 373",
+      "course_title": "Financial Accounting and Reporting III",
+      "credits": "3.00",
+      "description": "A comprehensive study of generally accepted accounting principles, including a review of their historical development and a thorough study of the underlying theory supporting them. A detailed study of many specific problems associated with the measurement and reporting of complex business transactions. Prerequisite: ACCT 371 Financial Accounting and Reporting I.",
+      "institution": "George Fox University"
+    },
+    {
+      "course_id": "ACCT 399",
+      "course_title": "Cross-Cultural Study",
+      "credits": "3.00",
+      "description": "This course offers in-depth discipline specific cross-cultural study designed to enhance the intercultural emphasis of various academic majors. The course includes class meetings followed by travel to various locations throughout the world. Students will use core disciplinary knowledge to serve, learn and interact with other cultures. (Offered in May Term. Students must meet eligibility requirements.) Additional course fee is required.",
+      "institution": "George Fox University"
+    }
+  ],
+  "timestamp": "2025-08-10T23:25:50.510492"
+}

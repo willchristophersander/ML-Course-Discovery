@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Bellevue University",
+    "successful_variation": "Bellevue University",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Bellevue+University&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "AC 205",
+      "course_title": "Financial Accounting",
+      "credits": "3.00",
+      "description": "This course is an introduction to accounting concepts and the elements of financial statements. Includes basic accounting vocabulary, analysis of business transactions from an accounting viewpoint, how to recognize, record, and classify new accounting data. Emphasis is placed on corporate accounting. Introductory financial statement analysis and interpretation are covered.",
+      "institution": "Bellevue University"
+    },
+    {
+      "course_id": "AC 206",
+      "course_title": "Managerial Accounting",
+      "credits": "3.00",
+      "description": "Managerial accounting is designed to introduce the fundamentals of managerial accounting to both accounting and non-accounting majors. It covers accounting and management decision making; cost concepts, classifications, and behavior; short-term, long-term, strategic, and operational planning; responsibility accounting; control of cost centers; the concepts of Just-in-Time, activity-based costing, quality costing; and ethical behavior of the managerial accountant. Prerequisite: AC 205",
+      "institution": "Bellevue University"
+    },
+    {
+      "course_id": "AC 208",
+      "course_title": "Accounting for Culinary Arts",
+      "credits": "3.00",
+      "description": "This course is for Culinary Arts students only as an introduction to financial and managerial accounting concepts and applications. Special emphasis will be on using financial information for the business decision-making process. This course includes basic accounting vocabulary, analysis of business transactions from an accounting viewpoint, and basic financial statement analysis. Additional topics include long- and short-term planning processes, budgeting, cost-volume-profit analysis, product costing including application of overhead, responsibility costing, Activity Based Costing, and Just-in-Time.",
+      "institution": "Bellevue University"
+    },
+    {
+      "course_id": "AC 311",
+      "course_title": "Intermediate Accounting I",
+      "credits": "3.00",
+      "description": "This course is designed for students pursuing accounting or business careers and who are interested in gaining a more thorough knowledge of accounting principles and procedures to analyze financial data. Topics include concepts of future and present value, conceptual framework of accounting, study of cash and receivables, inventory measurement and valuation, and tangible operational assets as well as intangible assets. Prerequisites: AC 205 and BA 222",
+      "institution": "Bellevue University"
+    },
+    {
+      "course_id": "AC 312",
+      "course_title": "Intermediate Accounting II",
+      "credits": "3.00",
+      "description": "This course is a continuation of AC 311 and is designed for those interested in gaining a more thorough knowledge of financial accounting principles and procedures. Topics include income recognition, long-term liabilities, shareholder equity and retained earnings, investments, leases, pensions, and derivatives. Prerequisite: AC 311",
+      "institution": "Bellevue University"
+    },
+    {
+      "course_id": "AC 331",
+      "course_title": "Income Tax Accounting",
+      "credits": "3.00",
+      "description": "This course focuses on federal income tax provisions and procedures used to compute tax liability for individuals. Included in the course are the concepts of income tax determination, problems of computing gross income, deductions and losses, alternative minimum tax and tax credits, non-taxable exchanges, capital gains and losses, tax liability and preparation of tax returns. Students will be expected to prepare basic tax forms and research tax issues using appropriate research materials. Prerequisite: AC 206",
+      "institution": "Bellevue University"
+    },
+    {
+      "course_id": "AC 341",
+      "course_title": "Accounting Information Systems",
+      "credits": "3.00",
+      "description": "This course provides an introduction to a systems view of accounting through accounting information systems (AIS) and how technology is used in AIS. Students will examine the process of developing information systems and develop knowledge of computer-based control and audit issues. Also included is the study of the five cycles of AIS and how the cycles are implemented in computer-based systems. Prerequisites: AC 206 and BA 222",
+      "institution": "Bellevue University"
+    },
+    {
+      "course_id": "AC 396",
+      "course_title": "Internship in Accounting",
+      "credits": "3.00",
+      "description": "The course provides students with an opportunity to receive practical training in accounting. Prerequisites: 12 hours in accounting beyond the principles level, a minimum of nine hours in residency at Bellevue University. Faculty approval is required. (1 to 3 credit hrs)",
+      "institution": "Bellevue University"
+    },
+    {
+      "course_id": "AC 416",
+      "course_title": "Advanced Accounting Problems I",
+      "credits": "3.00",
+      "description": "This course covers advanced topics in financial accounting, such as: business combinations, partnership accounting, and fiduciary accounting. The course is designed to develop an understanding of purchase method of consolidation before introducing students to worksheet procedures for preparation of consolidated financial statements. Prerequisite: AC 312",
+      "institution": "Bellevue University"
+    },
+    {
+      "course_id": "AC 418",
+      "course_title": "Accounting Theory",
+      "credits": "3.00",
+      "description": "Accounting theory looks at the development of accounting theory and explores its impact on past and current accounting practices. Emphasis will be placed on accounting research of FASB pronouncements and how this research can assist the users in developing skills to be used in finding solutions to the proper application of FASB pronouncements. Other areas of discussion will include the policy-making process, contemporary accounting issues, and international accounting. Prerequisite: 12 credit hours of accounting to include AC 312",
+      "institution": "Bellevue University"
+    }
+  ],
+  "timestamp": "2025-08-11T00:08:39.643932"
+}

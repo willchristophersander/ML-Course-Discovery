@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Northeastern Junior College",
+    "successful_variation": "Northeastern Junior College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Northeastern+Junior+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "AAA 075",
+      "course_title": "Spelling: Word Structure",
+      "credits": "2.00",
+      "description": "This course is designed to help studens improve their spelling skills by increasing their knowledge of the structure of words in the English language. The focus of learing in on applying structural logic, not memorizing lists of words. (Contact hours C30)",
+      "institution": "Northeastern Junior College"
+    },
+    {
+      "course_id": "AAA 090",
+      "course_title": "Academic Achievement Strategies",
+      "credits": "3.00",
+      "description": "Students will develop personalized approaches to learn and succeed as they transition into college. Topics include goal-setting, time management, textbook reading strategies, note-taking, test-taking, listening techniques, concentration and memory devices, and critical thinking for student success. (Contact hours C45) Prerequisites: Minimum Reading assessment score of 40 on Accuplacer test.",
+      "institution": "Northeastern Junior College"
+    },
+    {
+      "course_id": "AAA 109",
+      "course_title": "Advanced Academic Achievement",
+      "credits": "3.00",
+      "description": "Examines theories and practices associated with successful learning to enhance college success. Areas of study include education and career planning, effective communication, personal management, critical and creative thinking, development of community and awareness of diversity, leadership, and techniques for successful academic performance. Recommended for new and returning students. (Contact hours - 45)",
+      "institution": "Northeastern Junior College"
+    },
+    {
+      "course_id": "ABM 111",
+      "course_title": "Records & Business Planning I",
+      "credits": "9.00",
+      "description": "This course is designed to guide the student in the collection of necessary information to implement a computerized record keeping system. Discussion will include computer terminology, application software, balance sheet concepts, accounting principles, computerized accounting reports, and business plan components.",
+      "institution": "Northeastern Junior College"
+    },
+    {
+      "course_id": "ABM 112",
+      "course_title": "Records & Business Planning II",
+      "credits": "9.00",
+      "description": "This class includes implementation of a computerized record keeping system. Emphasis will be placed on the application and maintenance of an accurate set of computerized financial records, use of a filing system, and compiling a business plan.",
+      "institution": "Northeastern Junior College"
+    },
+    {
+      "course_id": "ABM 121",
+      "course_title": "Financial Analysis I",
+      "credits": "9.00",
+      "description": "Actual enterprise cost analysis will be calculated to facilitate the development of whole business projected cash flow statements. All facets of record keeping and updating of data will be emphasized, including refining and maintaing of a current accounting system. This course includes a review and revision of business planning goals and objectives. Prerequisite: Complete set of cash records.",
+      "institution": "Northeastern Junior College"
+    },
+    {
+      "course_id": "ABM 122",
+      "course_title": "Financial Analysis II",
+      "credits": "9.00",
+      "description": "Business analysis through the development of accurate cost and market value accrual balance sheets for the beginning and ending period is included in this class. Emphasis will be on the measurement and analysis of changes between the two balance sheets. Analysis will include the preparation of an accrual income statement. Financial ratios will be generated to understand their importance to business analysis. Data generated from an established record keeping system will provide the basis for the development of these accrual financial statements. Prerequisite: complete set of cash records",
+      "institution": "Northeastern Junior College"
+    },
+    {
+      "course_id": "ABM 131",
+      "course_title": "Commodity Marketing I",
+      "credits": "9.00",
+      "description": "Explores the terminology associated with commodity marketing and management of the risks associated with agricultural production and marketing. Discussion will include cash marketing alternatives as well as the basics of utilizing futures and options contracts. This class includes the initial steps towards the development of a marketing plan. Continued maintenance of an established record keeping stystem is a must to provide the cost of production data for enterprises. Cost of production figures for all enterprises will be determined. These enterprise calculations will result in the initial establishment of a cost of production trend for all enterprises. Prerequisite: cost of production records for one enterprise.",
+      "institution": "Northeastern Junior College"
+    },
+    {
+      "course_id": "ABM 132",
+      "course_title": "Commodity Marketing II",
+      "credits": "9.00",
+      "description": "Marketing alternatives are explored in greater depth. Price behavior will be analyzed using technical and fundamental analysis. The marketing plan will be completed through the application of local marketing alternatives, futures contracts, option contracts, and price behavior information. Cost of production figures for all enterprises will be calculted. The class includes the initial steps toward developing an enterprise trend analysis. Prerequisite: Consent of instructor.",
+      "institution": "Northeastern Junior College"
+    },
+    {
+      "course_id": "ABM 135",
+      "course_title": "Marketing & Risk Management I",
+      "credits": "9.00",
+      "description": "Teaches students to conduct marketing research and analysis for the initial steps for developing a marketing plan. The focus will be on defining markets, analyzing competition, identification of products/services, pricing, and customer wants and needs. In addition, added value products and niche markets will be explored. The maintenance, refining, or implementation of system to provide accurate sales and expense information will be addressed. Sale and expense calculations will result in the establishment of sale/pricing trends for all enterprises along with margin calculations.",
+      "institution": "Northeastern Junior College"
+    }
+  ],
+  "timestamp": "2025-08-11T00:10:38.902509"
+}

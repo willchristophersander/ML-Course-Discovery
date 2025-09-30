@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "University of New Orleans",
+    "successful_variation": "New Orleans",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=New+Orleans&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ANAT 100",
+      "course_title": "Gross Anatomy",
+      "credits": "3.00",
+      "description": "[162 hours] The additional utilization of x-rays, CTs and MRIs serve to strengthen the students' knowledge of anatomy. An accompanying series of lectures are designed to guide and stimulate the students, thereby contributing toward an understanding of the clinical relevance of the learned anatomy. A cadaver procedure laboratory provides the students the opportunity to perform such clinical procedures as lumbar puncture, endotracheal intubation, urethral catherization, and chest tube insertion. A wide array of interactive computer-assisted software programs is available to supplement and encourage independent student learning.",
+      "institution": "University of New Orleans"
+    },
+    {
+      "course_id": "ANAT 101",
+      "course_title": "Human Prenatal Development",
+      "credits": "38.00",
+      "description": "[38 hours] Normal and abnormal human prenatal development is presented in a series of clinically oriented lectures, which are coordinated closely with the region of the body being dissected in gross anatomy. Beginning with gametogenesis and fertilization, students are provided with a thorough discussion of normal ontogenetic development to afford them an understanding of the embryologic basis of normal adult structures and their relationships. In addition, common congenital malformations and their causes and the embryonic susceptibility to teratogens are presented. Included are important features of fetal development which are essential for normal birth and adaptation to the extrauterine environment, maternal/fetal medicine, human teratogenesis and neonatology. Fifteen hours of basic human genetics are presented by the Department of Genetics. Topics covered include chromosome structure and function, chromosomal disorders, inheritance patterns, population genetics, metabolic disorders, immunogenetics, cancer genetics, developmental genetics, treatments for genetic disorders, genetic counseling, new reproductive technologies, and legal and ethical issues in genetics. In addition, basic molecular events that guide embryologic development are correlated with the development of various organs and systems. Four laboratory demonstration sessions are utilized to reinforce key features of normal and abnormal human development, genetic syndromes, congenital malformations, and the structure and function of fetal membranes, and to provide the students with an opportunity for hands-on investigation of normal and abnormal human development.",
+      "institution": "University of New Orleans"
+    },
+    {
+      "course_id": "ANAT 189",
+      "course_title": "Human Gross Anatomy of Upper Extremity,Thorax and Back",
+      "credits": "3.00",
+      "description": "[3 Credits] This course is centered around dissection of the upper extremity, thorax and back of the human body. Dissection is supplemented with films, cross-sections, models and clinical correlations of these specific areas. An accompanying lecture series is designed to orient, guide and stimulate the student toward independent effort.",
+      "institution": "University of New Orleans"
+    },
+    {
+      "course_id": "ANAT 190",
+      "course_title": "Human Gross Anatomy of the Head and Neck",
+      "credits": "3.00",
+      "description": "[3 Credits] This course is centered around dissection of the head and neck of the human body. Dissection is supplemented with films, cross-sections, models, and clinical correlations of these specific areas. An accompanying lecture series is designed to orient, guide, and stimulate the student toward independent effort.",
+      "institution": "University of New Orleans"
+    },
+    {
+      "course_id": "ANAT 191",
+      "course_title": "Human Gross Anatomy of Abdomen,Pelvis,Perineum and Lower Extremity",
+      "credits": "3.00",
+      "description": "[3 Credits] This course is centered around dissection of the abdomen, pelvis, perineum and lower extremity of the human body. Dissection is supplemented with films, cross-sections, models, and clinical correlations of these specific areas. An accompanying lecture series is designed to orient, guide, and stimulate the student toward independent effort.",
+      "institution": "University of New Orleans"
+    },
+    {
+      "course_id": "ANAT 192",
+      "course_title": "Cell Biology and Microscopic Anatomy",
+      "credits": "5.00",
+      "description": "[5 Credits] The initial portion of the course stresses organization of the cell, the biology of cellular organelles and the localization of important chemical constituents at the subcellular level. Additional presentation and discussion sessions throughout the course present the student with comprehensive information of the physiology, biochemistry, and molecular biology of cellular function. Histology lectures and laboratories emphasize the structural and functional relationships of human tissues.",
+      "institution": "University of New Orleans"
+    },
+    {
+      "course_id": "ANAT 193",
+      "course_title": "Human Development",
+      "credits": "1.00",
+      "description": "[1 Credit] This lecture/ laboratory course is taken concurrently with Anatomy 210 that provides the lecture portion. Current topics are fertilization, sectioned human embryos, human fetal dissections and fetal membranes, experimental embryology, reproductive toxicology and the culture of fetal/neonatal tissues. Literature reports and discussions may substitute for laboratory exercises.",
+      "institution": "University of New Orleans"
+    },
+    {
+      "course_id": "ANAT 194",
+      "course_title": "Radiographic Anatomy",
+      "credits": "1.00",
+      "description": "[1 Credit] The fundamentals of radiology are presented in a series of lectures and demonstrations. Emphasis will be placed on the interpretation of normal radiographs from each body region. Presentations will be coordinated with the gross anatomy dissection schedule.",
+      "institution": "University of New Orleans"
+    },
+    {
+      "course_id": "ANAT 195",
+      "course_title": "Medical Neuroscience",
+      "credits": "6.00",
+      "description": "[6 Credits] An introduction to the structure and function of the nervous system, as well as its dysfunction. The course emphasizes brain anatomy, including study of brain specimens in a laboratory setting; the physiology and synaptic transmission of nerve cells; the function and mechanisms underlying sensory and motor behavior; and higher cognitive functions. Clinical correlations, including lectures on major nervous system diseases, are provided by neurology and neurosurgery faculty. This course is also taken by first-year medical students.",
+      "institution": "University of New Orleans"
+    },
+    {
+      "course_id": "ANAT 210",
+      "course_title": "Developmental Anatomy",
+      "credits": "3.00",
+      "description": "[3 Credits] The normal and abnormal aspects of human prenatal development are presented in a lecture series, which is coordinated, when possible, with the dissection schedule in gross anatomy. Definitive adult structures and their relations are appreciated through an understanding of their formation and relations during the embryonic period. Included are important features of fetal development, which are essential for normal birth and adaptation to the extrauterine environment.",
+      "institution": "University of New Orleans"
+    }
+  ],
+  "timestamp": "2025-08-10T20:34:46.240071"
+}

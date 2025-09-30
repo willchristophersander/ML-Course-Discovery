@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Rio Hondo College",
+    "successful_variation": "Rio Hondo College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Rio+Hondo+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACCT 090",
+      "course_title": "Introduction to Accounting",
+      "credits": "3.00",
+      "description": "3 Units / Advisory: READ 022 or appropriate assessment, MATH 020 or appropriate assessment or MGMT 052. This course provides basic knowledge of accounting terms, concepts, and procedures for a sole proprietorship form of business. Topics include the analysis and recording of business transactions for service and merchandising firms, and the preparation of simple financial statements. Accounting for cash, sales, purchases, payroll, and the end-of-the-year procedures is presented. This course is designed for the occupationally-oriented students or those preparing for Financial Accounting and Computerized Accounting. Lecture: 3 hours",
+      "institution": "Rio Hondo College"
+    },
+    {
+      "course_id": "ACCT 092",
+      "course_title": "Introduction to Cost Accounting",
+      "credits": "3.00",
+      "description": "3 Units / Advisory: ACCT 102 Introduction to Cost Accounting takes a logical approach to the fundamentals of cost accounting (applied to a manufacturing business), and the use of cost data in management decision making. Principles and procedures of cost systems are presented first in an overview, then discussed and illustrated in detail. The course provides thorough coverage of job order costing, process costing, and standard costs. Analysis of cost data is integrated with discussions of cost accounting systems and procedures. In addition, a unit is devoted to special-purpose reports and analytical techniques of managerial accounting. Lecture: 3 hours",
+      "institution": "Rio Hondo College"
+    },
+    {
+      "course_id": "ACCT 093",
+      "course_title": "Income Tax Accounting",
+      "credits": "3.00",
+      "description": "3 Units / Advisory: ACCT 101 This is a practical course which is concerned primarily with Federal and State income tax laws and procedures as they relate to individuals, partnerships, and corporations, including interpretation of current changes in tax laws. Emphasis is placed upon income inclusion, exclusion, exemptions, capital gains and losses, and business and individual deductions. Lecture: 3 hours",
+      "institution": "Rio Hondo College"
+    },
+    {
+      "course_id": "ADN 075",
+      "course_title": "LVN Transition into the Associate Degree Nursing Program",
+      "credits": "8.00",
+      "description": "2 Units / Prerequisite: ENGL 101. Current LVN licensure and acceptance into the Associate Degree Nursing Program. Advisory: READ 023 or appropriate assessment. This course provides an overview of the Associate Degree Nursing Program. The focus is on successful learning strategies and the development of critical thinking skills. An overview of the Systems Developmental Stress Model is included as a framework for the nursing process and the Associate Degree Nursing curriculum. Also included is an in depth study of the nursing process including physical assessment, nursing diagnosis, interventions and evaluation. This course is open to all career ladder LVN and 30 unit option LVN students entering the second year of the Associate Degree Program. Lecture: 5.8 hours for 6 weeks",
+      "institution": "Rio Hondo College"
+    },
+    {
+      "course_id": "ADN 150",
+      "course_title": "Medical/Surgical Nursing I",
+      "credits": "8.00",
+      "description": "8 units / Prerequisites: BIOL 222, ENGL 101, and ADN 151 with a grade of \"C\"or better. Corequisite: ADN 154. Transfers to: CSU This course focuses on the application of the nursing process in caring for patients with disturbances in the digestive and renal systems, fluid and electrolyte status and acid/base balance, endocrine, cardiovascular and respiratory systems. The pathophysiology of disease processes, as well as medical and nursing interventions, is discussed. The students will apply the theoretical concepts in the clinical setting. This course is designed for students in the Associate degree Nursing Program. Lecture: 4.55 hours / Lab: 13 hours for 16 weeks",
+      "institution": "Rio Hondo College"
+    },
+    {
+      "course_id": "ADN 151",
+      "course_title": "Clinical Nursing Concepts",
+      "credits": "5.00",
+      "description": "4 Units / Prerequisites: BIOL 125 with a grade of \"C\" or better; BIOL 226 with agrade of \"C\" or better.Transfers to: CSU This is an introductory course in basic clinical nursing concepts. The student will be introduced to a theoretical framework for nursing practice including the nursing process and the conceptual model used in the Associate Degree Nursing Program. Concepts related to therapeutic communication, legal and ethical issue and documentation are included. The nursing skills required for physical assessment and individualized patient care will be presented. The course includes laboratory practice and experience in the care of patients in the clinical setting. This course is designed for students in the Associate Degree Nursing program. Lecture: 2.25 hours / Clinic: 6.5 hours for 16 weeks",
+      "institution": "Rio Hondo College"
+    },
+    {
+      "course_id": "ADN 154",
+      "course_title": "Pharmacology",
+      "credits": "5.00",
+      "description": "2 Units / Prerequisites: BIOL 222 with a grade of \"C\" or better. ADN 151 with agrade of \"C\" or better. ENGL 101 with agrade of \"C\" or better. Advisory: READ023 or appropriate assessment. Transfers to: CSU This is an introductory pharmacology course that focuses on the study of drugs most frequently prescribed. The course emphasis on basic techniques and computations used in the administration of medications, as well as the special nursing considerations that pertain to the safe administration of medication. Completion of this course allows the Associate Degree Nursing student to safely administer medication to patients under the supervision of the nursing instructor. Lecture: 1.5 hours / Lab: 1.5 hours",
+      "institution": "Rio Hondo College"
+    },
+    {
+      "course_id": "ADN 155",
+      "course_title": "Nursing Process:Childbearing Family/Women's Health",
+      "credits": "4.00",
+      "description": "4 Units / Prerequisites: ADN 150 and ADN 154 with a grade of \"C\" or better.Advisory: READ 023 or appropriate assessment. Transfers to: CSU This course is designed for the Associate Degree Nursing student. It focuses on the biological, intrapersonal/interpersonal and developmental aspects of human reproduction. The nursing process is utilized in meeting maternal, newborn and family needs as they relate to human reproduction. This course also focuses on women's health issues with regards to fertility, family planning, gynecological problems and related needs, and the utilization of the nursing process to meet those needs. Lecture: 4.55 hours / Clinic: 13 hours for 8 weeks",
+      "institution": "Rio Hondo College"
+    },
+    {
+      "course_id": "ADN 156",
+      "course_title": "Nursing Process Applied to the Care of Children",
+      "credits": "4.00",
+      "description": "4 Units / Prerequisite: ADN 150 and ADN 154 with a grade of \"C\" or better.Advisory: READ 023 or appropriate assessment. Transfers to: CSU This course focuses on the application of the nursing process in caring for children. Emphasis is placed on normal growth and development patterns of the growing child and developmental, biological, interpersonal and intrapersonal stressors affecting children and their families. The pathophysiology of disease processes that may occur during childhood and related medical and nursing interventions are discussed. The students will apply the theoretical concepts in the clinical setting. This course is designed for students in the Associate Degree Nursing Program. Lecture: 4.55 hours / Clinic: 13 hours for 8 weeks",
+      "institution": "Rio Hondo College"
+    },
+    {
+      "course_id": "ADN 250",
+      "course_title": "Advanced Pharmacology",
+      "credits": "1.00",
+      "description": "1 Unit/Advisory: ENGL 101, MATH 070 or appropriate assessment, READ 023 or appropriate assessment. Prerequisite: ADN 155 and ADN 156 (for generic ADN students) with a grade \"C\" or better; ADN 075 (for LVN toADN students) with a grade \"C\" orbetter. Transfers to: CSU This is an advanced pharmacology course that focuses on the skills and study of medications used for neurological, psychiatric, and medical-surgical concepts. The",
+      "institution": "Rio Hondo College"
+    }
+  ],
+  "timestamp": "2025-08-10T14:40:41.288240"
+}

@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Gonzaga University",
+    "successful_variation": "Gonzaga University",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Gonzaga+University&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACCT 260",
+      "course_title": "Principles of Accounting I",
+      "credits": "3.00",
+      "description": "Introduction to financial accounting with emphasis on the preparation and analysis of basic financial statements of business organizations. Fall, Spring, Summer.",
+      "institution": "Gonzaga University"
+    },
+    {
+      "course_id": "ACCT 261",
+      "course_title": "Principles of Accounting II",
+      "credits": "3.00",
+      "description": "An introduction to managerial and cost accounting concepts and techniques. Topics include cost determination and the uses of cost data for managerial planning, control, and decision-making. Fall, Spring, Summer.",
+      "institution": "Gonzaga University"
+    },
+    {
+      "course_id": "ACCT 263",
+      "course_title": "Accounting Analysis",
+      "credits": "3.00",
+      "description": "An accounting foundation course for non-business majors pursuing a general business minor or planning to apply for admission to graduate business programs. The course introduces the student to accounting and emphasizes preparation, analysis, and interpretation of general purpose financial reports and uses of accounting information for decision-making. Spring.",
+      "institution": "Gonzaga University"
+    },
+    {
+      "course_id": "ACCT 290",
+      "course_title": "Directed Study",
+      "credits": "3.00",
+      "description": "Topic to be decided by faculty.",
+      "institution": "Gonzaga University"
+    },
+    {
+      "course_id": "ACCT 360",
+      "course_title": "Intermediate Accounting I",
+      "credits": "3.00",
+      "description": "An intensive study of financial accounting theory and practice. Topics include recognition, measurement, and reporting of assets, liabilities, corporate equity, revenues and expenses; preparation and analysis of the principal financial statements. Fall.",
+      "institution": "Gonzaga University"
+    },
+    {
+      "course_id": "ACCT 361",
+      "course_title": "Intermediate Accounting II",
+      "credits": "3.00",
+      "description": "Continuation of ACCT 360. Spring.",
+      "institution": "Gonzaga University"
+    },
+    {
+      "course_id": "ACCT 362",
+      "course_title": "Accounting Information Systems",
+      "credits": "3.00",
+      "description": "A study of the role of accounting information systems in organizational decision making and control. The course includes coverage of the theory and practice of information processing, internal controls, and systems analysis and design related to major transaction cycles. Spring.",
+      "institution": "Gonzaga University"
+    },
+    {
+      "course_id": "ACCT 363",
+      "course_title": "Cost Accounting",
+      "credits": "3.00",
+      "description": "An examination of the mechanics and application of accounting principles and concepts for planning, control, and decision making. Topics include cost behavior, job, process, and standard cost systems; budgeting and control; and activity-based costing. Fall.",
+      "institution": "Gonzaga University"
+    },
+    {
+      "course_id": "ACCT 364",
+      "course_title": "Fraud & Forensic Examination",
+      "credits": "3.00",
+      "description": "An overview of fraud investigation techniques. Topic coverage will include major categories of fraud such as skimming, larceny, and corruption. Also includes investigative techniques including interviewing skills, evidence collection and report writing. For accounting majors only.",
+      "institution": "Gonzaga University"
+    },
+    {
+      "course_id": "ACCT 365",
+      "course_title": "Federal Taxation",
+      "credits": "3.00",
+      "description": "Fundamentals of federal taxation with emphasis on individual taxation and tax planning. Topics include income, deductions, losses, and credits in addition to capital asset and other property transactions. Spring.",
+      "institution": "Gonzaga University"
+    }
+  ],
+  "timestamp": "2025-08-10T06:08:57.139078"
+}

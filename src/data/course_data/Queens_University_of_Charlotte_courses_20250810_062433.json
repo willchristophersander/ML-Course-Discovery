@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Queens University of Charlotte",
+    "successful_variation": "Queens University of Charlotte",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Queens+University+of+Charlotte&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "AMST 201",
+      "course_title": "Introduction to American Studies",
+      "credits": "3.00",
+      "description": "The heart of both our national and individual identities resides in the complex creation of a distinctive American culture: in the television shows we watch, the music we listen to, and the movies we attend. This course serves as an introduction to the American Studies Program by examining the cultural construction of identities, of what it means to be an American today and throughout America's past. Our studies will focus on exposing students to various disciplinary and theoretical frameworks for analyzing cultural expressions and cultural norms, as well as offer an examination of a wide array of cultural mediums, including but not limited to movies, music, television, works of pop and pulp fiction and other varied cultural ephemera. 3 Hrs.",
+      "institution": "Queens University of Charlotte"
+    },
+    {
+      "course_id": "AMST 300",
+      "course_title": "Topics in American Studies",
+      "credits": "3.00",
+      "description": "An investigation of selected topics in American Studies. Specific topics and their prerequisites will vary. May be repeated with different subtitles. Repeatable for a total of 6 Hrs. 3 Hrs.",
+      "institution": "Queens University of Charlotte"
+    },
+    {
+      "course_id": "AMST 400",
+      "course_title": "Special Project in American Studies",
+      "credits": "12.00",
+      "description": "This course allows qualified students the opportunity to pursue an area of special interest in American Studies. Students will design these projects in conjunction with supervising faculty members. Such projects may involve directed readings, internships, or independent study. Projects must be approved by the Director of American Studies. Open to all juniors and seniors with at least a 3.0 grade point average. May be repeated for a total of up to 12 credit hours. 1-3 Hrs.",
+      "institution": "Queens University of Charlotte"
+    },
+    {
+      "course_id": "ANTH 201",
+      "course_title": "Cultural Anthropology",
+      "credits": "3.00",
+      "description": "Emphasizes the heritage and diversity of human culture throughout the world through the study of human societies, language and culture, cultural change, social groups and relationships, ideology, ritual and symbolism. Spring Term, every year. 3 Hrs.",
+      "institution": "Queens University of Charlotte"
+    },
+    {
+      "course_id": "ANTH 320",
+      "course_title": "Anthropology of Latin America",
+      "credits": "3.00",
+      "description": "This course examines Latin American societies and cultures from an anthropological perspective. Latin America includes Mexico, Central America, South America and the Caribbean. Using a comparative approach, students explore cultural diversity within and between Latin American nations. A grassroots perspective focuses on local communities as they adapt to change. Students study the types of problems facing Latin Americans today by examining how the past has influenced the present. Prerequisites: ANTH 201 or SOCI 203. Spring Term, odd years. 3 Hrs.",
+      "institution": "Queens University of Charlotte"
+    },
+    {
+      "course_id": "ANTH 330",
+      "course_title": "American Ethnic Communities",
+      "credits": "3.00",
+      "description": "Students read and discuss book-length ethnographies set in ethnic communities in the contemporary United States. Ethnographies are in-depth portraits of particular communities based on systematic, long-term participant observation. They are the building blocks for ethnology, the comparison of communities to interpret and explain American ethnicity. Included are studies of recently arrived, immigrant communities along with well-established American ethnic communities. We examine the history, social organization, cultural values and customs of each community, looking for similarities and differences in the American experience of community life. Prerequisites: ANTH 201 or SOCI 203. Spring Term, even years. 3 Hrs.",
+      "institution": "Queens University of Charlotte"
+    },
+    {
+      "course_id": "ANTH 340",
+      "course_title": "Directed Individual Study",
+      "credits": "3.00",
+      "description": "Independent reading and investigation of the literature relevant to a specific topic in anthropology. Prerequisites: Junior or senior standing, permission of the instructor, minimum GPA of 3.00. As needed. 1-3 Hrs.",
+      "institution": "Queens University of Charlotte"
+    },
+    {
+      "course_id": "ANTH 350",
+      "course_title": "Topics in Anthropology",
+      "credits": "6.00",
+      "description": "Investigation of a single topic or area in anthropology. The topic may vary from term to term. May be taken more than once with different subtitles. Repeatable for a total of 6 Hrs. 3 Hrs.",
+      "institution": "Queens University of Charlotte"
+    },
+    {
+      "course_id": "ARDE 201",
+      "course_title": "Fundamentals of Interior Design I",
+      "credits": "3.00",
+      "description": "This course introduces the field of interior design including the history of furniture, elements and principles of design and space planning. Fall Term, every year. 3 Hrs.",
+      "institution": "Queens University of Charlotte"
+    },
+    {
+      "course_id": "ARDE 202",
+      "course_title": "Fundamentals of Interior Design II",
+      "credits": "3.00",
+      "description": "This course covers physical needs and social dynamics and how we make ourselves comfortable and organize the spaces in which we live. Spring Term, every year. 3 Hrs.",
+      "institution": "Queens University of Charlotte"
+    }
+  ],
+  "timestamp": "2025-08-10T06:24:33.885996"
+}

@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Herkimer County Community College",
+    "successful_variation": "Herkimer County Community College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Herkimer+County+Community+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "BU 111",
+      "course_title": "Business Organization and Management",
+      "credits": "3.00",
+      "description": "3 Credits (3,0) Business Organization and Management provides a comprehensive introduction to fundamental business principles and procedures. Emphasis is on how the factors of production are used in free-market economies to provide consumers with goods and services.",
+      "institution": "Herkimer County Community College"
+    },
+    {
+      "course_id": "BU 112",
+      "course_title": "Business Communications",
+      "credits": "3.00",
+      "description": "3Credits (3,0) This course studies the principles of effective business communication as they relate to contemporary business organizations. Emphasis is on developing skill in planning, organizing, composing, and revising business messages. Specific topics include preparing business correspondence, reports, presentations and resumes. The job search and problems unique to intercultural business communication are also discussed.",
+      "institution": "Herkimer County Community College"
+    },
+    {
+      "course_id": "BU 114",
+      "course_title": "Accounting I",
+      "credits": "4.00",
+      "description": "4Credits (4,0) Accounting I provides an introduction to financial accounting for sole proprietorships. Emphasis is placed on using accounting software to record journal entries, maintain general ledgers and prepare financial statements. Procedures used to account for cash, receivables, inventory and fixed assets are examined.",
+      "institution": "Herkimer County Community College"
+    },
+    {
+      "course_id": "BU 115",
+      "course_title": "Accounting II",
+      "credits": "3.00",
+      "description": "3 Credits (3,0) Accounting II provides an introduction to financial accounting for partnerships and corporations. Additional topics include accounting for accruals and deferrals, payroll, and manufacturing costs, and the analysis of financial statements. Prerequisite: BU 114.",
+      "institution": "Herkimer County Community College"
+    },
+    {
+      "course_id": "BU 121",
+      "course_title": "Business Law I",
+      "credits": "3.00",
+      "description": "3 Credits (3,0) This course examines the origin and development of contemporary contract law with emphasis placed on the formation of valid contracts. Third-party rights, performance and discharge, breach of contract and remedies are also examined. Basic concepts of negotiable instruments are presented.",
+      "institution": "Herkimer County Community College"
+    },
+    {
+      "course_id": "BU 122",
+      "course_title": "Business Law II",
+      "credits": "3.00",
+      "description": "3 Credits (3,0) This course emphasizes fundamental legal principles relating to the formation, interpretation, performance and remedies of sales contracts under the Uniform Commercial Code (UCC). Additional topics explored through case study include warranties, employment and agency relationships and various legal forms of business. Product liability theories are examined as they relate to Article 2 of the UCC.",
+      "institution": "Herkimer County Community College"
+    },
+    {
+      "course_id": "BU 131",
+      "course_title": "International Business",
+      "credits": "3.00",
+      "description": "3 Credits (3,0) Study of the international environment is necessary for businesses to be successful in world markets. Some of the specific topics related to International Business include: management, marketing, finance, strategic decision making and the cultural aspects of the global market.",
+      "institution": "Herkimer County Community College"
+    },
+    {
+      "course_id": "BU 132",
+      "course_title": "International Law/Commerce",
+      "credits": "3.00",
+      "description": "3 Credits (3,0) This course compares national and international law and provides students with an overview of the many sources and organizations important in international relations. Special attention isgiven to the United Nations Convention on Contracts for the International Sale of Goods. Also examined are the concepts of jurisdiction, sovereignty, international economic relations and dispute resolution in a commercial context.",
+      "institution": "Herkimer County Community College"
+    },
+    {
+      "course_id": "BU 141",
+      "course_title": "Introduction to Marketing",
+      "credits": "3.00",
+      "description": "3 Credits (3,0) Introduction to Marketing examines the fundamental business principles and practices used to systematically measure, maximize, satisfy and sustain consumer demand for goods and services in free-market economies.",
+      "institution": "Herkimer County Community College"
+    },
+    {
+      "course_id": "BU 142",
+      "course_title": "Marketing Research",
+      "credits": "3.00",
+      "description": "3 Credits (3,0) Marketing Research examines the use of statistical research methods to collect, analyze, report and interpret market data. Emphasis is placed on developing a comprehensive business strategy to market products or services. Prerequisite: BU 141 or permission of instructor.",
+      "institution": "Herkimer County Community College"
+    }
+  ],
+  "timestamp": "2025-08-10T04:21:31.277482"
+}

@@ -1,0 +1,67 @@
+{
+  "search_query": {
+    "institution": "Suffolk County Community College",
+    "successful_variation": "Suffolk County Community College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Suffolk+County+Community+College&distance=5"
+  },
+  "total_results": 8,
+  "courses": [
+    {
+      "course_id": "ACC 101",
+      "course_title": "Ac11 a- e- g/ Hrs Principles of Accounting I",
+      "credits": "4.00",
+      "description": "Computerized enhanced instruction examines nature and purpose of accounting theory and procedures through study of accounting cycle, asset valuation and financial statements. Develops foundation of accounting knowledge for additional learning in subsequent courses. No prerequisite. Credit given for ACC101 or ACC113/ACC114, but not both.",
+      "institution": "Suffolk County Community College"
+    },
+    {
+      "course_id": "ACC 102",
+      "course_title": "Ac12 a- e- g/ Hrs Principles of Accounting II",
+      "credits": "4.00",
+      "description": "Computerized enhanced instruction develops accounting principles and procedures as applied to partnerships and corporations. Designed primarily for students anticipating careers in accounting or who otherwise require detailed understanding of financial accounting practices. Prerequisite: ACC101.",
+      "institution": "Suffolk County Community College"
+    },
+    {
+      "course_id": "ACC 113",
+      "course_title": "Fundamentals of Accounting I",
+      "credits": "2.00",
+      "description": "Computerized enhanced instruction examines Basic Accounting Cycle. Emphasis on recording and summarizing aspects of accounting including topics of bank reconciliation and payroll.(Two hours lecture, one hour recitation.) Credit given for ACC113 or ACC101, but not both. Successful completion of both ACC113 and ACC114 is equivalent to ACC101 completion. Offered on: A-E-G / 2 cr. hrs.",
+      "institution": "Suffolk County Community College"
+    },
+    {
+      "course_id": "ACC 114",
+      "course_title": "Fundamentals of Accounting II",
+      "credits": "2.00",
+      "description": "Computerized enhanced instruction is used to prepare financial statements, inventory valuation, receivables, payables, depreciation and control of plant assets. (Two hours lecture, one hour recitation.) Credit given for ACC114 or ACC101, but not both. Successful completion of both ACC113 and ACC114 is equivalent to ACC101 completion. Offered on: Offered on: A-E-G / 2 cr. hrs.",
+      "institution": "Suffolk County Community College"
+    },
+    {
+      "course_id": "ACC 115",
+      "course_title": "Managerial Accounting",
+      "credits": "3.00",
+      "description": "Emphasis on attention-directing and problem-solving functions of accounting with respect to management planning and controlling fiscal activities. Recommended for all students outside accounting emphasis. Offered on: A-E-G / 3 cr. hrs.",
+      "institution": "Suffolk County Community College"
+    },
+    {
+      "course_id": "ACC 116",
+      "course_title": "Practical Accounting",
+      "credits": "3.00",
+      "description": "Includes three practice sets specially designed to provide students opportunity to prepare federal and state tax forms relating to depreciation, payroll, sales tax, and corporate income and franchise taxes. Also covers the one-write system, bank reconciliations and physical inventory procedures. Offered on: A-E-G / 3 cr. hrs.",
+      "institution": "Suffolk County Community College"
+    },
+    {
+      "course_id": "ACC 117",
+      "course_title": "Managerial Acctg. for Hospitality Industry",
+      "credits": "3.00",
+      "description": "Managerial accounting fundamentals especially tailored for students in hospitality service industries. Emphasis on attention-directing and problem-solving functions of accounting with respect to management planning and controlling fiscal activities of hotels and restaurants. Offered on: E / 3 cr. hrs.",
+      "institution": "Suffolk County Community College"
+    },
+    {
+      "course_id": "ACC 119",
+      "course_title": "Accounting for Small Business",
+      "credits": "3.00",
+      "description": "Benefits entrepreneurs who have little or no familiarity with accounting principles or business record keeping requirements for various types of business entities. Topics include basic bookkeeping, understanding financial statements, how to use accounting information, and compliance with taxation requirements. Additional topics include cash flow management, basic financial statement analysis, break-even analysis, inventory management, budgeting and costing. Assists students in making sound financial decisions and communicating more effectively with financial professionals. Offered on: A-G / 3 cr. hrs.",
+      "institution": "Suffolk County Community College"
+    }
+  ],
+  "timestamp": "2025-08-11T00:20:41.297104"
+}

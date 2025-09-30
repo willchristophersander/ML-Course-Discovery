@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "University of Pikeville",
+    "successful_variation": "University of Pikeville",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=University+of+Pikeville&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ANT 101",
+      "course_title": "Cultural Geography",
+      "credits": "3.00",
+      "description": "A study of the relationship between human societies and the natural environments they occupy: how human groups erect landscapes of human use upon the natural landscape. Cross-listed as GEG 101 and SOC 101.",
+      "institution": "University of Pikeville"
+    },
+    {
+      "course_id": "ANT 225",
+      "course_title": "Introduction to Anthropology:Physical and Archaeological",
+      "credits": "3.00",
+      "description": "A survey of biological nature of humans dealing with human evolution based upon fossil records, the archaeological remains of the earliest societies, comparative study of primates, and contemporary human biological variations.",
+      "institution": "University of Pikeville"
+    },
+    {
+      "course_id": "ANT 229",
+      "course_title": "The Family",
+      "credits": "3.00",
+      "description": "A study of modern marriage and family institutions in the context of radical change; examination of \"marital happiness\" as a cultural phenomenon; topics include the socialregulation of mate selection, kinship relationships and sexual behavior, evaluation of research findings and emerging trends Cross-listed as SOC 229.",
+      "institution": "University of Pikeville"
+    },
+    {
+      "course_id": "ANT 250",
+      "course_title": "Introduction to Archaeology",
+      "credits": "3.00",
+      "description": "An introduction to the basic methods and theories of modern archaeology The course addresses both field techniques such as locating, excavating and recording sites as well as laboratory processing and analysis Hands-on excavation and laboratory experiences are included whenever possible.",
+      "institution": "University of Pikeville"
+    },
+    {
+      "course_id": "ANT 290",
+      "course_title": "Special Topics in Anthropology",
+      "credits": "3.00",
+      "description": "Individual or small group study on a selected topic in the field of Anthropology May be repeated as long as the topic is different from earlier studies Prerequisite: One introductory course in anthropology.",
+      "institution": "University of Pikeville"
+    },
+    {
+      "course_id": "ANT 350",
+      "course_title": "Culture of the Appalachian Region",
+      "credits": "3.00",
+      "description": "A study of the Appalachian culture and social systems, including family structure, social class, religion, and education Some attention given to Appalachian folklore, dance, music, food, and story-telling Cross-listed as SOC 350.",
+      "institution": "University of Pikeville"
+    },
+    {
+      "course_id": "ANT 390",
+      "course_title": "Cultural Area Studies",
+      "credits": "3.00",
+      "description": "The purpose of this integrated study area is to provide opportunity to explore both contemporary cultural traditions and origins and prehistory of selected world regions. Instruction will include a survey of the major geographical areas, language groups, environmental and ecological adaptations, technology, religion and world-view, kinship systems, and social structures Topics may also include the origins and prehistory of cultural groups, supplemented by selected case studies of various archaeological sites. Prerequisite: SOC 125 or ANT 125 or consent of the instructor.",
+      "institution": "University of Pikeville"
+    },
+    {
+      "course_id": "ANT 391",
+      "course_title": "American Indians:Historic and Contemporary Peoples",
+      "credits": "3.00",
+      "description": "Although focused on North America, this course surveys the history of relationships between Native American groups of both North and South America and the developing Anglo-American and Hispanic-American cultures, as well as the cultures, social changes and problems of Native Americans today Activities include a field trip to Cherokee, North Carolina, and individual student correspondence with selected Indian groups across North America.",
+      "institution": "University of Pikeville"
+    },
+    {
+      "course_id": "ANT 392",
+      "course_title": "American Indians:Prehistoric Peoples",
+      "credits": "3.00",
+      "description": "Although focused on North America, this course examines the origins, earliest cultures and developmental sequences of Native American cultures in the major culture areas of North and South America Activities include field trips to prehistoric Indian sites whenever possible.",
+      "institution": "University of Pikeville"
+    },
+    {
+      "course_id": "ANT 393",
+      "course_title": "Racial and Ethnic Cultural Groups",
+      "credits": "3.00",
+      "description": "Scientific investigation of majority/minority group relations with particular emphasis on racial, ethnic, class, and gender groups within American society Prerequisite: One introductory course in anthropology or sociology Cross-listed as SOC 393.",
+      "institution": "University of Pikeville"
+    }
+  ],
+  "timestamp": "2025-08-10T06:27:30.190729"
+}

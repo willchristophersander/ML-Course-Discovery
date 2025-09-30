@@ -1,0 +1,74 @@
+{
+  "search_query": {
+    "institution": "Rose-Hulman Institute of Technology",
+    "successful_variation": "Rose-Hulman Institute of Technology",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Rose-Hulman+Institute+of+Technology&distance=5"
+  },
+  "total_results": 9,
+  "courses": [
+    {
+      "course_id": "AB 101",
+      "course_title": "Essential Biology 4R-OL-4C",
+      "credits": "3.00",
+      "description": "Pre: None Surveys basic concepts in the biological sciences and describes how new advances related to these concepts affect contemporary society. Students who have completed AB110, AB120 or AB130 cannot receive credit for taking AB101.",
+      "institution": "Rose-Hulman Institute of Technology"
+    },
+    {
+      "course_id": "AB 110",
+      "course_title": "Biology I Cell Structure and Function",
+      "credits": "3.00",
+      "description": "Pre: None Introduces structures, mechanisms, and laboratory techniques in cellular and molecular biology. Discusses biomolecules, bioenergetics, biosynthesis, enzymatic function, genetics, and cellular regulatory systems.",
+      "institution": "Rose-Hulman Institute of Technology"
+    },
+    {
+      "course_id": "AB 120",
+      "course_title": "Biology II Comparative Anatomy & Physiology W",
+      "credits": "3.00",
+      "description": "Pre: AB 110 or instructor consent The structural and functional relationships between tissues and organ systems are discussed using a comparative approach. The lecture is combined with laboratory exercises and observations, which may require dissection of biological specimens.",
+      "institution": "Rose-Hulman Institute of Technology"
+    },
+    {
+      "course_id": "AB 130",
+      "course_title": "Biology III Evolution and Diversity",
+      "credits": "3.00",
+      "description": "Pre: AB 120 or instructor consent Introduces fundamental principles, important applications, and field and laboratory techniques in organismal biology. Discusses mechanisms of evolution, the history of life on earth, biological diversity, and ecology.",
+      "institution": "Rose-Hulman Institute of Technology"
+    },
+    {
+      "course_id": "AB 191",
+      "course_title": "Special Topics in Applied Biology XR-0L-XC Arranged",
+      "credits": "3.00",
+      "description": "Pre: Consent of instructor Covers material of mutual interest to students and instructors which cannot be acquired in any other listed AB course.",
+      "institution": "Rose-Hulman Institute of Technology"
+    },
+    {
+      "course_id": "AB 210",
+      "course_title": "Mendelian and Molecular Genetics",
+      "credits": "3.00",
+      "description": "Pre: AB 110 or instructor consent A discussion of Mendelian genetics including the molecular mechanisms of nuclear and cytoplasmic inheritance. Information flow and control of gene expression are addressed at the molecular level. Basic genetic techniques are covered in both lecture and laboratory.",
+      "institution": "Rose-Hulman Institute of Technology"
+    },
+    {
+      "course_id": "AB 220",
+      "course_title": "Prokaryotic Cell and Molecular Biology W",
+      "credits": "3.00",
+      "description": "Pre: AB 110 or instructor consent Discusses the essential properties of eubacteria and archea. Bacterial nutrition, growth, genetics and structural and metabolic diversity are discussed in detail. The basics of virology are also addressed. Fundamental laboratory methodologies are also covered.",
+      "institution": "Rose-Hulman Institute of Technology"
+    },
+    {
+      "course_id": "AB 230",
+      "course_title": "Eukaryotic Cell and Molecular Biology",
+      "credits": "3.00",
+      "description": "Pre: AB 110 or instructor consent Examines the structure and function of various eukaryotic cells. Biomembranes, organelles, the cytoskeleton, energetics, protein sorting, signal transduction and cell interactions are discussed in detail. Essential methods in cell biology are addressed in both lectures and laboratories.",
+      "institution": "Rose-Hulman Institute of Technology"
+    },
+    {
+      "course_id": "AB 264",
+      "course_title": "Introduction to Environmental Science W",
+      "credits": "3.00",
+      "description": "Pre: CHEM 111 or CHEM 201 or consent of instructor This course will introduce students to the broad field of environmental science by examining the biological, chemical, and physical processes that regulate the earth s ecosystems and the effect that anthropogenic activity has in disrupting these components on the local and global scale. A final aspect of the course will discuss sustainable human utilization of natural resources. Cross-listed with CHEM 264.",
+      "institution": "Rose-Hulman Institute of Technology"
+    }
+  ],
+  "timestamp": "2025-08-09T20:22:29.668871"
+}

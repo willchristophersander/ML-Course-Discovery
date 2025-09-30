@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Haywood Community College",
+    "successful_variation": "Haywood Community College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Haywood+Community+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACA 115",
+      "course_title": "Success & Study Skills",
+      "credits": "3.00",
+      "description": "Prerequisites: None Corequisites: None This course provides an orientation to the campus resources and academic skills necessary to achieve educational objectives. Emphasis is placed on an exploration of facilities and services, study skills, library skills, self-assessment, wellness, goalsetting, and critical thinking. Upon completion, students should be able to manage their learning experiences to successfully meet educational goals. Accounting",
+      "institution": "Haywood Community College"
+    },
+    {
+      "course_id": "ACC 110",
+      "course_title": "Ten-Key Skills",
+      "credits": "3.00",
+      "description": "Prerequisites: None Corequisites: None This course is designed to enable mastery of the \"touch system\" on a ten-key device.Emphasis is placed on the \"touch system\" on a ten-key device. Upon completion,students should be able to use the \"touch system\" on a ten-key device in makingcomputations necessary in accounting.",
+      "institution": "Haywood Community College"
+    },
+    {
+      "course_id": "ACC 121",
+      "course_title": "Prin of Managerial Acct",
+      "credits": "3.00",
+      "description": "Prerequisites: ACC 120 Corequisites: None This course includes a greater emphasis on managerial and cost accounting skills. Emphasis is placed on managerial accounting concepts for external and internal analysis, reporting and decision-making. Upon completion, students should be able to analyze and interpret transactions relating to managerial concepts including product-costing systems. This course has been approved to satisfy the Comprehensive Articulation Agreement pre-major and/or elective course requirement.",
+      "institution": "Haywood Community College"
+    },
+    {
+      "course_id": "ACC 129",
+      "course_title": "Individual Income Taxes",
+      "credits": "3.00",
+      "description": "Prerequisites: None Corequisites: None This course introduces the relevant laws governing individual income taxation. Topics include tax law, electronic research and methodologies, and the use of technology for preparation of individual tax returns. Upon completion, students should be able to analyze basic tax scenarios, research applicable tax law, and complete various individual tax forms.",
+      "institution": "Haywood Community College"
+    },
+    {
+      "course_id": "ACC 140",
+      "course_title": "Payroll Accounting",
+      "credits": "3.00",
+      "description": "Prerequisites: ACC 120 Corequisites: None This course covers federal and state laws pertaining to wages, payroll taxes, payroll tax forms, and journal and general ledger transactions. Emphasis is placed on computing wages; calculating social security, income, and unemployment taxes; preparing appropriate payroll tax forms; and journalizing/posting transactions. Upon completion, students should be able to analyze data, make appropriate computations, complete forms, and prepare accounting entries using appropriate technology.",
+      "institution": "Haywood Community College"
+    },
+    {
+      "course_id": "ACC 150",
+      "course_title": "Acct Software Appl",
+      "credits": "3.00",
+      "description": "Prerequisites: ACC 120 Corequisites: None This course introduces microcomputer applications related to accounting systems. Topics include general ledger, accounts receivable, accounts payable, inventory, payroll, and correcting, adjusting, and closing entries. Upon completion, students should be able to use a computer accounting package to solve accounting problems.",
+      "institution": "Haywood Community College"
+    },
+    {
+      "course_id": "ACC 220",
+      "course_title": "Intermediate Accounting I",
+      "credits": "3.00",
+      "description": "Prerequisites: ACC 120 Corequisites: None This course is a continuation of the study of accounting principles with in-depth coverage of theoretical concepts and financial statements. Topics include generally accepted accounting principles and an extensive analysis of financial statements. Upon completion, students should be able to demonstrate competence in the conceptual framework underlying financial accounting, including the application of financial standards.",
+      "institution": "Haywood Community College"
+    },
+    {
+      "course_id": "ACC 221",
+      "course_title": "Intermediate Acct II",
+      "credits": "3.00",
+      "description": "Prerequisites: ACC 220 Corequisites: None This course is a continuation of ACC 220. Emphasis is placed on special problems which may include leases, bonds, investments, ratio analyses, present value applications, accounting changes, and corrections. Upon completion, students should be able to demonstrate an understanding of the principles involved and display an analytical problem-solving ability for the topics covered.",
+      "institution": "Haywood Community College"
+    },
+    {
+      "course_id": "ACC 225",
+      "course_title": "Cost Accounting",
+      "credits": "3.00",
+      "description": "Prerequisites: ACC 121 Corequisites: None This course introduces the nature and purposes of cost accounting as an information system for planning and control. Topics include direct materials, direct labor, factory overhead, process, job order, and standard cost systems. Upon completion, students should be able to demonstrate an understanding of the principles involved and display an analytical problem-solving ability for the topics covered. Agriculture",
+      "institution": "Haywood Community College"
+    },
+    {
+      "course_id": "AGR 121",
+      "course_title": "Biological Pest Management",
+      "credits": "3.00",
+      "description": "Prerequisites: None Corequisites: None This course will emphasize the building and maintaining of healthy soil, plant and insect biological cycles as the key to pest and disease management. Course content includes study of major pests and diseases, including structure, lifecycle, and favored hosts; and biological and least toxic methods of chemical control. Upon completion, students should be able to identify and recommend methods of prevention and control of selected insects and diseases.",
+      "institution": "Haywood Community College"
+    }
+  ],
+  "timestamp": "2025-08-10T06:27:14.709839"
+}

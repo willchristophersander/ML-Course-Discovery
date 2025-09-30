@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Central Arizona College",
+    "successful_variation": "Central Arizona College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Central+Arizona+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ABE 080",
+      "course_title": "Adult Basic Education Beginning Literacy",
+      "credits": "3.00",
+      "description": "3 Credits (3 Lectures) Introductory or beginning literacy level of basic math, reading, science, social studies and writing skills. Satisfactory/unsatisfactory grading only. Prerequisite: Pre-test to determine existing skill level and to evaluate deficiencies and determine specific needs.",
+      "institution": "Central Arizona College"
+    },
+    {
+      "course_id": "ABE 081",
+      "course_title": "Adult Basic Education I",
+      "credits": "3.00",
+      "description": "3 Credits (3 Lectures) Beginning level of basic math, reading, science, social studies and writing skills. Satisfactory/unsatisfactory grading only. Prerequisite: ABE080 or pre-test to determine existing skill level and to evaluate deficiencies and determine specific needs.",
+      "institution": "Central Arizona College"
+    },
+    {
+      "course_id": "ABE 082",
+      "course_title": "Adult Basic Education II",
+      "credits": "3.00",
+      "description": "3 Credits (3 Lectures) Low intermediate level of basic math, reading, science, social studies and writing skills. Satisfactory/ unsatisfactory grading only. Prerequisite: ABE081 or pre-test to determine existing skill level and to evaluate deficiencies and determine specific needs.",
+      "institution": "Central Arizona College"
+    },
+    {
+      "course_id": "ABE 093",
+      "course_title": "Adult Basic Education III",
+      "credits": "3.00",
+      "description": "3 Credits (3 Lectures) High intermediate level of basic math, reading, science, social studies and writing skills. Satisfactory/ unsatisfactory grading only. Prerequisite: ABE082 or pre-test to determine existing skill level and to evaluate deficiencies and determine specific needs.",
+      "institution": "Central Arizona College"
+    },
+    {
+      "course_id": "ACC 100",
+      "course_title": "Fundamentals of Accounting",
+      "credits": "3.00",
+      "description": "3 Credits (3 Lectures) The concepts of accounting for a personal service enterprise or small retail business. Prerequisite: RDG091. Approved for Tech Prep.",
+      "institution": "Central Arizona College"
+    },
+    {
+      "course_id": "ACC 121",
+      "course_title": "Income Tax Fundamentals",
+      "credits": "3.00",
+      "description": "3 Credits (3 Lectures) Theory, rules, and procedures used in preparing federal income tax returns for individuals, corporations, and partnerships both manually and with the use of computer software. Prerequisite: RDG094.",
+      "institution": "Central Arizona College"
+    },
+    {
+      "course_id": "ACC 201",
+      "course_title": "Financial Accounting",
+      "credits": "3.00",
+      "description": "3 Credits (3 Lectures) Theory and practice of accounting applicable to the accumulation, external reporting, and uses of financial information. Prerequisite: RDG094.",
+      "institution": "Central Arizona College"
+    },
+    {
+      "course_id": "ACC 202",
+      "course_title": "Managerial Accounting",
+      "credits": "3.00",
+      "description": "3 Credits (3 Lectures) Selection and analysis of accounting information for internal organization use by management. Prerequisite: ACC201.",
+      "institution": "Central Arizona College"
+    },
+    {
+      "course_id": "ACC 222",
+      "course_title": "Payroll Accounting",
+      "credits": "3.00",
+      "description": "3 Credits (3 Lectures) Functions and practical operation of payroll accounting, with examination of current payroll tax laws, methods of computing wages and salaries, timekeeping methods, and microcomputer software for payroll systems. Prerequisite: ACC100 or ACC201.",
+      "institution": "Central Arizona College"
+    },
+    {
+      "course_id": "ACC 226",
+      "course_title": "Accounting with QuickBooks Pro",
+      "credits": "3.00",
+      "description": "3 Credits (3 Lectures) Practical application of accounting utilizing QuickBooks Pro. Topics covered will include the general ledger, accounts receivable, accounts payable, job costing, and payroll. Prerequisite: ACC100 or ACC201.",
+      "institution": "Central Arizona College"
+    }
+  ],
+  "timestamp": "2025-08-10T17:15:34.993705"
+}

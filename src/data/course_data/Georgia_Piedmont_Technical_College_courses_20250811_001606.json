@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Georgia Piedmont Technical College",
+    "successful_variation": "Georgia Piedmont Technical College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Georgia+Piedmont+Technical+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACC 101",
+      "course_title": "Principles of Accounting I",
+      "credits": "6.00",
+      "description": "Prerequisite: Program Admission Introduces the basic concepts of the complete accounting cycle and provides the student with the necessary skills to maintain a set of books for a sole proprietorship. Topics include: accounting vocabulary and concepts, the accounting cycle and accounting for a personal service business, the accounting cycle and accounting for a merchandising enterprise, and cash control. Laboratory work demonstrates theory presented in class.",
+      "institution": "Georgia Piedmont Technical College"
+    },
+    {
+      "course_id": "ACC 102",
+      "course_title": "Principles of Accounting II",
+      "credits": "6.00",
+      "description": "Prerequisites: ACC 101 with a minimum grade of \"C\" Applies the basic principles of accounting to specific account classifications and subsidiary record accounting. Topics include: receivables, inventory, plant assets, payroll, payables, partnerships, and sales tax returns. Laboratory work demonstrates theory presented in class.",
+      "institution": "Georgia Piedmont Technical College"
+    },
+    {
+      "course_id": "ACC 103",
+      "course_title": "Principles of Accounting III",
+      "credits": "6.00",
+      "description": "Prerequisite: ACC 102 with a minimum of grade \"C\" Emphasizes a fundamental understanding of corporate and cost accounting. Topics include: job order/process, departmental accounting, corporation accounting, stocks and dividends, and budgeting. Laboratory work demonstrates theory presented in class.",
+      "institution": "Georgia Piedmont Technical College"
+    },
+    {
+      "course_id": "ACC 104",
+      "course_title": "Computerized Accounting",
+      "credits": "3.00",
+      "description": "Prerequisites: ACC 102 and SCT 100 with a minimum grade of \"C\" Emphasizes operation of computerized accounting systems. Topics include: set up and operation of software, general ledger, accounts receivable, accounts payable, advanced payroll, financial reports, and other topics such as inventory and depreciation for which software is available. Laboratory work includes theoretical and technical application.",
+      "institution": "Georgia Piedmont Technical College"
+    },
+    {
+      "course_id": "ACC 106",
+      "course_title": "Accounting Spreadsheet Fundamentals",
+      "credits": "3.00",
+      "description": "Prerequisite: SCT 100 with a minimum grade of \"C\" Provides instruction in the use of electronic spreadsheet software packages for program-related spreadsheet applications. Students become proficient in creation, modification, and combination of spreadsheets. Topics include: creation of spreadsheet; editing and deleting entries; computations through the use of formulas; and program-related spreadsheet applications. Laboratory work includes theoretical and technical application.",
+      "institution": "Georgia Piedmont Technical College"
+    },
+    {
+      "course_id": "ACC 108",
+      "course_title": "Half- Time Accounting Internship",
+      "credits": "6.00",
+      "description": "Prerequisites: All non-elective accounting program courses required for program completion with a GPA of 2.0 or better Introduces the application and reinforcement of accounting and employability principles in an actual job setting. Acquaints the student with realistic work situations and provides insights into accounting applications on the job. Topics include: appropriate work habits, acceptable job performance, application of accounting knowledge and skills, interpersonal relations, and development of productivity. The half-time accounting internship is implemented through the use of written performance evaluation, and weekly documentation or seminars and/or other projects as required by the instructor.",
+      "institution": "Georgia Piedmont Technical College"
+    },
+    {
+      "course_id": "ACC 150",
+      "course_title": "Cost Accounting",
+      "credits": "6.00",
+      "description": "Prerequisite: ACC 103 with a minimum grade of \"C\" Emphasizes a thorough understanding of cost concepts, cost behavior, and cost accounting techniques as they are applied to manufacturing and corporate cost systems. Topics include: job order cost accounting, process cost accounting, and standard cost accounting.",
+      "institution": "Georgia Piedmont Technical College"
+    },
+    {
+      "course_id": "ACC 151",
+      "course_title": "Individual Tax Accounting",
+      "credits": "4.00",
+      "description": "Prerequisite/Corequisite: ACC 102 Provides instruction in Federal and State income tax return preparation for individuals. Topics include: dependency tests, gross income inclusions and exclusions, adjustments to income, itemized deductions, purchase and sale of principal residence, earned income credit, child care credit, small business (sole proprietor) income/loss and tax liability.",
+      "institution": "Georgia Piedmont Technical College"
+    },
+    {
+      "course_id": "ACC 152",
+      "course_title": "Payroll Accounting",
+      "credits": "4.00",
+      "description": "Prerequisite/Corequisite: ACC 102 Provides students with an understanding of the laws that affect a company's payroll structure and practical application skills in maintaining payroll records. Topics include: payroll and personnel records, computing and paying wages and salaries, various taxes, and analyzing and journalizing payroll transactions.",
+      "institution": "Georgia Piedmont Technical College"
+    },
+    {
+      "course_id": "ACC 154",
+      "course_title": "Personal Finance",
+      "credits": "5.00",
+      "description": "Prerequisite: Program Admission Introduces practical applications of concepts and techniques used to manage personal finance. Topics include: cash management, time value of money, credit, major purchasing decisions, insurance, investments, retirement, and estate planning.",
+      "institution": "Georgia Piedmont Technical College"
+    }
+  ],
+  "timestamp": "2025-08-11T00:16:06.647520"
+}

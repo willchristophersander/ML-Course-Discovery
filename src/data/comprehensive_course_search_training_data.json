@@ -1,0 +1,39 @@
+{
+  "course_search_urls": [
+    "https://bulletin.wfu.edu/course-search/",
+    "https://catalog.hiram.edu/course-search/",
+    "https://soc.uvm.edu",
+    "https://courses.yale.edu",
+    "https://catalog.utexas.edu/course-search/",
+    "https://catalog.mccc.edu/courses?page=1&cq=",
+    "https://catalog.mccc.edu/courses",
+    "https://catalog.mccc.edu/courses?page=1",
+    "https://globalsearch.cuny.edu/",
+    "https://classes.berkeley.edu/",
+    "https://classes.osu.edu/",
+    "https://go.illinois.edu/courseexplorer",
+    "https://go.ncsu.edu/course-search",
+    "https://courses.unh.edu/",
+    "https://classes.ku.edu/"
+  ],
+  "non_course_search_urls": [
+    "https://bulletin.yale.edu/bulletins-html",
+    "https://www.yale.edu",
+    "https://www.uvm.edu",
+    "https://www.uvm.edu/registrar/uvm-academic-calendar-2024-2025-0",
+    "https://www.uvm.edu/registrar/register-classes",
+    "https://catalog.mccc.edu",
+    "https://catalog.mccc.edu/about/glance",
+    "https://catalog.mccc.edu/enrollment",
+    "https://registrar.utah.edu/Catalog-schedules.php",
+    "https://catalog.unc.edu/courses/",
+    "https://collegecatalog.uchicago.edu/thecollege/programsofstudy/",
+    "https://courses.syracuse.edu/",
+    "https://courses.newschool.edu/"
+  ],
+  "description": "Comprehensive training data including course search and catalog pages from major universities",
+  "version": "3.0",
+  "total_examples": 28,
+  "course_search_examples": 15,
+  "catalog_examples": 13
+}

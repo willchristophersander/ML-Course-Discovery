@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Fort Lewis College",
+    "successful_variation": "Fort Lewis College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Fort+Lewis+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACC 225",
+      "course_title": "Intro to Financial Accounting",
+      "credits": "2.00",
+      "description": "The first of a two-course sequence in basic accounting, this course emphasizes the preparation, understanding and analysis of the standard financial statements for the purpose of making informed business decisions. Topics covered also include the processing of transactions through the accounting cycle, generally accepted accounting principles, and the role of accounting in business. Sophomore standing required. Prerequisites: CO1 course AND (MA 1 course OR Computed Math Placement Score MA 121 or higher) Credits: 4 Clock Hours - (Lect-Lab): (4-0)",
+      "institution": "Fort Lewis College"
+    },
+    {
+      "course_id": "ACC 226",
+      "course_title": "Intro to Managerial Accounting",
+      "credits": "2.00",
+      "description": "The second of a two-course sequence in basic accounting, this course emphasizes the understanding and use of accounting information by management personnel for the purpose of making informed business decisions. Topics covered include the accumulation and behavior of costs; cost-volume-profit analysis; budgeting, planning, and variance analysis; and analysis of financial statements. Prerequisites: ACC 225 Credits: 4 Clock Hours - (Lect-Lab): (4-0)",
+      "institution": "Fort Lewis College"
+    },
+    {
+      "course_id": "ACC 323",
+      "course_title": "Intermediate Accounting I",
+      "credits": "3.00",
+      "description": "This course is the first of two courses that address the in-depth study of financial statement presentation prescribed by accounting standard setting organizations. This course begins with an introduction to the accounting conceptual framework and the formats of the standard financial statements, and then turns to the presentation and disclosure of specific assets and liabilities. Prerequisites: ACC 226 Credits: 4 Clock Hours - (Lect-Lab): (4-0)",
+      "institution": "Fort Lewis College"
+    },
+    {
+      "course_id": "ACC 324",
+      "course_title": "Intermediate Accounting II",
+      "credits": "3.00",
+      "description": "This course is a continuation of the in-depth study of financial statement presentation from Intermediate Accounting I. The course begins with stockholders' equity, then examines the presentation and disclosure of topical areas (for example, leases, pensions, deferred income taxes), and includes the preparation of the statement of cash flows. Prerequisites: ACC 323 Credits: 4 Clock Hours - (Lect-Lab): (4-0)",
+      "institution": "Fort Lewis College"
+    },
+    {
+      "course_id": "ACC 335",
+      "course_title": "Accounting Information Systems",
+      "credits": "3.00",
+      "description": "An analysis of the effects of information technology on the control and maintenance of accounting information systems. Included is the application of contemporary accounting/business software tools in accounting information systems. Prerequisites: ACC 225 Credits: 3 Clock Hours - (Lect-Lab): (3-0)",
+      "institution": "Fort Lewis College"
+    },
+    {
+      "course_id": "ACC 370",
+      "course_title": "Topics in Accounting",
+      "credits": "3.00",
+      "description": "An examination of selected topics and issues pertaining to the study of accounting. Topics might include current accounting pronouncements and legislation, accounting software, not-for-profit accounting, fraud auditing, financial statement analysis, SEC reporting or other current topics. Prerequisites: ACC 226 Credits: 1 to 6 Repeatable: Course may be repeated to an accumulated maximum of 6 credits provided the subject is different each time.",
+      "institution": "Fort Lewis College"
+    },
+    {
+      "course_id": "ACC 426",
+      "course_title": "Advanced Accounting",
+      "credits": "3.00",
+      "description": "A study of topical advanced accounting issues such as business combinations and consolidation accounting, international accounting standards, foreign currency transactions, translation of foreign financial statements and other advanced topics. Prerequisites: ACC 323 Credits: 4 Clock Hours - (Lect-Lab): (4-0)",
+      "institution": "Fort Lewis College"
+    },
+    {
+      "course_id": "ACC 430",
+      "course_title": "Income Tax Accounting",
+      "credits": "3.00",
+      "description": "A brief history of the income tax, income tax accounting and a study of current federal income tax provisions are presented. Prerequisites: ACC 323 Credits: 3 Clock Hours - (Lect-Lab): (3-0)",
+      "institution": "Fort Lewis College"
+    },
+    {
+      "course_id": "ACC 431",
+      "course_title": "Income Tax Accounting II",
+      "credits": "3.00",
+      "description": "Federal income taxation of partnerships, corporations, S-corporations, estates and trusts, and gifts. Prerequisites: ACC 430 Credits: 3 Clock Hours - (Lect-Lab): (3-0)",
+      "institution": "Fort Lewis College"
+    },
+    {
+      "course_id": "ACC 436",
+      "course_title": "Auditing-Theory and Practice",
+      "credits": "3.00",
+      "description": "Functions of the independent public accountant are stressed. The course includes audit reports and opinions, account analysis, audit programs, working paper content and form, professional ethics, applications of accounting and auditing standards, SEC stock exchange regulations, investigations for purchase and financing, and current literature on auditing. Prerequisites: ACC 323 Credits: 4 Clock Hours - (Lect-Lab): (4-0)",
+      "institution": "Fort Lewis College"
+    }
+  ],
+  "timestamp": "2025-08-26T13:50:00.839440"
+}

@@ -1,0 +1,60 @@
+{
+  "search_query": {
+    "institution": "California Institute of Technology",
+    "successful_variation": "California Institute of Technology",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=California+Institute+of+Technology&distance=5"
+  },
+  "total_results": 7,
+  "courses": [
+    {
+      "course_id": "ACM 101",
+      "course_title": "Methods of Applied Mathematics I",
+      "credits": "9.00",
+      "description": "Analytical methods for the formulation and solution of initial and boundary value problems for ordinary differential equations. Basic topics in dynamics in Euclidean space, including equilibria, stability, Lyapunov functions, periodic solutions, Poincar\u00e9-Bendixon theory, and Poincar\u00e9 maps. Additonal topics may include attractors, structural stability and simple bifurcations, including Hopf bifurcations. Taught concurrently with CDS 140 a and AM 125 b. Instructor: Murray, MacMynowski.",
+      "institution": "California Institute of Technology"
+    },
+    {
+      "course_id": "ACM 104",
+      "course_title": "Linear Algebra and Applied Operator Theory",
+      "credits": "9.00",
+      "description": "Linear spaces, subspaces, spans of sets, linear independence, bases, dimensions; linear transformations and operators, examples, nullspace/kernel, range-space/image, one-to-one and onto, isomorphism and invertibility, rank-nullity theorem; products of linear transformations, left and right inverses, generalized inverses. Adjoints of linear transformations, singular-value decomposition and Moore-Penrose inverse; matrix representation of linear transformations between finite-dimensional linear spaces, determinants, multilinear forms; metric spaces: examples, limits and convergence of sequences, completeness, continuity, fixed-point (contraction) theorem, open and closed sets, closure; normed and Banach spaces, inner product and Hilbert spaces: examples, Cauchy-Schwarz inequality, orthogonal sets, Gram-Schmidt orthogonalization, projections onto subspaces, best approximations in subspaces by projection; bounded linear transformations, principle of superposition for infinite series, well-posed linear problems, norms of operators and matrices, convergence of sequences and series of operators; eigenvalues and eigenvectors of linear operators, including their properties for self- adjoint operators, spectral theorem for self-adjoint and normal operators; canonical representations of linear operators (finite-dimensional case), including diagonal and Jordan form, direct sums of (generalized) eigenspaces. Schur form; functions of linear operators, including exponential, using diagonal and Jordan forms, Cayley-Hamilton theorem. Taught concurrently with CDS 201. Instructor: Beck.",
+      "institution": "California Institute of Technology"
+    },
+    {
+      "course_id": "ACM 105",
+      "course_title": "Applied Real and Functional Analysis",
+      "credits": "9.00",
+      "description": "Lebesgue integral on the line, general measure and integration theory; Lebesgue integral in n-dimensions, convergence theorems, Fubini, Tonelli, and the transformation theorem; normed vector spaces, completeness, Banach spaces, Hilbert spaces; dual spaces, Hahn-Banach theorem, Riesz-Frechet theorem, weak convergence and weak solvability theory of boundary value problems; linear operators, existence of the adjoint. Self-adjoint operators, polar decomposition, positive operators, unitary operators; dense subspaces and approximation, the Baire, Banach-Steinhaus, open mapping and closed graph theorems with applications to differential and integral equations; spectral theory of compact operators; LP spaces, convolution; Fourier transform, Fourier series; Sobolev spaces with application to PDEs, the convolution theorem, Friedrich\u2019s mollifiers. Not offered 2012\u201313.",
+      "institution": "California Institute of Technology"
+    },
+    {
+      "course_id": "ACM 113",
+      "course_title": "Introduction to Optimization",
+      "credits": "9.00",
+      "description": "Unconstrained optimization: optimality conditions, line search and trust region methods, properties of steepest descent, conjugate gradient, Newton and quasi-Newton methods. Linear programming: optimality conditions, the simplex method, primal-dual interior-point methods. Nonlinear programming: Lagrange multipliers, optimality conditions, logarithmic barrier methods, quadratic penalty methods, augmented Lagrangian methods. Integer programming: cutting plane methods, branch and bound methods, complexity theory, NP complete problems. Instructor: Tropp. Prerequisite: ACM 95/100 abc, ACM 11, 104 or equivalent, or instructor\u2019s permission.",
+      "institution": "California Institute of Technology"
+    },
+    {
+      "course_id": "ACM 114",
+      "course_title": "Parallel Algorithms for Scientific Applications",
+      "credits": "9.00",
+      "description": "Introduction to parallel program design for numerically intensive scientific applications. Parallel programming methods; distributed-memory model with message passing using the message passing interface; shared-memory model with threads using open MP, CUDA; object-based models using a problem-solving environment with parallel objects. Parallel numerical algorithms: numerical methods for linear algebraic systems, such as LU decomposition, QR method, CG solvers; parallel implementations of numerical methods for PDEs, including finite-difference, finite-element; particle-based simulations. Performance measurement, scaling and parallel efficiency, load balancing strategies. Not offered 2012\u201313. Prerequisite: ACM 11, 106 or equivalent.",
+      "institution": "California Institute of Technology"
+    },
+    {
+      "course_id": "ACM 116",
+      "course_title": "Introduction to Stochastic Processes and Modeling",
+      "credits": "9.00",
+      "description": "Introduction to fundamental ideas and techniques of stochastic analysis and modeling. Random variables, expectation and conditional expectation, joint distributions, covariance, moment generating function, central limit theorem, weak and strong laws of large numbers, discrete time stochastic processes, stationarity, power spectral densities and the Wiener-Khinchine theorem, Gaussian processes, Poisson processes, Brownian motion. The course develops applications in selected areas such as signal processing (Wiener filter), information theory, genetics, queuing and waiting line theory, and finance. Instructor: Tropp.",
+      "institution": "California Institute of Technology"
+    },
+    {
+      "course_id": "ACM 118",
+      "course_title": "Methods in Applied Statistics and Data Analysis",
+      "credits": "9.00",
+      "description": "Introduction to fundamental ideas and techniques of statistical modeling, with an emphasis on conceptual understanding and on the analysis of real data sets. Simple and multiple regression: estimation, inference, model checking. Analysis of variance, comparison of models, model selection. Principal component analysis. Linear discriminant analysis. Generalized linear models and logistic regression. Resampling methods and the bootstrap. Instructor: Simons.",
+      "institution": "California Institute of Technology"
+    }
+  ],
+  "timestamp": "2025-08-11T00:17:43.228298"
+}

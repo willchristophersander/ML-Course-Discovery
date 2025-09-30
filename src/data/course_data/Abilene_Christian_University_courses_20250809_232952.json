@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Abilene Christian University",
+    "successful_variation": "Abilene Christian University",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Abilene+Christian+University&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACCT 210",
+      "course_title": "Financial Accounting",
+      "credits": "3.00",
+      "description": "fall, spring, summer. Introduction to financial accounting. Emphasis given to corporate financial statements, their preparation, and their use in decision making by persons outside the organization. Incorporates identifying, analyzing, measuring, recording and communication of financial information. Prerequisite: 24 earned hours.",
+      "institution": "Abilene Christian University"
+    },
+    {
+      "course_id": "ACCT 211",
+      "course_title": "Managerial Accounting",
+      "credits": "3.00",
+      "description": "fall, spring, summer. Introduction to managerial accounting. Emphasis is given to the development and analysis of accounting information used by managers in manufacturing and service businesses. Topics include managerial concepts, cost behavior principles, relevance of information, product costing techniques, and planning and control. Prerequisite: ACCT 210 with a grade of \"C\" or better.",
+      "institution": "Abilene Christian University"
+    },
+    {
+      "course_id": "ACCT 302",
+      "course_title": "Cost Accounting I",
+      "credits": "3.00",
+      "description": "fall, spring. A study of principles and techniques of cost accounting for product costing, planning and control. Topics include but are not limited to job-order, process, and hybrid costing systems, allocation methods, cost-volume-profit analysis, standard costing, and flexible budgeting. Prerequisite: ACCT 210 with a grade of \"C\" or better.",
+      "institution": "Abilene Christian University"
+    },
+    {
+      "course_id": "ACCT 304",
+      "course_title": "Income Tax I",
+      "credits": "3.00",
+      "description": "fall, spring. Study of federal income tax law and procedures as they pertain to individuals. Topics include but are not limited to gross income, exclusions, and personal business deductions and credits. Emphasis is placed on practical problem solving using tax forms, tax research and tax planning cases. Prerequisite: ACCT 210 with a grade of \"C\" or better.",
+      "institution": "Abilene Christian University"
+    },
+    {
+      "course_id": "ACCT 310",
+      "course_title": "Intermediate Accounting I",
+      "credits": "3.00",
+      "description": "fall, spring. General objectives and principles of financial accounting with emphasis on accounting for assets and statement presentation. Topics include but are not limited to historical development of the accounting profession, the FASB conceptual framework, balance sheet analysis, revenue recognition and income determination, and concepts of present and future value. Prerequisite: ACCT 210 with a grade of \"C\" or better.",
+      "institution": "Abilene Christian University"
+    },
+    {
+      "course_id": "ACCT 311",
+      "course_title": "Intermediate Accounting II",
+      "credits": "3.00",
+      "description": "fall, spring. Current procedures in accounting for liabilities, stockholder's equity, statement analysis and special statement preparation. Topics include leases, pensions, earnings per share, and accounting for price changes. Prerequisite: ACCT 310 with a grade of \"C\" or better.",
+      "institution": "Abilene Christian University"
+    },
+    {
+      "course_id": "ACCT 324",
+      "course_title": "Accounting Information Systems",
+      "credits": "3.00",
+      "description": "fall, spring. A study of the integration of information technology in accounting information systems. Emphasis is placed on understanding business processes and how the integration of technology impacts these processes, as well as learning how internal controls are implemented to ensure the integrity of information produced by the systems. Prerequisites: ACCT 210, MGMT 120, both with grade of \"C\" or better.",
+      "institution": "Abilene Christian University"
+    },
+    {
+      "course_id": "ACCT 404",
+      "course_title": "Income Tax II",
+      "credits": "3.00",
+      "description": "spring. Tax research methods and survey of federal income tax law and procedures primarily as they pertain to partnerships, corporations, and trusts and estates. Topics include but are not limited to problems between partners and partnerships, corporate operating rules, complete and partial corporate liquidations, earnings accumulations, corporations, trust and estate operations and taxation. Prerequisite: ACCT 304 with a grade of \"C\" or better.",
+      "institution": "Abilene Christian University"
+    },
+    {
+      "course_id": "ACCT 405",
+      "course_title": "Fundamentals of Auditing",
+      "credits": "3.00",
+      "description": "fall, spring. Study of auditing theory and procedures. Topics include but are not limited to the auditor's report, structure of the profession, code of ethics, litigation, engagement planning, evidence, internal control, audit programs, and statistical sampling. Prerequisite: ACCT 311 with a grade of \"C\" or better.",
+      "institution": "Abilene Christian University"
+    },
+    {
+      "course_id": "ACCT 410",
+      "course_title": "Advanced Accounting I",
+      "credits": "3.00",
+      "description": "fall, spring. Accounting for alternative forms of business expansion with emphasis on consolidated statements. Topics include but are not limited to partnerships, business combinations, consolidated financial statements, foreign operations and segment reporting. Prerequisite: ACCT 311 with a grade of \"C\" or better.",
+      "institution": "Abilene Christian University"
+    }
+  ],
+  "timestamp": "2025-08-09T23:29:52.241799"
+}

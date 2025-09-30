@@ -1,0 +1,74 @@
+{
+  "search_query": {
+    "institution": "J Sargeant Reynolds Community College",
+    "successful_variation": "J Sargeant Reynolds Community College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=J+Sargeant+Reynolds+Community+College&distance=5"
+  },
+  "total_results": 9,
+  "courses": [
+    {
+      "course_id": "ACC 115",
+      "course_title": "Applied Accounting",
+      "credits": "3.00",
+      "description": "Presents practical accounting procedures for retail stores, professional individuals in firms, and personal service occupations. Covers the accounting cycle, journals, ledgers, preparation of financial statements and payrolls, and checking account management. Prerequisites: Students should have completed developmental courses in English, reading, and mathematics prior to enrollment in ACC 115. Waivers must be granted by program, school, or counselor approval. Lecture 3 hours per week. Offered in fall, spring, and summer.",
+      "institution": "J Sargeant Reynolds Community College"
+    },
+    {
+      "course_id": "ACC 124",
+      "course_title": "Payroll Accounting",
+      "credits": "3.00",
+      "description": "Presents accounting systems and methods used in computing and recording payroll to include payroll taxes and compliance with federal and state legislation. Lecture 3 hours per week. Offered in spring and summer.",
+      "institution": "J Sargeant Reynolds Community College"
+    },
+    {
+      "course_id": "ACC 134",
+      "course_title": "Small Business Taxes",
+      "credits": "3.00",
+      "description": "Introduces taxes most frequently encountered in business. Includes payroll, sales, property, and income tax. Studies the fundamentals of income tax preparation of business taxes for small businesses organized as proprietorships and partnerships. Includes sales and property taxes and income tax preparation related to business assets; business of the home; employment taxes; excise taxes; schedules C, SE and 1040; self-employed retirement plans; tip reporting and allocation rules, etc. Lecture 3 hours per week. Offered in spring.",
+      "institution": "J Sargeant Reynolds Community College"
+    },
+    {
+      "course_id": "ACC 212",
+      "course_title": "Principles of Accounting II",
+      "credits": "3.00",
+      "description": "Continues Accounting Principles 211 with emphasis on the application to partnerships, corporations, and the study of financial analysis. Includes an introduction to cost and managerial accounting concepts. Prerequisite: ACC 211. Lecture 3 hours per week. Offered in fall, spring, summer.",
+      "institution": "J Sargeant Reynolds Community College"
+    },
+    {
+      "course_id": "ACC 215",
+      "course_title": "Computerized Accounting",
+      "credits": "3.00",
+      "description": "Introduces the computer in solving accounting problems. Focuses on operation of computers. Presents the accounting cycle and financial statement preparation in a computerized system and other applications for financial and managerial accounting. Prerequisite: ACC 115 or ACC 211 or equivalent or school approval. Lecture 3 hours per week. Offered in summer.",
+      "institution": "J Sargeant Reynolds Community College"
+    },
+    {
+      "course_id": "ACC 217",
+      "course_title": "Analyzing Financial Statements",
+      "credits": "3.00",
+      "description": "Explains how financial data are generated and limitations of the data, techniques for analyzing the flow of a business's funds, and the methods of selecting and interpreting financial ratios. Highlights the conceptual framework for analysis, and offers basic and advanced analytical techniques through the use of comprehensive case studies. Prerequisite: ACC 212 or equivalent. Lecture 3 hours per week. Offered in summer, even years.",
+      "institution": "J Sargeant Reynolds Community College"
+    },
+    {
+      "course_id": "ACC 219",
+      "course_title": "Government and Non-Profit Accounting",
+      "credits": "3.00",
+      "description": "Introduces fund accounting as used by governmental and nonprofit entities. Stresses differences between accounting principles of for-profit and not-forprofit organizations. Prerequisite: ACC 212 or equivalent. Lecture 3 hours per week. Offered in fall.",
+      "institution": "J Sargeant Reynolds Community College"
+    },
+    {
+      "course_id": "ACC 221",
+      "course_title": "Intermediate Accounting I",
+      "credits": "3.00",
+      "description": "Covers accounting principles and theory, including a review of the accounting cycle and accounting for current assets, current liabilities, and investments. Introduces various accounting approaches and demonstrates the effect of these approaches on the financial statement users. Prerequisite: ACC 212 or equivalent. Lecture 3 hours per week. Offered in fall.",
+      "institution": "J Sargeant Reynolds Community College"
+    },
+    {
+      "course_id": "ACC 222",
+      "course_title": "Intermediate Accounting II",
+      "credits": "3.00",
+      "description": "Continues accounting principles and theory with emphasis on accounting for fixed assets, intangibles, corporate capital structure, long-term liabilities, and investments. Prerequisite: ACC 221 or equivalent. Lecture 3 hours per week. Offered in spring.",
+      "institution": "J Sargeant Reynolds Community College"
+    }
+  ],
+  "timestamp": "2025-08-10T10:15:08.532486"
+}

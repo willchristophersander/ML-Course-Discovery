@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Moraine Valley Community College",
+    "successful_variation": "Moraine Valley Community College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Moraine+Valley+Community+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ADC 100",
+      "course_title": "Human Development And Behavior",
+      "credits": "3.00",
+      "description": "Provides basic principles of human development and behavior. Focus is on how chemical use, misuse, abuse and dependency affect normal growth and development. (3 contact hours)",
+      "institution": "Moraine Valley Community College"
+    },
+    {
+      "course_id": "ADC 101",
+      "course_title": "Introduction to Addiction Counseling",
+      "credits": "3.00",
+      "description": "Introduction to alcohol and other drug abuse counseling and processes. Focus is on assessment and diagnosis, the core functions of an alcohol and other drug abuse counselor, and basic counseling skills. Provides information on career opportunities, counselor certification requirements and procedures, and other aspects of the AODA counselor. (3 contact hours)",
+      "institution": "Moraine Valley Community College"
+    },
+    {
+      "course_id": "ADC 106",
+      "course_title": "Theory And Practice of Counseling",
+      "credits": "3.00",
+      "description": "Prerequisite: ADC-101 and ADC-202. Current theoretical counseling approaches will be discussed within the context of their history, philosophical base, key concepts, and client populations served. Students will be encouraged to explore their own philosophic base and skills to identify approaches for further study. (3 contact hours)",
+      "institution": "Moraine Valley Community College"
+    },
+    {
+      "course_id": "ADC 108",
+      "course_title": "Treatment Delivery Models",
+      "credits": "3.00",
+      "description": "Prerequisite: ADC-101. This course provides an introduction to the history of human services, the life and social problems addressed through human services, and public policies and systems developed in response to human service needs. (3 contact hours)",
+      "institution": "Moraine Valley Community College"
+    },
+    {
+      "course_id": "ADC 110",
+      "course_title": "Common Behavior Disorders",
+      "credits": "3.00",
+      "description": "Provides an overview of the causes, assessment and treatment of common behavior disorders. Includes a review of eating disorders, pathological gambling, attention-deficit hyperactivity, sexual disorders, and substance abuse as a behavior disorder. (3 contact hours)",
+      "institution": "Moraine Valley Community College"
+    },
+    {
+      "course_id": "ADC 112",
+      "course_title": "Diversity in Addictions Counseling",
+      "credits": "3.00",
+      "description": "Prerequisite: ADC-101 and ADC-202. This course examines treatment issues, techniques, and the development of programs related to diverse cultures and special-needs groups such as adolescents, women, the elderly, and minority groups. Mixed cultural identities are also covered. (3 contact hours)",
+      "institution": "Moraine Valley Community College"
+    },
+    {
+      "course_id": "ADC 202",
+      "course_title": "Substance Use, Abuse And Dependency",
+      "credits": "3.00",
+      "description": "This course provides intensive instruction about alcohol and other drugs with emphasis on the differences between substance use, abuse and dependence, and the symptoms associated with each of these stages. The student will be able to recognize the signs and symptoms of each stage, the effects of substance abuse on the individual, the family, society, and a historical approach to intervention strategies. (3 contact hours)",
+      "institution": "Moraine Valley Community College"
+    },
+    {
+      "course_id": "ADC 204",
+      "course_title": "Psychopharmacology",
+      "credits": "3.00",
+      "description": "Prerequisite: ADC-101. This course provides an introduction to the psychopharmacology of alcohol and other drugs, including physiological and biochemical processes, action, use, and route of administration. Intoxication screening and withdrawal symptoms will be addressed. (3 contact hours)",
+      "institution": "Moraine Valley Community College"
+    },
+    {
+      "course_id": "ADC 205",
+      "course_title": "Substance Abuse",
+      "credits": "3.00",
+      "description": "Examines commonly abused drugs and their behavioral effects. Includes a review of drug regulations and programs, signs/symptoms commonly seen in abusers, and general guidelines useful in drug abuse-related emergencies. (3 contact hours)",
+      "institution": "Moraine Valley Community College"
+    },
+    {
+      "course_id": "ADC 206",
+      "course_title": "Group Counseling",
+      "credits": "3.00",
+      "description": "Prerequisite: ADC-101. Provides intensive instruction in the theory and practice of the group counseling approach used in alcohol and other drug abuse treatment. (3 contact hours)",
+      "institution": "Moraine Valley Community College"
+    }
+  ],
+  "timestamp": "2025-08-10T14:40:10.005778"
+}

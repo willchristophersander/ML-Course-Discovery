@@ -1,0 +1,73 @@
+{
+  "timestamp": "2025-08-08T17:44:47.992925",
+  "analysis": {
+    "total_universities": 3,
+    "discovery_success_rate": 0.3333333333333333,
+    "avg_discovery_confidence": 0.89,
+    "validation_success_rate": 0.0,
+    "avg_validation_confidence": 0,
+    "course_finding_rate": 0,
+    "avg_discovery_time": 0.9577105840047201,
+    "avg_validation_time": 1.1751046975453694,
+    "successful_discoveries": [
+      {
+        "university": "New York University",
+        "url": "https://classes.berkeley.edu/",
+        "discovery_confidence": 0.89,
+        "validation_confidence": 0.0,
+        "courses_found": "0/0"
+      }
+    ],
+    "failed_discoveries": [
+      {
+        "university": "Trinity College (CT)",
+        "error": "No search results found with any strategy"
+      },
+      {
+        "university": "South Arkansas Community College",
+        "error": "No search results found with any strategy"
+      }
+    ]
+  },
+  "detailed_results": [
+    {
+      "university_name": "New York University",
+      "discovered_url": "https://classes.berkeley.edu/",
+      "discovery_success": true,
+      "discovery_confidence": 0.89,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No test courses found in CollegeTransfer.net",
+      "discovery_time": 2.8718976974487305,
+      "validation_time": 3.5253140926361084
+    },
+    {
+      "university_name": "Trinity College (CT)",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No search results found with any strategy",
+      "discovery_time": 0.0007681846618652344,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "South Arkansas Community College",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No search results found with any strategy",
+      "discovery_time": 0.0004658699035644531,
+      "validation_time": 0.0
+    }
+  ]
+}

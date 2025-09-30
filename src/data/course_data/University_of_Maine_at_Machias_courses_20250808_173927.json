@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "University of Maine at Machias",
+    "successful_variation": "University of Maine at Machias",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=University+of+Maine+at+Machias&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACC 201",
+      "course_title": "Financial Accounting",
+      "credits": "3.00",
+      "description": "The fundamental principles of accounting as they relate to sole proprietorships. Emphasis is given to developing the technical procedures of journalizing, posting, adjusting entries, closing the books and preparing the financial statements. In addition, students are introduced to notes, inventory, depreciation, controls and payroll. Competency and/or concurrent enrollment in basic reading, writing, and mathematics courses are a prerequisite for all business studies offerings with a prefix of ACC, BUS, MAN, and MAR. 3 Cr",
+      "institution": "University of Maine at Machias"
+    },
+    {
+      "course_id": "ACC 202",
+      "course_title": "Managerial Accounting",
+      "credits": "3.00",
+      "description": "Covers techniques accountants use to help management plan and control business operations. Topics include accounting for manufacturing costs, budgeting and performance reporting, cost-volume-profit analysis, differential analysis, the computation of financial ratios, and the comparison of cash flow with net income. Prerequisite: ACC 201. 3 Cr",
+      "institution": "University of Maine at Machias"
+    },
+    {
+      "course_id": "ACC 212",
+      "course_title": "Principles of Financial Accounting II",
+      "credits": "3.00",
+      "description": "In this course, students encounter and are exposed to various topics in accounting for fixed and intangible assets; corporate organization, capital stock transactions and dividends; corporate income and taxes, stockholders' equity and investments in stocks; bonds payable and investments in bonds; cash flows; depreciation; financial statement analysis; alternative methods of recording deferrals, and lastly, partnerships. Prerequisite: ACC 201 3 Cr",
+      "institution": "University of Maine at Machias"
+    },
+    {
+      "course_id": "ACC 301",
+      "course_title": "Intermediate Accounting I",
+      "credits": "3.00",
+      "description": "Covers techniques accountants use to measure and communicate general purpose financial information to all interested parties in a manner that complies with generally accepted accounting principles. Topics include income statements, balance sheets, cash, receivables, inventories, and non-current assets. Prerequisite: ACC 201. 3 Cr",
+      "institution": "University of Maine at Machias"
+    },
+    {
+      "course_id": "ACC 302",
+      "course_title": "Intermediate Accounting II",
+      "credits": "3.00",
+      "description": "Techniques accountants use to measure and communicate general purpose financial information to all interested parties in a manner that complies with generally accepted accounting principles. Topics include revenue recognition criteria, current and long term liabilities, corporate owner's equity, income taxes, pensions, leases, and the statement of cash flow. Prerequisite: ACC 301. 3 Cr",
+      "institution": "University of Maine at Machias"
+    },
+    {
+      "course_id": "ACC 311",
+      "course_title": "Individual Income Tax",
+      "credits": "3.00",
+      "description": "Covers federal income tax legislation that applies to individual income taxpayers. Topics include the individual income tax formula, income inclusions and exclusions, ordinary income, capital gains and losses, active and passive income, deductions, and tax credits. Students learn to prepare individual income tax returns. Prerequisite: ACC 201 or permission of instructor. 3 Cr",
+      "institution": "University of Maine at Machias"
+    },
+    {
+      "course_id": "ACC 312",
+      "course_title": "Business Income Tax",
+      "credits": "3.00",
+      "description": "Covers federal tax legislation that applies to business entities and to the owners of those entities. Students study the tax treatment of proprietorships, partnerships, and corporations and learn to prepare tax returns for each. Prerequisite: ACC 311 or permission of instructor. 3 Cr",
+      "institution": "University of Maine at Machias"
+    },
+    {
+      "course_id": "ACC 314",
+      "course_title": "QuickBooks Accounting for Entrepreneurs",
+      "credits": "3.00",
+      "description": "QuickBooks Accounting for Entrepreneurs will introduce students to QuickBooks accounting software. Students will become familiar with maintaining accounting records and preparing summary financial reports using QuickBooks. The course is also intended to help students learn or review fundamental accounting concepts and principles, enable students to review financial statements from a user perspective, provide students with a means to investigate the underlying source documents that generate most accounting information, and offer students the chance to explore some managerial aspects of accounting by performing financial analyses and comparisons. Prerequisite: ACC 201 or permission of instructor. 3 Cr",
+      "institution": "University of Maine at Machias"
+    },
+    {
+      "course_id": "ACC 321",
+      "course_title": "Cost Accounting",
+      "credits": "3.00",
+      "description": "Covers how accountants measure and allocate the costs of operating a business. Topics include manufacturing costs, cost systems, analyzing cost variances, direct and absorption costing, operating budgets, and capital expenditure analysis. Prerequisite: ACC 202. 3 Cr",
+      "institution": "University of Maine at Machias"
+    },
+    {
+      "course_id": "ACC 328",
+      "course_title": "Fund Accounting",
+      "credits": "3.00",
+      "description": "Covers accounting practices of governmental and non-profit organizations. This course provides an opportunity to compare the accounting assumptions of organizations with varying purposes and to explore the appropriateness of those assumptions. Prerequisite: ACC 201. 3 Cr",
+      "institution": "University of Maine at Machias"
+    }
+  ],
+  "timestamp": "2025-08-08T17:39:27.674593"
+}

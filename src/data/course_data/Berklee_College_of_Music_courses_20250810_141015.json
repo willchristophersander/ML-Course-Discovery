@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Berklee College of Music",
+    "successful_variation": "Berklee College of Music",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Berklee+College+of+Music&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "AR 111",
+      "course_title": "Arranging",
+      "credits": "1.00",
+      "description": "Credits:2 credits Prerequisites:PW-110 or satisfactory placement score, and HR-111 Course Chair:M. Nicholl Required of:All Electable by:All Offered:Spring, Summer, Fall Description A study of the musical concepts of melody, rhythm, harmony, and form as applied to the principles and techniques of writing and arranging for the rhythm section (drums, bass, guitar, keyboards, basic percussion) and a lead-line for a solo instrument, two horns (trumpet plus alto or tenor saxophone), or voice. Focus on the conceptual process of combining individual components to create a musically satisfying arrangement. Exploration of the use and integration of MIDI technology and sequencing as they relate to rhythm section and lead-line writing. Study of various contemporary musical styles and musical concepts that comprise them, including writing from the \"bottom up\" (groove-driven) and \"top down\" (working with a melody in a lead instrument or voice). Writing assignments will incorporate combinations of acoustic, electronic, and MIDI instruments.",
+      "institution": "Berklee College of Music"
+    },
+    {
+      "course_id": "AR 112",
+      "course_title": "Arranging",
+      "credits": "2.00",
+      "description": "Credits: 2 credits Prerequisites: AR-111 and HR-112 Course Chair: M. Nicholl Required of: CWPR and JCMP majors Electable by: All Offered: Spring, Summer, Fall Description Study of the properties of the trumpet, alto saxophone, tenor saxophone, trombone, and baritone saxophone, and the writing/arranging processes of standard and spread voicings, approach techniques, melodic embellishment, and guide tone backgrounds. Focus is on applying the writing processes to soli and background writing for two-, three-, four-, and five-part combinations of these instruments. It is recommended that CW-171 be taken by CWPR majors prior to enrolling in AR-112.",
+      "institution": "Berklee College of Music"
+    },
+    {
+      "course_id": "AR 201",
+      "course_title": "Chord Scale Voicings for Arranging",
+      "credits": "2.00",
+      "description": "Credits: 2 credits Prerequisites: AR-112 and HR-211 Course Chair: K. Pullig Required of: JCMP majors Electable by: All Offered: Spring, Summer, Fall Description Five- and six-part writing for instruments. Application of voicings in seconds, thirds, and fourths. Upper-structure triads, clusters, and other nonmechanical voicings derived from chord scales. Extensive score analysis.",
+      "institution": "Berklee College of Music"
+    },
+    {
+      "course_id": "AR 203",
+      "course_title": "Music Preparation",
+      "credits": "1.00",
+      "description": "Credits: 2 credits Prerequisites: AR-111 Course Chair: K. Pullig Required of: None Electable by: All Offered: Spring, Summer, Fall Description Skills, tools, and techniques used in handwritten notation, including score layout and part design and layout as used in the professional music environment. Special problems, including divisi parts, vocal parts, multistave parts, master rhythm parts, and copying from a sketch. Use of a calligraphy pen and other specialized equipment and supplies used by professional music copyists.",
+      "institution": "Berklee College of Music"
+    },
+    {
+      "course_id": "AR 228",
+      "course_title": "A Survey of Jazz Composition and Arranging",
+      "credits": "2.00",
+      "description": "Credits:2 credits Prerequisites:None Course Chair:K. Pullig Required of:JCMP majors Electable by:All Offered:Spring, Summer, Fall Description A comprehensive study of the evolution of jazz arranging and composition from the 1920s to the present. Score analysis of representative works by Fletcher Henderson, Duke Ellington, Gil Evans, Thad Jones, and others. Extensive listening. Written arrangements not required.",
+      "institution": "Berklee College of Music"
+    },
+    {
+      "course_id": "AR 313",
+      "course_title": "Scoring for Instrumental Ensembles in the Secondary School",
+      "credits": "2.00",
+      "description": "Credits:2 credits Prerequisites:CM-212 or both CM-252 and CP-212 Course Chair:C. Adderley Required of:None Electable by:All Offered:Fall semester in odd-numbered years Description Orchestration for wind, string, and percussion groups as used at the secondary school level. Principles of score layout/arranging for concert band and high school orchestra.",
+      "institution": "Berklee College of Music"
+    },
+    {
+      "course_id": "AR 314",
+      "course_title": "Arranging for Secondary Vocal Ensemble",
+      "credits": "2.00",
+      "description": "Credits:2 credits Prerequisites:CM-212 or CM-252 Course Chair:C. Adderley Required of:None Electable by:All Offered:Spring semester in odd-numbered years Description Arranging for high school vocal groups. Principles of part-writing for various combinations of voices. Writing piano accompaniments. End-of-semester arranging project required.",
+      "institution": "Berklee College of Music"
+    },
+    {
+      "course_id": "AR 316",
+      "course_title": "Arranging for High School Jazz Ensemble",
+      "credits": "2.00",
+      "description": "Credits: 2 credits Prerequisites: AR-112 Course Chair: C. Adderley Required of: None Electable by: All Offered: Spring semester in even-numbered years Description Principles of writing for high school jazz ensembles with standard and mixed instrumentation. Range problems, rhythm section parts, special considerations for high school musicians. Examination of published scores.",
+      "institution": "Berklee College of Music"
+    },
+    {
+      "course_id": "AR 321",
+      "course_title": "Contemporary Arranging and Composition",
+      "credits": "2.00",
+      "description": "Credits: 2 credits Prerequisites: CM-371 Course Chair: K. Pullig Required of: None Electable by: All Offered: Spring Description Development of individual writing creativity. Emphasis on the building of confidence in writing clear, memorable lead lines based on standard song forms. Discussions on the relationship of speech patterns to melody. Individual conferences with the instructor when necessary. Written projects required.",
+      "institution": "Berklee College of Music"
+    },
+    {
+      "course_id": "AR 328",
+      "course_title": "Arranging for Contemporary Jazz Ensemble",
+      "credits": "2.00",
+      "description": "Credits:2 credits Prerequisites:AR-201 and HR-212 Course Chair:K. Pullig Required of:None Electable by:All Offered:Fall Description The arranging of original tunes combining both traditional jazz techniques and contemporary compositional concepts. Analysis of taped examples.",
+      "institution": "Berklee College of Music"
+    }
+  ],
+  "timestamp": "2025-08-10T14:10:15.430922"
+}

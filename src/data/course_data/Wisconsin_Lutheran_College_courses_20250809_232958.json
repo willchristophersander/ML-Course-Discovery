@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Wisconsin Lutheran College",
+    "successful_variation": "Wisconsin Lutheran College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Wisconsin+Lutheran+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ANT 201",
+      "course_title": "Cultural Anthropology",
+      "credits": "3.00",
+      "description": "A course which surveys the development and nature of cultural systems. It examines the social patterns, processes, and variations related to culture. The comparative study of cultures world-wide includes analysis of language, art, family life, religion, economic and political areas.",
+      "institution": "Wisconsin Lutheran College"
+    },
+    {
+      "course_id": "BUS 181",
+      "course_title": "Principles of Microeconomics",
+      "credits": "3.00",
+      "description": "Principles of microeconomics and theories with emphasis on economic analysis and special application to managerial economics. (BUS majors/minors must get a C or better)",
+      "institution": "Wisconsin Lutheran College"
+    },
+    {
+      "course_id": "BUS 182",
+      "course_title": "Principles of Macroeconomics",
+      "credits": "3.00",
+      "description": "Basic economic principles and theories with emphasis on macroeconomics and special application to the American economic system and its problems. (BUS majors/minors must get a C or better) Prereq: BUS 181.",
+      "institution": "Wisconsin Lutheran College"
+    },
+    {
+      "course_id": "COM 101",
+      "course_title": "Introduction to Communication",
+      "credits": "3.00",
+      "description": "An introductory communication course designed to develop an understanding of the basic principles of the field of human communication. Topics covered will include the fundamentals of communication, interpersonal communication, group communication, and mass communication. Emphasis is on inquiry, organization, and delivery used in a variety of communication experiences. A minimum grade of C or better is required to satisfy the general degree requirements. Not applicable to the major or minor in communication.",
+      "institution": "Wisconsin Lutheran College"
+    },
+    {
+      "course_id": "ENG 101",
+      "course_title": "Expository Writing",
+      "credits": "3.00",
+      "description": "Workshop with emphasis on writing as a process. Students work on essay structure, idea organization and development, and grammatical correctness. Research and documentation skills also introduced. A minimum grade of C is required to fulfill general degree requirement. B/C or C places student in Writing Assistance Program.",
+      "institution": "Wisconsin Lutheran College"
+    },
+    {
+      "course_id": "HIS 101",
+      "course_title": "American History 1, 1492 - 1865",
+      "credits": "3.00",
+      "description": "A survey of American history from the colonial era to the end of the Civil War. The social, political, cultural, and economic developments of our country are studied.",
+      "institution": "Wisconsin Lutheran College"
+    },
+    {
+      "course_id": "HIS 102",
+      "course_title": "American History 2, 1866 - 1945",
+      "credits": "3.00",
+      "description": "A survey of American history from Reconstruction to the end of World War II. The social, political, cultural, and economic developments of our country are studied.",
+      "institution": "Wisconsin Lutheran College"
+    },
+    {
+      "course_id": "HIS 111",
+      "course_title": "Western Civilization 1, Ancient - 1500",
+      "credits": "3.00",
+      "description": "A survey of the origins of Western Civilization from the ancient Near East through the Greeks, the Romans, the Middle Ages, to the Renaissance. Designed for freshmen and sophomores.",
+      "institution": "Wisconsin Lutheran College"
+    },
+    {
+      "course_id": "HIS 112",
+      "course_title": "Western Civilization 2, 1500 - 1850",
+      "credits": "3.00",
+      "description": "A survey of the period of the Reformation, absolutism, the Enlightenment, the French Revolution, the Napoleonic era, and developments to the new imperialism. Designed for freshmen and sophomores.",
+      "institution": "Wisconsin Lutheran College"
+    },
+    {
+      "course_id": "MAT 117",
+      "course_title": "Elementary Statistics",
+      "credits": "3.00",
+      "description": "Statistical concepts and methods for application in other disciplines. Descriptive statistics, bivariate linear models, probability, discrete and normal distributions, central limit theorem, estimation, hypothesis testing. MAT 117 does not count toward a mathematics major or minor. Prereq: placement.",
+      "institution": "Wisconsin Lutheran College"
+    }
+  ],
+  "timestamp": "2025-08-09T23:29:58.855459"
+}

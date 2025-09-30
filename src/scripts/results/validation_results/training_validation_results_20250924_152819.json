@@ -1,0 +1,118 @@
+{
+  "timestamp": "2025-09-24T15:28:19.444927",
+  "analysis": {
+    "total_universities": 5,
+    "discovery_success_rate": 0.8,
+    "avg_discovery_confidence": 0.815,
+    "ct_availability_rate": 0.6,
+    "colleges_with_ct_courses": 3,
+    "validation_success_rate": 1.0,
+    "avg_validation_confidence": 0.39999999999999997,
+    "course_finding_rate": 0.6,
+    "avg_discovery_time": 43.025937938690184,
+    "avg_validation_time": 2.592728614807129,
+    "successful_discoveries": [
+      {
+        "university": "Concordia College - Seward",
+        "url": "https://www.concordiacollege.edu/admission/accepted-students/course-schedule-information/",
+        "discovery_confidence": 0.7949999999999999,
+        "validation_confidence": 0.0,
+        "courses_found": "0/0"
+      },
+      {
+        "university": "Central Carolina Community College",
+        "url": "https://central.edu/event/classes-resume/",
+        "discovery_confidence": 0.925,
+        "validation_confidence": 0.2,
+        "courses_found": "3/5"
+      },
+      {
+        "university": "University of Maryland, Baltimore County",
+        "url": "https://cbee.umbc.edu/schedule-of-classes/",
+        "discovery_confidence": 0.765,
+        "validation_confidence": 0.4,
+        "courses_found": "5/5"
+      },
+      {
+        "university": "Spokane Falls Community College",
+        "url": "https://catalog.spokane.edu/ClassSchedule/Default.aspx",
+        "discovery_confidence": 0.775,
+        "validation_confidence": 0.6,
+        "courses_found": "1/5"
+      }
+    ],
+    "failed_discoveries": [
+      {
+        "university": "University of Wisconsin - Milwaukee",
+        "error": "Page.click: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"a[href='https://carnegieclassifications.acenet.edu/carnegie-classification/classification-methodology/2021-enrollment-profile-classification/']\")\n    - locator resolved to <a class=\"nav-link\" title=\"2021 Enrollment Profile Classification\" href=\"https://carnegieclassifications.acenet.edu/carnegie-classification/classification-methodology/2021-enrollment-profile-classification/\">2021 Enrollment Profile Classification</a>\n  - attempting click action\n    2 \u00d7 waiting for element to be visible, enabled and stable\n      - element is not visible\n    - retrying click action\n    - waiting 20ms\n    2 \u00d7 waiting for element to be visible, enabled and stable\n      - element is not visible\n    - retrying click action\n      - waiting 100ms\n    58 \u00d7 waiting for element to be visible, enabled and stable\n       - element is not visible\n     - retrying click action\n       - waiting 500ms\n"
+      }
+    ]
+  },
+  "detailed_results": [
+    {
+      "university_name": "Concordia College - Seward",
+      "discovered_url": "https://www.concordiacollege.edu/admission/accepted-students/course-schedule-information/",
+      "discovery_success": true,
+      "discovery_confidence": 0.7949999999999999,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No test courses found in CollegeTransfer.net",
+      "discovery_time": 36.023016929626465,
+      "validation_time": 4.133880138397217
+    },
+    {
+      "university_name": "Central Carolina Community College",
+      "discovered_url": "https://central.edu/event/classes-resume/",
+      "discovery_success": true,
+      "discovery_confidence": 0.925,
+      "validation_success": true,
+      "validation_confidence": 0.2,
+      "test_courses_found": 3,
+      "total_test_courses": 5,
+      "error_message": null,
+      "discovery_time": 37.59836220741272,
+      "validation_time": 2.8585338592529297
+    },
+    {
+      "university_name": "University of Wisconsin - Milwaukee",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "Page.click: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"a[href='https://carnegieclassifications.acenet.edu/carnegie-classification/classification-methodology/2021-enrollment-profile-classification/']\")\n    - locator resolved to <a class=\"nav-link\" title=\"2021 Enrollment Profile Classification\" href=\"https://carnegieclassifications.acenet.edu/carnegie-classification/classification-methodology/2021-enrollment-profile-classification/\">2021 Enrollment Profile Classification</a>\n  - attempting click action\n    2 \u00d7 waiting for element to be visible, enabled and stable\n      - element is not visible\n    - retrying click action\n    - waiting 20ms\n    2 \u00d7 waiting for element to be visible, enabled and stable\n      - element is not visible\n    - retrying click action\n      - waiting 100ms\n    58 \u00d7 waiting for element to be visible, enabled and stable\n       - element is not visible\n     - retrying click action\n       - waiting 500ms\n",
+      "discovery_time": 67.49602365493774,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "University of Maryland, Baltimore County",
+      "discovered_url": "https://cbee.umbc.edu/schedule-of-classes/",
+      "discovery_success": true,
+      "discovery_confidence": 0.765,
+      "validation_success": true,
+      "validation_confidence": 0.4,
+      "test_courses_found": 5,
+      "total_test_courses": 5,
+      "error_message": null,
+      "discovery_time": 36.47696900367737,
+      "validation_time": 3.683871030807495
+    },
+    {
+      "university_name": "Spokane Falls Community College",
+      "discovered_url": "https://catalog.spokane.edu/ClassSchedule/Default.aspx",
+      "discovery_success": true,
+      "discovery_confidence": 0.775,
+      "validation_success": true,
+      "validation_confidence": 0.6,
+      "test_courses_found": 1,
+      "total_test_courses": 5,
+      "error_message": null,
+      "discovery_time": 37.53531789779663,
+      "validation_time": 2.287358045578003
+    }
+  ]
+}

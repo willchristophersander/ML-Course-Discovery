@@ -1,0 +1,74 @@
+{
+  "search_query": {
+    "institution": "Eastern Gateway Community College",
+    "successful_variation": "Eastern Gateway Community College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Eastern+Gateway+Community+College&distance=5"
+  },
+  "total_results": 9,
+  "courses": [
+    {
+      "course_id": "AAD 100",
+      "course_title": "Introduction to Arts Administration",
+      "credits": "3.00",
+      "description": "Hours: 3 Course ID: 000926 An introduction to the field of arts administration, describing the management structures and professional opportunities found in organizations such as arts centers, arts councils, community arts organizations, dance companies, museums, galleries, operas, orchestras and theatres. The type of work carried out by arts administrators is also examined through several public relations related projects. Lecture: 3 credits (45 contact hours). Component: Lecture",
+      "institution": "Eastern Gateway Community College"
+    },
+    {
+      "course_id": "AAD 200",
+      "course_title": "Fundamentals of Arts Administration",
+      "credits": "3.00",
+      "description": "Hours: 3 Course ID: 004620 Arts administration, planning, evaluation, funding and finance in arts organizations are emphasized. Students are engaged in arts management projects related to career goals. Lecture: 3 credits (45 contact hours). Prerequisite: AAD 100, ENG 102. Component: Lecture",
+      "institution": "Eastern Gateway Community College"
+    },
+    {
+      "course_id": "ABR 100",
+      "course_title": "Introduction to Auto Body Repair",
+      "credits": "3.00",
+      "description": "Hours: 3 Course ID: 000928 This course introduces the student to safety, sanding, grinding, pulling, roughing and filling; the use of tools and equipment; and preparing and priming automotive panels through lectures and demonstrations. Component: Lecture",
+      "institution": "Eastern Gateway Community College"
+    },
+    {
+      "course_id": "ABR 130",
+      "course_title": "Non-Structural Analysis and Damage Repair",
+      "credits": "9.00",
+      "description": "Hours: 9 Course ID: 000929 This course gives instruction and provides practical experience in replacing and alignment of bolts on automotive parts such as doors, hoods and fenders; as well as instruction on the repair and replacement of non-structural weld-on automotive panels by aligning, welding, cutting and drilling through demonstrations and lectures. It will be taught by demonstration and hands-on practice. The skills required are most effectively taught and practiced on live work. The exact content will be influenced by the live work available. Component: Laboratory, Lecture",
+      "institution": "Eastern Gateway Community College"
+    },
+    {
+      "course_id": "ABR 131",
+      "course_title": "Non-Structural Analysis and Damage Repair Lab",
+      "credits": "4.00",
+      "description": "Hours: 4 Course ID: 002345 This course is the lab associated with ABR 130 and provides practical experience in replacing and alignment of bolts on automotive parts such as doors, hood, and fenders; as well as instruction on the repair and replacement of non-structural weld-on automotive panels by aligning, welding, cutting and drilling through demonstrations and lectures. It will be taught by demonstration and hands-on practice. The skills required are most effectively taught and practiced on live work. The exact content will be influenced by the live work available. Prerequisite: ABR 130 or concurrent enrollment. Component: Laboratory",
+      "institution": "Eastern Gateway Community College"
+    },
+    {
+      "course_id": "ABR 150",
+      "course_title": "Painting and Refinishing",
+      "credits": "9.00",
+      "description": "Hours: 9 Course ID: 000931 This course provides instruction in the use of lacquer, acrylic enamel and base coat/clear coat refinishing products, masking procedures, preparations and paint problems. It will be taught by demonstration and lecture. The auto and/or autos being used for live work will determine the exact course content. Component: Laboratory, Lecture",
+      "institution": "Eastern Gateway Community College"
+    },
+    {
+      "course_id": "ABR 151",
+      "course_title": "Painting and Refinishing Lab",
+      "credits": "4.00",
+      "description": "Hours: 4 Course ID: 000932 This course is the lab for ABR 150 and provides instruction in the use of lacquer, acrylic enamel, and base coat/clear coat refinishing products, masking procedures, preparations and paint problems. It will be taught by demonstration and lecture. The auto and/or autos being used for live work will determine exact content. Prerequisite: ABR 150 or concurrent enrollment. Component: Laboratory",
+      "institution": "Eastern Gateway Community College"
+    },
+    {
+      "course_id": "ABR 198",
+      "course_title": "Practicum",
+      "credits": "8.00",
+      "description": "Hours: 1 - 8 Course ID: 000934 The practicum provides supervised on-the-job work experience related to the students' education objectives. Students participating in the practicum do not receive compensation. May be taken for 1 - 8 credits. Prerequisite: Permission of Instructor Component: Practicum",
+      "institution": "Eastern Gateway Community College"
+    },
+    {
+      "course_id": "ABR 199",
+      "course_title": "Cooperative Education",
+      "credits": "8.00",
+      "description": "Hours: 1 - 8 Course ID: 000933 Co-op provides supervised on-the-job work experience related to the students' educational objectives. Students participating in the Co-op Education program receive compensation for their work. May be taken for 1 - 8 credits. Prerequisite: Permission of the Instructor Component: Co-Op",
+      "institution": "Eastern Gateway Community College"
+    }
+  ],
+  "timestamp": "2025-08-09T19:44:41.556551"
+}

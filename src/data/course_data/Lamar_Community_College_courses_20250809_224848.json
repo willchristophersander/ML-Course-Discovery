@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Lamar Community College",
+    "successful_variation": "Lamar Community College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Lamar+Community+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACC 121",
+      "course_title": "Accounting Principles I",
+      "credits": "3.00",
+      "description": "Introduces the study of accounting principles for understanding of the theory and logic that underlie procedures and practices. Major topics include the accounting cycle for service and merchandising companies, special journals and subsidiary ledgers, internal control principles and practices, notes and interest, inventory systems and costing, plant assets and intangible asset accounting, and depreciation methods and practices. Prerequisite: college level reading, study skills, and math.",
+      "institution": "Lamar Community College"
+    },
+    {
+      "course_id": "ACC 122",
+      "course_title": "Accounting Principles II",
+      "credits": "4.00",
+      "description": "Continues the study of accounting principles as they apply to partnerships and corporations. Major topics include stocks and bonds, investments, cash flow statements, financial analysis, budgeting, and cost and managerial accounting. Prerequisite: ACC 121 or equivalent.",
+      "institution": "Lamar Community College"
+    },
+    {
+      "course_id": "ACC 125",
+      "course_title": "Computerized Accounting",
+      "credits": "3.00",
+      "description": "Introduces capabilities of computer applications in accounting. Includes solving accounting problems of a financial nature and hardware and software controls. Prerequisite: none.",
+      "institution": "Lamar Community College"
+    },
+    {
+      "course_id": "ACC 130",
+      "course_title": "Income Tax Preparation",
+      "credits": "3.00",
+      "description": "Designed to give business and non-business students a foundation in income tax preparation. The course includes a study of income and deductions used when determining taxable income. Prerequisite: none.",
+      "institution": "Lamar Community College"
+    },
+    {
+      "course_id": "ACC 211",
+      "course_title": "Intermediate Accounting I",
+      "credits": "4.00",
+      "description": "Focuses on comprehensive analysis of generally accepted accounting principles (GAAP), accounting theory, concepts and financial reporting principles for public corporations. It is the first of a two-course sequence in financial accounting and is designed primarily for accounting and finance majors. Focuses on the preparation and analysis of business information relevant and useful to external users of financial reports. Explores the theories, principles and practices surveyed in Accounting Principles and critically examines \"real-world\"financial analysis and reporting issues. Prerequisite: ACC 122.",
+      "institution": "Lamar Community College"
+    },
+    {
+      "course_id": "ACC 212",
+      "course_title": "Intermediate Accounting II",
+      "credits": "4.00",
+      "description": "Focuses on the theoretical and practical aspects of accounting for long-term liabilities, stockholders' equity, investments, pensions and leases. Includes income tax allocation, financial statement analysis, cash flow statements and accounting methods changes. Prerequisite: ACC 211.",
+      "institution": "Lamar Community College"
+    },
+    {
+      "course_id": "AGB 218",
+      "course_title": "Computerized Farm Records",
+      "credits": "3.00",
+      "description": "Emphasizes the planning and development of record keeping systems, the interpreting and analyzing of agricultural business records, balance sheets, cash flows, and income statements with the aid of a computer. Prerequisite: none.",
+      "institution": "Lamar Community College"
+    },
+    {
+      "course_id": "AGE 102",
+      "course_title": "Agriculture Economics",
+      "credits": "3.00",
+      "description": "Focuses on economic principles as applied to agriculture through price discovery with producer supply and consumer demand, governmental policies, rural development, and resource management. Prerequisite: none.",
+      "institution": "Lamar Community College"
+    },
+    {
+      "course_id": "AGE 205",
+      "course_title": "Farm and Ranch Management",
+      "credits": "3.00",
+      "description": "Provides students with practical experience in applying principles of economics, business, marketing and finance to the management of a farm-ranch operation. Prerequisite: none.",
+      "institution": "Lamar Community College"
+    },
+    {
+      "course_id": "AGE 208",
+      "course_title": "Agricultural Finance",
+      "credits": "3.00",
+      "description": "Emphasizes principles of finance and their application to agriculture and agribusiness, including the time value of money, net present value analysis, interest, credit lending institutions, financial statements and financial ratios. Prerequisite: none.",
+      "institution": "Lamar Community College"
+    }
+  ],
+  "timestamp": "2025-08-09T22:48:48.637226"
+}

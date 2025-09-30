@@ -1,0 +1,67 @@
+{
+  "search_query": {
+    "institution": "Norwich University",
+    "successful_variation": "Norwich University",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Norwich+University&distance=5"
+  },
+  "total_results": 8,
+  "courses": [
+    {
+      "course_id": "AC 201",
+      "course_title": "Introduction to Accounting and Financial World",
+      "credits": "3.00",
+      "description": "No course description available.",
+      "institution": "Norwich University"
+    },
+    {
+      "course_id": "AC 205",
+      "course_title": "Principles of Accounting- Financial",
+      "credits": "4.00",
+      "description": "An introduction to accounting principles and theory for the sole proprietorship. The recording of business transactions through the accounting cycle, from journalizing, posting, adjusting, and closing entries through work papers and preparation of financial statements, is studied. Related topics include: internal control, receivables and payables, the control of cash transactions, inventories, depreciation, intangible assets, and payroll accounting. Ethical business practices and client privacy issues are stressed throughout all phases of the course.",
+      "institution": "Norwich University"
+    },
+    {
+      "course_id": "AC 206",
+      "course_title": "Principles of Accounting- Managerial",
+      "credits": "4.00",
+      "description": "The completion of the study of financial accounting and an introduction to and emphasis on managerial accounting. Topics covered include: partnerships, corporations, earnings per share, dividends, bonds payable, the Statement of Cash Flows, the analysis and interpretation of financial statements, the budgeting process, and cost accounting concepts. Protection of proprietary information and information security is re-enforced throughout the course. Prerequisite: AC205.",
+      "institution": "Norwich University"
+    },
+    {
+      "course_id": "AC 335",
+      "course_title": "Intermediate Accounting I",
+      "credits": "3.00",
+      "description": "No course description available.",
+      "institution": "Norwich University"
+    },
+    {
+      "course_id": "AC 336",
+      "course_title": "Intermediate Accounting II",
+      "credits": "3.00",
+      "description": "No course description available.",
+      "institution": "Norwich University"
+    },
+    {
+      "course_id": "AC 419",
+      "course_title": "Taxation I",
+      "credits": "3.00",
+      "description": "No course description available.",
+      "institution": "Norwich University"
+    },
+    {
+      "course_id": "AC 428",
+      "course_title": "Auditing",
+      "credits": "3.00",
+      "description": "No course description available.",
+      "institution": "Norwich University"
+    },
+    {
+      "course_id": "AC 441",
+      "course_title": "Cost Accounting",
+      "credits": "3.00",
+      "description": "No course description available.",
+      "institution": "Norwich University"
+    }
+  ],
+  "timestamp": "2025-08-10T23:34:40.917627"
+}

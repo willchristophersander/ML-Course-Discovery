@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Columbus Technical College",
+    "successful_variation": "Columbus Technical College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Columbus+Technical+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACC 101",
+      "course_title": "Principles of Accounting I",
+      "credits": "6.00",
+      "description": "Introduces the basic concepts of the complete accounting cycle and provides the student with the necessary skills to maintain a set of books for a sole proprietorship. Topics include accounting vocabulary and concepts, the accounting cycle and accounting for a personal service business, the accounting cycle and accounting for a merchandising enterprise, and cash control. Laboratory work demonstrates theory presented in class. Prerequisite: Program admission",
+      "institution": "Columbus Technical College"
+    },
+    {
+      "course_id": "ACC 102",
+      "course_title": "Principles of Accounting II",
+      "credits": "6.00",
+      "description": "Applies the basic principles of accounting to specific account classifications and subsidiary record accounting. Topics include receivables, inventory, plant assets, payroll, payables, partnerships, and sales tax returns. Laboratory work demonstrates theory presented in class. Prerequisite: ACC 101 with a grade of \"C\" or better",
+      "institution": "Columbus Technical College"
+    },
+    {
+      "course_id": "ACC 103",
+      "course_title": "Principles of Accounting III",
+      "credits": "6.00",
+      "description": "Emphasizes a fundamental understanding of corporate and cost accounting. Topics include accounting for a corporation, statement of cash flows, cost accounting, budgeting and longterm liabilities. Laboratory work demonstrates theory presented in class. Prerequisite: ACC 102 with a grade of \"C\" or better",
+      "institution": "Columbus Technical College"
+    },
+    {
+      "course_id": "ACC 104",
+      "course_title": "Computerized Accounting",
+      "credits": "3.00",
+      "description": "Emphasizes operation of computerized accounting systems from manual input forms. Topics include equipment use, general ledger, accounts receivable and payable, payroll, cash management, and financial reports. Laboratory work includes theoretical and technical application. Prerequisites: ACC 102, SCT 100",
+      "institution": "Columbus Technical College"
+    },
+    {
+      "course_id": "ACC 106",
+      "course_title": "Accounting Spreadsheet Fundamentals",
+      "credits": "3.00",
+      "description": "Provides instruction in the use of electronic spreadsheet software packages for programrelated spreadsheet applications. Students become proficient in creation, modification, and combination of spreadsheet. Topics include spreadsheet creation, data entry, data entry modification, computation using functions, and programrelated spreadsheet applications. Laboratory work includes theoretical and technical application. Prerequisite: SCT 100",
+      "institution": "Columbus Technical College"
+    },
+    {
+      "course_id": "ACC 107",
+      "course_title": "Fulltime Accounting Internship",
+      "credits": "12.00",
+      "description": "Provides indepth application and reinforcement of accounting and employability principles in an actual job setting. Allows the student to become involved in intensive onthejob accounting applications that require fulltime concentration, practice, and follow through. Topics include appropriate work habits, acceptable job performance, application of accounting knowledge and skills, interpersonal relations, and progressive productivity. The fulltime accounting internship is implemented through the use of written individualized training plans, written performance evaluation, weekly documentation or seminars and/or other projects as required by the instructor. Prerequisites: All nonelective courses required for program completion",
+      "institution": "Columbus Technical College"
+    },
+    {
+      "course_id": "ACC 108",
+      "course_title": "Halftime Accounting Internship",
+      "credits": "6.00",
+      "description": "Introduces the application and reinforcement of accounting and employability principles in an actual job setting. Acquaints the student with realistic work situations and provides insights into accounting applications on the job. Topics include appropriate work habits, acceptable job performance, application of accounting knowledge and skills, interpersonal relations, and development of productivity. The halftime accounting internship is implemented through the use of written individualized training plans, written performance evaluation, and weekly documentation or seminars and/or other projects as required by the instructor. Prerequisites: All nonelective courses required for program completion",
+      "institution": "Columbus Technical College"
+    },
+    {
+      "course_id": "ACC 122",
+      "course_title": "Introduction to Governmental and Nonprofit Accounting",
+      "credits": "5.00",
+      "description": "Provides an introduction to financial reporting and accounting principles for state/local governments and nonprofit entities.",
+      "institution": "Columbus Technical College"
+    },
+    {
+      "course_id": "ACC 150",
+      "course_title": "Cost Accounting",
+      "credits": "6.00",
+      "description": "Emphasizes a thorough understanding of cost concepts, cost behavior, and costaccounting techniques as they are applied to manufacturing cost systems. Topics include job order cost accounting, process cost accounting, and standard cost accounting. Prerequisite: ACC 103",
+      "institution": "Columbus Technical College"
+    },
+    {
+      "course_id": "ACC 151",
+      "course_title": "Individual Tax Accounting",
+      "credits": "4.00",
+      "description": "Provides instruction for preparation of both state and federal income tax. Topics include taxable income, income adjustments, schedules, standard deductions, itemized deductions, exemptions, tax credits, and tax calculations. Prerequisite/Corequisite: Program admission",
+      "institution": "Columbus Technical College"
+    }
+  ],
+  "timestamp": "2025-08-10T18:37:46.906883"
+}

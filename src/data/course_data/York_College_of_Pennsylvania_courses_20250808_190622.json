@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "York College of Pennsylvania",
+    "successful_variation": "York College of Pennsylvania",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=York+College+of+Pennsylvania&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACC 225",
+      "course_title": "Managerial Accounting",
+      "credits": "3.00",
+      "description": "Fall-Spring Semesters Basic managerial accounting principles and concepts are studied. Subjects covered include accounting techniques such as planning, control and motivating tools; using accounting data for decision making and performance evaluation. Prerequisite: Completion of ACC220 with a grade of 2.0 or higher. 3 credit hours.",
+      "institution": "York College of Pennsylvania"
+    },
+    {
+      "course_id": "ACC 305",
+      "course_title": "Taxation I",
+      "credits": "3.00",
+      "description": "Fall Semester An introduction to Federal Income taxation of individuals. Topics include inclusions and exclusions from gross income, capital gains and losses, business deductions, itemized deduction, depreciation and cost recovery, and nontaxable property transactions. Both tax planning and tax preparation are stressed. Prerequisite: Completion of ACC220 with a grade of 2.0 or higher. 3 credit hours.",
+      "institution": "York College of Pennsylvania"
+    },
+    {
+      "course_id": "ACC 330",
+      "course_title": "Intermediate Accounting III",
+      "credits": "3.00",
+      "description": "Fall Semester Topics included: pension plans, leases, income taxes, accounting changes, statement of changes in financial position, analysis of financial statements, accounting for inflation, full disclosure in financial reporting, review of the latest FASB Statements and Interpretations. Prerequisite: Completion of ACC325 with a grade of 2.0 or higher. 3 credit hours.",
+      "institution": "York College of Pennsylvania"
+    },
+    {
+      "course_id": "ACC 375",
+      "course_title": "Advanced Managerial Accounting",
+      "credits": "3.00",
+      "description": "A further study of Managerial Accounting and its use as a tool of management. The course stresses the analysis and presentation of accounting data for use by management in decision making and planning. Subject area includes cost allocation, inventory planning and control, joint-product costing, by-product costs, cost behavior patterns, and sales and production mix. Prerequisite: Completion of ACC225 with a grade of 2.0 or higher. 3 credit hours.",
+      "institution": "York College of Pennsylvania"
+    },
+    {
+      "course_id": "ACC 395",
+      "course_title": "Taxation II",
+      "credits": "3.00",
+      "description": "A study of the Internal Revenue Code, IRS Regulations & U.S. court decisions as they relate to corporations, partnerships, trusts, gifts and estates. Tax planning and the effect of the tax law on business decisions is emphasized. Research will be required to demonstrate student's ability to research current tax issues and present same in a written report. Prerequisite: Completion of ACC305 with a grade of 2.0 or higher. 3 credit hours.",
+      "institution": "York College of Pennsylvania"
+    },
+    {
+      "course_id": "ACC 410",
+      "course_title": "Auditing",
+      "credits": "3.00",
+      "description": "Spring Semester A study of audit principles and current procedures, including special techniques in the prevention and detection of fraud, preparation of audit reports and working papers, and internal audit methods. This is a writing/communication intensive course. Prerequisite: Completion of ACC325 with a grade of 2.0 or higher. 3 credit hours.",
+      "institution": "York College of Pennsylvania"
+    },
+    {
+      "course_id": "ACC 415",
+      "course_title": "International Accounting",
+      "credits": "3.00",
+      "description": "Study of the diversity that exists in accounting reporting and disclosure practices in different countries, the reasons for accounting diversity, and the problems/challenges created by accounting diversity for multinational enterprises, international investors, and regulators. Special emphasis is given to the comparison between U.S. standards (U.S. GAAP) and other countries' standards in measurement, reporting, and disclosing economic events. Prerequisite: Completion of ACC325 with a grade of 2.0 or higher. 3 credit hours.",
+      "institution": "York College of Pennsylvania"
+    },
+    {
+      "course_id": "ACC 420",
+      "course_title": "Advanced Accounting",
+      "credits": "3.00",
+      "description": "Spring Semester A continuing in depth study of accounting principles and current concepts in which theory and practice are reconciled. Subjects include business combinations and consolidations. Prerequisite: Completion of ACC325 with a grade of 2.0 or higher. 3 credit hours.",
+      "institution": "York College of Pennsylvania"
+    },
+    {
+      "course_id": "ACC 425",
+      "course_title": "Special Topics in Accounting",
+      "credits": "3.00",
+      "description": "A continuing in-depth study of accounting principles and current concepts. Subjects included are special problems, governmental units, non-profit organizations, multinational enterprises, and fiduciaries. Prerequisite: Completion of ACC325 with a grade of 2.0 or higher. 3 credit hours.",
+      "institution": "York College of Pennsylvania"
+    },
+    {
+      "course_id": "ACC 490",
+      "course_title": "ACC491 Accounting Internship",
+      "credits": "3.00",
+      "description": "Fall-Spring Semesters Planned and supervised work experience at selected cooperating firms. Internships require students to meet periodically with a faculty supervisor, provide a written deliverable and participate in an end of internship evaluation. Prerequisite: Junior standing and departmental approval of each student participant's individual program. The program requires approximately ten hours per week for twelve weeks. Grading will be Pass/Fail. 3 credit hours each semester.",
+      "institution": "York College of Pennsylvania"
+    }
+  ],
+  "timestamp": "2025-08-08T19:06:22.829850"
+}

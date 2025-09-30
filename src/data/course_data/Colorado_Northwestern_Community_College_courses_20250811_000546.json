@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Colorado Northwestern Community College",
+    "successful_variation": "Colorado Northwestern Community College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Colorado+Northwestern+Community+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "AAA 090",
+      "course_title": "Academic Achievement Strategies",
+      "credits": "3.00",
+      "description": "Develops personalized approaches to learn and succeed for easier transition into college. Topics include goal-setting, time management, textbook reading strategies, note-taking, test-taking, listening techniques, concentration and memory devices, and critical thinking for student success.",
+      "institution": "Colorado Northwestern Community College"
+    },
+    {
+      "course_id": "AAA 101",
+      "course_title": "The Student Experience",
+      "credits": "0.00",
+      "description": "Introduces students to college culture and prepares them for the challenges they will face in higher education. Through a series of interactive seminars, students discover learning in a multic ultural environment and use college and community resources to attain education and career goals.",
+      "institution": "Colorado Northwestern Community College"
+    },
+    {
+      "course_id": "AAA 109",
+      "course_title": "Advanced Academic Achievement",
+      "credits": "3.00",
+      "description": "Examines theories and practices associated with successful learning to enhance college success. Areas of study include education and career planning, effective communication, personal management, critical and creative thinking, development of community and awareness of diversity, leadership, and techniques for successful academic performance. Recommended for new and returning students.",
+      "institution": "Colorado Northwestern Community College"
+    },
+    {
+      "course_id": "ACC 115",
+      "course_title": "Payroll Accounting",
+      "credits": "3.00",
+      "description": "Prerequisite: ACC 121. Studies federal and state employment laws and their effects on personnel and payroll records. The course is non-technical and is intended to give students a practical working knowledge of the current payroll laws and actual experience in applying regulations. Students are exposed to computerized payroll procedures.",
+      "institution": "Colorado Northwestern Community College"
+    },
+    {
+      "course_id": "ACC 121",
+      "course_title": "Accounting Principles I",
+      "credits": "4.00",
+      "description": "Introduces the study of accounting principles for understanding of the theory and logic that underlie procedures and practices. Major topics include the accounting cycle for service and merchandising companies, special journals and subsidiary ledgers, internal control principles and practices, notes and interest, inventory systems and costing, plant assets and intangible asset accounting, and depreciation methods and practices.",
+      "institution": "Colorado Northwestern Community College"
+    },
+    {
+      "course_id": "ACC 122",
+      "course_title": "Accounting Principles II",
+      "credits": "4.00",
+      "description": "Prerequisite: ACC 121. Continues the study of accounting principles as they apply to partnerships and corporations. Major topics include stocks and bonds, investments, cash flow statements, financial analysis, budgeting, and cost and managerial accounting.",
+      "institution": "Colorado Northwestern Community College"
+    },
+    {
+      "course_id": "ACC 125",
+      "course_title": "Computerized Accounting",
+      "credits": "3.00",
+      "description": "Introduces the capabilities of computer applications in accounting. Includes solving accounting problems of a financial nature and hardware and software controls. ACC 131 INCOME TAX (3)(3-0-0) Prerequisite: ACC 121 is strongly recommended. This course is the study of basic concepts of federal income taxation, including gross income, deductions, accounting periods and methods, and property transactions, with emphasis on taxation of individuals and sole proprietorships.",
+      "institution": "Colorado Northwestern Community College"
+    },
+    {
+      "course_id": "ACC 135",
+      "course_title": "Spreadsheet Applications For Accounting",
+      "credits": "3.00",
+      "description": "Prerequisites: ACC 122 or spreadsheet experience. This course introduces spreadsheets as an accounting tool. Using an accounting perspective, the student applies fundamental spreadsheet concepts. The spreadsheet is used as a problem solving and decision making tool.",
+      "institution": "Colorado Northwestern Community College"
+    },
+    {
+      "course_id": "ACC 211",
+      "course_title": "Intermediate Accounting I",
+      "credits": "4.00",
+      "description": "Prerequisite: ACC 122. Focuses on comprehensive analysis of generally accepted accounting principles (GAAP), accounting theory, concepts and financial reporting principles for public corporations. It is the first of a two-course sequence in financial accounting and is designed primarily for accounting and finance majors. Focuses on the preparation and analysis of business information relevant and useful to external users of financial reports. Explores the theories, principles and practices surveyed in Accounting Principles and critically examines 'real-world' financial analysis and reporting issues.",
+      "institution": "Colorado Northwestern Community College"
+    },
+    {
+      "course_id": "ACC 212",
+      "course_title": "Intermediate Accounting II",
+      "credits": "4.00",
+      "description": "Prerequisite: ACC 211. Focuses on the theoretical and practical aspects of accounting for long-term liabilities, stockholders' equity, investments, pensions and leases. Includes income tax allocation, financial statement analysis, cash flow statements and accounting method changes.",
+      "institution": "Colorado Northwestern Community College"
+    }
+  ],
+  "timestamp": "2025-08-11T00:05:46.671657"
+}

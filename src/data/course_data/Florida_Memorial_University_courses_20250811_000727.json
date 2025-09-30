@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Florida Memorial University",
+    "successful_variation": "Florida Memorial University",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Florida+Memorial+University&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACC 211",
+      "course_title": "Principles of Accounting I",
+      "credits": "3.00",
+      "description": "Prerequisite: MAT 101 or MAT 111. Astudy of basic accounting concepts essential to recording business transactions, preparing financial statements, and interpreting data for financial decisions",
+      "institution": "Florida Memorial University"
+    },
+    {
+      "course_id": "ACC 212",
+      "course_title": "Principles of Accounting II",
+      "credits": "3.00",
+      "description": "Prerequisite: ACC 211. Acontinuation of ACC 211 and the study of basic accounting concepts essential to recording business transactions, preparing financial statements, and interpreting data for financial decisions.",
+      "institution": "Florida Memorial University"
+    },
+    {
+      "course_id": "ACC 311",
+      "course_title": "Intermediate Accounting I",
+      "credits": "3.00",
+      "description": "Prerequisite: ACC 212. An in-depth analysis of the underlying concepts of external financial reporting including the preparation and presentation of financial statements.",
+      "institution": "Florida Memorial University"
+    },
+    {
+      "course_id": "ACC 312",
+      "course_title": "Intermediate Accounting II Sp,Su",
+      "credits": "3.00",
+      "description": "Prerequisite: ACC 311. A continuation of ACC 311 and the in-depth analysis of the underlying concepts of external financial reporting including the preparation and presentation of financial statements.",
+      "institution": "Florida Memorial University"
+    },
+    {
+      "course_id": "ACC 352",
+      "course_title": "Managerial Accounting",
+      "credits": "3.00",
+      "description": "Prerequisite: ACC 212. Astudy of the preparation, analysis, and interpretation of accounting data for management decision-making. The use of computer applications is emphasized.",
+      "institution": "Florida Memorial University"
+    },
+    {
+      "course_id": "ACC 411",
+      "course_title": "Advanced Accounting",
+      "credits": "3.00",
+      "description": "Prerequisite: ACC 312. A study of the theory and practice of accounting for business combinations, multinational enterprises, governmental, and not-for-profit entities.",
+      "institution": "Florida Memorial University"
+    },
+    {
+      "course_id": "ACC 431",
+      "course_title": "Auditing I",
+      "credits": "3.00",
+      "description": "Prerequisite: ACC 312. A study of auditing and attestation standards and procedures. Ethics, the responsibilities of auditors, the collection of evidence, and reporting are examined.",
+      "institution": "Florida Memorial University"
+    },
+    {
+      "course_id": "ACC 432",
+      "course_title": "Auditing II Sp",
+      "credits": "3.00",
+      "description": "Prerequisite: ACC 431. A continuation of Auditing I with an in-depth review of internal control, the audit program, and audit procedures. Computer applications are applied to various audit problems.",
+      "institution": "Florida Memorial University"
+    },
+    {
+      "course_id": "ACC 434",
+      "course_title": "Federal Income Tax I",
+      "credits": "3.00",
+      "description": "Prerequisite: ACC 312. A study of federal income taxation with an emphasis on the taxation of individuals. A comprehensive individual income tax return is prepared. Income tax planning and tax research are introduced.",
+      "institution": "Florida Memorial University"
+    },
+    {
+      "course_id": "ACC 435",
+      "course_title": "Federal Income Tax II Sp",
+      "credits": "3.00",
+      "description": "Prerequisite: ACC 434. A study of the taxation of partnerships, corporations, estates and trusts, and not-for-profit entities. Income tax research is emphasized. Comprehensive income tax returns are prepared.",
+      "institution": "Florida Memorial University"
+    }
+  ],
+  "timestamp": "2025-08-11T00:07:27.412674"
+}

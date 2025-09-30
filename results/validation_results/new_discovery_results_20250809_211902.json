@@ -1,0 +1,409 @@
+{
+  "timestamp": "2025-08-09T21:19:02.001526",
+  "analysis": {
+    "total_universities": 20,
+    "discovery_success_rate": 0.8,
+    "avg_discovery_confidence": 0.8059375,
+    "ct_availability_rate": 0.3,
+    "colleges_with_ct_courses": 6,
+    "validation_success_rate": 1.0,
+    "avg_validation_confidence": 0.23333333333333336,
+    "course_finding_rate": 0.5666666666666667,
+    "avg_discovery_time": 210.7080343604088,
+    "avg_validation_time": 80.76030229330063,
+    "successful_discoveries": [
+      {
+        "university": "Bowie State University",
+        "url": "https://bowiestate.edu/bulldog-connection/academic-resources/class-schedules.php",
+        "discovery_confidence": 0.78,
+        "validation_confidence": 0.4,
+        "courses_found": "3/5"
+      },
+      {
+        "university": "University of Arkansas - Fort Smith",
+        "url": "https://catalog.mit.edu/",
+        "discovery_confidence": 0.8500000000000001,
+        "validation_confidence": 0.0,
+        "courses_found": "0/0"
+      },
+      {
+        "university": "Virginia Highlands Community College",
+        "url": "https://courses.vccs.edu/colleges/vhcc/courses",
+        "discovery_confidence": 0.735,
+        "validation_confidence": 0.2,
+        "courses_found": "5/5"
+      },
+      {
+        "university": "Manchester Community College",
+        "url": "https://mccnh.edu/academics/course-schedules/",
+        "discovery_confidence": 0.7949999999999999,
+        "validation_confidence": 0.0,
+        "courses_found": "0/0"
+      },
+      {
+        "university": "University of Rochester",
+        "url": "https://www.rochester.edu/registrar/students/courses.html",
+        "discovery_confidence": 0.72,
+        "validation_confidence": 0.2,
+        "courses_found": "2/5"
+      },
+      {
+        "university": "West Valley College",
+        "url": "https://west.edu/classes",
+        "discovery_confidence": 0.925,
+        "validation_confidence": 0.2,
+        "courses_found": "3/5"
+      },
+      {
+        "university": "Amarillo College",
+        "url": "https://acselfservice.actx.edu/Student/courses/",
+        "discovery_confidence": 0.72,
+        "validation_confidence": 0.0,
+        "courses_found": "0/0"
+      },
+      {
+        "university": "Marine Biological Laboratory",
+        "url": "https://www.mbl.edu/education/advanced-research-training-courses/course-offerings",
+        "discovery_confidence": 0.77,
+        "validation_confidence": 0.0,
+        "courses_found": "0/0"
+      },
+      {
+        "university": "York Technical College",
+        "url": "https://www.york.edu/classes",
+        "discovery_confidence": 0.925,
+        "validation_confidence": 0.2,
+        "courses_found": "3/5"
+      },
+      {
+        "university": "North Central State College",
+        "url": "https://ncstatecollege.edu/ccp/resources/courses/",
+        "discovery_confidence": 0.735,
+        "validation_confidence": 0.0,
+        "courses_found": "0/0"
+      },
+      {
+        "university": "Westminster University",
+        "url": "https://catalog.westminsteru.edu/current/undergraduate/courses/phys.html",
+        "discovery_confidence": 0.78,
+        "validation_confidence": 0.0,
+        "courses_found": "0/0"
+      },
+      {
+        "university": "Central Oregon Community College",
+        "url": "https://central.edu/event/classes-resume/",
+        "discovery_confidence": 0.925,
+        "validation_confidence": 0.2,
+        "courses_found": "1/5"
+      },
+      {
+        "university": "Chabot-Las Positas Community College District",
+        "url": "https://laspositascollege.edu/catalog/current/courses/index.php",
+        "discovery_confidence": 0.7949999999999999,
+        "validation_confidence": 0.0,
+        "courses_found": "0/0"
+      },
+      {
+        "university": "Kentucky Community & Technical College System",
+        "url": "https://catalog.kctcs.edu/course-descriptions/",
+        "discovery_confidence": 0.78,
+        "validation_confidence": 0.0,
+        "courses_found": "0/0"
+      },
+      {
+        "university": "St. Martin's College",
+        "url": "https://www.esl-languages.com/en/courses-abroad/english/malta/salina-bay/st-martins-college-12-17",
+        "discovery_confidence": 0.735,
+        "validation_confidence": 0.0,
+        "courses_found": "0/0"
+      },
+      {
+        "university": "Central Methodist College",
+        "url": "https://central.edu/event/classes-resume/",
+        "discovery_confidence": 0.925,
+        "validation_confidence": 0.0,
+        "courses_found": "0/0"
+      }
+    ],
+    "failed_discoveries": [
+      {
+        "university": "San Joaquin Valley College-Visalia",
+        "error": "Page.click: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"a[href='https://www.sjvc.edu/general-education-courses/']\")\n    - locator resolved to <a href=\"https://www.sjvc.edu/general-education-courses/\">General Education Courses and Training</a>\n  - attempting click action\n    2 \u00d7 waiting for element to be visible, enabled and stable\n      - element is not visible\n    - retrying click action\n    - waiting 20ms\n    2 \u00d7 waiting for element to be visible, enabled and stable\n      - element is not visible\n    - retrying click action\n      - waiting 100ms\n    58 \u00d7 waiting for element to be visible, enabled and stable\n       - element is not visible\n     - retrying click action\n       - waiting 500ms\n"
+      },
+      {
+        "university": "Tusculum College",
+        "error": "Timeout 30000ms exceeded."
+      },
+      {
+        "university": "University of Hawaii at Hilo",
+        "error": "Page.click: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"a[href='https://catalog.manoa.hawaii.edu/']\")\n"
+      },
+      {
+        "university": "University of California, San Francisco",
+        "error": "Page.click: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"a[href='https://en.wikipedia.org/wiki/University_of_California,_San_Francisco#Research']\")\n"
+      }
+    ]
+  },
+  "detailed_results": [
+    {
+      "university_name": "Bowie State University",
+      "discovered_url": "https://bowiestate.edu/bulldog-connection/academic-resources/class-schedules.php",
+      "discovery_success": true,
+      "discovery_confidence": 0.78,
+      "validation_success": true,
+      "validation_confidence": 0.4,
+      "test_courses_found": 3,
+      "total_test_courses": 5,
+      "error_message": null,
+      "discovery_time": 84.24523901939392,
+      "validation_time": 292.77159810066223
+    },
+    {
+      "university_name": "University of Arkansas - Fort Smith",
+      "discovered_url": "https://catalog.mit.edu/",
+      "discovery_success": true,
+      "discovery_confidence": 0.8500000000000001,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No test courses found in CollegeTransfer.net",
+      "discovery_time": 80.54533195495605,
+      "validation_time": 411.09797716140747
+    },
+    {
+      "university_name": "San Joaquin Valley College-Visalia",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "Page.click: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"a[href='https://www.sjvc.edu/general-education-courses/']\")\n    - locator resolved to <a href=\"https://www.sjvc.edu/general-education-courses/\">General Education Courses and Training</a>\n  - attempting click action\n    2 \u00d7 waiting for element to be visible, enabled and stable\n      - element is not visible\n    - retrying click action\n    - waiting 20ms\n    2 \u00d7 waiting for element to be visible, enabled and stable\n      - element is not visible\n    - retrying click action\n      - waiting 100ms\n    58 \u00d7 waiting for element to be visible, enabled and stable\n       - element is not visible\n     - retrying click action\n       - waiting 500ms\n",
+      "discovery_time": 376.92499685287476,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "Virginia Highlands Community College",
+      "discovered_url": "https://courses.vccs.edu/colleges/vhcc/courses",
+      "discovery_success": true,
+      "discovery_confidence": 0.735,
+      "validation_success": true,
+      "validation_confidence": 0.2,
+      "test_courses_found": 5,
+      "total_test_courses": 5,
+      "error_message": null,
+      "discovery_time": 80.60747480392456,
+      "validation_time": 4.010052680969238
+    },
+    {
+      "university_name": "Manchester Community College",
+      "discovered_url": "https://mccnh.edu/academics/course-schedules/",
+      "discovery_success": true,
+      "discovery_confidence": 0.7949999999999999,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No test courses found in CollegeTransfer.net",
+      "discovery_time": 81.90693283081055,
+      "validation_time": 3.230567216873169
+    },
+    {
+      "university_name": "University of Rochester",
+      "discovered_url": "https://www.rochester.edu/registrar/students/courses.html",
+      "discovery_success": true,
+      "discovery_confidence": 0.72,
+      "validation_success": true,
+      "validation_confidence": 0.2,
+      "test_courses_found": 2,
+      "total_test_courses": 5,
+      "error_message": null,
+      "discovery_time": 80.66554379463196,
+      "validation_time": 4.39498496055603
+    },
+    {
+      "university_name": "West Valley College",
+      "discovered_url": "https://west.edu/classes",
+      "discovery_success": true,
+      "discovery_confidence": 0.925,
+      "validation_success": true,
+      "validation_confidence": 0.2,
+      "test_courses_found": 3,
+      "total_test_courses": 5,
+      "error_message": null,
+      "discovery_time": 81.1385269165039,
+      "validation_time": 3.930293083190918
+    },
+    {
+      "university_name": "Amarillo College",
+      "discovered_url": "https://acselfservice.actx.edu/Student/courses/",
+      "discovery_success": true,
+      "discovery_confidence": 0.72,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No test courses found in CollegeTransfer.net",
+      "discovery_time": 81.19418287277222,
+      "validation_time": 3.8499269485473633
+    },
+    {
+      "university_name": "Marine Biological Laboratory",
+      "discovered_url": "https://www.mbl.edu/education/advanced-research-training-courses/course-offerings",
+      "discovery_success": true,
+      "discovery_confidence": 0.77,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No test courses found in CollegeTransfer.net",
+      "discovery_time": 406.0851640701294,
+      "validation_time": 293.0466423034668
+    },
+    {
+      "university_name": "Tusculum College",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "Timeout 30000ms exceeded.",
+      "discovery_time": 407.29661798477173,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "University of Hawaii at Hilo",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "Page.click: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"a[href='https://catalog.manoa.hawaii.edu/']\")\n",
+      "discovery_time": 407.25407361984253,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "York Technical College",
+      "discovered_url": "https://www.york.edu/classes",
+      "discovery_success": true,
+      "discovery_confidence": 0.925,
+      "validation_success": true,
+      "validation_confidence": 0.2,
+      "test_courses_found": 3,
+      "total_test_courses": 5,
+      "error_message": null,
+      "discovery_time": 353.00039505958557,
+      "validation_time": 54.36108899116516
+    },
+    {
+      "university_name": "North Central State College",
+      "discovered_url": "https://ncstatecollege.edu/ccp/resources/courses/",
+      "discovery_success": true,
+      "discovery_confidence": 0.735,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No test courses found in CollegeTransfer.net",
+      "discovery_time": 353.08523893356323,
+      "validation_time": 54.20907783508301
+    },
+    {
+      "university_name": "Westminster University",
+      "discovered_url": "https://catalog.westminsteru.edu/current/undergraduate/courses/phys.html",
+      "discovery_success": true,
+      "discovery_confidence": 0.78,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No test courses found in CollegeTransfer.net",
+      "discovery_time": 168.03372406959534,
+      "validation_time": 240.55782103538513
+    },
+    {
+      "university_name": "Central Oregon Community College",
+      "discovered_url": "https://central.edu/event/classes-resume/",
+      "discovery_success": true,
+      "discovery_confidence": 0.925,
+      "validation_success": true,
+      "validation_confidence": 0.2,
+      "test_courses_found": 1,
+      "total_test_courses": 5,
+      "error_message": null,
+      "discovery_time": 110.3315680027008,
+      "validation_time": 238.92001509666443
+    },
+    {
+      "university_name": "Chabot-Las Positas Community College District",
+      "discovered_url": "https://laspositascollege.edu/catalog/current/courses/index.php",
+      "discovery_success": true,
+      "discovery_confidence": 0.7949999999999999,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No test courses found in CollegeTransfer.net",
+      "discovery_time": 292.1633548736572,
+      "validation_time": 4.032674074172974
+    },
+    {
+      "university_name": "Kentucky Community & Technical College System",
+      "discovered_url": "https://catalog.kctcs.edu/course-descriptions/",
+      "discovery_success": true,
+      "discovery_confidence": 0.78,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No test courses found in CollegeTransfer.net",
+      "discovery_time": 240.1265470981598,
+      "validation_time": 1.9465258121490479
+    },
+    {
+      "university_name": "University of California, San Francisco",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "Page.click: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"a[href='https://en.wikipedia.org/wiki/University_of_California,_San_Francisco#Research']\")\n",
+      "discovery_time": 195.2693109512329,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "St. Martin's College",
+      "discovered_url": "https://www.esl-languages.com/en/courses-abroad/english/malta/salina-bay/st-martins-college-12-17",
+      "discovery_success": true,
+      "discovery_confidence": 0.735,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No test courses found in CollegeTransfer.net",
+      "discovery_time": 167.78278827667236,
+      "validation_time": 2.806764841079712
+    },
+    {
+      "university_name": "Central Methodist College",
+      "discovered_url": "https://central.edu/event/classes-resume/",
+      "discovery_success": true,
+      "discovery_confidence": 0.925,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No test courses found in CollegeTransfer.net",
+      "discovery_time": 166.50367522239685,
+      "validation_time": 2.0400357246398926
+    }
+  ]
+}

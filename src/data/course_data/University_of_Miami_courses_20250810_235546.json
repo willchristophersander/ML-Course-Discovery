@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "University of Miami",
+    "successful_variation": "University of Miami",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=University+of+Miami&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "AAS 150",
+      "course_title": "Introduction to Africana Studies",
+      "credits": "3.00",
+      "description": "Experiences of African American and other African-descended peoples with emphases on social, cultural, political, etc.",
+      "institution": "University of Miami"
+    },
+    {
+      "course_id": "AAS 260",
+      "course_title": "History of Slavery in the Atlantic",
+      "credits": "3.00",
+      "description": "The emergence and eventual abolition of the Trans-Atlantic slave trade and its effects on both old and new world.",
+      "institution": "University of Miami"
+    },
+    {
+      "course_id": "AAS 290",
+      "course_title": "Special Topics",
+      "credits": "3.00",
+      "description": "Content varies by semester.",
+      "institution": "University of Miami"
+    },
+    {
+      "course_id": "AAS 350",
+      "course_title": "Black Leadership in the U.S",
+      "credits": "3.00",
+      "description": "Black leaders and leadership organizations. Emphasis on their role in overcoming oppression and barriers to advancement.",
+      "institution": "University of Miami"
+    },
+    {
+      "course_id": "AAS 390",
+      "course_title": "Special Topics",
+      "credits": "3.00",
+      "description": "Content varies by semester.",
+      "institution": "University of Miami"
+    },
+    {
+      "course_id": "AAS 490",
+      "course_title": "Senior Seminar in Africana Studies",
+      "credits": "3.00",
+      "description": "Content varies by semester.",
+      "institution": "University of Miami"
+    },
+    {
+      "course_id": "ACC 211",
+      "course_title": "Principles of Financial Accounting",
+      "credits": "3.00",
+      "description": "Course explores the role of accounting in providing financial information about an enterprise to decision-makers. Emphasis is placed on understanding financial accounting from a user perspective. Course covers the reporting of financial position including coverage of assets, liabilities, equity accounts, the results of operations, and cash flows.",
+      "institution": "University of Miami"
+    },
+    {
+      "course_id": "ACC 212",
+      "course_title": "Managerial Accounting",
+      "credits": "3.00",
+      "description": "Introduction to managerial accounting. Topics include various product costing techniques, analysis of cost behavior patterns, budgeting, and the use of accounting information to solve problems. The course is taught from a managerial perspective.",
+      "institution": "University of Miami"
+    },
+    {
+      "course_id": "ACC 301",
+      "course_title": "Cost Accounting",
+      "credits": "3.00",
+      "description": "Topics include basic cost concepts, product costing techniques including job-order and process costing, in-depth studies of techniques and issues surrounding cost allocation methods, basic approaches to solving complex accounting problems, standard cost systems and variance analysis, and variable costing. Additionally, activity-based costing concepts and methodology are introduced. Course is designed to provide students with the necessary skills to perform basic cost accounting.",
+      "institution": "University of Miami"
+    },
+    {
+      "course_id": "ACC 306",
+      "course_title": "Accounting Systems",
+      "credits": "3.00",
+      "description": "Contemporary accounting systems are computer based. Course covers the nature, design, implementation, and controls in computerized systems as well as manual systems. Micro computers are used as a learning tool.",
+      "institution": "University of Miami"
+    }
+  ],
+  "timestamp": "2025-08-10T23:55:46.842996"
+}

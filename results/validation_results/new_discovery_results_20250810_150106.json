@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-08-10T15:01:06.278373",
+  "analysis": {
+    "total_universities": 1,
+    "discovery_success_rate": 0.0,
+    "avg_discovery_confidence": 0,
+    "ct_availability_rate": 0.0,
+    "colleges_with_ct_courses": 0,
+    "validation_success_rate": 0,
+    "avg_validation_confidence": 0,
+    "course_finding_rate": 0,
+    "avg_discovery_time": 5.797368049621582,
+    "avg_validation_time": 0.0,
+    "successful_discoveries": [],
+    "failed_discoveries": [
+      {
+        "university": "Edward Waters University",
+        "error": "Page.goto: net::ERR_ABORTED at https://www.ewc.edu/wp-content/uploads/CATALOG-2021-2022SG0920-REVISED-10.29.pdf\nCall log:\n  - navigating to \"https://www.ewc.edu/wp-content/uploads/CATALOG-2021-2022SG0920-REVISED-10.29.pdf\", waiting until \"load\"\n"
+      }
+    ]
+  },
+  "detailed_results": [
+    {
+      "university_name": "Edward Waters University",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "Page.goto: net::ERR_ABORTED at https://www.ewc.edu/wp-content/uploads/CATALOG-2021-2022SG0920-REVISED-10.29.pdf\nCall log:\n  - navigating to \"https://www.ewc.edu/wp-content/uploads/CATALOG-2021-2022SG0920-REVISED-10.29.pdf\", waiting until \"load\"\n",
+      "discovery_time": 5.797368049621582,
+      "validation_time": 0.0
+    }
+  ]
+}

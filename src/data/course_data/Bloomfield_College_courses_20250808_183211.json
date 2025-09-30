@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Bloomfield College",
+    "successful_variation": "Bloomfield College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Bloomfield+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACC 201",
+      "course_title": "Financial Accounting I",
+      "credits": "1.00",
+      "description": "Basic accounting concepts, fundamentals of accounting procedures, development of accounting principles and practices, and the determination, valuation, and presentation of accounting information. Emphasis on accounting theory and its relationship to the preparation of financial accounting statements. Use of a computerized practice set will be required. 1 credits Prerequisites: MTH 113; BUS 200; CMP 100 or CMP 102 and CMP 104.",
+      "institution": "Bloomfield College"
+    },
+    {
+      "course_id": "ACC 202",
+      "course_title": "Financial Accounting II",
+      "credits": "1.00",
+      "description": "To continue the study of basic accounting concepts, fundamentals of accounting procedures, development of accounting principles and practices, and the determination, valuation, and presentation of accounting information. Emphasis on accounting theory and its relationship to the preparation of financial accounting statements. Use of a computerized practice set will be required. 1 credits Students cannot get credit for this course and ACC 204. Prerequisite: ACC 201.",
+      "institution": "Bloomfield College"
+    },
+    {
+      "course_id": "ACC 204",
+      "course_title": "Managerial Accounting",
+      "credits": "1.00",
+      "description": "To continue the study of basic accounting concepts, fundamentals of accounting procedures, development of accounting principles and practices, and the determination, valuation, and presentation of accounting information. Emphasis on the use of accounting information as it pertains to management. 1 credits Students cannot get credit for this course and ACC 202. Prerequisite: ACC 201.",
+      "institution": "Bloomfield College"
+    },
+    {
+      "course_id": "ACC 205",
+      "course_title": "Survey of Financial Accounting And Reporting For Cis Majors",
+      "credits": "1.00",
+      "description": "The course encompasses the organization and content of the financial statements, the system of rules and procedures that generate the financial reports and using accounting information in economic decision-making. 1 credits Students cannot get credit for this course and ACC 201. Prerequisites: MTH 113; BUS 200; and CMP 100 or CMP 102 and CMP 104.",
+      "institution": "Bloomfield College"
+    },
+    {
+      "course_id": "ACC 301",
+      "course_title": "Intermediate Accounting I",
+      "credits": "1.00",
+      "description": "Review of basic financial statements and an indepth study of accounting principles including: disclosure classification and presentation. 1 credits Prerequisite: ACC 202 with a grade of C or better.",
+      "institution": "Bloomfield College"
+    },
+    {
+      "course_id": "ACC 302",
+      "course_title": "Intermediate Accounting II",
+      "credits": "3.00",
+      "description": "A continuation of ACC 301. 1 credits Prerequisite: ACC 301.",
+      "institution": "Bloomfield College"
+    },
+    {
+      "course_id": "ACC 318",
+      "course_title": "Taxation I",
+      "credits": "0.50",
+      "description": "A study of taxation as it applies to the typical routine tax return for an individual tax payer. Topics will include determination of tax, income inclusions, capital gains and losses, itemized deductions and tax credits. 0.5 credits Prerequisite: ACC 202 or ACC 204, or consent of the Instructor.",
+      "institution": "Bloomfield College"
+    },
+    {
+      "course_id": "ACC 319",
+      "course_title": "Taxation II",
+      "credits": "1.00",
+      "description": "A continuation in the study of taxation to include special topics which are less routine in nature and to also include; the study of various business formations. 1 credits Prerequisite: ACC 318.",
+      "institution": "Bloomfield College"
+    },
+    {
+      "course_id": "ACC 323",
+      "course_title": "Cost Accounting: a Managerial Emphasis",
+      "credits": "1.00",
+      "description": "A study of the fundamentals of cost determination, allocation, cost analysis and costing for decisions. Topics include break-even analysis, cost-profit-volume analysis, job order costing, process costing, and basic standard cost analysis. Prerequisite: ACC 202 or ACC 204. 1 credits",
+      "institution": "Bloomfield College"
+    },
+    {
+      "course_id": "ACC 401",
+      "course_title": "Internal Auditing",
+      "credits": "1.00",
+      "description": "A study of internal auditing theory, practice, and administration. Topics include methods of conducting a preliminary review, developing audit programs, techniques of field work, sampling, computer auditing, using budgetary controls, report writing, administration of audit teams, and audit techniques utilized by internal auditors. 1 credits Prerequisite: ACC 302 or consent of the Instructor.",
+      "institution": "Bloomfield College"
+    }
+  ],
+  "timestamp": "2025-08-08T18:32:11.891581"
+}

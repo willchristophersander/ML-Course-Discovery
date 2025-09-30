@@ -1,0 +1,118 @@
+{
+  "timestamp": "2025-09-29T01:40:24.426484",
+  "analysis": {
+    "total_universities": 5,
+    "discovery_success_rate": 0.8,
+    "avg_discovery_confidence": 0.8375,
+    "ct_availability_rate": 0.4,
+    "colleges_with_ct_courses": 2,
+    "validation_success_rate": 0.5,
+    "avg_validation_confidence": 0.2,
+    "course_finding_rate": 0.6,
+    "avg_discovery_time": 57.85248274803162,
+    "avg_validation_time": 2.2961060047149657,
+    "successful_discoveries": [
+      {
+        "university": "Bucknell University",
+        "url": "https://courses.bucknell.edu/",
+        "discovery_confidence": 0.935,
+        "validation_confidence": 0.2,
+        "courses_found": "5/5"
+      },
+      {
+        "university": "Clark University",
+        "url": "https://www.clark.edu/404.php",
+        "discovery_confidence": 0.925,
+        "validation_confidence": 0.0,
+        "courses_found": "1/5"
+      },
+      {
+        "university": "Mississippi State University",
+        "url": "https://catalog.msstate.edu/",
+        "discovery_confidence": 0.68,
+        "validation_confidence": 0.0,
+        "courses_found": "0/0"
+      },
+      {
+        "university": "Tulsa Community College",
+        "url": "https://www.tulsacc.edu/academics/college-catalog-class-schedules",
+        "discovery_confidence": 0.81,
+        "validation_confidence": 0.0,
+        "courses_found": "0/0"
+      }
+    ],
+    "failed_discoveries": [
+      {
+        "university": "University of New Mexico",
+        "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"http://online.unm.edu/courses/index.html\", waiting until \"load\"\n"
+      }
+    ]
+  },
+  "detailed_results": [
+    {
+      "university_name": "Bucknell University",
+      "discovered_url": "https://courses.bucknell.edu/",
+      "discovery_success": true,
+      "discovery_confidence": 0.935,
+      "validation_success": true,
+      "validation_confidence": 0.2,
+      "test_courses_found": 5,
+      "total_test_courses": 5,
+      "error_message": null,
+      "discovery_time": 51.36287188529968,
+      "validation_time": 2.9370200634002686
+    },
+    {
+      "university_name": "Clark University",
+      "discovered_url": "https://www.clark.edu/404.php",
+      "discovery_success": true,
+      "discovery_confidence": 0.925,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 1,
+      "total_test_courses": 5,
+      "error_message": null,
+      "discovery_time": 52.65367317199707,
+      "validation_time": 2.264370918273926
+    },
+    {
+      "university_name": "Mississippi State University",
+      "discovered_url": "https://catalog.msstate.edu/",
+      "discovery_success": true,
+      "discovery_confidence": 0.68,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No test courses found in CollegeTransfer.net",
+      "discovery_time": 51.511794090270996,
+      "validation_time": 3.913499116897583
+    },
+    {
+      "university_name": "University of New Mexico",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"http://online.unm.edu/courses/index.html\", waiting until \"load\"\n",
+      "discovery_time": 79.90788578987122,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "Tulsa Community College",
+      "discovered_url": "https://www.tulsacc.edu/academics/college-catalog-class-schedules",
+      "discovery_success": true,
+      "discovery_confidence": 0.81,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No test courses found in CollegeTransfer.net",
+      "discovery_time": 53.826188802719116,
+      "validation_time": 2.3656399250030518
+    }
+  ]
+}

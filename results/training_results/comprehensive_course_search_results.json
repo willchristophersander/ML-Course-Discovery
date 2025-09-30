@@ -1,0 +1,46 @@
+{
+  "timestamp": "2025-08-04 20:56:38",
+  "total_universities": 5,
+  "successful_finds": 1,
+  "success_rate": 0.2,
+  "total_time_seconds": 18.38300585746765,
+  "average_time_per_university": 3.6766011714935303,
+  "parallel_processing": true,
+  "results": [
+    {
+      "university": "Mississippi College",
+      "domain": "mc.edu",
+      "course_catalog": null,
+      "confidence": 0.0,
+      "method": null
+    },
+    {
+      "university": "Centenary College of Louisiana",
+      "domain": "centenary.edu",
+      "course_catalog": null,
+      "confidence": 0.0,
+      "method": null
+    },
+    {
+      "university": "Gateway Community College",
+      "domain": "gwcc.commnet.edu",
+      "course_catalog": null,
+      "confidence": 0.0,
+      "method": null
+    },
+    {
+      "university": "Warren County Community College",
+      "domain": "warren.edu",
+      "course_catalog": null,
+      "confidence": 0.0,
+      "method": null
+    },
+    {
+      "university": "Harrisburg Area Community College-Harrisburg",
+      "domain": "hacc.edu",
+      "course_catalog": "https://hacc.edu/catalog",
+      "confidence": 0.9999120438281981,
+      "method": "ml_guessing_parallel_validated"
+    }
+  ]
+}

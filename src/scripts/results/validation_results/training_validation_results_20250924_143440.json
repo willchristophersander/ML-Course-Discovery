@@ -1,0 +1,115 @@
+{
+  "timestamp": "2025-09-24T14:34:40.857762",
+  "analysis": {
+    "total_universities": 5,
+    "discovery_success_rate": 0.6,
+    "avg_discovery_confidence": 0.8316666666666667,
+    "ct_availability_rate": 0.4,
+    "colleges_with_ct_courses": 2,
+    "validation_success_rate": 1.0,
+    "avg_validation_confidence": 0.4,
+    "course_finding_rate": 0.3,
+    "avg_discovery_time": 89.14898715019226,
+    "avg_validation_time": 1.4410743713378906,
+    "successful_discoveries": [
+      {
+        "university": "Brookings Institution",
+        "url": "https://www.brookings.edu/washu/courses/",
+        "discovery_confidence": 0.935,
+        "validation_confidence": 0.0,
+        "courses_found": "0/0"
+      },
+      {
+        "university": "Pacific Lutheran University",
+        "url": "https://www.plu.edu/catalog-2023-2024/directory-of-courses/",
+        "discovery_confidence": 0.78,
+        "validation_confidence": 0.4,
+        "courses_found": "1/5"
+      },
+      {
+        "university": "Community College of Aurora",
+        "url": "https://ccaurora.smartcatalogiq.com/en/2024-2025/catalog/courses",
+        "discovery_confidence": 0.78,
+        "validation_confidence": 0.4,
+        "courses_found": "2/5"
+      }
+    ],
+    "failed_discoveries": [
+      {
+        "university": "St. Joseph College (CT)",
+        "error": "Timeout 30000ms exceeded."
+      },
+      {
+        "university": "Roger Williams University",
+        "error": "Page.click: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"a[href='https://www.rwu.edu/academics/registrar/university-catalog']\")\n"
+      }
+    ]
+  },
+  "detailed_results": [
+    {
+      "university_name": "St. Joseph College (CT)",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "Timeout 30000ms exceeded.",
+      "discovery_time": 107.55558180809021,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "Brookings Institution",
+      "discovered_url": "https://www.brookings.edu/washu/courses/",
+      "discovery_success": true,
+      "discovery_confidence": 0.935,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No test courses found in CollegeTransfer.net",
+      "discovery_time": 76.52068400382996,
+      "validation_time": 3.0505449771881104
+    },
+    {
+      "university_name": "Pacific Lutheran University",
+      "discovered_url": "https://www.plu.edu/catalog-2023-2024/directory-of-courses/",
+      "discovery_success": true,
+      "discovery_confidence": 0.78,
+      "validation_success": true,
+      "validation_confidence": 0.4,
+      "test_courses_found": 1,
+      "total_test_courses": 5,
+      "error_message": null,
+      "discovery_time": 78.37626504898071,
+      "validation_time": 2.058171033859253
+    },
+    {
+      "university_name": "Community College of Aurora",
+      "discovered_url": "https://ccaurora.smartcatalogiq.com/en/2024-2025/catalog/courses",
+      "discovery_success": true,
+      "discovery_confidence": 0.78,
+      "validation_success": true,
+      "validation_confidence": 0.4,
+      "test_courses_found": 2,
+      "total_test_courses": 5,
+      "error_message": null,
+      "discovery_time": 76.62720584869385,
+      "validation_time": 2.09665584564209
+    },
+    {
+      "university_name": "Roger Williams University",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "Page.click: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"a[href='https://www.rwu.edu/academics/registrar/university-catalog']\")\n",
+      "discovery_time": 106.66519904136658,
+      "validation_time": 0.0
+    }
+  ]
+}

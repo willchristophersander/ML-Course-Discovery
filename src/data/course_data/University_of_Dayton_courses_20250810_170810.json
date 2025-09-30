@@ -1,0 +1,67 @@
+{
+  "search_query": {
+    "institution": "University of Dayton",
+    "successful_variation": "University of Dayton",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=University+of+Dayton&distance=5"
+  },
+  "total_results": 8,
+  "courses": [
+    {
+      "course_id": "ABD 000",
+      "course_title": "Study Abroad",
+      "credits": "0.00",
+      "description": "Course description is currently unavailable.",
+      "institution": "University of Dayton"
+    },
+    {
+      "course_id": "ACC 200",
+      "course_title": "Introduction to Accounting",
+      "credits": "3.00",
+      "description": "Introduction to primarily financial and secondarily managerial accounting concepts, terminology, purposes, and applications for the nonbusiness student. Not open to students in the School of Business Administration or to those with credit in ACC 207.",
+      "institution": "University of Dayton"
+    },
+    {
+      "course_id": "ACC 207",
+      "course_title": "Intro-Financial Acc",
+      "credits": "3.00",
+      "description": "Introduction to financial accounting concepts, procedures, and terminology. The accounting framework for recording transactions and reporting to parties external to the organization.",
+      "institution": "University of Dayton"
+    },
+    {
+      "course_id": "ACC 208",
+      "course_title": "Intro-Managerial Acc",
+      "credits": "3.00",
+      "description": "Management use of accounting data in planning and controlling organization activities; cost accounting and analysis of data for management decision making.",
+      "institution": "University of Dayton"
+    },
+    {
+      "course_id": "ACC 300A",
+      "course_title": "Principles of Financial Accounting",
+      "credits": "2.00",
+      "description": "An introduction to the concepts and procedures underlying financial accounting and financial statements, and the use of financial accounting information for decision making. Credit may not be earned for both ACC 300A and either ACC 200 or ACC 207. Prerequisite(s): Engineering major; sophomore standing; permission of department chairperson.",
+      "institution": "University of Dayton"
+    },
+    {
+      "course_id": "ACC 300B",
+      "course_title": "Principles of Managerial Accounting",
+      "credits": "2.00",
+      "description": "An introduction to the concepts underlying the preparation and use of accounting data by managers as they plan, control, and make decisions within an organization. Credit may not be earned for both ACC 300B and ACC 208. Prerequisite(s): Engineering major; sophomore standing; permission of department chairperson.",
+      "institution": "University of Dayton"
+    },
+    {
+      "course_id": "ACC 303",
+      "course_title": "Managerial Accounting",
+      "credits": "3.00",
+      "description": "The production, dissemination, and interpretation of financial and nonfinancial information for use within an organization. Information for planning, decision making, and control. Study of typical cost accounting systems in various organizations. Prerequisite(s): (ACC 207, 208, with mimimum grades of \"C+\"; junior standing) or permission of department chairperson.",
+      "institution": "University of Dayton"
+    },
+    {
+      "course_id": "ACC 305",
+      "course_title": "Intermediate Financial Accounting I",
+      "credits": "4.00",
+      "description": "Part I (part II in ACC 306) of a comprehensive treatment of financial accounting concepts, principles, and procedures used in the preparation and analysis of financial statements. Prerequisite(s): (ACC 207, 208, with minimum grades of \"C+\"; junior standing) or permission of department chairperson.",
+      "institution": "University of Dayton"
+    }
+  ],
+  "timestamp": "2025-08-10T17:08:10.154037"
+}

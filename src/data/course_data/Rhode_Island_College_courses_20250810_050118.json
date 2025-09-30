@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Rhode Island College",
+    "successful_variation": "Rhode Island College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Rhode+Island+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACCT 201",
+      "course_title": "Principles of Accounting I:Financial",
+      "credits": "4.00",
+      "description": "The identification, measurement, and reporting of the financial effects of economic events on enterprises are examined. Lecture and laboratory. (4) 3 credit hours. Offered fall, spring, summer.",
+      "institution": "Rhode Island College"
+    },
+    {
+      "course_id": "ACCT 202",
+      "course_title": "Principles of Accounting II:Managerial",
+      "credits": "4.00",
+      "description": "A continuation of Accounting 201, topics include accounting for corporations, liabilities, cash flow statements, cost accounting in a manufacturing environment, budgeting, and profit analysis for decision making. Lecture and laboratory. (4) 3 credit hours. Prerequisite: ACCT 201. Offered fall, spring, summer.",
+      "institution": "Rhode Island College"
+    },
+    {
+      "course_id": "ACCT 310",
+      "course_title": "Accounting Systems and Concepts",
+      "credits": "4.00",
+      "description": "Accounting systems are introduced, with emphasis on the accounting cycle through the preparation of statements. Students work with general ledger software and spreadsheet applications. Lecture and laboratory. (4) 3 credit hours. Prerequisite: ACCT 201 and CIS 251. Offered fall and spring.",
+      "institution": "Rhode Island College"
+    },
+    {
+      "course_id": "ACCT 311",
+      "course_title": "External Reporting I",
+      "credits": "4.00",
+      "description": "Accounting concepts, standards, principles, and practices in financial reporting for business entities are studied. Topics include assets, liabilities, and stockholder equity. Lecture and laboratory. (Formerly Intermediate Accounting I.) (4) 3 credit hours. Prerequisite: ACCT 310. Offered fall and spring.",
+      "institution": "Rhode Island College"
+    },
+    {
+      "course_id": "ACCT 312",
+      "course_title": "External Reporting II",
+      "credits": "4.00",
+      "description": "A continuation of Accounting 311, topics include revenue recognition, pensions, accounting for income taxes, leases, cash flow statements, and financial analysis. Lecture and laboratory. (Formerly Intermediate Accounting II.) (4) 3 credit hours. Prerequisite: ACCT 311. Offered fall and spring.",
+      "institution": "Rhode Island College"
+    },
+    {
+      "course_id": "ACCT 321",
+      "course_title": "Cost Management I",
+      "credits": "4.00",
+      "description": "Study is made of internal accounting information and decision support systems that provide data and reports for product costing and management decision making. Lecture and laboratory. (Formerly Internal Reporting I.) (4) 3 credit hours. Prerequisite: ACCT 202 and 310. Offered fall and spring, and offered summer (as needed).",
+      "institution": "Rhode Island College"
+    },
+    {
+      "course_id": "ACCT 331",
+      "course_title": "Taxes for Business Decisions",
+      "credits": "4.00",
+      "description": "Federal income tax law for individuals, corporations, and other entities is introduced. Emphasis is on the continuing concepts of tax law and tax research and planning. (Formerly Federal Tax I.) (4) 3 credit hours. Prerequisite: ACCT 201 or consent of department chair. Offered fall and spring.",
+      "institution": "Rhode Island College"
+    },
+    {
+      "course_id": "ACCT 353",
+      "course_title": "Accounting for Nonprofit Organizations",
+      "credits": "3.00",
+      "description": "Emphasis is on conceptual foundation, governmental accounting, accounting for other nonprofit organizations, and uses of data. 3 credit hours. Prerequisite: ACCT 202. Offered spring.",
+      "institution": "Rhode Island College"
+    },
+    {
+      "course_id": "ACCT 422",
+      "course_title": "Cost Management II",
+      "credits": "4.00",
+      "description": "The use of internal accounting data and reporting in the management decision-making process is examined. Lecture and laboratory. (Formerly Internal Reporting II.) (4) 3 credit hours. Prerequisite: ACCT 321. Offered spring.",
+      "institution": "Rhode Island College"
+    },
+    {
+      "course_id": "ACCT 432",
+      "course_title": "Advanced Studies in Taxation",
+      "credits": "4.00",
+      "description": "The coverage of choice of an entity and the uses of the life-cycle approach to study these entities are expanded upon. Lecture and laboratory. (Formerly Federal Tax II.) (4) 3 credit hours. Prerequisite: ACCT 331. Offered fall.",
+      "institution": "Rhode Island College"
+    }
+  ],
+  "timestamp": "2025-08-10T05:01:18.376745"
+}

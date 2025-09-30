@@ -1,0 +1,48 @@
+{
+  "timestamp": "2025-08-08T14:50:23.991315",
+  "analysis": {
+    "total_colleges": 2,
+    "successful_discoveries": 0,
+    "successful_validations": 0,
+    "discovery_success_rate": 0.0,
+    "validation_success_rate": 0.0,
+    "avg_discovery_confidence": 0.0,
+    "avg_validation_confidence": 0.0,
+    "total_courses": 0,
+    "total_courses_found": 0,
+    "course_finding_rate": 0,
+    "high_quality_examples": []
+  },
+  "detailed_results": [
+    {
+      "university_name": "Transylvania University",
+      "university_domain": "transy.edu",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "collegetransfer_courses_found": 0,
+      "total_collegetransfer_courses": 0,
+      "error_message": "Discovery error: 'NavigationResult' object has no attribute 'best_url'",
+      "discovery_time": 11.532653093338013,
+      "validation_time": 0.0,
+      "collegetransfer_courses": null
+    },
+    {
+      "university_name": "William Woods University",
+      "university_domain": "wmwoods.edu",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "collegetransfer_courses_found": 0,
+      "total_collegetransfer_courses": 0,
+      "error_message": "Discovery error: 'NavigationResult' object has no attribute 'best_url'",
+      "discovery_time": 2.1184051036834717,
+      "validation_time": 0.0,
+      "collegetransfer_courses": null
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Arapahoe Community College",
+    "successful_variation": "Arapahoe Community College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Arapahoe+Community+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "AAA 090",
+      "course_title": "Academic Achievement Strategies",
+      "credits": "3.00",
+      "description": "Develops personalized approaches to learn and succeed for easier transition into college. Topics include goalsetting, time management, textbook reading strategies, note taking, test-taking, listening techniques, concentration and memory devices, and critical thinking for student success. PREREQUISITE: ACCUPLACER reading score 60-79.",
+      "institution": "Arapahoe Community College"
+    },
+    {
+      "course_id": "AAA 101",
+      "course_title": "The Student Experience",
+      "credits": "1.00",
+      "description": "Introduces students to college culture and prepares them for the challenges they will face in higher education. Through a series of interactive seminars, students discover learning in a multicultural environment and use College and community resources to attain education and career goals.",
+      "institution": "Arapahoe Community College"
+    },
+    {
+      "course_id": "AAA 109",
+      "course_title": "Advanced Academic Achievement",
+      "credits": "3.00",
+      "description": "Examines theories and practices associated with successful learning to enhance college success. Areas of study include education and career planning, effective communication, personal management, critical and creative thinking, development of community and awareness of diversity, leadership, and techniques for successful academic performance. Recommended for new and returning students. PREREQUISITE: ACCUPLACER reading score of 80.",
+      "institution": "Arapahoe Community College"
+    },
+    {
+      "course_id": "ACC 101",
+      "course_title": "Fundamentals of Accounting",
+      "credits": "3.00",
+      "description": "Presents the basic elements and concepts of accounting, with emphasis on the procedures used for maintaining journals, ledgers and other related records and for the completion of end-of period reports for small service and merchandising businesses.",
+      "institution": "Arapahoe Community College"
+    },
+    {
+      "course_id": "ACC 115",
+      "course_title": "Payroll Accounting",
+      "credits": "3.00",
+      "description": "Studies federal and state employment laws and their effects on personnel and payroll records. The course is non-technical and is intended to give students a practical working knowledge of the current payroll laws and actual experience in applying regulations. Students are exposed to computerized payroll procedures. PREREQUISITE: ACC 101 or 121, or enrolled concurrently or Instructor's permission.",
+      "institution": "Arapahoe Community College"
+    },
+    {
+      "course_id": "ACC 118",
+      "course_title": "Analyzing And Interpreting Financial Statements",
+      "credits": "3.00",
+      "description": "Introduces accounting and its significant role in making sound business decisions. Designed to teach students how to use financial statements to be wise users of accounting information. Gives practical experience using ratio analysis to make credit and equity decisions. Instructional methods include lecture, case studies, group interaction and Internet research projects.",
+      "institution": "Arapahoe Community College"
+    },
+    {
+      "course_id": "ACC 121",
+      "course_title": "Accounting Principles I",
+      "credits": "4.00",
+      "description": "Introduces the study of accounting principles for understanding of the theory and logic that underlie procedures and practices. Major topics include the accounting cycle for service and merchandising companies, Special journals and subsidiary ledgers, internal control principles and practices, notes and interest, inventory systems and costing, plant assets and intangible asset accounting and depreciation methods and practices.",
+      "institution": "Arapahoe Community College"
+    },
+    {
+      "course_id": "ACC 122",
+      "course_title": "Accounting Principles II",
+      "credits": "4.00",
+      "description": "Continues the study of accounting principles as they apply to partnerships and corporations. Major topics include stocks and bonds, investments, cash flow statements, financial analysis, budgeting and cost and managerial accounting. PREREQUISITES: ACC 121 or equivalent; MAT 106, or higher strongly recommended.",
+      "institution": "Arapahoe Community College"
+    },
+    {
+      "course_id": "ACC 125",
+      "course_title": "Computerized Accounting",
+      "credits": "3.00",
+      "description": "Introduces the capabilities of computer applications in accounting. Includes solving accounting problems of a financial nature and hardware and software controls. PREREQUISITE: ACC 101 or ACC 131.",
+      "institution": "Arapahoe Community College"
+    },
+    {
+      "course_id": "ACC 131",
+      "course_title": "Income Tax I",
+      "credits": "3.00",
+      "description": "This course is the study of basic concepts of federal income taxation, including gross income, deductions, accounting periods and methods and property transactions, with emphasis on taxation of individuals and sole proprietorships.",
+      "institution": "Arapahoe Community College"
+    }
+  ],
+  "timestamp": "2025-08-10T15:03:36.189997"
+}

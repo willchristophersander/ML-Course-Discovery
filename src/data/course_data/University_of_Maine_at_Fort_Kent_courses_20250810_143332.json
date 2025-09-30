@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "University of Maine at Fort Kent",
+    "successful_variation": "University of Maine at Fort Kent",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=University+of+Maine+at+Fort+Kent&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ANT 100",
+      "course_title": "Intro to Anthropology ?",
+      "credits": "3.00",
+      "description": "Prerequisites: None. The course will cover the four fields of anthropology: physical archaeology linguistics and cultural. It will cover humans as primates genetics and evolution. the archeological record. language food acquisition economics and political systems group formation family systems religious and belief systems the role of art ethnicity and gender and the contemporary global culture. It will address issues common to all human groups and take a global cross-cultural perspective.",
+      "institution": "University of Maine at Fort Kent"
+    },
+    {
+      "course_id": "ANT 105",
+      "course_title": "Intro to Human Sciences ?",
+      "credits": "3.00",
+      "description": "This course introduces students in the behavioral and social sciences to the study of human behavior in historical and social contexts. Its goal is to prepare students for the kinds of learning critical thinking research practices and professional development that will be required of them in the behavioral and social sciences specifically anthropology psychology and sociology. The course will cover the fundamentals of the behavioral and social sciences the scientific methods as applied to the study of humanity as in formulating hypotheses testing variables and writing scientific papers. reading human scientific literature and developing critical reasoning and analysis skills. the objective imagination. avoiding ethnocentrism. and the applications of the human sciences. It is designed as a gateway course into the fields of human sciences. This course is required of all first year entry level students majoring in Behavioral Sciences Social Sciences or Human Services.",
+      "institution": "University of Maine at Fort Kent"
+    },
+    {
+      "course_id": "ANT 120",
+      "course_title": "Intro to Forensic Anthropology ?",
+      "credits": "3.00",
+      "description": "An overview of the principles of forensic anthropology using physical anthropology in the solving of crimes. Topics covered include the types of death and trauma the process of decomposition and skeletionization identifying human bones traces and skeletons the varieties of physical populations DNA analysis and the reconstruction of identity.",
+      "institution": "University of Maine at Fort Kent"
+    },
+    {
+      "course_id": "ANT 202",
+      "course_title": "South American Ethnology ?",
+      "credits": "3.00",
+      "description": "Prerequisites: None. This course will cover both recent historical and contemporary cultures of Latin America. The course will consider indigenous groups the impact of Spanish British and North American colonialism the impact of slavery and economic imperialism the contemporary shifts towards global industrialism and the growth of the maquilador system. The course will look at both urban and rural cultures. Case studies from the islands Brazil the Andes Mexico and Central America will be used.",
+      "institution": "University of Maine at Fort Kent"
+    },
+    {
+      "course_id": "ANT 206",
+      "course_title": "Far Eastern Ethnology ?",
+      "credits": "3.00",
+      "description": "Prerequisites: None. This course will cover selected cultures of colonial era and contemporary mainland Asia the Pacific islands and Australia. It will explore the relationships among the cultures of these areas including cross-cultural contacts and the growth of plural states in Asia the role of Buddhism and Islam in cultural change imperial expansion inter-island trade social organizations including feudalism the impact of European colonialism and contemporary globalism. Both rural and urban socities are considered. Case studies from India China the Pacific and Australia are used.",
+      "institution": "University of Maine at Fort Kent"
+    },
+    {
+      "course_id": "ANT 208",
+      "course_title": "Cultures of No America ?",
+      "credits": "3.00",
+      "description": "Prerequisites: None. The course will focus on 6 cultural categories (race ethnicity region language lifestyle and religion) that define cultures and ethnic groups in North America and use case studies relevant to these categories. The goals are to understand questions of what defines a culture from within and without. how cultures and affinity groups interact and what identity pluralism and diversity are. The course will survey multiculturalism in North America including segregation the American caste system legal and civil rights and contemporary pluralism. The course will also examine issues of power representation association and voice as expressed through other forms of cultural affiliation such as gender and age.",
+      "institution": "University of Maine at Fort Kent"
+    },
+    {
+      "course_id": "ANT 209",
+      "course_title": "Middle East Cultures ?",
+      "credits": "3.00",
+      "description": "Prerequisites: None. The course covers cultures of Southwest and South Central Asia an area currently bounded by the following nations from Turkey to Saudi Arabia and from Egypt to Afganistan. It covers regional history ethnicity tribalism the growth of naturalism colonialism and imperialism.",
+      "institution": "University of Maine at Fort Kent"
+    },
+    {
+      "course_id": "ANT 211",
+      "course_title": "Peoples of Maine ?",
+      "credits": "3.00",
+      "description": "Prerequisites: None. This course will be an overview of the major ethno-racial and other social groups of contemporary Maine. We will cover history economics politics geography life-style ethnic and group identity formation and maintenance immigration and the concepts of assimilation ethnic resistance acculturation diversity and pluralism. We will cover at least- roughly in the order of appearance- the Native nations of Maine. Anglo-American Yankee culture. Franco-American ethnic groups. Irish-Americans. African-Americans. some of the new immigrants (post 1960) such as Vietnamese. Somali. Lebanese. Latin-American and Caribbean. Particular economic factors reviewed include: fisheries. lumbering. agriculture.",
+      "institution": "University of Maine at Fort Kent"
+    },
+    {
+      "course_id": "ANT 220",
+      "course_title": "Cultures of Africa & Europe ?",
+      "credits": "3.00",
+      "description": "Prerequisites: None. This course will cover selected cultures of colonial-era and contemporary Europe the Mediterranean shore Near East and Africa. it will explore the relationships between the cultures of these two areas. the cultural impact of slave-trading and colonialism in Africa. the growth of the state in Europe. the cattle-complex. social organizations including late-era feudalism village life farming and contemporary globalism. We will consider both rural and urban societies.",
+      "institution": "University of Maine at Fort Kent"
+    },
+    {
+      "course_id": "ANT 309",
+      "course_title": "Native North American ?",
+      "credits": "3.00",
+      "description": "Prerequisites: None. The course will take a 3-topic approach to the study of the indigenous peoples and cultures of North America. We will use enthographic case studies to compare groups. ethnohistory and the historical record to understand the impact of colonialism and federalism since 1500. and indigenous literature/voices to understand the dimensions of contemporary Native American/Canadian ethnic and tribal identities.",
+      "institution": "University of Maine at Fort Kent"
+    }
+  ],
+  "timestamp": "2025-08-10T14:33:32.562733"
+}

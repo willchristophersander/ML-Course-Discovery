@@ -1,0 +1,53 @@
+{
+  "search_query": {
+    "institution": "Stetson University",
+    "successful_variation": "Stetson University",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Stetson+University&distance=5"
+  },
+  "total_results": 6,
+  "courses": [
+    {
+      "course_id": "AFS 100",
+      "course_title": "Introduction to Africana Studies",
+      "credits": "3.00",
+      "description": "An introduction to the study of Africa and the African Diaspora (the forced or voluntary dispersal of Africans throughout the world). The historical experiences, contributions, and aspirations of Americans of African descent receive careful attention, as do the contemporary economic, political, and cultural challenges to African-Americans and the postcolonial experience of Africans.",
+      "institution": "Stetson University"
+    },
+    {
+      "course_id": "AH 200",
+      "course_title": "Introductory Survey of Art History",
+      "credits": "3.00",
+      "description": "This course introduces the student to the history of art in the Western world from prehistoric to modern times.",
+      "institution": "Stetson University"
+    },
+    {
+      "course_id": "AH 314",
+      "course_title": "The Art and Theory of Modernism",
+      "credits": "3.00",
+      "description": "A study of major artistic movements of the first half of the twentieth century and of the relationship between works of art and contemporary art theory and criticism.",
+      "institution": "Stetson University"
+    },
+    {
+      "course_id": "AH 315",
+      "course_title": "Period Study in Art History",
+      "credits": "3.00",
+      "description": "This course will concentrate on the art of a particular period. The course may be repeated with different content (e.g., Italian Renaissance Art, Impressionism and Post- Impressionism, Medieval Art).",
+      "institution": "Stetson University"
+    },
+    {
+      "course_id": "AH 316",
+      "course_title": "Issues in Contemporary Art",
+      "credits": "3.00",
+      "description": "This course will explore some of the chief issues and ideas which have engaged the art world in the last half of the twentieth century and the beginning of the twentyfirst.",
+      "institution": "Stetson University"
+    },
+    {
+      "course_id": "AH 400",
+      "course_title": "Museum Internship",
+      "credits": "3.00",
+      "description": "Internship programs may be arranged in local museums and galleries. Students will get hands-on experience in various aspects of museum work ranging from selection and installation of exhibits and research of collections to public relations and grant-writing. Guidelines for internships are available from the internship supervisor. Prerequisites: junior or senior standing, 6 hours of art history, and permission of the internship supervisor.",
+      "institution": "Stetson University"
+    }
+  ],
+  "timestamp": "2025-08-10T20:48:30.525586"
+}

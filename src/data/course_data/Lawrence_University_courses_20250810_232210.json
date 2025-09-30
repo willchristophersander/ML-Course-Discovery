@@ -1,0 +1,60 @@
+{
+  "search_query": {
+    "institution": "Lawrence University",
+    "successful_variation": "Lawrence University",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Lawrence+University&distance=5"
+  },
+  "total_results": 7,
+  "courses": [
+    {
+      "course_id": "ANTH 110",
+      "course_title": "Cultural Anthropology",
+      "credits": "6.00",
+      "description": "An introduction to the nature of culture, the organization of social relations, and the relationships between values and behavior. Attention to the human use of culture in adapting to environments and to language, technology, kinship, and religion as cultural systems. Case studies of Western and non-Western peoples. 6 units. Prerequisite: Freshman or sophomore standing; consent of instructor required for juniors and seniors",
+      "institution": "Lawrence University"
+    },
+    {
+      "course_id": "ANTH 120",
+      "course_title": "World Prehistory",
+      "credits": "6.00",
+      "description": "An introduction to the peoples and cultures of the world from 40,000 years ago to 2,000 years ago. Major events in world prehistory, such as the origins of agriculture, the rise of cities, and the spread of states, are examined and discussed. General trends in cultural evolution are proposed and evaluated. 6 units. Prerequisite: Freshman or sophomore standing; consent of instructor required for juniors and seniors",
+      "institution": "Lawrence University"
+    },
+    {
+      "course_id": "ANTH 140",
+      "course_title": "Biological Anthropology",
+      "credits": "6.00",
+      "description": "The study of humans as biological organisms. Topics addressed include processes of evolutionary change and stasis; primate diversity, ecology, and behavior; morphological, ecological, and genetic perspectives on human evolution; and contemporary human biological variation, including racial variation. 6 units. Prerequisite: Freshman or sophomore standing; consent of instructor required for juniors and seniors36",
+      "institution": "Lawrence University"
+    },
+    {
+      "course_id": "ANTH 200",
+      "course_title": "History of Anthropological Ideas",
+      "credits": "6.00",
+      "description": "A study of the development of anthropology as a scholarly discipline and a method of inquiry. Consideration of theoretical perspectives such as evolutionism, historical particularism, functionalism, cultural materialism, structuralism, interpretive and postmodernist approaches, and also the significance of participant-observation and other field research strategies in shaping anthropological knowledge. 6 units. Prerequisite: ANTH 110, 120, or 140, preferably all three. Recommended for anthropology majors in the sophomore year; must be completed by the end of the junior year.",
+      "institution": "Lawrence University"
+    },
+    {
+      "course_id": "ANTH 207",
+      "course_title": "Quantitative Analysis in Anthropology",
+      "credits": "6.00",
+      "description": "An introduction to the collection and manipulation of quantitative data in anthropological research. Topics include sampling, measurement, and basic nominal and ordinal statistics. 6 units. Prerequisite: ANTH 110, 120, or 140, preferably all three; non-anthropology majors must obtain consent of instructor. Recommended for anthropology majors in the sophomore year; must be completed by the end of the junior year.",
+      "institution": "Lawrence University"
+    },
+    {
+      "course_id": "ANTH 210",
+      "course_title": "Research Methods in Cultural Anthropology",
+      "credits": "6.00",
+      "description": "An introduction to basic assumptions and methods of research in sociocultural anthropology, including participant observation, ethnographic interview, focus groups, cognitive methods, survey, and census. Students gain hands-on experience in research. 6 units. Prerequisite: ANTH 110, 120, or 140, preferably all three; non-anthropology majors must obtain consent of instructor. Recommended for anthropology majors in the sophomore year; must be completed by the end of the junior year.",
+      "institution": "Lawrence University"
+    },
+    {
+      "course_id": "ANTH 220",
+      "course_title": "Research Methods in Archaeology",
+      "credits": "6.00",
+      "description": "Presents the research process in archaeology and offers an overview of essential data-collection and analysis techniques, including site survey and excavation, settlement pattern analysis, lithic analysis, and ceramic analysis. Students work with material from the Lawrence University collections and take part in field research. 6 units. Also listed as Environmental Studies 260 Prerequisite: ANTH 110, 120, or 140, preferably all three; non-anthropology majors must obtain consent of instructor. Recommended for anthropology majors in the sophomore year, must be completed by the end of the junior year.",
+      "institution": "Lawrence University"
+    }
+  ],
+  "timestamp": "2025-08-10T23:22:10.020714"
+}

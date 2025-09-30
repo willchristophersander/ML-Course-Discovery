@@ -1,0 +1,74 @@
+{
+  "search_query": {
+    "institution": "Eastern Shore Community College",
+    "successful_variation": "Eastern Shore Community College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Eastern+Shore+Community+College&distance=5"
+  },
+  "total_results": 9,
+  "courses": [
+    {
+      "course_id": "ACC 105",
+      "course_title": "Office Accounting",
+      "credits": "3.00",
+      "description": "Presents practical accounting. Covers the accounting cycle - journal, ledger, working papers, closing of books - payrolls, financial statements, accounting forms, and practical procedures. Lecture 3 hours per week.",
+      "institution": "Eastern Shore Community College"
+    },
+    {
+      "course_id": "ACC 134",
+      "course_title": "Small Business Taxes",
+      "credits": "3.00",
+      "description": "Introduces taxes most frequently encountered in business. Includes payroll, sales, property, and income tax. Lecture 2-3 hours per week.",
+      "institution": "Eastern Shore Community College"
+    },
+    {
+      "course_id": "ACC 211",
+      "course_title": "Principles of Accounting I",
+      "credits": "3.00",
+      "description": "Presents accounting principles and their application to various businesses. Covers the accounting cycle, income determination, and financial reporting. Studies services, merchandising, and includes internal controls. A laboratory co-requisite (ACC 213) may be required as identified by the college. Lecture 3 hours per week.",
+      "institution": "Eastern Shore Community College"
+    },
+    {
+      "course_id": "ACC 212",
+      "course_title": "Principles of Accounting II",
+      "credits": "3.00",
+      "description": "Continues Accounting Principles 211 with emphasis on the application to partnerships, corporations, and the study of financial analysis. Includes an introduction to cost and managerial accounting. A laboratory co-requisite (ACC 214) may be required as identified by the college. Lecture 3 hours per week.",
+      "institution": "Eastern Shore Community College"
+    },
+    {
+      "course_id": "ACC 213",
+      "course_title": "Principles of Accounting Laboratory I",
+      "credits": "1.00",
+      "description": "Provides problem-solving experience to supplement instruction in ACC 211. Co-requisite is concurrent enrollment in ACC 211. Laboratory 2 hours per week.",
+      "institution": "Eastern Shore Community College"
+    },
+    {
+      "course_id": "ACC 214",
+      "course_title": "Principles of Accounting Laboratory II",
+      "credits": "1.00",
+      "description": "Provides problem-solving experience to supplement instruction in ACC 212. Co-requisite is concurrent enrollment in ACC 212. Laboratory 2 hours per week.",
+      "institution": "Eastern Shore Community College"
+    },
+    {
+      "course_id": "ADJ 100",
+      "course_title": "Survey of Criminal Justice",
+      "credits": "3.00",
+      "description": "Presents an overview of the United States criminal justice system; introduces the major system components-law enforcement, judiciary, and corrections. Lecture 3 hours per week.",
+      "institution": "Eastern Shore Community College"
+    },
+    {
+      "course_id": "ADJ 107",
+      "course_title": "Survey of Criminology",
+      "credits": "3.00",
+      "description": "Surveys the volume and scope of crime; considers a variety of theories developed to explain the causation of crime and criminality. Lecture 3 hours per week.",
+      "institution": "Eastern Shore Community College"
+    },
+    {
+      "course_id": "ADJ 130",
+      "course_title": "Introduction to Criminal Law",
+      "credits": "3.00",
+      "description": "Surveys the general principles of American criminal law, the elements of major crimes, and the basic steps of prosecution procedure. Lecture 3 hours per week.",
+      "institution": "Eastern Shore Community College"
+    }
+  ],
+  "timestamp": "2025-08-10T17:38:20.959659"
+}

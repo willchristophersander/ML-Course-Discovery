@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Atlantic Cape Community College",
+    "successful_variation": "Atlantic Cape Community College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Atlantic+Cape+Community+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACCT 130",
+      "course_title": "Financial Accounting",
+      "credits": "3.00",
+      "description": "Study of financial accounting emphasizing income measurement, the valuation of assets, and accounting for liabilities and shareholder's equity. Proper financial statement presentation and disclosure covered in detail. (1996)",
+      "institution": "Atlantic Cape Community College"
+    },
+    {
+      "course_id": "ACCT 131",
+      "course_title": "Managerial Accounting",
+      "credits": "3.00",
+      "description": "Prerequisite: ACCT130 Study of the accounting information needs of internal management. Examines responsibility of accounting and techniques for analyzing managerial accounting information for decisionmaking and control. (2005)",
+      "institution": "Atlantic Cape Community College"
+    },
+    {
+      "course_id": "ACCT 150",
+      "course_title": "Computerized Accounting Applications-QuickBooks Pro",
+      "credits": "3.00",
+      "description": "Prerequisites: CISM125 and ACCT130 or permission of instructor Designed with a hands-on approach in applying the accounting cycle for service and merchandising businesses utilizing a computerized accounting software package, QuickBooks Pro. (2006)",
+      "institution": "Atlantic Cape Community College"
+    },
+    {
+      "course_id": "ACCT 162",
+      "course_title": "Microcomputer Applications Using Spreadsheets",
+      "credits": "3.00",
+      "description": "Prerequisite: CISM125 Presentation of the most common spreadsheet applications in a business environment including graphics, limited accounting packages, and state-of-the-art integration. Emphasis will be on competence in developing spreadsheets in the micro lab. No programming experience required. (1997)",
+      "institution": "Atlantic Cape Community College"
+    },
+    {
+      "course_id": "ACCT 230",
+      "course_title": "Intermediate Accounting",
+      "credits": "3.00",
+      "description": "Prerequisites: ACCT130, ACCT131, CISM125 Comprehensive study of the principles, concepts, and techniques of accounting for assets and liabilities; reviews the accounting cycle and changing concepts of economic measurements and their application to business in a dynamic economy. Offered in spring. (2003)",
+      "institution": "Atlantic Cape Community College"
+    },
+    {
+      "course_id": "ACCT 236",
+      "course_title": "Auditing",
+      "credits": "3.00",
+      "description": "Prerequisites: ACCT130, ACCT131 One-semester accounting course designed to acquaint students with the principles, standards, and procedures of auditing financial statements for determining whether these statements conform to generally-accepted accounting principles which currently exist. Emphasis will be placed on the current pronouncements of the profession with particular emphasis on the Statements on Auditing Standards and Code of Ethics of the American Institute of Certified Public Accountants. Emphasis will be placed on the methods used to evaluate the internal control system of a company and the importance this evaluation serves as to the nature, timing, and extent of procedures used to determine if financial statements conform to generally-accepted accounting principles. (1994)",
+      "institution": "Atlantic Cape Community College"
+    },
+    {
+      "course_id": "ACCT 245",
+      "course_title": "Accounting Information Systems",
+      "credits": "3.00",
+      "description": "Prerequisites: ACCT130, ACCT131, CISM125 Study of the integration of accounting theory, information systems development, and database structures. Course addresses the specifics of systems development and control framework related to standard automated accounting modules. Addresses the mid-range to large-scale accounting information system and its importance to enterprise philosophy, planning, and reporting of modern organizations. (2002)",
+      "institution": "Atlantic Cape Community College"
+    },
+    {
+      "course_id": "ACCT 260",
+      "course_title": "Federal Taxation",
+      "credits": "3.00",
+      "description": "Prerequisites: ACCT130, CISM125, or permission of instructor Study of the concepts, theory, and law of federal taxation as it applies to individuals. (2003)",
+      "institution": "Atlantic Cape Community College"
+    },
+    {
+      "course_id": "ALHT 103",
+      "course_title": "Introduction to Empathy",
+      "credits": "3.00",
+      "description": "Presents the concept of empathy and its application to individuals within society and the problems and stressors which impact residents of the community as they progress through the life cycle. (2004)",
+      "institution": "Atlantic Cape Community College"
+    },
+    {
+      "course_id": "ALHT 108",
+      "course_title": "Fundamentals of Nutrition",
+      "credits": "3.00",
+      "description": "Introduction to human nutrition, including classes, sources and functions of nutrients; digestion, absorption and metabolism with application to normal developmental and therapeutic nutritional needs. Issues surrounding food marketing and safety are discussed. Students are required to complete dietary analyses and develop a food plan adaptable for their individual use. (1997)",
+      "institution": "Atlantic Cape Community College"
+    }
+  ],
+  "timestamp": "2025-08-10T01:05:27.098808"
+}

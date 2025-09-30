@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Joliet Junior College",
+    "successful_variation": "Joliet Junior College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Joliet+Junior+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACCY 100",
+      "course_title": "Introduction to Accounting",
+      "credits": "3.00",
+      "description": "This course is designed for career-oriented students needing an understanding of accounting for successful careers in business or students who want to learn accounting fundamentals prior to enrolling in Accounting 101. Fundamental concepts and principles are emphasized for decision-making. Preparation and analysis of the balance sheet and income statement are underlying units of the course. The course does NOT meet the transfer accounting principles requirement for business majors.",
+      "institution": "Joliet Junior College"
+    },
+    {
+      "course_id": "ACCY 101",
+      "course_title": "Accounting I",
+      "credits": "4.00",
+      "description": "The first college level course in accounting emphasizes financial accounting. This course covers the accounting cycle, assets, liabilities, and stockholders' equity. Attention is given to providing the student with an understanding of accounting procedures and the ability to use accounting data effectively. Computer applications are included. This course is designed for students who plan to continue with additional courses in the field, as well as for those whose needs are limited to an introductory course.",
+      "institution": "Joliet Junior College"
+    },
+    {
+      "course_id": "ACCY 102",
+      "course_title": "Accounting II",
+      "credits": "4.00",
+      "description": "Continuation of ACCY 101. The emphasis of this second accounting course is on managerial accounting. Included in this course are the fundamentals of job order and process-cost systems, cost-volume-profit analysis, budgeting, variance analysis, and other topics. Computer applications are included. Prerequisite: ACCY 101.",
+      "institution": "Joliet Junior College"
+    },
+    {
+      "course_id": "ACCY 103",
+      "course_title": "Intermediate Accounting I",
+      "credits": "3.00",
+      "description": "Accounting principles and modern basic concepts of accounting theory, at the intermediate level, particular to the corporation interpretation of financial statements and analysis of accounts are represented in this course. This includes analysis of cash, inventory, equipment, intangibles, and current liabilities. This course is not advised for students transferring to public universities in the state of Illinois. Prerequisite: ACCY 102.",
+      "institution": "Joliet Junior College"
+    },
+    {
+      "course_id": "ACCY 104",
+      "course_title": "Cost Accounting",
+      "credits": "3.00",
+      "description": "This course includes accounting principles and practices with special reference to the problems of the factory, departmental accounting, general accounting for the factory, process costs, and job-cost accounting. Students planning on transferring should check if this course will transfer. Prerequisite: ACCY 102.",
+      "institution": "Joliet Junior College"
+    },
+    {
+      "course_id": "ACCY 105",
+      "course_title": "Intermediate Accounting II",
+      "credits": "3.00",
+      "description": "Continuation of ACCY 103. This course includes the analysis of long-term debt and corporate capital, earnings per share, investments, consideration of financial statement analysis, errors and corrections, and statement of cash flows. This is not advised for students transferring to public universities in the state of Illinois. Prerequisite: ACCY 102.",
+      "institution": "Joliet Junior College"
+    },
+    {
+      "course_id": "AEC 100",
+      "course_title": "Construction Fundamentals",
+      "credits": "2.00",
+      "description": "This course is designed to give the student a foundation in the basic concepts of construction. The course focuses on the fundamental skills needed in the industry and for the core construction class; industryrelated vocabulary; scale reading; applying construction calculations; measuring, tools and usage; construction procedures; and industry job descriptions.",
+      "institution": "Joliet Junior College"
+    },
+    {
+      "course_id": "AEC 102",
+      "course_title": "Construction Materials and Testing",
+      "credits": "3.00",
+      "description": "Examination of the characteristics of materials such as wood, masonry, concrete, iron, and steel relative to their basic use in the construction industry. The physical properties of each will be studied relative to actual in-service behavior. An introduction to the field and laboratory methods of testing concrete and steel.",
+      "institution": "Joliet Junior College"
+    },
+    {
+      "course_id": "AEC 104",
+      "course_title": "Methods of Building Construction",
+      "credits": "3.00",
+      "description": "Survey of basic framing systems in wood, concrete, and steel. The course is designed to develop an understanding of the materials and methods of construction of residential and commercial-type buildings and includes a survey of different types of construction and their advantages and limitations. Also, field and laboratory methods of testing of aggregates and bituminous materials.",
+      "institution": "Joliet Junior College"
+    },
+    {
+      "course_id": "AEC 106",
+      "course_title": "Blueprint Reading for Construction & Architecture",
+      "credits": "3.00",
+      "description": "Designed to provide proper knowledge of blueprint reading as it relates to the architectural or building construction industry. This course covers the theory of orthographic projections, reading floor plans and elevation drawings, symbols and notations, scaling and dimensioning practices, materials of construction; reading blueprints for structural information, electrical and mechanical trades blueprints; reading detail drawings, plot plans and specifications; types of heavy construction; and timber, steel and reinforced concrete. Prerequisite: AEC 100, proficiency exam, or consent of program coordinator.",
+      "institution": "Joliet Junior College"
+    }
+  ],
+  "timestamp": "2025-08-10T23:55:51.529254"
+}

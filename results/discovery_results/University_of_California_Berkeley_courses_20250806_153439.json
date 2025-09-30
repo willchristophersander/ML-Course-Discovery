@@ -1,0 +1,60 @@
+{
+  "search_query": {
+    "institution": "University of California, Berkeley",
+    "successful_variation": "University of California-Berkeley",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=University+of+California-Berkeley&distance=5"
+  },
+  "total_results": 7,
+  "courses": [
+    {
+      "course_id": "AEROSPC 135A",
+      "course_title": "Air Force Leadership Studies",
+      "credits": "3.00",
+      "description": "This course is a study of leadership, management fundamentals, professional knowledge, and communication skills required of an Air Force junior officer. Lecture, text, case studies, and class discussion will be used to examine all aspects of leadership including counseling, mentoring, empowering, problem solving, accountability and authority. Students will develop upon basic written and oral communications skills primarily through written assignments and oral presentations.",
+      "institution": "University of California, Berkeley"
+    },
+    {
+      "course_id": "AFRICAM 100",
+      "course_title": "Introduction to African American Studies",
+      "credits": "4.00",
+      "description": "This course, lets students explore the status of African American studies as a discipline. The class will discuss the social relevance of African American studies, the political origins of the discipline, and the debate over Afrocentricity. Special attention will be devoted to the contributions of black feminist theory and community scholars/organic intellectuals to the development of the discipline.",
+      "institution": "University of California, Berkeley"
+    },
+    {
+      "course_id": "AFRICAM 101",
+      "course_title": "Research Methods for African American Studies",
+      "credits": "4.00",
+      "description": "As an introduction to interdisciplinary research methods as they are applied to the study of African American communities, the course will examine theoretical and conceptual issues; techniques for identifying existing research; and sources and methods of social research and data collection. The main focus will be on qualitative methods.",
+      "institution": "University of California, Berkeley"
+    },
+    {
+      "course_id": "AFRICAM 111",
+      "course_title": "Race, Class, and Gender in the United States",
+      "credits": "3.00",
+      "description": "Emphasis on social history and comparative analysis of race, class, and gender relations in American society. Examines both similarities and differences, and highlights gender politics.",
+      "institution": "University of California, Berkeley"
+    },
+    {
+      "course_id": "AFRICAM 112A",
+      "course_title": "Political and Economic Development in the Third World",
+      "credits": "4.00",
+      "description": "An examination of the structural and actual manifestations of Third World underdevelopment and the broad spectrum of theoretical positions put forward to explain it. Underdevelopment will be viewed from both the international and intranational perspective.",
+      "institution": "University of California, Berkeley"
+    },
+    {
+      "course_id": "AFRICAM 115",
+      "course_title": "Language and Social Issues in Africa",
+      "credits": "3.00",
+      "description": "This is an upper division course dealing with the relevance of language to social issues in African societies. It will focus on political developments in Africa and the use of language in fostering national identity; attaining cultural emancipation; and as a tool of oppression, of maintenance of social relations, and of addressing issues of education and childhood development, etc. The course will examine such issues as the roots of national language policies as influenced by Africa's reaction to colonialism; the role of western languages in African society and the attitudes towards African languages and cultures; the challenges of nation-building in modern African states; the use of African languages in government, education, and technology; the role of language in dealing with the HIV/AIDS pandemic, and other health issues; minority languages, endangered languages, and language preservation; cultural responses to migration and African diaspora: the use of African languages in the age of globalization and information technology.",
+      "institution": "University of California, Berkeley"
+    },
+    {
+      "course_id": "AFRICAM 116",
+      "course_title": "Slavery and African American Life Before 1865",
+      "credits": "4.00",
+      "description": "This course will examine the origins of the African slave trade, and explore political, economic, demographic and cultural factors shaping African American life and culture prior to 1865.",
+      "institution": "University of California, Berkeley"
+    }
+  ],
+  "timestamp": "2025-08-06T15:34:39.514952"
+}

@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Delta State University",
+    "successful_variation": "Delta State University",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Delta+State+University&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACC 100",
+      "course_title": "College Accounting",
+      "credits": "3.00",
+      "description": "Fundamental accounting concepts, including the accounting cycle and introduction of financial statements. 3",
+      "institution": "Delta State University"
+    },
+    {
+      "course_id": "ACC 220",
+      "course_title": "Financial Accounting I",
+      "credits": "3.00",
+      "description": "Financial accounting from the user perspective. Accounting concepts and principles, including financial statements and analysis. 3",
+      "institution": "Delta State University"
+    },
+    {
+      "course_id": "ACC 230",
+      "course_title": "Financial Accounting II",
+      "credits": "3.00",
+      "description": "Financial accounting from the preparer perspective. A computer-driven accounting application course. Prerequisites: ACC 220; Minimum grade of C in ACC 220 for accounting majors. 3",
+      "institution": "Delta State University"
+    },
+    {
+      "course_id": "ACC 305",
+      "course_title": "Accounting Systems",
+      "credits": "3.00",
+      "description": "The study of accounting information systems and their components includes the processing and retrieval of data, system design/acquisition, and emphasis on computers in the accounting environment. Prerequisites: ACC 230; Minimum grade of C for accounting majors. 3",
+      "institution": "Delta State University"
+    },
+    {
+      "course_id": "ACC 311",
+      "course_title": "Intermediate Accounting",
+      "credits": "3.00",
+      "description": "Brief review of elementary financial accounting principles with concentrated study of theory and practice relating to assets and liabilities. Prerequisites: ACC 230; Minimum grade of C for accounting majors. 3",
+      "institution": "Delta State University"
+    },
+    {
+      "course_id": "ACC 312",
+      "course_title": "Intermediate Accounting",
+      "credits": "3.00",
+      "description": "Financial accounting theory and concepts, concentrated study of problems arising in applying these concepts to assets, liabilities, and owners. equity. Prerequisites: ACC 311; Minimum grade of C for accounting majors. 3",
+      "institution": "Delta State University"
+    },
+    {
+      "course_id": "ACC 320",
+      "course_title": "Managerial Accounting",
+      "credits": "3.00",
+      "description": "Use of accounting information and financial statements in business, finance, administrative control, and decision making. Prerequisite: ACC 220, CIS 205. 3",
+      "institution": "Delta State University"
+    },
+    {
+      "course_id": "ACC 361",
+      "course_title": "Cost Accounting",
+      "credits": "3.00",
+      "description": "Accounting for material, labor, and factory overhead and its allocation; introduction to job order, process, standard cost accounting, and decision making. Prerequisite: ACC 230; Minimum grade of C for accounting majors. 3",
+      "institution": "Delta State University"
+    },
+    {
+      "course_id": "ACC 380",
+      "course_title": "Governmental Accounting",
+      "credits": "3.00",
+      "description": "Accounting theory and practice as applied to governmental units, state-operated schools and colleges; application and procedures for fund accounting in not-for-profit entities. Prerequisites: ACC 311; Minimum grade of C for accounting majors. 3",
+      "institution": "Delta State University"
+    },
+    {
+      "course_id": "ACC 451",
+      "course_title": "Tax Accounting I",
+      "credits": "3.00",
+      "description": "Federal income tax laws and social security laws for individuals; rates, returns, income, deductions, and exclusions. Prerequisite: Minimum grade of C in ACC 220 for accounting majors. 3",
+      "institution": "Delta State University"
+    }
+  ],
+  "timestamp": "2025-08-10T14:41:03.860483"
+}

@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Zane State College",
+    "successful_variation": "Zane State College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Zane+State+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACC 101",
+      "course_title": "Financial Accounting",
+      "credits": "4.00",
+      "description": "(4 credit hours - 3 lecture 2 lab - B(T)) An introduction to financial accounting. Topics include the nature of business and accounting, the language of accounting, the preparation and analysis of basic corporate financial statements and the impact of simple transactions on financial statements. Accounting principles applicable to income measurement; cash and internal control; investments and receivables; inventories; current and long-term liabilities; operating assets; and stockholder?s equity are covered. Time-value of money concepts are introduced. Prerequisite: COM 091, or placement in college-level English, or ENG 150",
+      "institution": "Zane State College"
+    },
+    {
+      "course_id": "ACC 110",
+      "course_title": "Basics of Accounting",
+      "credits": "3.00",
+      "description": "(3 credit hours - 2 lecture 2 lab - B(T)) An introduction to accounting and financial reporting, surveying and accounting measurements, financial reporting, cash flows, and business. This course is available only to students in the prison education program. Prerequisite: COM 091 or placement in college-level English",
+      "institution": "Zane State College"
+    },
+    {
+      "course_id": "ACC 111",
+      "course_title": "Accounting I",
+      "credits": "4.00",
+      "description": "(4 credit hours - 4 lecture 0 lab - T(B)) An introduction to accounting, covering the basic structure of accounting; journals and ledgers; the accounting cycle for a service enterprise; sales and purchases; deferrals and accruals; accounting for merchandise activities under both periodical and perpetual inventory systems, inventory valuation, and cost of goods sold. Prerequisite: ENG 150 or COM 091 or placement in college-level English and completion of MTH 110 or placement into MTH 113",
+      "institution": "Zane State College"
+    },
+    {
+      "course_id": "ACC 112",
+      "course_title": "Accounting II",
+      "credits": "4.00",
+      "description": "(4 credit hours - 4 lecture 0 lab - T(B)) A continuation of Accounting I with emphasis on the concepts and principles in accounting for information systems, internal control, cash, receivables, short-term investments, plant assets, natural resources, intangibles, current liabilities, payroll, and partnerships. Prerequisite: ACC 111",
+      "institution": "Zane State College"
+    },
+    {
+      "course_id": "ACC 113",
+      "course_title": "Accounting III",
+      "credits": "4.00",
+      "description": "(4 credit hours - 3 lecture 2 lab - T) A continuation of Accounting II. It covers corporation, long-term payable, statement of cash flow, capital budgeting, and the relationships and analysis of financial statements. Prerequisite: ACC 112 and completion of MTH 110, or placement in MTH 113",
+      "institution": "Zane State College"
+    },
+    {
+      "course_id": "ACC 145",
+      "course_title": "Governmental Accounting",
+      "credits": "3.00",
+      "description": "(3 credit hours - 3 lecture 0 lab - T) An introduction to accounting for government covering the framework for accounting and financial reporting for governmental and not-for-profit organizations, general funds and special revenue funds-budgetary accounting, general funds and special revenue funds, illustrative transactions and financial statements, capital project funds, general fixed assets account group, debt service funds, general long-term debt account group, proprietary funds, fiduciary funds, and interfund transactions. Prerequisite: ACC 112",
+      "institution": "Zane State College"
+    },
+    {
+      "course_id": "ACC 205",
+      "course_title": "Computer Aided Accounting",
+      "credits": "3.00",
+      "description": "(3 credit hours - 2 lecture 2 lab - T) An introduction to computerized accounting using Peachtree Complete accounting software, covering sales and receivables, payables and purchases, general accounting and end-of-period procedures for both service business and merchandising business; computerizing a manual accounting system; and some advanced topics in Peachtree Complete and a comparison of Peachtree and QuickBooks products. Prerequisite: ACC 112",
+      "institution": "Zane State College"
+    },
+    {
+      "course_id": "ACC 222",
+      "course_title": "Managerial Accounting",
+      "credits": "3.00",
+      "description": "(3 credit hours - 2 lecture 3 lab - T) A study of the gathering and application of information by accountants and managers. Introduces the elements of cost and covers how to plan, make decisions, evaluate performance, and control an organization. Prerequisites: ACC 101 or ACC 112",
+      "institution": "Zane State College"
+    },
+    {
+      "course_id": "ACC 225",
+      "course_title": "Cost Accounting",
+      "credits": "4.00",
+      "description": "(4 credit hours - 3 lecture 3 lab - T) A study of the accumulation and analysis of cost data. Introduces the elements of cost and the methods of accounting for these costs. It also covers cost-volume-profit relationships, budgeting, decision-making, direct costing, and inventory management. Prerequisite: ACC 112",
+      "institution": "Zane State College"
+    },
+    {
+      "course_id": "ACC 231",
+      "course_title": "Auditing",
+      "credits": "3.00",
+      "description": "(3 credit hour - 3 lecture 0 lab - T) A study of auditing theory, procedures, and practices of independent examinations of financial statements and records. The course will introduce the essential principles of audit field work, to include basic auditing principles, the preparation of audit work papers and the evaluation of the internal control system. Prerequisite: ACC 113",
+      "institution": "Zane State College"
+    }
+  ],
+  "timestamp": "2025-08-09T23:29:58.848554"
+}

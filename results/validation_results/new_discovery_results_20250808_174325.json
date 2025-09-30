@@ -1,0 +1,471 @@
+{
+  "timestamp": "2025-08-08T17:43:25.563281",
+  "analysis": {
+    "total_universities": 25,
+    "discovery_success_rate": 0.36,
+    "avg_discovery_confidence": 0.8938888888888888,
+    "validation_success_rate": 0.2,
+    "avg_validation_confidence": 0.2,
+    "course_finding_rate": 0.56,
+    "avg_discovery_time": 0.9806591320037842,
+    "avg_validation_time": 1.267647008895874,
+    "successful_discoveries": [
+      {
+        "university": "University of California, Santa Cruz",
+        "url": "https://classes.berkeley.edu/",
+        "discovery_confidence": 0.89,
+        "validation_confidence": 0.0,
+        "courses_found": "0/0"
+      },
+      {
+        "university": "Boise State University",
+        "url": "https://classes.berkeley.edu/",
+        "discovery_confidence": 0.89,
+        "validation_confidence": 0.2,
+        "courses_found": "2/5"
+      },
+      {
+        "university": "Antioch University",
+        "url": "https://classes.berkeley.edu/",
+        "discovery_confidence": 0.89,
+        "validation_confidence": 0.2,
+        "courses_found": "3/5"
+      },
+      {
+        "university": "Neumann University",
+        "url": "https://classes.berkeley.edu/",
+        "discovery_confidence": 0.89,
+        "validation_confidence": 0.2,
+        "courses_found": "2/5"
+      },
+      {
+        "university": "New Mexico State University-Carlsbad",
+        "url": "https://classes.berkeley.edu/",
+        "discovery_confidence": 0.89,
+        "validation_confidence": 0.0,
+        "courses_found": "0/0"
+      },
+      {
+        "university": "Carnegie Mellon University",
+        "url": "https://classes.berkeley.edu/",
+        "discovery_confidence": 0.89,
+        "validation_confidence": 0.0,
+        "courses_found": "0/0"
+      },
+      {
+        "university": "Shippensburg University of Pennsylvania",
+        "url": "https://classes.berkeley.edu/",
+        "discovery_confidence": 0.89,
+        "validation_confidence": 0.2,
+        "courses_found": "5/5"
+      },
+      {
+        "university": "Central Connecticut State University",
+        "url": "https://central.edu/event/classes-resume/",
+        "discovery_confidence": 0.925,
+        "validation_confidence": 0.0,
+        "courses_found": "0/0"
+      },
+      {
+        "university": "Urban College of Boston",
+        "url": "https://classes.berkeley.edu/",
+        "discovery_confidence": 0.89,
+        "validation_confidence": 0.2,
+        "courses_found": "2/5"
+      }
+    ],
+    "failed_discoveries": [
+      {
+        "university": "Westmont College",
+        "error": "No search results found with any strategy"
+      },
+      {
+        "university": "Lynchburg College",
+        "error": "No search results found with any strategy"
+      },
+      {
+        "university": "Naval Postgraduate School",
+        "error": "No search results found with any strategy"
+      },
+      {
+        "university": "Kentucky Community & Technical College System",
+        "error": "No search results found with any strategy"
+      },
+      {
+        "university": "Macalester College",
+        "error": "No search results found with any strategy"
+      },
+      {
+        "university": "Huntington Junior College",
+        "error": "No search results found with any strategy"
+      },
+      {
+        "university": "Dordt College",
+        "error": "No search results found with any strategy"
+      },
+      {
+        "university": "Kilgore College",
+        "error": "No search results found with any strategy"
+      },
+      {
+        "university": "Evergreen Valley College",
+        "error": "No search results found with any strategy"
+      },
+      {
+        "university": "Salt Lake Community College",
+        "error": "No search results found with any strategy"
+      },
+      {
+        "university": "Fayetteville Technical Community College",
+        "error": "No search results found with any strategy"
+      },
+      {
+        "university": "Haywood Community College",
+        "error": "No search results found with any strategy"
+      },
+      {
+        "university": "St. Petersburg College",
+        "error": "No search results found with any strategy"
+      },
+      {
+        "university": "Cayuga County Community College",
+        "error": "No search results found with any strategy"
+      },
+      {
+        "university": "Wayne County Community College District",
+        "error": "No search results found with any strategy"
+      },
+      {
+        "university": "Oklahoma City Community College",
+        "error": "No search results found with any strategy"
+      }
+    ]
+  },
+  "detailed_results": [
+    {
+      "university_name": "University of California, Santa Cruz",
+      "discovered_url": "https://classes.berkeley.edu/",
+      "discovery_success": true,
+      "discovery_confidence": 0.89,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No test courses found in CollegeTransfer.net",
+      "discovery_time": 2.109522819519043,
+      "validation_time": 8.297460079193115
+    },
+    {
+      "university_name": "Westmont College",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No search results found with any strategy",
+      "discovery_time": 0.0003249645233154297,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "Lynchburg College",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No search results found with any strategy",
+      "discovery_time": 0.0004601478576660156,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "Naval Postgraduate School",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No search results found with any strategy",
+      "discovery_time": 0.0003342628479003906,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "Boise State University",
+      "discovered_url": "https://classes.berkeley.edu/",
+      "discovery_success": true,
+      "discovery_confidence": 0.89,
+      "validation_success": true,
+      "validation_confidence": 0.2,
+      "test_courses_found": 2,
+      "total_test_courses": 5,
+      "error_message": null,
+      "discovery_time": 2.1880640983581543,
+      "validation_time": 2.2442281246185303
+    },
+    {
+      "university_name": "Kentucky Community & Technical College System",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No search results found with any strategy",
+      "discovery_time": 0.00028705596923828125,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "Antioch University",
+      "discovered_url": "https://classes.berkeley.edu/",
+      "discovery_success": true,
+      "discovery_confidence": 0.89,
+      "validation_success": true,
+      "validation_confidence": 0.2,
+      "test_courses_found": 3,
+      "total_test_courses": 5,
+      "error_message": null,
+      "discovery_time": 2.9814529418945312,
+      "validation_time": 2.174333095550537
+    },
+    {
+      "university_name": "Macalester College",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No search results found with any strategy",
+      "discovery_time": 0.0002689361572265625,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "Neumann University",
+      "discovered_url": "https://classes.berkeley.edu/",
+      "discovery_success": true,
+      "discovery_confidence": 0.89,
+      "validation_success": true,
+      "validation_confidence": 0.2,
+      "test_courses_found": 2,
+      "total_test_courses": 5,
+      "error_message": null,
+      "discovery_time": 5.665210962295532,
+      "validation_time": 2.386265993118286
+    },
+    {
+      "university_name": "Huntington Junior College",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No search results found with any strategy",
+      "discovery_time": 0.0002911090850830078,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "Dordt College",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No search results found with any strategy",
+      "discovery_time": 0.00039505958557128906,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "New Mexico State University-Carlsbad",
+      "discovered_url": "https://classes.berkeley.edu/",
+      "discovery_success": true,
+      "discovery_confidence": 0.89,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No test courses found in CollegeTransfer.net",
+      "discovery_time": 1.940046787261963,
+      "validation_time": 4.450922966003418
+    },
+    {
+      "university_name": "Kilgore College",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No search results found with any strategy",
+      "discovery_time": 0.0004048347473144531,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "Carnegie Mellon University",
+      "discovered_url": "https://classes.berkeley.edu/",
+      "discovery_success": true,
+      "discovery_confidence": 0.89,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No test courses found in CollegeTransfer.net",
+      "discovery_time": 2.0595450401306152,
+      "validation_time": 3.3792638778686523
+    },
+    {
+      "university_name": "Evergreen Valley College",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No search results found with any strategy",
+      "discovery_time": 0.0008461475372314453,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "Salt Lake Community College",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No search results found with any strategy",
+      "discovery_time": 0.0007891654968261719,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "Fayetteville Technical Community College",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No search results found with any strategy",
+      "discovery_time": 0.0003216266632080078,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "Shippensburg University of Pennsylvania",
+      "discovered_url": "https://classes.berkeley.edu/",
+      "discovery_success": true,
+      "discovery_confidence": 0.89,
+      "validation_success": true,
+      "validation_confidence": 0.2,
+      "test_courses_found": 5,
+      "total_test_courses": 5,
+      "error_message": null,
+      "discovery_time": 1.8594398498535156,
+      "validation_time": 2.423625946044922
+    },
+    {
+      "university_name": "Haywood Community College",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No search results found with any strategy",
+      "discovery_time": 0.00036716461181640625,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "St. Petersburg College",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No search results found with any strategy",
+      "discovery_time": 0.0005481243133544922,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "Cayuga County Community College",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No search results found with any strategy",
+      "discovery_time": 0.0005979537963867188,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "Central Connecticut State University",
+      "discovered_url": "https://central.edu/event/classes-resume/",
+      "discovery_success": true,
+      "discovery_confidence": 0.925,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No test courses found in CollegeTransfer.net",
+      "discovery_time": 3.82706618309021,
+      "validation_time": 3.8597941398620605
+    },
+    {
+      "university_name": "Urban College of Boston",
+      "discovered_url": "https://classes.berkeley.edu/",
+      "discovery_success": true,
+      "discovery_confidence": 0.89,
+      "validation_success": true,
+      "validation_confidence": 0.2,
+      "test_courses_found": 2,
+      "total_test_courses": 5,
+      "error_message": null,
+      "discovery_time": 1.8792810440063477,
+      "validation_time": 2.475281000137329
+    },
+    {
+      "university_name": "Wayne County Community College District",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No search results found with any strategy",
+      "discovery_time": 0.0003628730773925781,
+      "validation_time": 0.0
+    },
+    {
+      "university_name": "Oklahoma City Community College",
+      "discovered_url": "",
+      "discovery_success": false,
+      "discovery_confidence": 0.0,
+      "validation_success": false,
+      "validation_confidence": 0.0,
+      "test_courses_found": 0,
+      "total_test_courses": 0,
+      "error_message": "No search results found with any strategy",
+      "discovery_time": 0.0002491474151611328,
+      "validation_time": 0.0
+    }
+  ]
+}

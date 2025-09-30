@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Ferris State University",
+    "successful_variation": "Ferris State University",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Ferris+State+University&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ABOD 111",
+      "course_title": "Auto Body and Paint Theory",
+      "credits": "4.00",
+      "description": "College: College of Technology Department: Automotive Credit Hours: 4 This course has a lecture with 4 hours. Basic theories of auto body repair and refinishing. Includes welding, fabrication, metal straightening, and minor body repairs. Refinishing nomenclature, equipment, techniques of refinishing, and undercoat/top coat applications will be emphasized. Typically Offered Fall Only",
+      "institution": "Ferris State University"
+    },
+    {
+      "course_id": "ABOD 112",
+      "course_title": "Applied Auto Body and Paint",
+      "credits": "6.00",
+      "description": "College: College of Technology Department: Automotive Credit Hours: 6 This course has a lab with 18 hours. Basic theories of auto body repair and refinishing. Includes welding, fabrication, metal straightening, and minor body repairs. Refinishing nomenclature, equipment, techniques of refinishing, and undercoat/topcoat applications will be emphasized. Typically Offered Fall Only",
+      "institution": "Ferris State University"
+    },
+    {
+      "course_id": "ABOD 113",
+      "course_title": "Refinishing/Panel Repair Theory",
+      "credits": "4.00",
+      "description": "College: College of Technology Department: Automotive Credit Hours: 4 This course has a lecture with 4 hours. A lecture course involving advanced refinishing techniques and the beginning phases of panel repair and replacement. Requires: ABOD 111, ABOD 112 Typically Offered Spring Only",
+      "institution": "Ferris State University"
+    },
+    {
+      "course_id": "ABOD 114",
+      "course_title": "Applied Refinishing/Panel Repair",
+      "credits": "6.00",
+      "description": "College: College of Technology Department: Automotive Credit Hours: 6 This course has a lab with 18 hours. Supervised, practical experience servicing \"live\" vehicles. Work assigned can include panel repair, panel replacement, alignment, and advanced refinishing operations. Requires: ABOD 111, ABOD 112 Typically Offered Spring Only",
+      "institution": "Ferris State University"
+    },
+    {
+      "course_id": "ABOD 211",
+      "course_title": "Frame & Unibody Repair Theory",
+      "credits": "4.00",
+      "description": "College: College of Technology Department: Automotive Credit Hours: 4 This course has a lecture with 4 hours. Instruction in vehicle construction, suspension, diagnosing damage, pulling, anchoring and repair of full frame and unibody vehicles. Presentations will include dedicated and universal measuring, front suspension, steering gears, air bags, frame repair equipment, and estimating damage. Requires: ABOD 113, ABOD 114 Typically Offered Fall Only",
+      "institution": "Ferris State University"
+    },
+    {
+      "course_id": "ABOD 212",
+      "course_title": "Applied Frame and Unibody Repair",
+      "credits": "6.00",
+      "description": "College: College of Technology Department: Automotive Credit Hours: 6 This course has a lab with 18 hours. Service work in an instructional setting. Emphasizes auto body and frame repairs frequently requested in a modern body shop. Lab activities will include estimates and repairs on suspension, frame, and components of damaged automobiles. Requires: ABOD 113, ABOD 114 Typically Offered Fall Only",
+      "institution": "Ferris State University"
+    },
+    {
+      "course_id": "ABOD 213",
+      "course_title": "Repair Process Theory",
+      "credits": "4.00",
+      "description": "College: College of Technology Department: Automotive Credit Hours: 4 This course has a lecture with 4 hours. Instruction in the business aspects of body shop operations including estimating, customer relations, and planning and equipping a shop. Also theory instruction on wheel alignment and collision repair procedures. Pre-Requisites: ABOD 211 and 212. Typically Offered Spring Only",
+      "institution": "Ferris State University"
+    },
+    {
+      "course_id": "ABOD 214",
+      "course_title": "Applied Repair Processes",
+      "credits": "6.00",
+      "description": "College: College of Technology Department: Automotive Credit Hours: 6 This course has a lab with 18 hours. Major repair and collision work to include unibody, frame, and suspension corrections, wheel alignment and all phases of body repair needed to produce an ontime, customer-ready job. Requires: ABOD 211, ABOD 212 Typically Offered Spring Only",
+      "institution": "Ferris State University"
+    },
+    {
+      "course_id": "ABOD 215",
+      "course_title": "Body Elec & Air Conditioning",
+      "credits": "4.00",
+      "description": "College: College of Technology Department: Automotive Credit Hours: 4 This course has a lecture with 4 hours. Basic D.C. electrical fundamentals, solid state devices, and air conditioning theory and operation. Instruction in using wiring diagrams, meters, and other test equipment. Diagnose and service automotive electrical circuits and air conditioning systems.",
+      "institution": "Ferris State University"
+    },
+    {
+      "course_id": "ABOD 297",
+      "course_title": "Special Studies in ABOD",
+      "credits": "1.00",
+      "description": "College: College of Technology Department: Automotive Credit Hours: 1 This special studies course has been designed to allow students to work closely with a faculty member to pursue a topic of specialized interest. Topics for study and project requirements will be negotiated jointly between the faculty member and the student. Typically Offered On Demand",
+      "institution": "Ferris State University"
+    }
+  ],
+  "timestamp": "2025-08-10T14:01:58.287995"
+}

@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Hofstra University",
+    "successful_variation": "Hofstra University",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Hofstra+University&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACCT 203",
+      "course_title": "Accounting and Financial Reporting",
+      "credits": "0.00",
+      "description": "A comprehensive overview of the basic financial statements and how they and other accounting information are utilized for managerial decision making in a global economy. Topics include, but are not limited to, financial reporting and analysis, profit analysis, capital budgeting, planning and forecasting, and cost control. Environmental factors and ethical implications are integrated throughout the course.",
+      "institution": "Hofstra University"
+    },
+    {
+      "course_id": "AFST 102",
+      "course_title": "African Cultures",
+      "credits": "3.00",
+      "description": "Semester Hours: 3 Every Other Year The continent of Africa is the birthplace of humanity and an area of enormous cultural diversity. This course will examine representative contemporary African societies against a backdrop of social, political and economic change. Prerequisite(s)/Course Notes: Same as ANTH 102.",
+      "institution": "Hofstra University"
+    },
+    {
+      "course_id": "AFST 108",
+      "course_title": "Afro-American Culture",
+      "credits": "3.00",
+      "description": "Semester Hours: 3 Every Other Year Consideration and analysis of the culture of black Americans and black communities; emphasis is on enculturation processes and social forms resulting from antecedents of African culture and pressures from the dominant American culture. Emphasis is on the legacy of slavery. Prerequisite(s)/Course Notes: Same as ANTH 108.",
+      "institution": "Hofstra University"
+    },
+    {
+      "course_id": "AFST 110",
+      "course_title": "African Politics",
+      "credits": "3.00",
+      "description": "Semester Hours: 3 Fall, Spring Investigation of the political culture of Africa which combines indigenous heritage and culture with European colonial influences; and a comparative analysis of political development in African states including struggles for democratization, nationbuilding and socioeconomic development. Prerequisite(s)/Course Notes: Same as PSC 110.",
+      "institution": "Hofstra University"
+    },
+    {
+      "course_id": "AFST 117A",
+      "course_title": "History of Africa to 1800",
+      "credits": "3.00",
+      "description": "Semester Hours: 3 Every other year History of Africa from the traditional period to the beginning of the modern era. Emphasis on Bantu migration, precolonial society and the slave trade. Prerequisite(s)/Course Notes: Same as HIST 117A.",
+      "institution": "Hofstra University"
+    },
+    {
+      "course_id": "AFST 119",
+      "course_title": "Blacks and Jews:Interrelation in the Diaspora",
+      "credits": "3.00",
+      "description": "Semester Hours: 3 Periodically An examination of the relations between African-American and Jewish-Americans in the United States from the period of the \"Grand Alliance\" (ca., 1910-1967) to the current moment of \"crisis.\" Through the investigation of literature, sociological analysis, historical case studies, opinion pieces, and works of art, this course illuminates the complex and shifting relations between African-Americans and Jewish-Americans and their significance for questions of identity in the modern United StatePrerequisite(s)/Course Notes: Same as HIST, JWST 119.",
+      "institution": "Hofstra University"
+    },
+    {
+      "course_id": "AFST 120",
+      "course_title": "African Labor Economics",
+      "credits": "3.00",
+      "description": "Semester Hours: 3 Periodically Work, working people and working class movements in modern Africa are the focus of this introductory course. Through contemporary and historical cross-country studies of workers in a wide variety of economic, political and institutional settings, we will evaluate rival perspectives on a host of interesting and controversial topics. These include changing occupational and industrial formations, gender and racial/ethnic gaps in jobs and income, poverty and inequality, immigration, urban informal employment, worker training and health care, labor unions, government's regulatory and job creation roles. This is a distribution course in both the Behavioral Social Sciences and the Cross-Cultural categories. Prerequisite(s)/Course Notes: One introductory economics course, or LABR 1A or instructor's permission. Credit given either for ECO 120, LABR 120 or AFST 120.",
+      "institution": "Hofstra University"
+    },
+    {
+      "course_id": "AFST 134",
+      "course_title": "Race Relations in the United States",
+      "credits": "3.00",
+      "description": "Semester Hours: 3 Fall, Spring Examination of major patterns of racial and ethnic relations in the United States. Historical, contemporary and cross-cultural data are combined with prevalent theoretical perspectives to provide a basic understanding of race and ethnic relations as enduring and embedded aspects of United States society. Topics covered include the political and economic dynamics of race relations, institutional racism, prejudice and discrimination. Particular attention is paid to the African-American experience from slavery to the present. Prerequisite(s)/Course Notes: Same as SOC 134.",
+      "institution": "Hofstra University"
+    },
+    {
+      "course_id": "AFST 139",
+      "course_title": "The African Novel",
+      "credits": "3.00",
+      "description": "Semester Hours: 3 Introduces selected African novelists of the 20th century such as Chinua Achebe, Sembene Ousmane, Ayi Kwei Armah, Ngugi wa Thiong'o, Bessie Head, Buchi Emecheta and Solomon Mutswairo. Analysis of African literary themes, such as traditional and modern conflicts, resistance to colonialism, effects of independence, neocolonial dilemmas and images of the African woman. Prerequisite(s)/Course Notes: Same as ENGL 139.",
+      "institution": "Hofstra University"
+    },
+    {
+      "course_id": "AFST 141",
+      "course_title": "African American Literature II",
+      "credits": "3.00",
+      "description": "Semester Hours: 3 Fall, Spring The growth of African American literature from the Harlem Renaissance to the present. Such topics as migration, African heritage, protest, vernacular, and gender. Writers include Hughes, Hurston, Wright, Brooks, Ellison, Baldwin, Baraka, Walker, Morrison, and Wilson. Prerequisite(s)/Course Notes: Same as ENGL 141.",
+      "institution": "Hofstra University"
+    }
+  ],
+  "timestamp": "2025-08-10T23:56:42.352565"
+}

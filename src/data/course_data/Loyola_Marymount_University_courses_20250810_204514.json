@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Loyola Marymount University",
+    "successful_variation": "Loyola Marymount University",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Loyola+Marymount+University&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACCT 212",
+      "course_title": "Managerial Accounting",
+      "credits": "3.00",
+      "description": "3 Semester Hours This is the second in a two-semester sequence in accounting required of all business majors and is a prerequisite to all other accounting courses. Building on the basic understanding of accounting systems developed in ACCT 211, managerial accounting introduces concepts of cost behavior and analysis, as well as techniques for using operational and fi nancial information within the business fi rm for decision-making, planning, and control. Prerequisites: ACCT 211 with a minimum grade of C (2.0) and MATH 112 or 131.",
+      "institution": "Loyola Marymount University"
+    },
+    {
+      "course_id": "ACCT 311",
+      "course_title": "Intermediate Accounting I",
+      "credits": "4.00",
+      "description": "4 Semester Hours This course begins the in-depth study of fi nancial accounting and reporting. Topics covered include the environment of the standard setting process for fi nancial accounting and reporting, the conceptual framework, accounting cycle procedures, fi nancial statement preparation and fi nancial disclosures, basic ratio analysis, and accounting standards and procedures for cash, notes and accounts receivable, and inventories. Uses and limitations of the balance sheet and the income statement are studied. Researching accounting issues through the use of a database and accounting websites are a course requirement. Prerequisites: ACCT 212 with a minimum grade of C (2.0) and ISQM 275.",
+      "institution": "Loyola Marymount University"
+    },
+    {
+      "course_id": "ACCT 312",
+      "course_title": "Intermediate Accounting II",
+      "credits": "4.00",
+      "description": "4 Semester Hours This course continues the in-depth study of fi nancial accounting and reporting begun in ACCT 311. The conceptual and procedural aspects of some of the most complex and controversial topics in fi nancial accounting are studied. Topics include the accounting for property, plant, and equipment, intangible assets, investments, long-term debt, derivatives, leases, deferred taxes, stock options, error correction, and the statement of cash fl ows. Coverage of these topics includes an historical perspective, learning the current standards under generally accepted accounting principles, awareness of the fl aws and limitations in current practice, and possible future directions. Prerequisite: ACCT 311 with a minimum grade of C (2.0).",
+      "institution": "Loyola Marymount University"
+    },
+    {
+      "course_id": "ACCT 313",
+      "course_title": "Cost Accounting",
+      "credits": "4.00",
+      "description": "4 Semester Hours This course continues the process of analyzing economic events within the framework of accounting information systems and the use of information in the management decisionmaking process. Students are expected to analyze and evaluate business operations and activities. The topics will include those of the traditional product costing methods as well as cost management topics. Advanced topics of decision making structure, together with the measurement of performance, and the new competitive environment are covered during the last part of the semester. This course draws heavily from other disciplines, especially the fi elds of management and economics. Prerequisite: ACCT 212 with a minimum grade of C (2.0).",
+      "institution": "Loyola Marymount University"
+    },
+    {
+      "course_id": "ACCT 314",
+      "course_title": "Accounting Information Systems",
+      "credits": "3.00",
+      "description": "3 Semester Hours This course introduces students to the fundamentals of accounting information systems including transaction processing, system documentation techniques, business processes, and internal controls. Accounting software and spreadsheets are used to illustrate these AIS fundamentals and to reinforce fi nancial and managerial accounting concepts within the context of an accounting information system. Accounting majors only, except by permission of instructor. Prerequisites: ACCT 212 and ISQM 275.",
+      "institution": "Loyola Marymount University"
+    },
+    {
+      "course_id": "ACCT 405",
+      "course_title": "Accounting Ethics,Professionalism,and the Public Interest",
+      "credits": "3.00",
+      "description": "3 Semester Hours Accountants and the accounting profession play an important role in society. The role is examined in this course through an in-depth study of accounting ethics, professionalism, and the public interest. Students will learn about and analyze the history of the profession; the legal and ethical responsibilities of the profession; important legislation that has impacted the profession and the practice of accounting, particularly auditing; and the current environment in which accountants and auditors work. The course also will expose students to moral reasoning and ethical decision making, and encourage students to adopt the objectivity, integrity, and ethical standards necessary to serve society as an accounting professional. Accounting majors only, except by permission of instructor. Prerequisite: ACCT 311.",
+      "institution": "Loyola Marymount University"
+    },
+    {
+      "course_id": "ACCT 411",
+      "course_title": "Advanced Accounting",
+      "credits": "4.00",
+      "description": "4 Semester Hours This course completes the undergraduate study of fi nancial accounting and reporting. An emphasis is placed on consolidated fi nancial statements. Additional topics covered include foreign currency transactions, translation of the fi nancial statements of foreign entities, governmental accounting for local and state governments, and accounting and reporting of private not-for-profi t organizations. Accounting majors only, except by permission of instructor. Prerequisites: ACCT 312 with a minimum grade of C (2.0) and 314.",
+      "institution": "Loyola Marymount University"
+    },
+    {
+      "course_id": "ACCT 412",
+      "course_title": "Federal Income Taxation",
+      "credits": "4.00",
+      "description": "4 Semester Hours A comprehensive study of federal tax laws and administration with emphasis on the taxation of individuals. In addition, application of the components of the federal income tax formulas for partnerships, corporations, and other business entities will be examined. Accounting majors/minors only, except by permission of instructor. Prerequisite: ACCT 311.",
+      "institution": "Loyola Marymount University"
+    },
+    {
+      "course_id": "ACCT 416",
+      "course_title": "Auditing,Assurance,and Attestation",
+      "credits": "4.00",
+      "description": "4 Semester Hours The study of the methodology used by public accountants to obtain and evaluate evidence regarding assertions concerning fi nancial statements and internal controls over fi nancial reporting. Ethical and legal aspects of the auditing profession are examined with special reference to ramifi cations of the Sarbanes- Oxley Act. Accounting majors only, except by permission of instructor. Prerequisites: ACCT 312 with a minimum grade of C (2.0), 313, 314; ECON 230 or MATH 104.",
+      "institution": "Loyola Marymount University"
+    },
+    {
+      "course_id": "ACCT 418",
+      "course_title": "Fraud Examination",
+      "credits": "3.00",
+      "description": "3 Semester Hours An introductory course designed for business managers and those beginning careers in accounting and auditing. The course stresses the nature of fraud, its litigation, approaches to detecting and preventing fraud, fraud inquiry methods, and reports issued by fraud examiners. Specifi c topics covered include: fi nancial statement fraud, asset conversion frauds, computer frauds, and bankruptcy frauds. The course advocates a more careful and skeptical view of fi nancial transactions and information. Prerequisite: ACCT 311.",
+      "institution": "Loyola Marymount University"
+    }
+  ],
+  "timestamp": "2025-08-10T20:45:14.229821"
+}

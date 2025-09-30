@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Thaddeus Stevens College of Technology",
+    "successful_variation": "Thaddeus Stevens College of Technology",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Thaddeus+Stevens+College+of+Technology&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ARCH 106",
+      "course_title": "Fundamentals of Architectural Design",
+      "credits": "3.00",
+      "description": "Serves as an introduction to architectural drafting. Focuses on communication of design concepts and instructions to builders. Investigation and analysis of drawings and other means to communicate architecture. Exploration and development of an individual's communication of ideas and thoughts by means of graphic representation.",
+      "institution": "Thaddeus Stevens College of Technology"
+    },
+    {
+      "course_id": "ARCH 111",
+      "course_title": "Materials of Construction",
+      "credits": "3.00",
+      "description": "Presents fundamental aspects of the design profession. Involves the application and technology of materials. An appreciation of the limits and the potential of materials is fundamental to well-executed designs. Investigation and analysis of actual materials and their application as a means to give form and substance to creative ideas.",
+      "institution": "Thaddeus Stevens College of Technology"
+    },
+    {
+      "course_id": "ARCH 116",
+      "course_title": "Residential Details",
+      "credits": "3.00",
+      "description": "Research of specific building elements necessary for construction. Application of knowledge and creativity in the development of details. Typical and standard details applicable to residential construction. Learning how to communicate with the construction crew. Involves sketch details and drafted details. Also requires drawings and exercises showing typical details and drafting skills.",
+      "institution": "Thaddeus Stevens College of Technology"
+    },
+    {
+      "course_id": "ARCH 122",
+      "course_title": "AutoCad Architecture",
+      "credits": "2.00",
+      "description": "Intensive introduction to CAD including computer literacy, hardware, software, input, output, printing, introductory computer drafting skills, and completion of specific drawing exercises. Instruction is based on current Autodesk Architecture (the industry standard software program). Use of CAD to draw architectural elements such as floor plans, lighting, furniture, wall treatments, and other related elements. Co-requisite: ARCH 123",
+      "institution": "Thaddeus Stevens College of Technology"
+    },
+    {
+      "course_id": "ARCH 123",
+      "course_title": "Building Information Modeling",
+      "credits": "2.00",
+      "description": "Course teaches students to design and construct using building information modeling (BIM) methodology. BIM employs the concept of parametric modeling by assigning information to three-dimensional objects and automatically updating building components as the model changes or evolves. Using BIM, students generate orthographic drawings and supporting documentation, which may include specifications, schedules, cost management, etc. BIM provides continuous and immediate feedback for students. Through this course, students will become competent in using BIM as a new and efficient way for multi-disciplines to work collaboratively. The software used for this course is Autodesk Revit. Co-requisite: ARCH 122",
+      "institution": "Thaddeus Stevens College of Technology"
+    },
+    {
+      "course_id": "ARCH 156",
+      "course_title": "Specifications, Estimating, and Contracts",
+      "credits": "2.00",
+      "description": "Introduction to three important aspects of architectural technology: construction specifications, estimating, and design services contracts. Students learn about the differences between residential, commercial, and federal specifications. The basics of cost estimating for construction is also incorporated, along with simple cost estimates using calculators and computers. Students learn about the provisions that make up typical design services and construction contracts; the legal language, the link between contracts, government regulations, and working drawings.",
+      "institution": "Thaddeus Stevens College of Technology"
+    },
+    {
+      "course_id": "ARCH 161",
+      "course_title": "Working Drawings",
+      "credits": "4.00",
+      "description": "The capstone course where students design their own houses. Creating a complete set of working drawings including site plans, floor plans, elevations, building sections, wall sections, details, and schedules. Preparing preliminary presentation drawings; creating a presentation model and a structural model; and preparing a full set of working drawings. CAD used to prepare all drawings.",
+      "institution": "Thaddeus Stevens College of Technology"
+    },
+    {
+      "course_id": "ARCH 166",
+      "course_title": "Rendering and Illustrations",
+      "credits": "2.00",
+      "description": "Students learn how to use perspective, color, shadow, and computer-aided animation and rendering to illustrate architectural design. Work in this course builds on skills explored in previous courses.Prerequisite: ARCH 106",
+      "institution": "Thaddeus Stevens College of Technology"
+    },
+    {
+      "course_id": "ARCH 172",
+      "course_title": "Advanced Computer-Aided Drafting (CAD)",
+      "credits": "3.00",
+      "description": "An intensive follow-up to ARCH 122 and 123, this course uses AutoCAD for efficient production of architectural drawings. Completes the development of a solid foundation of CAD skills designed to give students appropriate entry-level CAD skills. Prerequisites: ARCH 122 and ARCH 123 (minimum grade of \"D\" in both)",
+      "institution": "Thaddeus Stevens College of Technology"
+    },
+    {
+      "course_id": "ARCH 206",
+      "course_title": "Advanced Methods and Materials of Construction",
+      "credits": "4.00",
+      "description": "Detailed investigation of commercial construction systems with a more in-depth review of construction materials than introduced in the first year. Materials considered in a systems approach, including floor, wall, roof, glazing, and finish systems. Selected criteria of cost, installation, long-term material performance, limitations, and whole-building integration are identified for individual materials. Prerequisite: ARCH 161",
+      "institution": "Thaddeus Stevens College of Technology"
+    }
+  ],
+  "timestamp": "2025-08-10T09:40:39.829385"
+}

@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Hampton University",
+    "successful_variation": "Hampton University",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Hampton+University&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACC 201",
+      "course_title": "Accounting Fundamentals",
+      "credits": "3.00",
+      "description": "3.000 Credit Hours 3.000 Lecture hours Levels: Undergraduate Schedule Types: Lecture Business College Accounting Department",
+      "institution": "Hampton University"
+    },
+    {
+      "course_id": "ACC 203",
+      "course_title": "Acct Principles I",
+      "credits": "3.00",
+      "description": "3.000 Credit Hours 3.000 Lecture hours Levels: Undergraduate Schedule Types: Lecture Business College Accounting Department",
+      "institution": "Hampton University"
+    },
+    {
+      "course_id": "ACC 204",
+      "course_title": "Acct Principles II",
+      "credits": "3.00",
+      "description": "3.000 Credit Hours 3.000 Lecture hours Levels: Undergraduate Schedule Types: Lecture Business College Accounting Department",
+      "institution": "Hampton University"
+    },
+    {
+      "course_id": "ACC 309",
+      "course_title": "Intermediate Acct I",
+      "credits": "3.00",
+      "description": "3.000 Credit Hours 3.000 Lecture hours Levels: Undergraduate Schedule Types: Lecture Business College Accounting Department",
+      "institution": "Hampton University"
+    },
+    {
+      "course_id": "ACC 310",
+      "course_title": "Intermediate Acc II",
+      "credits": "3.00",
+      "description": "3.000 Credit Hours 3.000 Lecture hours Levels: Undergraduate Schedule Types: Lecture Business College Accounting Department",
+      "institution": "Hampton University"
+    },
+    {
+      "course_id": "ACC 360",
+      "course_title": "Acc Coop Edu/Internship",
+      "credits": "9.00",
+      "description": "No course description available.",
+      "institution": "Hampton University"
+    },
+    {
+      "course_id": "ACC 414",
+      "course_title": "Accounting Problems",
+      "credits": "3.00",
+      "description": "No course description available.",
+      "institution": "Hampton University"
+    },
+    {
+      "course_id": "ACC 415",
+      "course_title": "Cost Accounting",
+      "credits": "3.00",
+      "description": "3.000 Credit Hours 3.000 Lecture hours Levels: Undergraduate Schedule Types: Lecture Business College Accounting Department",
+      "institution": "Hampton University"
+    },
+    {
+      "course_id": "ACC 416",
+      "course_title": "Auditing",
+      "credits": "1.00",
+      "description": "3.000 Credit Hours 3.000 Lecture hours Levels: Undergraduate Schedule Types: Lecture Business College Accounting Department",
+      "institution": "Hampton University"
+    },
+    {
+      "course_id": "ACC 417",
+      "course_title": "Adv Accounting I",
+      "credits": "3.00",
+      "description": "3.000 Credit Hours 3.000 Lecture hours Levels: Undergraduate Schedule Types: Lecture Business College Accounting Department",
+      "institution": "Hampton University"
+    }
+  ],
+  "timestamp": "2025-08-10T06:10:08.372931"
+}

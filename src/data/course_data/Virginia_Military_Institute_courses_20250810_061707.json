@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Virginia Military Institute",
+    "successful_variation": "Virginia Military Institute",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Virginia+Military+Institute&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "AR 101",
+      "course_title": "Elementary Arabic I",
+      "credits": "3.00",
+      "description": "An introduction to the fundamentals of Arabic. Primary emphasis on the acquisition of basic language skills (comprehending, speaking, reading, and writing) within the context of culture and civilizations. Secondary emphasis on the cultures where Arabic is spoken. Intended for beginners with no previous experience in the language.",
+      "institution": "Virginia Military Institute"
+    },
+    {
+      "course_id": "AR 102",
+      "course_title": "Elementary Arabic II",
+      "credits": "3.00",
+      "description": "A continuation of AR 101. Prerequisite: AR 101.",
+      "institution": "Virginia Military Institute"
+    },
+    {
+      "course_id": "AR 201",
+      "course_title": "Intermediate Arabic",
+      "credits": "3.00",
+      "description": "A continuation and systematic review of structural principles and an introduction to the reading and discussion of cultural materials and texts with the aim of improving the four basic language skills. Conducted as much as possible in Arabic. Prerequisite AR 102.",
+      "institution": "Virginia Military Institute"
+    },
+    {
+      "course_id": "AR 202",
+      "course_title": "Intermediate Arabic",
+      "credits": "3.00",
+      "description": "A continuation of AR 201 with emphasis on writing. This course is intended to consolidate the basic language skills and to prepare the student for advanced work in Arabic. Conducted as much as possible in Arabic. Readings based on civilization and culture. Prerequisite: AR 201.",
+      "institution": "Virginia Military Institute"
+    },
+    {
+      "course_id": "AR 301",
+      "course_title": "Arabic Composition And Conversation",
+      "credits": "3.00",
+      "description": "Designed to improve students' spoken and written command of Arabic. Discussions, oral reports, and writing assignments include topics in Arabic civilizations and cultural history. Conducted mainly in Arabic. Prerequisite AR 202.",
+      "institution": "Virginia Military Institute"
+    },
+    {
+      "course_id": "AR 302",
+      "course_title": "Arabic Composition And Conversation",
+      "credits": "3.00",
+      "description": "A continuation of AR 301. Prerequisite: AR 301.",
+      "institution": "Virginia Military Institute"
+    },
+    {
+      "course_id": "AR 314",
+      "course_title": "Arabic Civilizations And Cultures",
+      "credits": "3.00",
+      "description": "A survey of the history, literature, educational systems and values of the Arab Word. The course will be based on readings from contemporary sources: Short stories, magazines, newspapers, literary works and legal documents. The course is designed to build on the reading and writing skills of AR 301 and AR 302. It is also intended to enhance cadets' cultural awareness of contemporary issues, which affect the Arabic speaking world and the United States. Prerequisite: AR 301, AR 302.",
+      "institution": "Virginia Military Institute"
+    },
+    {
+      "course_id": "AR 315",
+      "course_title": "Arabic For The Media",
+      "credits": "3.00",
+      "description": "Emphasizes written and aural comprehension of Arabic media (newspapers, journals, radio and television, news broadcasts, and documentaries). The goal is to introduce and consolidate lexical items which commonly occur in the media and in economic and scientific texts. The principal language of instruction is Arabic. Prerequisite: AR 301 and AR 302.",
+      "institution": "Virginia Military Institute"
+    },
+    {
+      "course_id": "AR 316",
+      "course_title": "Topics in Arabic",
+      "credits": "3.00",
+      "description": "Information and discussion of diverse topics from the Arabic-speaking world. The principal language of instruction is Arabic. Prerequisite: AR 301 and AR 302.",
+      "institution": "Virginia Military Institute"
+    },
+    {
+      "course_id": "AR 405",
+      "course_title": "Independent Readings",
+      "credits": "3.00",
+      "description": "Directed readings of major literary works. Conducted almost exclusively in Arabic. Prerequisite: Completion of at least 9 hours beyond AR 202 or permission of the instructor and department head.",
+      "institution": "Virginia Military Institute"
+    }
+  ],
+  "timestamp": "2025-08-10T06:17:07.355317"
+}

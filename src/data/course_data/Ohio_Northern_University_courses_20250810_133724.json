@@ -1,0 +1,74 @@
+{
+  "search_query": {
+    "institution": "Ohio Northern University",
+    "successful_variation": "Ohio Northern Univ",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Ohio+Northern+Univ&distance=5"
+  },
+  "total_results": 9,
+  "courses": [
+    {
+      "course_id": "AASG 001",
+      "course_title": "Medical Sciences Orientation",
+      "credits": "1.00",
+      "description": "Provides familiarity with general requirements and admissions standards for entry into colleges of medicine, dentistry, veterinary medicine, etc. Open to students interested in preparing for a career in these areas. CREDIT EARNED DOES NOT SATISFY GRADUATION REQUIREMENTS FOR ANY PROGRAM OFFERED AT THE UNIVERSITY. Graded S/U.",
+      "institution": "Ohio Northern University"
+    },
+    {
+      "course_id": "AASG 002",
+      "course_title": "Prelaw Orientation",
+      "credits": "1.00",
+      "description": "Provides familiarity with general requirements and admissions standards for entry into law school and with opportunities in the legal profession. CREDIT EARNED DOES NOT SATISFY GRADUATION REQUIREMENTS FOR ANY PROGRAM OFFERED AT THE UNIVERSITY. Graded S/U.",
+      "institution": "Ohio Northern University"
+    },
+    {
+      "course_id": "AASG 003",
+      "course_title": "General Science Orientation",
+      "credits": "1.00",
+      "description": "Examination of science-based majors and/or programs available at Ohio Northern University. Information to assist in making career choices. CREDIT EARNED DOES NOT SATISFY GRADUATION REQUIREMENTS FOR ANY PROGRAM OFFERED AT THE UNIVERSITY. Graded S/U.",
+      "institution": "Ohio Northern University"
+    },
+    {
+      "course_id": "AASG 005",
+      "course_title": "Basic Reading Skills",
+      "credits": "2.00",
+      "description": "Designed to increase reading proficiency by focusing on comprehension, vocabulary, reading speed, and study skills. CREDIT EARNED DOES NOT SATISFY GRADUATION REQUIREMENTS FOR ANY PROGRAM OFFERED AT THE UNIVERSITY. Prerequisite: Reading ACT score of 18 or below.",
+      "institution": "Ohio Northern University"
+    },
+    {
+      "course_id": "AASG 010",
+      "course_title": "Study Skills",
+      "credits": "2.00",
+      "description": "To increase study efficiency by emphasizing improvement in motivation, concentration and memory. Attention is also given to selected study skills including time-management, listening, note taking, reading comprehension and testing. CREDIT EARNED DOES NOT SATISFY GRADUATION REQUIREMENTS FOR ANY PROGRAM OFFERED AT THE UNIVERSITY. Open to freshmen and sophomores only.",
+      "institution": "Ohio Northern University"
+    },
+    {
+      "course_id": "AASG 011",
+      "course_title": "College Reading Skills",
+      "credits": "2.00",
+      "description": "To increase student reading efficiency of college textbooks by emphasizing improvement in student reading comprehension, reading speed and vocabulary. In addition to the weekly class meeting, this course includes two weekly reading labs. CREDIT EARNED IN THIS COURSE DOES NOT SATISFY GRADUATION REQUIREMENTS FOR ANY PROGRAM OFFERED AT THE UNIVERSITY.",
+      "institution": "Ohio Northern University"
+    },
+    {
+      "course_id": "AASG 012",
+      "course_title": "Stress Management And Effective Living",
+      "credits": "1.00",
+      "description": "To provide an opportunity to learn and adopt stress management skills that will enable leading more productive and satisfying lives. CREDIT EARNED DOES NOT SATISFY GRADUATION REQUIREMENTS FOR ANY PROGRAM OFFERED AT THE UNIVERSITY.",
+      "institution": "Ohio Northern University"
+    },
+    {
+      "course_id": "AASG 100",
+      "course_title": "First Year Experience",
+      "credits": "2.00",
+      "description": "Engagement of students in the university community through introductions to the academic, social, and cultural opportunities available. Communication and analytical thinking skills will be emphasized via a variety of reading and writing assignments. A course fee will be charged.",
+      "institution": "Ohio Northern University"
+    },
+    {
+      "course_id": "AASG 110",
+      "course_title": "Publication Activities Practicum",
+      "credits": "1.00",
+      "description": "Participation in design, photography, writing, and producing the Ohio Northern yearbook. May be repeated to a maximum of 12 hours. Graded S/U.",
+      "institution": "Ohio Northern University"
+    }
+  ],
+  "timestamp": "2025-08-10T13:37:24.093518"
+}

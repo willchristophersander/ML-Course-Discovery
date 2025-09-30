@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Southern University at Shreveport",
+    "successful_variation": "Southern University at Shreveport",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Southern+University+at+Shreveport&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACCT 160",
+      "course_title": "Introduction to Accounting",
+      "credits": "3.00",
+      "description": "A survey course of the bookkeeping and accounting process. This course places emphasis on gathering, analyzing, classifying and reporting financial data. (This course was discontinued, effective 2008 Fall)",
+      "institution": "Southern University at Shreveport"
+    },
+    {
+      "course_id": "ACCT 200",
+      "course_title": "Principles of Accounting I",
+      "credits": "3.00",
+      "description": "The principles of accounting, theory of debits and credits, financial statement analysis, and financial statement preparation will be studied.",
+      "institution": "Southern University at Shreveport"
+    },
+    {
+      "course_id": "ACCT 201",
+      "course_title": "Principles of Accounting II",
+      "credits": "3.00",
+      "description": "The preparation of financial statements and their analysis using external and internal financial data with a focus on partnerships and corporations will be studied in this course. This course also covers the use of financial data in managerial decision-making. Prerequisite: ACCT 200.",
+      "institution": "Southern University at Shreveport"
+    },
+    {
+      "course_id": "ACCT 220",
+      "course_title": "Computerized Accounting",
+      "credits": "3.00",
+      "description": "This course applies the elements of accounting principles and methods in a computerized environment. This course emphasizes the use of professional accounting software packages such as: Peachtree and Quick Books. The students will apply the complete accounting cycle in a computer environment. Students are required to complete projects in: Merchandising, Job Costing, Payroll, and Service Accounting. Prerequisite: ACCT 200.",
+      "institution": "Southern University at Shreveport"
+    },
+    {
+      "course_id": "ACCT 250",
+      "course_title": "Intermediate Accounting",
+      "credits": "3.00",
+      "description": "This course includes advanced training in the preparation and interpretation of financial statements with individual analysis of their various components. (This course was discontinued, effective 2008 Fall).",
+      "institution": "Southern University at Shreveport"
+    },
+    {
+      "course_id": "ACCT 254",
+      "course_title": "Nonprofit Accounting",
+      "credits": "3.00",
+      "description": "This course is an introduction to the accounting and reporting principles, standards, and procedures applicable to federal, state, and local government. It also includes nonprofit institutions, such as hospitals, faith-based initiatives, and universities. COURSE REPLACEMENT: This course will replace Managerial Accounting ACCT 255 (Effective, 2008 Fall)",
+      "institution": "Southern University at Shreveport"
+    },
+    {
+      "course_id": "ACCT 255",
+      "course_title": "Managerial Accounting",
+      "credits": "3.00",
+      "description": "This course provides a survey of managerial accounting theory and the application of those principles. It covers the relationship between managerial and financial accounting. The student will learn about the organizational role of management accountants in the management process. The course will cover the basic cost terms and applies them within a job order and a process cost system, cost volume analysis, budgeting, performance evaluation, pricing, and capitol investment analysis will also be addressed. Prerequisite: ACCT 201 (This course is replaced by ACCT 254 Nonprofit Accounting, effective 2008 Fall)",
+      "institution": "Southern University at Shreveport"
+    },
+    {
+      "course_id": "ACCT 261",
+      "course_title": "Individual Income Tax",
+      "credits": "3.00",
+      "description": "This course covers the tax concepts that affect most individuals-gross income, adjustments, itemized deductions, personal exemptions, capital gains and losses, passive activities, the individual tax computations and credits. Preparation of taxes will be performed utilizing the 1040EZ, 1040A, 1040, tax forms and/or tax software. COURSE REPLACEMENT: This course will replace ACCT 262 - Tax Accounting, effective 2008 Fall)",
+      "institution": "Southern University at Shreveport"
+    },
+    {
+      "course_id": "ACCT 262",
+      "course_title": "Tax Accounting",
+      "credits": "3.00",
+      "description": "This is a survey course that includes the elements of the federal and state tax structure, existing tax laws and preparation of tax returns for individuals, partnerships and corporations. (This course is replaced by ACCT 261 - Individual Income Tax, effective Fall 2008) Prerequisites: ACCT 200 and 201.",
+      "institution": "Southern University at Shreveport"
+    },
+    {
+      "course_id": "ACCT 263",
+      "course_title": "Income Tax-Corporations and Partnerships",
+      "credits": "3.00",
+      "description": "This course continues the study of tax accounting with the primary emphasis on Federal Income Tax Laws and Regulations relating to Corporations, S Corporations and Partnerships. The course will specifically focus on tax research, planning and familiarization with tax forms and their preparation for corporations and partnerships. COURSE REPLACEMENT: This course will replace ACCT 250 - Intermediate Accounting Prerequisite: ACCT 262 Individual Income Tax.",
+      "institution": "Southern University at Shreveport"
+    }
+  ],
+  "timestamp": "2025-08-11T00:07:29.980103"
+}

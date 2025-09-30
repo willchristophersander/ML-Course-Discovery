@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Owens Community College",
+    "successful_variation": "Owens Community College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Owens+Community+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACC 100",
+      "course_title": "Accounting for Small Business",
+      "credits": "3.00",
+      "description": "Presents practical accounting procedures for small business operations including service occupations, retail stores and manufacturing operations. Covers the accounting cycle, journals, ledgers, preparation of financial statements and payrolls, and checking account management. Includes regulations applicable to payroll, self-employment, social security, and other taxes.",
+      "institution": "Owens Community College"
+    },
+    {
+      "course_id": "ACC 101",
+      "course_title": "Introductory Financial Acct",
+      "credits": "3.00",
+      "description": "Introduces financial, accounting terms, concepts and systems. Includes the accounting cycle, merchandise accounting and financial statement analysis.",
+      "institution": "Owens Community College"
+    },
+    {
+      "course_id": "ACC 102",
+      "course_title": "Introductory Managerial Acct",
+      "credits": "3.00",
+      "description": "Introduces managerial accounting terms, concepts and systems.Includes corporate accounting, manufacturing accounting, cost-volume-profit analysis, budgeting, relevant costing and capital expenditure analysis. Prerequisite: ACC101",
+      "institution": "Owens Community College"
+    },
+    {
+      "course_id": "ACC 140",
+      "course_title": "Federal Tax Accounting I",
+      "credits": "3.00",
+      "description": "Surveys income tax laws and regulations pertaining to individuals. Covers tax return preparation and tax planning Prerequisite: ACC 101",
+      "institution": "Owens Community College"
+    },
+    {
+      "course_id": "ACC 150",
+      "course_title": "Payroll Accounting",
+      "credits": "3.00",
+      "description": "This payroll course is focused on fundamental payroll accounting. This course covers the following topics; payroll record keeping regulations, computations of wages, employee withholdings, employer payroll taxes and regulatory agency reporting requirements. The student will complete a comprehensive payroll project. Prerequisite: ACC 101",
+      "institution": "Owens Community College"
+    },
+    {
+      "course_id": "ACC 203",
+      "course_title": "Cost and Managerial Accounting",
+      "credits": "4.00",
+      "description": "In-depth study of cost accounting examines manufacturing costing, job order costing, process costing and internal control. Covers advanced managerial accounting, including cost behavior, cost allocation, cost-volume-profit relationships, profit planning, standard costing, relevant cost and capital budgeting. Prerequisite: ACC 102",
+      "institution": "Owens Community College"
+    },
+    {
+      "course_id": "ACC 220",
+      "course_title": "Intermediate Accounting I",
+      "credits": "3.00",
+      "description": "Expands upon topics discussed in ACC101 and ACC102. Examines Generally Accepted Accounting Principles (GAAP) in the preparation of financial statements, and reviews accounting concepts, principles and essentials of the accounting process. Prerequisite: ACC 101",
+      "institution": "Owens Community College"
+    },
+    {
+      "course_id": "ACC 221",
+      "course_title": "Intermediate Accounting II",
+      "credits": "3.00",
+      "description": "A further study of the topics facing today's accountant. The student learns corporate accounting for long-term assets accounting for liabilities and statement of cash flows. Prerequisite: ACC 220",
+      "institution": "Owens Community College"
+    },
+    {
+      "course_id": "ACC 230",
+      "course_title": "Auditing",
+      "credits": "3.00",
+      "description": "Introduces the basic concepts and principles of auditing. Emphasizes auditing standards, statistical techniques, and the procedures involved in carrying out an actual audit. Case studies will be incorporated into the course. Prerequisite: ACC 220",
+      "institution": "Owens Community College"
+    },
+    {
+      "course_id": "ACC 239",
+      "course_title": "Quickbooks",
+      "credits": "3.00",
+      "description": "Introduces Quickbooks commercial accounting software in a hands-on environment. Topics include: general ledger, receivables, payables, inventory, payroll, and importing and exporting accounting applications. Prerequisite: ACC100 or ACC 101 and IST100 or IST 131",
+      "institution": "Owens Community College"
+    }
+  ],
+  "timestamp": "2025-08-26T13:28:19.315081"
+}

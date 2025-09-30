@@ -1,0 +1,81 @@
+{
+  "search_query": {
+    "institution": "Southern Crescent Technical College",
+    "successful_variation": "Southern Crescent Technical College",
+    "url": "https://www.collegetransfer.net/Search/Search-for-Courses/Course-Search-Results?instnm=Southern+Crescent+Technical+College&distance=5"
+  },
+  "total_results": 10,
+  "courses": [
+    {
+      "course_id": "ACC 152",
+      "course_title": "Payroll Accounting",
+      "credits": "4.00",
+      "description": "(Prerequisite: ACC 101) Provides an understanding of the laws that affect a company's payroll structure and practical application skills in maintaining payroll records. Topics include: payroll tax laws, payroll tax forms, payroll and personnel records, computing wages and salaries, taxes affecting employees and employers, and analyzing and journalizing payroll transactions.",
+      "institution": "Southern Crescent Technical College"
+    },
+    {
+      "course_id": "ACC 154",
+      "course_title": "Personal Finance",
+      "credits": "5.00",
+      "description": "Introduces practical applications of concepts and tech niques used to manage personal finance. Topics include: cash management, time value of money, credit, major purchasing decisions, insurance, investments, retirement, and estate planning.",
+      "institution": "Southern Crescent Technical College"
+    },
+    {
+      "course_id": "ACC 155",
+      "course_title": "Legal Environment of Business",
+      "credits": "5.00",
+      "description": "(Prerequisite: Program admission) Introduces law and its relationship to business. Topics include: legal ethics, legal processes, business contracts, business torts and crimes, real and personal property, agency and employment, risk-bearing devices, and uniform commercial code.",
+      "institution": "Southern Crescent Technical College"
+    },
+    {
+      "course_id": "ACC 156",
+      "course_title": "Business Tax Accounting",
+      "credits": "4.00",
+      "description": "(Pre/Corequisite: ACC 101, ACC 151) Provides instruc tion for preparation of both state and federal partnership, corporation and other business tax returns. Topics include: organization form, overview of taxation of partnership, special partnership issues, corporate tax elections, adjust ments to income and expenses, tax elections, forms and schedules, tax credits, reconciliation of book and tax income, tax depreciation methods, and tax calculations.",
+      "institution": "Southern Crescent Technical College"
+    },
+    {
+      "course_id": "ACC 157",
+      "course_title": "Integrated Accounting Management Systems",
+      "credits": "6.00",
+      "description": "(Prerequisite: ACC 106, ACC 103, ACC 104, SCT 100) Emphasizes use of database management packages, elec tronic spreadsheet packages, and accounting software packages for accounting/financial applications with more advanced systems. Topics include: creation and manage ment of database applications, creation and management of spreadsheet applications, and creation and management of accounting integrated software systems.",
+      "institution": "Southern Crescent Technical College"
+    },
+    {
+      "course_id": "ACC 158",
+      "course_title": "Managerial Accounting",
+      "credits": "6.00",
+      "description": "(Pre/Corequisite: ACC 103) Emphasizes the interpretation of data by management in planning and controlling busi ness activities. Topics include: budgeting, capital invest ment decisions, price level and foreign exchange, analysis of financial statements, and internal reporting.",
+      "institution": "Southern Crescent Technical College"
+    },
+    {
+      "course_id": "ACC 159",
+      "course_title": "Accounting Simulation",
+      "credits": "5.00",
+      "description": "(Prerequisite: ACC 103, ACC 104, ACC 106, SCT 100) Develops skills for the potential accountant to effectively prepare financial statement for presentations and income tax returns. Emphasis is placed on providing students with opportunities for application and demonstration of skills associated with automated accounting. Topics include: financial statement preparations, accounting system instal lations, automated accounting work sheet preparations, automated accounting income tax return preparations, and job search planning.",
+      "institution": "Southern Crescent Technical College"
+    },
+    {
+      "course_id": "ACC 160",
+      "course_title": "Advanced Accounting Spreadsheet Applications",
+      "credits": "5.00",
+      "description": "(Prerequisite: ACC 106 or BUS 202) Provides the fun damentals, intermediate, and advanced Microsoft Excel competencies to provide user with the skills to obtain the expert user certification. Topics include: spreadsheet creation, financial statements, forecast, amortization schedules, workgroup editing and advanced features such as macros, using charts, importing and exporting data, HTML creation, formulas, Web queries, built-in functions, templates, and trends and relationships.",
+      "institution": "Southern Crescent Technical College"
+    },
+    {
+      "course_id": "ACR 100",
+      "course_title": "Safety",
+      "credits": "1.00",
+      "description": "(Prerequisite: Provisional admission) Provides instruction in procedures and practices necessary for safe operation of automotive collision repair facilities. Topics include: work facility safety, work facility cleanliness, safety devices, fire prevention and safety, and environmental safety.",
+      "institution": "Southern Crescent Technical College"
+    },
+    {
+      "course_id": "ACR 101",
+      "course_title": "Automobile Components Identification",
+      "credits": "3.00",
+      "description": "(Prerequisite/Corequisite: Provisional admission, ACR 100) Introduces the structural configuration and identifi cation of the structural members of various automotive unibodies and frames. Topics include: unibody construc tion, frame types, stub frame types, body panels, and me chanical components.",
+      "institution": "Southern Crescent Technical College"
+    }
+  ],
+  "timestamp": "2025-08-10T14:39:25.872301"
+}
