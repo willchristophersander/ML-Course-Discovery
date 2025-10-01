@@ -1,0 +1,32 @@
+{
+  "processed_at": "2025-10-01T02:23:14.976194+00:00",
+  "datasets": [
+    {
+      "dataset_name": "alpha_vantage_AAPL",
+      "source": "alpha_vantage",
+      "records": 100,
+      "earliest_timestamp": "2025-05-08T00:00:00+00:00",
+      "latest_timestamp": "2025-09-30T00:00:00+00:00",
+      "issues": []
+    },
+    {
+      "dataset_name": "alpha_vantage_MSFT",
+      "source": "alpha_vantage",
+      "records": 100,
+      "earliest_timestamp": "2025-05-08T00:00:00+00:00",
+      "latest_timestamp": "2025-09-30T00:00:00+00:00",
+      "issues": []
+    },
+    {
+      "dataset_name": "fred_CPIAUCSL",
+      "source": "fred",
+      "records": 944,
+      "earliest_timestamp": "1947-01-01T00:00:00+00:00",
+      "latest_timestamp": "2025-08-01T00:00:00+00:00",
+      "issues": [
+        "Data older than threshold (1466.4h > 48h)"
+      ]
+    }
+  ],
+  "total_records": 1144
+}

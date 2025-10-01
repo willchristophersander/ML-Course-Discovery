@@ -1,0 +1,33 @@
+{
+  "api_sources": {
+    "alpha_vantage": {
+      "enabled": true,
+      "base_url": "https://www.alphavantage.co/query",
+      "function": "TIME_SERIES_DAILY",
+      "symbols": ["AAPL", "MSFT"],
+      "api_key_env": "ALPHAVANTAGE_API_KEY"
+    },
+    "fred": {
+      "enabled": true,
+      "base_url": "https://api.stlouisfed.org/fred/series/observations",
+      "series_id": "CPIAUCSL",
+      "api_key_env": "FRED_API_KEY"
+    }
+  },
+  "collection": {
+    "request_delay_seconds": 12,
+    "max_retries": 3,
+    "retry_backoff_factor": 2,
+    "target_timezone": "UTC"
+  },
+  "quality": {
+    "freshness_days_threshold": 2,
+    "required_columns": ["timestamp", "value", "source"],
+    "completeness_threshold": 0.95
+  },
+  "storage": {
+    "raw_data_dir": "../data/raw",
+    "processed_data_dir": "../data/processed",
+    "metadata_dir": "../data/metadata"
+  }
+}
