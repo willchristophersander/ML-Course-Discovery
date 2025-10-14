@@ -1,6 +1,6 @@
 # AppleAppSander - ML Course Catalog Finder
 
-A machine learning system for discovering course search pages from college catalog pages using multi-model classification and Playwright-powered navigation.
+A machine learning system for discovering course search pages from college catalog pages using multi-model classification and Playwright-powered navigation. An introductory project to machine learning I pursued in my freetime -- as I learn more I plan to comeback to this project and implement what I've learned since.
 
 ##  Project Structure
 
